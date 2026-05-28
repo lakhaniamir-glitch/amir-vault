@@ -1,0 +1,268 @@
+---
+template: Shipping Policy
+shopify-handle: shipping
+url: /pages/shipping
+purpose: Free U.S. shipping policy, processing windows, Protection Plan price table
+updated: 2026-05-17
+---
+
+# Shipping - Page Rewrite
+
+**Paste into:** Shopify Admin -> Online Store -> Pages -> Shipping -> click `<>` button -> Select All -> Paste -> Save
+
+**Note:** This block paste-ready. Style block (`_style-block.html`) must already be live on the page, or use the master style block from `(C) CODE - Page Style Block.md` if you maintain that separately.
+
+```html
+<!--
+  Aydins - Shipping Policy
+  Slug: /pages/shipping
+  PASTE _style-block.html FIRST.
+  Created: 2026-05-17 - written to V5 editorial standard, no em dashes (locked rule 2026-05-15).
+  Source: (C) Aydins Policies - Source of Truth.md
+-->
+<div class="aydins-page">
+
+  <section class="apg-hero">
+    <div class="apg-container">
+      <div class="apg-hero-grid">
+        <div class="apg-hero-text">
+          <span class="apg-eyebrow">Shipping</span>
+          <h1>Free U.S. shipping. <em>Every order.</em></h1>
+          <p class="apg-hero-sub">No minimum. No upsell. Every Aydins ring ships free to anywhere in the United States. Most orders leave our workshop in Irving, Texas within 1 to 3 business days, free engraving included. Optional <strong>Aydins Protection Plan</strong> available at checkout covers your shipment against loss, damage, and theft for six months.</p>
+          <a class="apg-btn-primary" href="/collections/all">Shop Wedding Bands</a>
+        </div>
+        <div class="apg-hero-image">
+          <img src="https://shopaydins.com/cdn/shop/files/Return_Exchange_image.jpg" alt="Aydins Jewelry workshop in Irving, Texas, wedding band ready for shipment">
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="apg-section">
+    <div class="apg-container">
+      <div class="apg-tldr">
+        <p><strong>The short version:</strong> Free U.S. shipping on every order, no threshold. Most orders ship in <strong>1 to 3 business days</strong> from our Irving, Texas workshop. Tracking emailed at handoff. Optional <strong>Aydins Protection Plan</strong> (paid add-on at checkout, $9.75 to $99.75 by cart total) covers loss, damage, and theft for six months. We currently ship within the United States only.</p>
+      </div>
+      <div class="apg-trust">
+        <div class="apg-trust-item"><h3>Free U.S. Shipping</h3><p>No minimum, every order</p></div>
+        <div class="apg-trust-item"><h3>1 to 3 Day Processing</h3><p>Most orders ship inside 3 business days</p></div>
+        <div class="apg-trust-item"><h3>Tracked</h3><p>Tracking emailed when the ring leaves the workshop</p></div>
+        <div class="apg-trust-item"><h3>Protection Plan</h3><p>Optional add-on at checkout</p></div>
+      </div>
+    </div>
+  </section>
+
+  <section class="apg-section">
+    <div class="apg-container">
+      <span class="apg-eyebrow">Processing</span>
+      <h2>From order to handoff. <em>One to three business days.</em></h2>
+      <p style="max-width:760px;font-size:17px;line-height:1.7;">Every ring is finished, engraved (if requested), and quality-checked in our Irving, Texas workshop before it ships. Most orders are ready to hand to the carrier within 1 to 3 business days of payment. Business days are Monday through Friday, excluding U.S. holidays.</p>
+      <p style="max-width:760px;font-size:17px;line-height:1.7;">Once your ring leaves the workshop, you will receive a confirmation email with the carrier and tracking number. Track the shipment from there.</p>
+      <p style="max-width:760px;font-size:13px;color:var(--charcoal);margin-top:8px;">Large custom orders, multi-piece orders, and rings requiring special metalwork may take longer. If your order needs extra time, we will email you with an updated estimate before processing begins.</p>
+    </div>
+  </section>
+
+  <section class="apg-section apg-cream">
+    <div class="apg-container">
+      <span class="apg-eyebrow">Cost &amp; coverage</span>
+      <h2>Shipping is on us. <em>Always.</em></h2>
+      <table class="apg-table">
+        <thead>
+          <tr><th>Order destination</th><th>Cost</th><th>Carrier</th></tr>
+        </thead>
+        <tbody>
+          <tr><td>All 50 U.S. states</td><td><strong>Free</strong></td><td>FedEx (signature on delivery may apply on higher-value orders)</td></tr>
+          <tr><td>APO / FPO / DPO military addresses</td><td>Free (contact us first)</td><td>USPS via APO routing</td></tr>
+          <tr><td>U.S. territories (PR, GU, VI)</td><td>Free (contact us first)</td><td>USPS</td></tr>
+          <tr><td>International</td><td>Not currently offered</td><td>n/a</td></tr>
+        </tbody>
+      </table>
+      <p style="max-width:760px;margin-top:8px;font-size:13px;color:var(--charcoal);">For APO/FPO/DPO and U.S. territory orders, email <a class="apg-link" href="mailto:sales@shopaydins.com">sales@shopaydins.com</a> with your order so we can confirm routing.</p>
+    </div>
+  </section>
+
+  <section class="apg-section">
+    <div class="apg-container">
+      <span class="apg-eyebrow">Aydins Protection Plan, optional add-on</span>
+      <h2>Loss, damage, theft. <em>Covered for six months.</em></h2>
+      <div class="apg-split">
+        <div>
+          <p style="font-size:17px;line-height:1.7;">The Aydins Protection Plan is a purchasable add-on you can select at checkout. It is optional, not included by default. Add it to your order and we cover your shipment against three things for six months from delivery:</p>
+          <ul class="apg-list">
+            <li><strong>Shipping loss.</strong> Package never arrives. Confirmed non-delivery from FedEx.</li>
+            <li><strong>Shipping damage.</strong> Package arrives damaged. Return the ring for inspection, we send a replacement.</li>
+            <li><strong>Theft.</strong> FedEx confirms delivery to your address but the ring is stolen. Requires FedEx proof of delivery.</li>
+          </ul>
+          <p style="font-size:13px;color:var(--charcoal);">Without the Plan, lost, damaged, or stolen packages are handled case by case and may not be replaced free of charge. The Plan also waives the $34.50 engraved-sizing fee on one engraved-ring sizing exchange within 30 days. Read the full terms on the <a class="apg-link" href="/pages/aydins-protection-plan-terms-conditions">Aydins Protection Plan</a> page.</p>
+        </div>
+        <div>
+          <h3>Plan price by cart total</h3>
+          <table class="apg-table">
+            <thead><tr><th>Cart total</th><th>Plan price</th></tr></thead>
+            <tbody>
+              <tr><td>$0 to $50</td><td>$9.75</td></tr>
+              <tr><td>$50 to $100</td><td>$19.75</td></tr>
+              <tr><td>$100 to $499</td><td>$29.75</td></tr>
+              <tr><td>$499 to $749</td><td>$49.75</td></tr>
+              <tr><td>$749+</td><td>$99.75</td></tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="apg-section apg-cream">
+    <div class="apg-container">
+      <span class="apg-eyebrow">What to expect</span>
+      <h2>Three updates. <em>From checkout to delivery.</em></h2>
+      <div class="apg-steps">
+        <div class="apg-step">
+          <span class="apg-num">01</span>
+          <h3>Order confirmation</h3>
+          <p>Sent right after checkout. Confirms what you ordered, the engraving (if any), and your shipping address.</p>
+        </div>
+        <div class="apg-step">
+          <span class="apg-num">02</span>
+          <h3>Shipping confirmation</h3>
+          <p>Sent when your ring leaves Irving, Texas. Includes the carrier, tracking number, and a link to track delivery.</p>
+        </div>
+        <div class="apg-step">
+          <span class="apg-num">03</span>
+          <h3>Delivery</h3>
+          <p>FedEx delivers to the address on your order. Higher-value orders may require a signature.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="apg-section">
+    <div class="apg-container">
+      <span class="apg-eyebrow">Common questions</span>
+      <h2>Shipping, <em>answered</em>.</h2>
+      <div class="apg-faq-list">
+        <div class="apg-faq-item">
+          <h3>How fast will my ring arrive?</h3>
+          <p>Most orders are finished and shipped within 1 to 3 business days. Carrier transit on top of that depends on your address. Standard FedEx ground from Irving, Texas usually arrives in 2 to 5 business days, but transit time is not guaranteed. If you have a specific date you need the ring by (wedding, anniversary, surprise), email <a class="apg-link" href="mailto:sales@shopaydins.com">sales@shopaydins.com</a> with your order and we will tell you exactly what is possible.</p>
+        </div>
+        <div class="apg-faq-item">
+          <h3>How much does shipping cost?</h3>
+          <p>Zero. Free U.S. shipping on every order, no minimum, no upsell.</p>
+        </div>
+        <div class="apg-faq-item">
+          <h3>Do you ship internationally?</h3>
+          <p>Not at this time. We currently ship only to U.S. addresses, including APO/FPO/DPO military addresses and U.S. territories (Puerto Rico, Guam, U.S. Virgin Islands). For military or territory orders, please email us first so we can confirm routing.</p>
+        </div>
+        <div class="apg-faq-item">
+          <h3>What if my package is lost, damaged, or stolen?</h3>
+          <p>If you purchased the <a class="apg-link" href="/pages/aydins-protection-plan-terms-conditions">Aydins Protection Plan</a> at checkout, your shipment is covered against loss, damage, and theft for 6 months. We replace the ring at no charge. Without the Plan, we handle these cases individually and we work with the carrier first. Free replacement is not guaranteed without the Plan.</p>
+        </div>
+        <div class="apg-faq-item">
+          <h3>Will I need to sign for delivery?</h3>
+          <p>Higher-value orders may require a signature on delivery. If a signature is required, FedEx will note it on the tracking page. For standard orders, no signature is needed.</p>
+        </div>
+        <div class="apg-faq-item">
+          <h3>Can I change my shipping address after I order?</h3>
+          <p>Yes, as long as the ring has not shipped yet. Reply to your order confirmation email or contact <a class="apg-link" href="mailto:sales@shopaydins.com">sales@shopaydins.com</a> with the new address. Once the ring has shipped, address changes go through FedEx and we cannot guarantee they will be honored.</p>
+        </div>
+        <div class="apg-faq-item">
+          <h3>Where do you ship from?</h3>
+          <p>Our workshop is in Irving, Texas. Every ring is finished, engraved, and quality-checked there before it leaves.</p>
+        </div>
+        <div class="apg-faq-item">
+          <h3>How is shipping related to returns and exchanges?</h3>
+          <p>Two separate shipping legs. On a <a class="apg-link" href="/pages/returns-exchanges">return or standard exchange</a>, the customer covers shipping back to us. On any replacement we send out (exchange, sizing, warranty), Aydins covers the outbound shipping to you.</p>
+        </div>
+      </div>
+
+      <div class="apg-byline">
+        <div class="apg-byline-text">
+          <strong>Aydins Customer Service Team</strong>
+          Engraving, shipping, and standing behind every ring from our workshop in Irving, Texas since 2011.
+        </div>
+      </div>
+      <p class="apg-updated" style="margin-top:12px;">Updated: May 2026</p>
+    </div>
+  </section>
+
+  <section class="apg-cta-band">
+    <div class="apg-container">
+      <h2>Ready to find <em>your ring</em>?</h2>
+      <p>Free engraving. Free U.S. shipping. Aydins Lifetime Warranty included on every order.</p>
+      <a class="apg-btn-primary" href="/collections/all">Shop Wedding Bands</a>
+    </div>
+  </section>
+
+  <section class="apg-help">
+    <div class="apg-container">
+      <p>Questions about your specific order? Email <a class="apg-link" href="mailto:sales@shopaydins.com">sales@shopaydins.com</a> or call <a class="apg-link" href="tel:18002147345">1-800-214-7345</a>.</p>
+    </div>
+  </section>
+
+</div>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How fast will my Aydins ring arrive?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most orders are finished and shipped within 1 to 3 business days. Standard FedEx ground from Irving, Texas usually arrives in 2 to 5 business days, though transit time is not guaranteed."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How much does shipping cost?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Shipping is free on every order to U.S. addresses. No minimum and no upsell."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Does Aydins ship internationally?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Not at this time. Aydins ships only within the United States, including APO/FPO/DPO military addresses and U.S. territories (Puerto Rico, Guam, U.S. Virgin Islands)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What if my package is lost, damaged, or stolen?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If the optional Aydins Protection Plan was added at checkout, the shipment is covered for loss, damage, and theft for 6 months and the ring is replaced free of charge. Without the Plan, claims are handled case by case and free replacement is not guaranteed."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Will I need to sign for delivery?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Higher-value orders may require a signature on delivery. FedEx notes signature requirements on the tracking page. Standard orders do not require a signature."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I change my shipping address after I order?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, as long as the order has not shipped yet. Reply to the order confirmation email or contact sales@shopaydins.com with the new address. Once shipped, address changes go through FedEx and are not guaranteed."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Where does Aydins ship from?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "All Aydins rings ship from our workshop in Irving, Texas, where every ring is finished, engraved, and quality-checked before it leaves."
+      }
+    }
+  ]
+}
+</script>
+```

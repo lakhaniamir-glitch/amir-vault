@@ -1,0 +1,93 @@
+---
+template: Aydins Protection Plan Terms & Conditions
+shopify-handle: aydins-protection-plan-terms-conditions
+url: /pages/aydins-protection-plan-terms-conditions
+purpose: Paid protection plan T&Cs (upsell at checkout)
+updated: 2026-05-17
+---
+
+# Aydins Protection Plan T&C - Page Rewrite
+
+**Paste into:** Shopify Admin -> Online Store -> Pages -> Aydins Protection Plan Terms & Conditions -> click `<>` button -> Select All -> Paste -> Save
+
+```html
+<!--
+  Aydins, Protection Plan Terms & Conditions
+  Slug: /pages/aydins-protection-plan-terms-conditions
+  PASTE _style-block.html FIRST.
+  Updated: 2026-05-01, clinical legal terms; optional paid add-on; one-free-exchange-within-6-months when purchased.
+  Voice: precise, factual, no marketing language.
+-->
+<div class="aydins-page">
+
+  <section class="apg-hero">
+    <div class="apg-container">
+      <span class="apg-eyebrow">Legal Terms</span>
+      <h1>Aydins Protection Plan <em>Terms &amp; Conditions</em></h1>
+      <p class="apg-hero-sub" style="max-width:720px;">Effective May 1, 2026. The terms below govern the Aydins Protection Plan, an optional paid add-on available at checkout. Read together with the <a class="apg-link" href="/pages/returns-exchanges">Returns &amp; Exchanges</a> and <a class="apg-link" href="/pages/lifetime-sizing-lifetime-warranty">Lifetime Sizing &amp; Warranty</a> policies.</p>
+    </div>
+  </section>
+
+  <section class="apg-section">
+    <div class="apg-container">
+
+      <h2 style="margin-bottom:12px;">1. Scope</h2>
+      <p>1.1. The Aydins Protection Plan (&ldquo;the Plan&rdquo;) is an optional paid add-on offered for purchase at checkout in connection with an Aydins Jewelry ring. The Plan is not included by default. Coverage applies only to orders for which the Plan was purchased and paid for at the time the underlying ring was purchased.</p>
+      <p>1.2. The Plan applies only to the original Aydins ring against which it was purchased and to any replacement ring issued under the Plan. The Plan is not transferable to a third party or to an unrelated item.</p>
+      <p>1.3. The Plan is not insurance. It is a limited replacement and exchange benefit governed solely by these Terms.</p>
+
+      <h2 style="margin-top:48px;margin-bottom:12px;">2. Coverage Period</h2>
+      <p>2.1. For orders that include a purchased Plan, coverage begins on the date the ring is received by the customer (or, where the carrier confirms delivery to the address provided at checkout, the carrier-confirmed delivery date).</p>
+      <p>2.2. Plan coverage ends on the date six (6) months after the coverage start date defined in Section 2.1.</p>
+      <p>2.3. After the Plan coverage period ends, or for any order that does not include a purchased Plan, the standard <a class="apg-link" href="/pages/returns-exchanges">Returns &amp; Exchanges</a> and <a class="apg-link" href="/pages/lifetime-sizing-lifetime-warranty">Lifetime Sizing &amp; Warranty</a> fee schedules apply.</p>
+
+      <h2 style="margin-top:48px;margin-bottom:12px;">3. One Free Exchange (Plan Holders Only)</h2>
+      <p>3.1. Where the Plan has been purchased and the request falls within the coverage period defined in Section 2, the customer is entitled to <strong>one (1) free exchange</strong> of the original ring. For that single exchange, the standard exchange fees set forth in the Returns &amp; Exchanges policy are waived.</p>
+      <p>3.2. The free exchange may be used for a change of size, a change of style, or both, including for engraved or personalized rings. Engraving is carried over to the replacement ring at no additional charge, or new engraving may be specified at the time of exchange.</p>
+      <p>3.3. The free exchange entitlement is one (1) per Plan, per ring. After the free exchange has been used, additional exchanges revert to the standard fee schedule, regardless of any time remaining in the coverage period.</p>
+      <p>3.4. For exchanges to a ring of higher list price, the customer is responsible for the price difference at the time of exchange. For exchanges to a ring of lower list price, no refund of the price difference is issued; the difference may be taken as store credit at the customer&rsquo;s election.</p>
+      <p>3.5. The free exchange entitlement under the Plan covers items priced at one thousand dollars ($1,000) or more in full when used within the coverage period, that is, the 25% fee that would otherwise apply to such items under the standard exchange schedule is waived for the single free exchange. Outside the Plan, or after the free exchange entitlement has been used, the 25% fee on items priced $1,000 or more applies as set forth in the Returns &amp; Exchanges schedule.</p>
+      <p>3.6. Customers who did not purchase the Plan are governed solely by the standard <a class="apg-link" href="/pages/returns-exchanges">Returns &amp; Exchanges</a> and <a class="apg-link" href="/pages/lifetime-sizing-lifetime-warranty">Lifetime Sizing &amp; Warranty</a> policies.</p>
+
+      <h2 style="margin-top:48px;margin-bottom:12px;">4. Procedure</h2>
+      <p>4.1. To exercise the free exchange, the customer must have purchased the Plan with the original order and must initiate a request through <a class="apg-link" href="https://aydins.thunderreturns.com">aydins.thunderreturns.com</a> within the coverage period defined in Section 2.</p>
+      <p>4.2. The original ring must be returned to the Aydins facility in Irving, Texas before the replacement ring is dispatched. The original ring must be in inspectable condition.</p>
+      <p>4.3. The customer is responsible for return shipping of the original ring. Aydins is responsible for outbound shipping of the replacement ring within the contiguous United States. International outbound shipping is at the published international rates.</p>
+      <p>4.4. Replacement rings are typically produced and dispatched within five to seven (5&ndash;7) business days of receipt and inspection of the original ring.</p>
+
+      <h2 style="margin-top:48px;margin-bottom:12px;">5. Exclusions</h2>
+      <p>5.1. The Plan does not cover loss of the ring after delivery, including but not limited to loss in a public place, loss in transit while in the customer&rsquo;s possession, theft from the customer&rsquo;s residence or vehicle, or accidental disposal.</p>
+      <p>5.2. The Plan does not cover damage caused by intentional acts, including but not limited to crushing, cutting, drilling, soldering, exposure to fire or extreme heat, or chemical exposure outside ordinary daily wear.</p>
+      <p>5.3. The Plan does not cover modifications performed by any party other than Aydins Jewelry. Resizing, refinishing, soldering, or any alteration by a third-party jeweler voids both the Plan and the standard Lifetime Warranty.</p>
+      <p>5.4. The Plan does not cover normal cosmetic wear, including hairline scratches, surface dulling, or patina from daily use. Refinishing services are available at standard rates.</p>
+      <p>5.5. The Plan applies only to rings purchased directly from Aydins Jewelry through aydinsjewelry.com or shopaydins.com. Rings acquired through any third-party reseller or marketplace are not covered.</p>
+
+      <h2 style="margin-top:48px;margin-bottom:12px;">6. Relationship to Other Policies</h2>
+      <p>6.1. The Plan operates alongside, and does not replace, the standard <a class="apg-link" href="/pages/returns-exchanges">Returns &amp; Exchanges</a> policy and the <a class="apg-link" href="/pages/lifetime-sizing-lifetime-warranty">Lifetime Sizing &amp; Warranty</a>. For customers who did not purchase the Plan, those policies are the sole governing terms. For customers who did purchase the Plan, after the Plan&rsquo;s free exchange entitlement is used, or after the coverage period ends, those policies continue to govern.</p>
+      <p>6.2. Refunds requested in lieu of an exchange are subject to the Returns &amp; Exchanges policy, including the $25 restocking fee for standard items, the 25% restocking fee for items priced $1,000 or more, and the rule that engraved items are not eligible for refund.</p>
+      <p>6.3. Manufacturing defect claims are governed by the Lifetime Warranty (a distinct program from Lifetime Sizing) and follow that fee schedule: free in the first 6 months, $34.50 from 6&ndash;12 months, $54.50 after 12 months; items priced $1,000 or more carry a 25% surcharge at every tier. Lifetime Sizing covers fit changes for the original purchaser only and is governed by its own flat-fee schedule.</p>
+      <p>6.4. The 5% bonus on store-credit refunds described in the Returns &amp; Exchanges policy does not apply to free exchanges issued under this Plan, because no monetary refund is issued. The bonus applies only when a customer elects store credit in lieu of a refund to the original payment method.</p>
+
+      <h2 style="margin-top:48px;margin-bottom:12px;">7. Modifications and Severability</h2>
+      <p>7.1. Aydins Jewelry reserves the right to modify these Terms prospectively. Any modification will not apply to Plans whose coverage has already begun under prior Terms.</p>
+      <p>7.2. If any provision of these Terms is found to be unenforceable, the remaining provisions remain in full force.</p>
+      <p>7.3. These Terms are governed by the laws of the State of Texas, without regard to conflict-of-laws rules. Disputes shall be resolved in the state or federal courts located in Tarrant County, Texas, except where prohibited by applicable law.</p>
+
+      <h2 style="margin-top:48px;margin-bottom:12px;">8. Contact</h2>
+      <p>8.1. To open a claim, file an exchange request through <a class="apg-link" href="https://aydins.thunderreturns.com">aydins.thunderreturns.com</a>.</p>
+      <p>8.2. For questions about these Terms, contact Aydins Jewelry at <a class="apg-link" href="mailto:sales@shopaydins.com">sales@shopaydins.com</a> or 1-800-214-7345 (Monday&ndash;Friday, 9 AM&ndash;6 PM CT).</p>
+      <p>8.3. Mailing address: Aydins Jewelry, Irving, Texas. Specific shipping instructions for returns are issued through the claim portal.</p>
+
+      <p class="apg-updated" style="margin-top:48px;">Effective: May 1, 2026 &middot; Version 2026.1</p>
+
+    </div>
+  </section>
+
+  <section class="apg-help">
+    <div class="apg-container">
+      <p>Questions about coverage? Email <a class="apg-link" href="mailto:sales@shopaydins.com">sales@shopaydins.com</a> or call <a class="apg-link" href="tel:18002147345">1-800-214-7345</a>.</p>
+    </div>
+  </section>
+
+</div>
+```

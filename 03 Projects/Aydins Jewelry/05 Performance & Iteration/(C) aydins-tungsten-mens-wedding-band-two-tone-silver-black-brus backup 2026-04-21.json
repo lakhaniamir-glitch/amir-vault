@@ -1,0 +1,66 @@
+{
+  "id": "gid://shopify/Product/1466500513834",
+  "title": "NIGHTHAWK | Black Tungsten Ring, Silver & Black Two-Tone Brushed, Flat",
+  "handle": "aydins-tungsten-mens-wedding-band-two-tone-silver-black-brushed-8mm-tungsten-carbide-ring",
+  "status": "ACTIVE",
+  "productType": "Rings",
+  "vendor": "Jewelry Depot",
+  "descriptionHtml": "<p><strong>Nighthawk: Striking Black Tungsten Ring with Silver &amp; Black Two-Tone Finish - 8mm Width</strong></p>\n<p>Discover the bold and stylish Nighthawk ring, featuring a black tungsten exterior with a striking silver and black two-tone brushed finish. Its flat design and 8mm width make it a standout choice for those seeking a modern and confident look. With a comfort-fit interior, this ring offers both style and comfort for any occasion.</p>\n<p><strong>Features:</strong></p>\n<ul>\n<li>Striking two-tone brushed silver and black finish</li>\n<li>Durable black tungsten material</li>\n<li>Sleek flat design for a modern aesthetic</li>\n<li>Comfort-fit interior ensures all-day wearability</li>\n<li>Available in an impressive 8mm width</li>\n</ul>\n<p><strong>Benefits:</strong></p>\n<ul>\n<li>Exudes a bold and stylish look with the eye-catching two-tone finish</li>\n<li>Exceptional durability and scratch resistance of black tungsten</li>\n<li>Contemporary and sleek design that complements any outfit</li>\n<li>Comfort-fit interior provides a comfortable wearing experience</li>\n<li>8mm width creates a confident and standout appearance</li>\n</ul>\n<p>Keywords: Nighthawk ring, black tungsten ring, silver and black two-tone finish, flat design, comfort-fit interior, 8mm width, modern men's ring, stylish wedding band, durable jewelry, bold and sleek ring.</p>\n<p><strong><br></strong></p>",
+  "seo": {
+    "title": null,
+    "description": "Introducing the Nighthawk ring: a bold and stylish masterpiece. Its black tungsten exterior, two-tone brushed finish, and flat design create a modern and confident look. With an 8mm width and comfort-fit interior, this ring combines style and comfort for any occasion. Explore the epitome of elegance."
+  },
+  "priceRangeV2": {
+    "minVariantPrice": {
+      "amount": "169.0"
+    },
+    "maxVariantPrice": {
+      "amount": "169.0"
+    }
+  },
+  "totalInventory": 149,
+  "media": {
+    "edges": [
+      {
+        "node": {
+          "id": "gid://shopify/MediaImage/31557504794861",
+          "mediaContentType": "IMAGE",
+          "image": {
+            "url": "https://cdn.shopify.com/s/files/1/1857/8135/products/nighthawk-black-tungsten-ring-silver-black-two-tone-brushed-flat-jdtr621-8-7-aydins-jewelry-854053.jpg?v=1691605887",
+            "altText": "NIGHTHAWK | Black Tungsten Ring, Silver & Black Two-Tone Brushed, Flat - Rings - Aydins Jewelry - 1"
+          }
+        }
+      },
+      {
+        "node": {
+          "id": "gid://shopify/MediaImage/31557504827629",
+          "mediaContentType": "IMAGE",
+          "image": {
+            "url": "https://cdn.shopify.com/s/files/1/1857/8135/products/nighthawk-black-tungsten-ring-silver-black-two-tone-brushed-flat-jdtr621-8-7-aydins-jewelry-299313.jpg?v=1691605887",
+            "altText": "NIGHTHAWK | Black Tungsten Ring, Silver & Black Two-Tone Brushed, Flat - Rings - Aydins Jewelry - 2"
+          }
+        }
+      },
+      {
+        "node": {
+          "id": "gid://shopify/MediaImage/31557504860397",
+          "mediaContentType": "IMAGE",
+          "image": {
+            "url": "https://cdn.shopify.com/s/files/1/1857/8135/products/nighthawk-black-tungsten-ring-silver-black-two-tone-brushed-flat-jdtr621-8-7-aydins-jewelry-961931.jpg?v=1691605887",
+            "altText": "NIGHTHAWK | Black Tungsten Ring, Silver & Black Two-Tone Brushed, Flat - Rings - Aydins Jewelry - 3"
+          }
+        }
+      },
+      {
+        "node": {
+          "id": "gid://shopify/MediaImage/31557504893165",
+          "mediaContentType": "IMAGE",
+          "image": {
+            "url": "https://cdn.shopify.com/s/files/1/1857/8135/products/nighthawk-black-tungsten-ring-silver-black-two-tone-brushed-flat-jdtr621-8-7-aydins-jewelry-402530.jpg?v=1691605887",
+            "altText": "NIGHTHAWK | Black Tungsten Ring, Silver & Black Two-Tone Brushed, Flat - Rings - Aydins Jewelry - 4"
+          }
+        }
+      }
+    ]
+  }
+}

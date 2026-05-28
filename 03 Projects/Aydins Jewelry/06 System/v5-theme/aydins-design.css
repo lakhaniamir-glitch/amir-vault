@@ -1,0 +1,296 @@
+/* =========================================================
+   AYDINS DESIGN LAYER — Kalles v5
+   Forces Kalles' generated CSS variables to the Aydins palette
+   and adds the bespoke Aydins-only utilities (eyebrow, brass,
+   numerals, banned tells).
+   Loaded AFTER snippets/css-variables.liquid in theme.liquid
+   so :root redefinitions take effect.
+   ========================================================= */
+
+/* ---------- Aydins palette tokens ---------- */
+:root {
+  --aj-ink:       #1A1A1A;
+  --aj-bone:      #FAF8F4;
+  --aj-stone:     #EEEAE2;
+  --aj-charcoal:  #4A4A4A;
+  --aj-hairline:  #E5E2DB;
+  --aj-brass:     #B08D57;
+
+  --aj-track-eyebrow:    0.18em;
+  --aj-track-button:     0.12em;
+  --aj-section-pad-mob:  4rem;
+  --aj-section-pad:      8rem;
+  --aj-section-pad-tight:5.6rem;
+}
+
+/* ---------- Override Kalles' generated color-scheme vars ---------- */
+:root {
+  --color-foreground:           26, 26, 26;       /* Ink (Kalles uses RGB triplets) */
+  --color-foreground2:          74, 74, 74;       /* Charcoal */
+  --color-background:           250, 248, 244;    /* Bone */
+  --color-background2:          238, 234, 226;    /* Stone */
+  --color-base-text:            26, 26, 26;
+  --color-base-background:      250, 248, 244;
+  --color-secondary:            74, 74, 74;
+  --color-tertiary:             74, 74, 74;
+  --color-line-border:          229, 226, 219;    /* Hairline */
+  --color-accent:               176, 141, 87;     /* Brass */
+  --color-overlay:              26, 26, 26;
+  --color-pr-text:              26, 26, 26;
+  --color-pr-price:             26, 26, 26;
+  --color-pr-sale-price:        26, 26, 26;       /* override the red */
+  --color-pr-rating:            176, 141, 87;     /* Brass on stars */
+  --color-input-primary:        250, 248, 244;
+  --color-input-secondary:      74, 74, 74;
+  --color-focus:                26, 26, 26;
+
+  /* Badges — kill the alert palette */
+  --color-on-sale-badge-background:   26, 26, 26;
+  --color-on-sale-badge-text:         250, 248, 244;
+  --color-new-badge-background:       26, 26, 26;
+  --color-new-badge-text:             250, 248, 244;
+  --color-sold-out-badge-background:  74, 74, 74;
+  --color-sold-out-badge-text:        250, 248, 244;
+  --color-pre-order-badge-background: 176, 141, 87;
+  --color-pre-order-badge-text:       250, 248, 244;
+  --color-custom-badge-background:    26, 26, 26;
+  --color-custom-badge-text:          250, 248, 244;
+
+  /* Notice palette */
+  --color-success-background: 26, 26, 26;
+  --color-success-text:       250, 248, 244;
+  --color-warning-background: 176, 141, 87;
+  --color-warning-text:       250, 248, 244;
+  --color-error-background:   26, 26, 26;
+  --color-error-text:         250, 248, 244;
+
+  /* Tooltip */
+  --color-tooltip-background: 26, 26, 26;
+  --color-tooltip-text:       250, 248, 244;
+
+  /* Buttons (Kalles --hdt-* layer) */
+  --hdt-btn-bg:                 var(--aj-ink);
+  --hdt-btn-color:              var(--aj-bone);
+  --hdt-btn-border-color:       var(--aj-ink);
+  --hdt-btn-hover-bg:           var(--aj-charcoal);
+  --hdt-btn-hover-color:        var(--aj-bone);
+  --hdt-btn-hover-border-color: var(--aj-charcoal);
+  --hdt-btn-outline-color:      var(--aj-ink);
+  --hdt-btn-outline-border-color: var(--aj-ink);
+  --hdt-btn-secondary-bg:       transparent;
+  --hdt-btn-secondary-color:    var(--aj-ink);
+  --hdt-btn-tertiary-bg:        transparent;
+  --hdt-btn-tertiary-color:     var(--aj-ink);
+  --hdt-link-color:             var(--aj-ink);
+  --hdt-link-hover-color:       var(--aj-charcoal);
+
+  /* Radius — square, with hairline 2px softening */
+  --radius:                  0.2rem;
+  --radius-xs:               0.2rem;
+  --radius-sm:               0.2rem;
+  --radius-2xs:              0.2rem;
+  --radius-lg:               0.2rem;
+  --radius-button:           0.2rem;
+  --radius-input:            0.2rem;
+  --radius-product-card:     0.2rem;
+  --radius-product-media:    0;
+  --radius-collection-card:  0.2rem;
+  --radius-blog-card:        0.2rem;
+
+  /* Typography overrides */
+  --font-heading-family:    "Cormorant Garamond", Georgia, serif;
+  --font-body-family:       "Poppins", -apple-system, BlinkMacSystemFont, "Helvetica Neue", sans-serif;
+  --font-sheading-family:   "Poppins", -apple-system, BlinkMacSystemFont, "Helvetica Neue", sans-serif;
+  --font-heading-weight:    500;
+  --font-body-weight:       400;
+  --font-body-weight-bold:  600;
+  --font-heading-line-height: 1.15;
+  --font-body-line-height:    1.65;
+  --font-heading-spacing:    -0.01em;
+  --font-body-spacing:       0;
+}
+
+/* Load the two fonts directly (Kalles already does this if pickers match,
+   but include as a hard fallback so the file is self-contained) */
+@import url("https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;500;600&family=Poppins:wght@300;400;500;600&display=swap");
+
+/* ---------- Display: Cormorant on H1/H0 only ---------- */
+
+h1, .h1, [class*="h1-"], .product__title, .page__title,
+.heading-h0, .heading-h1 {
+  font-family: var(--font-heading-family) !important;
+  font-weight: var(--font-heading-weight);
+  letter-spacing: var(--font-heading-spacing, -0.01em);
+  line-height: var(--font-heading-line-height, 1.15);
+}
+
+h2, h3, h4, h5, h6,
+.h2, .h3, .h4, .h5, .h6 {
+  font-family: var(--font-body-family) !important;
+  font-weight: 500;
+  letter-spacing: -0.005em;
+}
+
+/* ---------- The Aydins eyebrow ---------- */
+.aj-eyebrow {
+  display: inline-block;
+  font-family: var(--font-body-family);
+  font-size: 1.2rem;
+  font-weight: 500;
+  letter-spacing: var(--aj-track-eyebrow);
+  text-transform: uppercase;
+  color: var(--aj-charcoal);
+  border-bottom: 1px solid var(--aj-brass);
+  padding-bottom: 0.6rem;
+  margin-bottom: 1.2rem;
+}
+
+/* ---------- Buttons: tighten Kalles to Aydins voice ---------- */
+.btn,
+.t4s-btn,
+button.button,
+.t4s-pr-item__btn {
+  letter-spacing: var(--aj-track-button) !important;
+  text-transform: uppercase !important;
+  font-weight: 500 !important;
+  transition: opacity 160ms ease, background-color 160ms ease !important;
+  background-image: none !important;
+}
+.btn:hover,
+.t4s-btn:hover,
+button.button:hover {
+  opacity: 0.85;
+}
+
+/* ---------- Numeral marks (1× per surface) ---------- */
+.aj-numeral {
+  font-family: var(--font-heading-family);
+  font-weight: 500;
+  font-size: 4.8rem;
+  color: var(--aj-brass);
+  line-height: 1;
+  margin-bottom: 0.8rem;
+}
+
+/* ---------- Cards / surfaces ---------- */
+.aj-card {
+  background: var(--aj-bone);
+  border: 1px solid var(--aj-hairline);
+  border-radius: 0.2rem;
+  padding: 3.2rem 2.4rem;
+}
+.aj-card--stone { background: var(--aj-stone); }
+
+.aj-reassure {
+  background: var(--aj-stone);
+  border: 1px solid var(--aj-hairline);
+  border-radius: 0.2rem;
+  padding: 3.2rem 2.8rem;
+  margin-top: 4.8rem;
+}
+
+/* ---------- Tables ---------- */
+.aj-table { width:100%; border-collapse:collapse; font-size:1.4rem; }
+.aj-table thead th {
+  font-size:1.2rem; font-weight:500;
+  letter-spacing:var(--aj-track-eyebrow);
+  text-transform:uppercase; color:var(--aj-charcoal);
+  border-bottom:1px solid var(--aj-ink);
+  padding:1.2rem 1.6rem; text-align:left;
+}
+.aj-table tbody td {
+  padding:1.4rem 1.6rem;
+  border-bottom:1px solid var(--aj-hairline);
+  color:var(--aj-ink);
+}
+.aj-table tbody tr:nth-child(even) { background: var(--aj-stone); }
+
+/* ---------- Tabs ---------- */
+.aj-tabs {
+  display:flex; gap:2.4rem;
+  border-bottom:1px solid var(--aj-hairline);
+  margin-bottom:2.4rem;
+}
+.aj-tab {
+  background:none; border:0; padding:1.4rem 0;
+  font-family:var(--font-body-family);
+  font-size:1.3rem; font-weight:500;
+  letter-spacing:var(--aj-track-button); text-transform:uppercase;
+  color:var(--aj-charcoal); cursor:pointer;
+  border-bottom:2px solid transparent; margin-bottom:-1px;
+}
+.aj-tab[aria-selected="true"], .aj-tab.is-active {
+  color:var(--aj-ink); border-bottom-color:var(--aj-ink);
+}
+
+/* ---------- Section spacing (opt-in) ---------- */
+.aj-section {
+  padding-top: var(--aj-section-pad-mob);
+  padding-bottom: var(--aj-section-pad-mob);
+}
+@media (min-width: 768px) {
+  .aj-section {
+    padding-top: var(--aj-section-pad);
+    padding-bottom: var(--aj-section-pad);
+  }
+}
+.aj-section--tight {
+  padding-top: var(--aj-section-pad-tight);
+  padding-bottom: var(--aj-section-pad-tight);
+}
+
+/* ---------- Kill banned tells across Kalles ---------- */
+
+/* No drop shadows on cards */
+.t4s-product-card,
+.t4s-pr-item,
+.t4s-product,
+.product-card { box-shadow: none !important; }
+
+/* Quiet down product hover transitions */
+.t4s-product-card .t4s-product-img:hover img {
+  transition: opacity 220ms ease, transform 600ms ease !important;
+}
+
+/* Sale price never red — defensive */
+.price--on-sale .price__sale,
+.t4s-pr-item__price--sale,
+.product-price--sale,
+ins .money,
+.sale-price,
+[class*="--sale-price"] {
+  color: var(--aj-ink) !important;
+}
+
+/* Announcement bar = brand statement */
+.t4s-announcement-bar,
+.announcement-bar,
+.t4s-announcement-bar__container {
+  background: var(--aj-ink) !important;
+  color: var(--aj-bone) !important;
+  font-family: var(--font-body-family) !important;
+  font-size: 1.2rem !important;
+  letter-spacing: var(--aj-track-eyebrow) !important;
+  text-transform: uppercase !important;
+  padding: 1rem 1.6rem !important;
+}
+
+/* ---------- Zepto Product Personalizer ----------
+   DO NOT add styling rules for `.product-personalizer`, `.pplrlabel`,
+   `.pplr-*`, or `[id^="pplr-"]` here. The Zepto app has its own Custom
+   CSS field (Zepto admin → Styling) that defines the white-card editorial
+   look (brass top border, stone outline, drop shadow). Adding rules here
+   that touch background/border/shadow will FIGHT that CSS via !important
+   load-order and break the card surface on v5. The v4-editorial-v8 block
+   in Zepto's Custom CSS is the single source of truth for this widget.   */
+
+/* Body baseline */
+body {
+  background: var(--aj-bone);
+  color: var(--aj-ink);
+  font-family: var(--font-body-family);
+  font-feature-settings: "ss01", "tnum";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  line-height: var(--font-body-line-height);
+}

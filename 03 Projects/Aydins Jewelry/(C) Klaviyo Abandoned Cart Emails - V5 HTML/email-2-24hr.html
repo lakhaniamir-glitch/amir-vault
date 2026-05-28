@@ -1,0 +1,155 @@
+<!-- Email 2 – Abandoned Cart (24 hours) – V5 design -->
+<!-- Replace [HERO_IMAGE_URL] with landing‑page hero image URL -->
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="max-width:600px; width:100%; background-color:#FAF8F4; font-family:Poppins, Helvetica, Arial, sans-serif; color:#1A1A1A; margin:0 auto;">
+  <tr>
+    <td style="padding:40px 20px;">
+      <!-- Hero image -->
+      <table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+        <tr>
+          <td style="padding-bottom:32px;">
+            <img src="[HERO_IMAGE_URL]" alt="Aydins Jewelry – Engraved rings from Irving, Texas" width="560" height="auto" style="display:block; width:100%; max-width:560px; height:auto; border:0;">
+          </td>
+        </tr>
+      </table>
+
+      <!-- Headline -->
+      <table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+        <tr>
+          <td style="padding-bottom:24px; font-family:Cormorant Garamond, Georgia, serif; font-size:36px; line-height:1.2; color:#1A1A1A; text-align:center;">
+            Still on the fence? <em style="color:#B08D57; font-style:italic;">Here's what happens if it isn't perfect.</em>
+          </td>
+        </tr>
+        <tr>
+          <td style="padding-bottom:32px; font-size:18px; line-height:1.5; color:#1A1A1A; text-align:center;">
+            Most ring purchases live or die on three questions. We answer all three below.
+          </td>
+        </tr>
+      </table>
+
+      <!-- Cart item(s) -->
+      <table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%" style="margin-bottom:32px;">
+        <tr>
+          <td>
+            {% for item in event.extra.line_items %}
+            <table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%" style="margin-bottom:24px;">
+              <tr>
+                <td width="120" valign="top" style="padding-right:20px;">
+                  <img src="{{ item.product.images[0]|default:'' }}" alt="{{ item.product.title }}" width="120" height="120" style="display:block; width:120px; height:120px; object-fit:cover; border-radius:4px;">
+                </td>
+                <td valign="top">
+                  <div style="font-size:18px; font-weight:600; line-height:1.3; margin-bottom:8px;">{{ item.product.title }}</div>
+                  <div style="font-size:16px; color:#666;">{{ item.product.price|floatformat:2 }}</div>
+                  <div style="margin-top:12px;">
+                    <a href="{{ item.product.url }}" style="color:#B08D57; text-decoration:underline; font-size:14px;">View details</a>
+                  </div>
+                </td>
+              </tr>
+            </table>
+            {% endfor %}
+          </td>
+        </tr>
+      </table>
+
+      <!-- CTA -->
+      <table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%" style="margin-bottom:40px;">
+        <tr>
+          <td align="center">
+            <!--[if mso]>
+            <v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="{{ event.extra.checkout_url }}" style="height:48px; v-text-anchor:middle; width:240px;" arcsize="2%" strokecolor="#B08D57" fillcolor="#B08D57">
+              <w:anchorlock/>
+              <center style="color:#ffffff; font-family:Poppins, Helvetica, Arial, sans-serif; font-size:16px; font-weight:600;">Finish checking out</center>
+            </v:roundrect>
+            <![endif]-->
+            <a href="{{ event.extra.checkout_url }}" style="background-color:#B08D57; border-radius:2px; color:#ffffff; display:inline-block; font-family:Poppins, Helvetica, Arial, sans-serif; font-size:16px; font-weight:600; line-height:1; padding:14px 32px; text-decoration:none; text-align:center;">Finish checking out</a>
+          </td>
+        </tr>
+      </table>
+
+      <!-- Hairline -->
+      <table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+        <tr>
+          <td style="border-bottom:1px solid #E5E2DB; padding-bottom:40px;"></td>
+        </tr>
+      </table>
+
+      <!-- Three‑up block (stacked with hairline dividers) -->
+      <table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%" style="margin-bottom:40px;">
+        <tr>
+          <td style="padding-bottom:32px; font-size:18px; font-weight:600; line-height:1.3; color:#1A1A1A;">What if it doesn't fit?</td>
+        </tr>
+        <tr>
+          <td style="padding-bottom:32px; font-size:16px; line-height:1.6; color:#1A1A1A;">
+            Send it back through our self‑serve portal (<a href="https://aydins.thunderreturns.com" style="color:#B08D57; text-decoration:underline;">aydins.thunderreturns.com</a>). Engraved or not, we'll get you into the right size. Sizing is covered under <strong>Aydins Lifetime Sizing program</strong> ($34.50 the first year, $54.50/year after, original purchaser only).
+          </td>
+        </tr>
+        <tr>
+          <td style="border-bottom:1px solid #E5E2DB; padding-bottom:32px;"></td>
+        </tr>
+        <tr>
+          <td style="padding-top:32px; padding-bottom:32px; font-size:18px; font-weight:600; line-height:1.3; color:#1A1A1A;">What if I want my name on it?</td>
+        </tr>
+        <tr>
+          <td style="padding-bottom:32px; font-size:16px; line-height:1.6; color:#1A1A1A;">
+            Free engraving, inside the band or inside & outside. Added to your order at no charge. Engraved rings are eligible for exchange.
+          </td>
+        </tr>
+        <tr>
+          <td style="border-bottom:1px solid #E5E2DB; padding-bottom:32px;"></td>
+        </tr>
+        <tr>
+          <td style="padding-top:32px; padding-bottom:32px; font-size:18px; font-weight:600; line-height:1.3; color:#1A1A1A;">What if something goes wrong later?</td>
+        </tr>
+        <tr>
+          <td style="padding-bottom:32px; font-size:16px; line-height:1.6; color:#1A1A1A;">
+            <strong>Aydins Lifetime Warranty</strong> is tiered: free in the first 6 months, $34.50 between 6–12 months, $54.50 after 12 months. We handle re‑engraving, refinishing, and most damage that isn't loss or impact crushing.
+          </td>
+        </tr>
+      </table>
+
+      <!-- Hairline -->
+      <table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+        <tr>
+          <td style="border-bottom:1px solid #E5E2DB; padding-bottom:40px;"></td>
+        </tr>
+      </table>
+
+      <!-- Closer -->
+      <table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%" style="margin-bottom:40px;">
+        <tr>
+          <td style="font-size:16px; line-height:1.6; color:#1A1A1A; text-align:center;">
+            <p style="margin-top:0; margin-bottom:20px;">We've been engraving and shipping rings from our shop in Irving, Texas since 2011. Over 10,000 orders. Real humans on the phone if you'd rather just call: <strong>1‑800‑214‑7345</strong>.</p>
+            <p style="margin-top:0; margin-bottom:0;">Your ring is still saved. Whenever you're ready.</p>
+          </td>
+        </tr>
+      </table>
+
+      <!-- Signature -->
+      <table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%" style="margin-bottom:32px;">
+        <tr>
+          <td style="font-family:Cormorant Garamond, Georgia, serif; font-size:20px; font-style:italic; line-height:1.4; color:#1A1A1A; text-align:center;">
+            The Aydins Family
+          </td>
+        </tr>
+      </table>
+
+      <!-- Footer -->
+      <table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%" style="font-size:12px; line-height:1.5; color:#666;">
+        <tr>
+          <td style="padding-bottom:8px; text-align:center;">
+            Questions? <a href="mailto:sales@shopaydins.com" style="color:#B08D57; text-decoration:underline;">sales@shopaydins.com</a> · <a href="tel:1-800-214-7345" style="color:#B08D57; text-decoration:underline;">1‑800‑214‑7345</a>
+          </td>
+        </tr>
+        <tr>
+          <td style="padding-bottom:8px; text-align:center;">
+            Returns & exchanges: <a href="https://aydins.thunderreturns.com" style="color:#B08D57; text-decoration:underline;">aydins.thunderreturns.com</a>
+          </td>
+        </tr>
+        <tr>
+          <td style="text-align:center;">
+            {% unsubscribe %}
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>

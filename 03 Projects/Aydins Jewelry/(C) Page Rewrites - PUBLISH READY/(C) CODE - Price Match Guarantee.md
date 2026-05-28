@@ -1,0 +1,150 @@
+---
+template: Price Match Guarantee
+shopify-handle: price-match-guarantee
+url: /pages/price-match-guarantee
+purpose: Price-match policy, case-by-case review, no rigid formula
+updated: 2026-05-17
+---
+
+# Price Match Guarantee - Page Rewrite
+
+**Paste into:** Shopify Admin -> Online Store -> Pages -> Price Match Guarantee -> click `<>` button -> Select All -> Paste -> Save
+
+```html
+<!--
+  Aydins, Price Match Guarantee
+  Slug: /pages/price-match-guarantee
+  PASTE _style-block.html FIRST.
+  Rewritten 2026-05-08: softened per source-of-truth policy. No specific %, no fixed window,
+  no detailed exclusion list, case-by-case review only. This page exists so a customer
+  doing due diligence can find it. It is NOT a marketing pillar.
+  Updated 2026-05-08: migrated to v5 editorial style block; "hand-finish" scrubbed per Rule #9.
+-->
+<div class="aydins-page">
+
+  <section class="apg-hero">
+    <div class="apg-container">
+      <div class="apg-hero-grid">
+        <div class="apg-hero-text">
+          <span class="apg-eyebrow">Price Match</span>
+          <h1>Find a better price? <em>Tell us.</em></h1>
+          <p class="apg-hero-sub">If you find the same Aydins ring listed for less somewhere reputable, send us the link. We&rsquo;ll take a look and do our best to make it right. We review every request by hand, no rigid formula, no fine-print games.</p>
+          <a class="apg-btn-primary" href="mailto:sales@shopaydins.com?subject=Price%20Match%20Request">Send Us the Link</a>
+        </div>
+        <div class="apg-hero-image">
+          <img src="https://cdn.shopify.com/s/files/1/1857/8135/files/Price_Match_Guarantee.png?v=1777352019" alt="Aydins Jewelry, wedding band on workbench">
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="apg-section">
+    <div class="apg-container">
+      <div class="apg-tldr">
+        <p><strong>The short version:</strong> Email us a link to the lower price. We&rsquo;ll review the listing, the seller, and the ring against your Aydins order, and we&rsquo;ll respond within a couple of business days. Most reasonable, like-for-like requests get matched. We don&rsquo;t list specific terms or windows here on purpose, every situation is a little different, and we&rsquo;d rather get it right by hand than chase a formula.</p>
+      </div>
+    </div>
+  </section>
+
+  <section class="apg-section">
+    <div class="apg-container">
+      <span class="apg-eyebrow">How it works</span>
+      <h2>Three steps. <em>That&rsquo;s the whole thing.</em></h2>
+      <div class="apg-steps">
+        <div class="apg-step">
+          <span class="apg-num">01</span>
+          <h3>Find the Listing</h3>
+          <p>Spot the same Aydins ring, same material, width, finish, brand new and in stock, for less at another reputable jeweler.</p>
+        </div>
+        <div class="apg-step">
+          <span class="apg-num">02</span>
+          <h3>Send Us the Link</h3>
+          <p>Email <a class="apg-link" href="mailto:sales@shopaydins.com">sales@shopaydins.com</a> with the URL, your Aydins order number if you&rsquo;ve already purchased, and a quick note.</p>
+        </div>
+        <div class="apg-step">
+          <span class="apg-num">03</span>
+          <h3>We Review by Hand</h3>
+          <p>A real person on our team looks at the request and replies within 1&ndash;2 business days. If it qualifies, we&rsquo;ll let you know how we&rsquo;ll handle it.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="apg-section apg-cream">
+    <div class="apg-container">
+      <span class="apg-eyebrow">A note on what we look for</span>
+      <h2>Reasonable, <em>like-for-like</em>.</h2>
+      <p style="max-width:760px;">We&rsquo;re looking for a fair, apples-to-apples comparison. Things that generally help:</p>
+      <ul class="apg-list">
+        <li><strong>Same ring.</strong> Same material, width, finish, and inlay as the Aydins piece.</li>
+        <li><strong>Reputable specialty jeweler.</strong> A storefront with a public address, real inventory, and a working returns policy.</li>
+        <li><strong>Brand new, in stock.</strong> Not used, refurbished, auction, resale, or out-of-stock.</li>
+        <li><strong>Listed price.</strong> A regular, listed price, not a flash sale, doorbuster, or pricing error.</li>
+      </ul>
+      <p style="max-width:760px;">Things that generally don&rsquo;t qualify: warehouse and big-box retailers (Amazon, Walmart, Costco, etc.), resale marketplaces (eBay, Facebook Marketplace, Etsy resellers), in-store or verbal quotes, and obvious pricing errors. We&rsquo;ll tell you if a request falls outside what we can match.</p>
+      <p style="max-width:760px;">Beyond that, we&rsquo;d rather you ask than not, if you found something and you&rsquo;re wondering, send it over. Worst case we say no and explain why.</p>
+    </div>
+  </section>
+
+  <section class="apg-section">
+    <div class="apg-container">
+      <span class="apg-eyebrow">Why we offer this</span>
+      <h2>Because the price <em>should be the price</em>.</h2>
+      <p style="max-width:760px;font-size:17px;line-height:1.7;">A lot of online jewelers play games, fake &ldquo;was&rdquo; prices, hidden fees, anniversary sales that never end. We don&rsquo;t. The price you see at Aydins is the regular, listed price.</p>
+      <p style="max-width:760px;font-size:17px;line-height:1.7;">If somebody else is selling the same ring for less today, we want to know about it. You shouldn&rsquo;t pay the difference, and we&rsquo;d rather review it case by case than make a promise we can&rsquo;t honor every time.</p>
+    </div>
+  </section>
+
+  <section class="apg-section apg-cream">
+    <div class="apg-container">
+      <span class="apg-eyebrow">Common questions</span>
+      <h2>Price match, <em>answered</em>.</h2>
+      <div class="apg-faq-list">
+        <div class="apg-faq-item">
+          <h3>Do you match Amazon, Walmart, or Costco?</h3>
+          <p>Generally no. Warehouse and big-box pricing reflects bulk-source diversion, third-party resellers, and gray-market inventory rather than what a specialty jeweler actually pays to source and stock a wedding band. Send us the link if you&rsquo;re unsure, we&rsquo;ll take a look.</p>
+        </div>
+        <div class="apg-faq-item">
+          <h3>Do you match eBay, Etsy, or Facebook Marketplace?</h3>
+          <p>Generally no. Resale and auction marketplaces are too hard to verify, condition, inventory, and seller change too quickly. We focus on brand-new rings from established specialty jewelers.</p>
+        </div>
+        <div class="apg-faq-item">
+          <h3>What if I already bought and then found it cheaper?</h3>
+          <p>Send us the link. If your order is recent and the request is reasonable, we&rsquo;ll review it the same way we would a pre-purchase request.</p>
+        </div>
+        <div class="apg-faq-item">
+          <h3>How fast do you respond?</h3>
+          <p>Most requests get reviewed within 1&ndash;2 business days. If we need a clearer screenshot or a working link, we&rsquo;ll reply with what we need.</p>
+        </div>
+        <div class="apg-faq-item">
+          <h3>Why don&rsquo;t you publish a strict formula?</h3>
+          <p>Because rings, sellers, and listings vary too much. We&rsquo;d rather review by hand and treat each request fairly than commit to a rigid rule that ends up unfair to one side or the other.</p>
+        </div>
+      </div>
+
+      <div class="apg-byline">
+        <div class="apg-byline-text">
+          <strong>Aydins Customer Service Team</strong>
+          Reviewing every price match by hand at our Texas shop since 2011.
+        </div>
+      </div>
+      <p class="apg-updated" style="margin-top:12px;">Updated: May 2026</p>
+    </div>
+  </section>
+
+  <section class="apg-cta-band">
+    <div class="apg-container">
+      <h2>Found a lower price? <em>Send it over.</em></h2>
+      <p>Email us the link and your Aydins order number if applicable. We&rsquo;ll respond within 1&ndash;2 business days.</p>
+      <a class="apg-btn-primary" href="mailto:sales@shopaydins.com?subject=Price%20Match%20Request">Email Customer Service</a>
+    </div>
+  </section>
+
+  <section class="apg-help">
+    <div class="apg-container">
+      <p>Questions? Email <a class="apg-link" href="mailto:sales@shopaydins.com">sales@shopaydins.com</a> or call <a class="apg-link" href="tel:18002147345">1-800-214-7345</a>.</p>
+    </div>
+  </section>
+
+</div>
+```

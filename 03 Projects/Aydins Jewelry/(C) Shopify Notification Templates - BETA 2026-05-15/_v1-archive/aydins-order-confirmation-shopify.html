@@ -1,0 +1,129 @@
+{% comment %}
+Aydins Jewelry — Shopify Order Confirmation notification template
+Use in Shopify Admin → Settings → Notifications → Customer notifications → Order confirmation.
+Built for Shopify's notification Liquid variables. Test with Shopify's preview before saving live.
+{% endcomment %}
+
+{% assign customer_name = billing_address.first_name | default: customer.first_name | default: 'there' %}
+{% assign order_label = order_name | default: name %}
+
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Order confirmed — {{ shop.name }}</title>
+  <style>
+    body { margin:0; padding:0; background:#f7f3ec; color:#2b2723; font-family: Arial, Helvetica, sans-serif; }
+    table { border-collapse:collapse; }
+    img { border:0; max-width:100%; display:block; }
+    a { color:#2b2723; }
+    .wrap { width:100%; background:#f7f3ec; padding:28px 12px; }
+    .container { width:100%; max-width:680px; margin:0 auto; background:#fffaf2; border:1px solid #ded6c9; }
+    .topbar { font-size:12px; letter-spacing:.5px; color:#6b6258; padding:14px 28px; text-align:center; border-bottom:1px solid #ded6c9; }
+    .header { padding:34px 34px 18px; text-align:center; }
+    .brand { font-family: Georgia, 'Times New Roman', serif; font-size:34px; letter-spacing:5px; color:#1d1a17; margin:0; }
+    .tagline { margin:8px 0 0; font-size:12px; letter-spacing:2px; text-transform:uppercase; color:#9a7a45; }
+    .content { padding:18px 38px 8px; }
+    h1 { font-family: Georgia, 'Times New Roman', serif; font-size:34px; line-height:1.15; margin:0 0 18px; color:#1d1a17; font-weight:500; }
+    p { font-size:15px; line-height:1.7; margin:0 0 16px; color:#4c453e; }
+    .button { display:inline-block; background:#1f1b18; color:#fffaf2 !important; text-decoration:none; padding:15px 24px; font-size:13px; letter-spacing:1.5px; text-transform:uppercase; margin:10px 0 18px; }
+    .panel { background:#f2ede4; border:1px solid #ded6c9; padding:22px; margin:20px 0; }
+    .panel h2 { font-family: Georgia, 'Times New Roman', serif; font-size:22px; margin:0 0 12px; font-weight:500; color:#1d1a17; }
+    .muted { color:#746b61; font-size:13px; }
+    .steps td { vertical-align:top; padding:10px 0; }
+    .num { width:34px; height:34px; line-height:34px; text-align:center; background:#b08d57; color:#fff; border-radius:50%; font-size:13px; font-weight:bold; }
+    .item { border-top:1px solid #ded6c9; padding:14px 0; }
+    .item-title { font-size:14px; color:#2b2723; margin:0 0 4px; }
+    .item-meta { font-size:12px; color:#746b61; margin:0; }
+    .totals { width:100%; margin:12px 0 0; }
+    .totals td { padding:6px 0; font-size:14px; color:#4c453e; }
+    .totals .right { text-align:right; }
+    .total td { border-top:1px solid #ded6c9; padding-top:12px; font-size:16px; font-weight:bold; color:#1d1a17; }
+    .footer { padding:26px 38px 34px; text-align:center; color:#746b61; font-size:12px; line-height:1.7; }
+    @media screen and (max-width:600px) { .content,.footer { padding-left:22px!important; padding-right:22px!important; } .header { padding-left:22px!important; padding-right:22px!important; } h1 { font-size:29px!important; } }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <div class="container">
+      <div class="topbar">Free engraving · Free U.S. shipping · Lifetime warranty · 30-day returns</div>
+      <div class="header">
+        <p class="brand">AYDINS</p>
+        <p class="tagline">Wedding Bands, Made Personal</p>
+      </div>
+
+      <div class="content">
+        <h1>Order confirmed.</h1>
+        <p>Hi {{ customer_name }},</p>
+        <p>Thank you for your order. Your piece is in good hands at our shop.</p>
+        <p>We’re a small family-run jewelry shop in Irving, Texas. Every order is checked, prepared, and engraved by us before it ships.</p>
+
+        {% if order_status_url %}
+          <p><a class="button" href="{{ order_status_url }}">View your order</a></p>
+        {% endif %}
+
+        <div class="panel">
+          <h2>Order {{ order_label }}</h2>
+          <p class="muted">Placed on {{ created_at | date: "%B %d, %Y" }}</p>
+
+          {% for line in subtotal_line_items %}
+            <div class="item">
+              <p class="item-title">{{ line.title }} × {{ line.quantity }}</p>
+              {% if line.variant_title != blank and line.variant_title != 'Default Title' %}<p class="item-meta">{{ line.variant_title }}</p>{% endif %}
+              {% if line.selling_plan_allocation %}<p class="item-meta">{{ line.selling_plan_allocation.selling_plan.name }}</p>{% endif %}
+              {% if line.properties %}
+                {% for property in line.properties %}
+                  {% assign first_character = property.first | slice: 0 %}
+                  {% unless property.last == blank or first_character == '_' %}
+                    <p class="item-meta">{{ property.first }}: {{ property.last }}</p>
+                  {% endunless %}
+                {% endfor %}
+              {% endif %}
+            </div>
+          {% endfor %}
+
+          <table class="totals" role="presentation">
+            <tr><td>Subtotal</td><td class="right">{{ subtotal_price | money }}</td></tr>
+            {% for discount_application in discount_applications %}
+              {% if discount_application.total_allocated_amount != 0 %}
+                <tr><td>Discount{% if discount_application.title %} — {{ discount_application.title }}{% endif %}</td><td class="right">-{{ discount_application.total_allocated_amount | money }}</td></tr>
+              {% endif %}
+            {% endfor %}
+            {% if shipping_price %}<tr><td>Shipping</td><td class="right">{{ shipping_price | money }}</td></tr>{% endif %}
+            {% if tax_price %}<tr><td>Tax</td><td class="right">{{ tax_price | money }}</td></tr>{% endif %}
+            <tr class="total"><td>Total</td><td class="right">{{ total_price | money_with_currency }}</td></tr>
+          </table>
+        </div>
+
+        <div class="panel">
+          <h2>What happens next</h2>
+          <table class="steps" role="presentation" width="100%">
+            <tr><td width="46"><div class="num">1</div></td><td><p><strong>Order received.</strong><br><span class="muted">Your order moves into our production queue.</span></p></td></tr>
+            <tr><td width="46"><div class="num">2</div></td><td><p><strong>Engraving and inspection.</strong><br><span class="muted">If your order includes engraving, we set it up and double-check the details before shipping.</span></p></td></tr>
+            <tr><td width="46"><div class="num">3</div></td><td><p><strong>Shipping confirmation.</strong><br><span class="muted">You’ll get tracking as soon as the package leaves our shop.</span></p></td></tr>
+          </table>
+        </div>
+
+        {% if shipping_address %}
+          <div class="panel">
+            <h2>Shipping to</h2>
+            <p>{{ shipping_address.name }}<br>{{ shipping_address.address1 }}{% if shipping_address.address2 != blank %}<br>{{ shipping_address.address2 }}{% endif %}<br>{{ shipping_address.city }}, {{ shipping_address.province_code }} {{ shipping_address.zip }}<br>{{ shipping_address.country }}</p>
+          </div>
+        {% endif %}
+
+        <p>If anything looks off — size, engraving, shipping address — reply to this email as soon as possible. We’ll catch it before it leaves the shop if we can.</p>
+      </div>
+
+      <div class="footer">
+        <p style="margin:0 0 8px;font-family:Georgia,'Times New Roman',serif;font-size:24px;letter-spacing:4px;color:#1d1a17;font-weight:600;">AYDINS</p>
+        <p style="margin:0 0 14px;font-size:11px;letter-spacing:2px;text-transform:uppercase;color:#9a7a45;font-weight:700;">Wedding Bands, Made Personal</p>
+        <p style="margin:0 0 12px;">Free engraving · Free U.S. shipping · Lifetime warranty · 30-day returns</p>
+        <p style="margin:0 0 12px;"><a href="https://shopaydins.com/">Shop</a> · <a href="https://shopaydins.com/collections/wedding-bands-and-rings">Wedding Bands</a> · <a href="https://shopaydins.com/pages/about-aydins">About</a> · <a href="https://shopaydins.com/pages/contact-aydins">Contact</a></p>
+        Aydins Jewelry · Irving, Texas · Since 2011<br>
+        Questions? Reply to this email or visit <a href="{{ shop.url }}">{{ shop.domain }}</a>.
+      </div>
+    </div>
+  </div>
+</body>
+</html>

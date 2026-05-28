@@ -1,0 +1,189 @@
+{
+  "id": "gid://shopify/Product/4555858542634",
+  "title": "HALSTEN | Tungsten Ring Inlay Beveled",
+  "handle": "halsten-platinum-inlaid-beveled-tungsten-carbide-wedding-ring-6mm-or-8mm",
+  "status": "ACTIVE",
+  "productType": "Rings",
+  "vendor": "Universal J",
+  "descriptionHtml": "<strong>Platinum Inlaid Beveled Tungsten Carbide Wedding Ring - 6mm or 8mm.</strong><br><br>Made from high grade Tungsten Carbide, this classic style with the beautiful color of Tungsten Carbide with a 2mm wide band of rich solid white Platinum inlaid into the center of the band. Can be worn as a wedding band or promise ring.<br><br>Because Tungsten is a harder metal than others, it cannot stretch, and cannot be resized. If your finger size changes, you will need a brand new ring. We can exchange your ring for a different size as long as you own the ring. <br><br>•••About Aydin's Tungsten Carbide Rings•••<br><br>Tungsten is extremely durable and is known as one of the hardest metals on the earth. Tungsten is about 10 times harder than gold which makes this metal a top priority when searching for a more scratch-resistant product from which a wedding band can be made. Why is this important to you? a ring that has very few if any scratches look new, all the time. Some even refer to this metal as the one with the “permanent shine”. Have you ever seen a gold or silver ring that is more than 3 years old and how it looks? In most cases, it looks older that it really is because of the dents, scratches and wears marks. This happens to Sterling Silver, White Gold, Yellow Gold, and Rose gold metals.<br><br>Whether you are looking at wedding bands or just a stylish ring to compliment your look, pass on the platinum and gold. Tungsten carbide rings are trending right now. They are strong, durable, scratch-proof, which appeals to men. Tungsten rings come in many different finishes and they look masculine. Tungsten ring has a weighty feel to them making them look sophisticated and feel expensive even though they are very wallet friendly. Tungsten rings are so popular right now that there are many styles to choose from. If you are looking to buy a tungsten ring, you can’t go wrong with our tungsten ring designs we have to offer for men &amp; women.",
+  "seo": {
+    "title": null,
+    "description": "Platinum Inlaid Beveled Tungsten Carbide Wedding Ring - 6mm or 8mm.Made from high grade Tungsten Carbide, this classic style with the beautiful color of Tungsten Carbide with a 2mm wide band of rich solid white Platinum inlaid into the center of the band. "
+  },
+  "images": {
+    "edges": [
+      {
+        "node": {
+          "id": "gid://shopify/ProductImage/38950853378285",
+          "url": "https://cdn.shopify.com/s/files/1/1857/8135/products/halsten-tungsten-ring-inlay-beveled-halsten-6-4-aydins-jewelry-841254.jpg?v=1691605225",
+          "altText": "HALSTEN | Tungsten Ring Inlay Beveled - Rings - Aydins Jewelry - 1"
+        }
+      },
+      {
+        "node": {
+          "id": "gid://shopify/ProductImage/40834203779309",
+          "url": "https://cdn.shopify.com/s/files/1/1857/8135/files/halsten-tungsten-ring-inlay-beveled-halsten-6-4-aydins-jewelry-907891.jpg?v=1718111226",
+          "altText": "HALSTEN | Tungsten Ring Inlay Beveled - Rings - Aydins Jewelry - 2"
+        }
+      }
+    ]
+  },
+  "media": {
+    "edges": [
+      {
+        "node": {
+          "id": "gid://shopify/MediaImage/31557455970541",
+          "mediaContentType": "IMAGE",
+          "alt": "HALSTEN | Tungsten Ring Inlay Beveled - Rings - Aydins Jewelry - 1"
+        }
+      },
+      {
+        "node": {
+          "id": "gid://shopify/MediaImage/33517271285997",
+          "mediaContentType": "IMAGE",
+          "alt": "HALSTEN | Tungsten Ring Inlay Beveled - Rings - Aydins Jewelry - 2"
+        }
+      }
+    ]
+  },
+  "metafields": {
+    "edges": [
+      {
+        "node": {
+          "namespace": "global",
+          "key": "description_tag",
+          "value": "Platinum Inlaid Beveled Tungsten Carbide Wedding Ring - 6mm or 8mm.Made from high grade Tungsten Carbide, this classic style with the beautiful color of Tungsten Carbide with a 2mm wide band of rich solid white Platinum inlaid into the center of the band. ",
+          "type": "string"
+        }
+      },
+      {
+        "node": {
+          "namespace": "schemaapp",
+          "key": "schema",
+          "value": "{\"@context\":\"http://schema.org\",\"@type\":\"Product\",\"@id\":\"https://shopaydins.com/products/halsten-platinum-inlaid-beveled-tungsten-carbide-wedding-ring-6mm-or-8mm#Product\",\"name\":\"HALSTEN | Tungsten Ring Inlay Beveled\",\"description\":\"Platinum Inlaid Beveled Tungsten Carbide Wedding Ring - 6mm or 8mm.Made from high grade Tungsten Carbide, this classic style with the beautiful color of Tungsten Carbide with a 2mm wide band of rich solid white Platinum inlaid into the center of the band. Can be worn as a wedding band or promise ring.Because Tungsten is a harder metal than others, it cannot stretch, and cannot be resized. If your finger size changes, you will need a brand new ring. We can exchange your ring for a different size as long as you own the ring. \\u2022\\u2022\\u2022About Aydin's Tungsten Carbide Rings\\u2022\\u2022\\u2022Tungsten is extremely durable and is known as one of the hardest metals on the earth. Tungsten is about 10 times harder than gold which makes this metal a top priority when searching for a more scratch-resistant product from which a wedding band can be made. Why is this important to you? a ring that has very few if any scratches look new, all the time. Some even refer to this metal as the one with the \\u201cpermanent shine\\u201d. Have you ever seen a gold or silver ring that is more than 3 years old and how it looks? In most cases, it looks older that it really is because of the dents, scratches and wears marks. This happens to Sterling Silver, White Gold, Yellow Gold, and Rose gold metals.Whether you are looking at wedding bands or just a stylish ring to compliment your look, pass on the platinum and gold. Tungsten carbide rings are trending right now. They are strong, durable, scratch-proof, which appeals to men. Tungsten rings come in many different finishes and they look masculine. Tungsten ring has a weighty feel to them making them look sophisticated and feel expensive even though they are very wallet friendly. Tungsten rings are so popular right now that there are many styles to choose from. If you are looking to buy a tungsten ring, you can\\u2019t go wrong with our tungsten ring designs we have to offer for men &amp; women.\",\"category\":\"Rings\",\"sku\":\"HALSTEN-6-4\",\"url\":\"https://shopaydins.com/products/halsten-platinum-inlaid-beveled-tungsten-carbide-wedding-ring-6mm-or-8mm\",\"weight\":{\"@type\":\"QuantitativeValue\",\"unitCode\":\"LBR\",\"value\":0,\"@id\":\"https://shopaydins.com/products/halsten-platinum-inlaid-beveled-tungsten-carbide-wedding-ring-6mm-or-8mm#Weight\"},\"brand\":{\"@type\":\"Organization\",\"name\":\"Universal J\",\"@id\":\"https://shopaydins.com/products/halsten-platinum-inlaid-beveled-tungsten-carbide-wedding-ring-6mm-or-8mm#Brand\"},\"offers\":[{\"@type\":\"Offer\",\"name\":\"6MM / 4\",\"price\":\"692.00\",\"priceCurrency\":\"USD\",\"availability\":\"InStock\",\"itemCondition\":\"http://schema.org/NewCondition\",\"sku\":\"HALSTEN-6-4\",\"@id\":\"https://shopaydins.com/products/halsten-platinum-inlaid-beveled-tungsten-carbide-wedding-ring-6mm-or-8mm#Offer_31911708196906\",\"url\":\"https://shopaydins.com/products/halsten-platinum-inlaid-beveled-tungsten-carbide-wedding-ring-6mm-or-8mm?variant=31911708196906\"},{\"@type\":\"Offer\",\"name\":\"6MM / 4.5\",\"price\":\"692.00\",\"priceCurrency\":\"USD\",\"availability\":\"InStock\",\"itemCondition\":\"http://schema.org/NewCondition\",\"sku\":\"HALSTEN-6-4.5\",\"@id\":\"https://shopaydins.com/products/halsten-platinum-inlaid-beveled-tungsten-carbide-wedding-ring-6mm-or-8mm#Offer_31911708229674\",\"url\":\"https://shopaydins.com/products/halsten-platinum-inlaid-beveled-tungsten-carbide-wedding-ring-6mm-or-8mm?variant=31911708229674\"},{\"@type\":\"Offer\",\"name\":\"6MM / 5\",\"price\":\"692.00\",\"priceCurrency\":\"USD\",\"availability\":\"InStock\",\"itemCondition\":\"http://schema.org/NewCondition\",\"sku\":\"HALSTEN-6-5\",\"@id\":\"https://shopaydins.com/products/halsten-platinum-inlaid-beveled-tungsten-carbide-wedding-ring-6mm-or-8mm#Offer_31911708262442\",\"url\":\"https://shopaydins.com/products/halsten-platinum-inlaid-beveled-tungsten-carbide-wedding-ring-6mm-or-8mm?variant=31911708262442\"},{\"@type\":\"Offer\",\"name\":\"6MM / 5.5\",\"price\":\"692.00\",\"priceCurrency\":\"USD\",\"availability\":\"InStock\",\"itemCondition\":\"http://schema.org/NewCondition\",\"sku\":\"HALSTEN-6-5.5\",\"@id\":\"https://shopaydins.com/products/halsten-platinum-inlaid-beveled-tungsten-carbide-wedding-ring-6mm-or-8mm#Offer_31911708295210\",\"url\":\"https://shopaydins.com/products/halsten-platinum-inlaid-beveled-tungsten-carbide-wedding-ring-6mm-or-8mm?variant=31911708295210\"},{\"@type\":\"Offer\",\"name\":\"6MM / 6\",\"price\":\"692.00\",\"priceCurrency\":\"USD\",\"availability\":\"InStock\",\"itemCondition\":\"http://schema.org/NewCondition\",\"sku\":\"HALSTEN-6-6\",\"@id\":\"https://shopaydins.com/products/halsten-platinum-inlaid-beveled-tungsten-carbide-wedding-ring-6mm-or-8mm#Offer_31911708327978\",\"url\":\"https://shopaydins.com/products/halsten-platinum-inlaid-beveled-tungsten-carbide-wedding-ring-6mm-or-8mm?variant=31911708327978\"},{\"@type\":\"Offer\",\"name\":\"6MM / 6.5\",\"price\":\"692.00\",\"priceCurrency\":\"USD\",\"availability\":\"InStock\",\"itemCondition\":\"http://schema.org/NewCondition\",\"sku\":\"HALSTEN-6-6.5\",\"@id\":\"https://shopaydins.com/products/halsten-platinum-inlaid-beveled-tungsten-carbide-wedding-ring-6mm-or-8mm#Offer_31911708360746\",\"url\":\"https://shopaydins.com/products/halsten-platinum-inlaid-beveled-tungsten-carbide-wedding-ring-6mm-or-8mm?variant=31911708360746\"},{\"@type\":\"Offer\",\"name\":\"6MM / 7\",\"price\":\"692.00\",\"priceCurrency\":\"USD\",\"availability\":\"InStock\",\"itemCondition\":\"http://schema.org/NewCondition\",\"sku\":\"HALSTEN-6-7\",\"@id\":\"https://shopaydins.com/products/halsten-platinum-inlaid-beveled-tungsten-carbide-wedding-ring-6mm-or-8mm#Offer_31911708393514\",\"url\":\"https://shopaydins.com/products/halsten-platinum-inlaid-beveled-tungsten-carbide-wedding-ring-6mm-or-8mm?variant=31911708393514\"},{\"@type\":\"Offer\",\"name\":\"6MM / 7.5\",\"price\":\"692.00\",\"priceCurrency\":\"USD\",\"availability\":\"InStock\",\"itemCondition\":\"http://schema.org/NewCondition\",\"sku\":\"HALSTEN-6-7.5\",\"@id\":\"https://shopaydins.com/products/halsten-platinum-inlaid-beveled-tungsten-carbide-wedding-ring-6mm-or-8mm#Offer_31911708426282\",\"url\":\"https://shopaydins.com/products/halsten-platinum-inlaid-beveled-tungsten-carbide-wedding-ring-6mm-or-8mm?variant=31911708426282\"},{\"@type\":\"Offer\",\"name\":\"6MM / 8\",\"price\":\"692.00\",\"priceCurrency\":\"USD\",\"availability\":\"InStock\",\"itemCondition\":\"http://schema.org/NewCondition\",\"sku\":\"HALSTEN-6-8\",\"@id\":\"https://shopaydins.com/products/halsten-platinum-inlaid-beveled-tungsten-carbide-wedding-ring-6mm-or-8mm#Offer_31911708459050\",\"url\":\"https://shopaydins.com/products/halsten-platinum-inlaid-beveled-tungsten-carbide-wedding-ring-6mm-or-8mm?variant=31911708459050\"},{\"@type\":\"Offer\",\"name\":\"6MM / 8.5\",\"price\":\"692.00\",\"priceCurrency\":\"USD\",\"availability\":\"InStock\",\"itemCondition\":\"http://schema.org/NewCondition\",\"sku\":\"HALSTEN-6-8.5\",\"@id\":\"https://shopaydins.com/products/halsten-platinum-inlaid-beveled-tungsten-carbide-wedding-ring-6mm-or-8mm#Offer_31911708491818\",\"url\":\"https://shopaydins.com/products/halsten-platinum-inlaid-beveled-tungsten-carbide-wedding-ring-6mm-or-8mm?variant=31911708491818\"},{\"@type\":\"Offer\",\"name\":\"6MM / 9\",\"price\":\"692.00\",\"priceCurrency\":\"USD\",\"availability\":\"InStock\",\"itemCondition\":\"http://schema.org/NewCondition\",\"sku\":\"HALSTEN-6-9\",\"@id\":\"https://shopaydins.com/products/halsten-platinum-inlaid-beveled-tungsten-carbide-wedding-ring-6mm-or-8mm#Offer_31911708524586\",\"url\":\"https://shopaydins.com/products/halsten-platinum-inlaid-beveled-tungsten-carbide-wedding-ring-6mm-or-8mm?variant=31911708524586\"},{\"@type\":\"Offer\",\"name\":\"6MM / 9.5\",\"price\":\"692.00\",\"priceCurrency\":\"USD\",\"availability\":\"InStock\",\"itemCondition\":\"http://schema.org/NewCondition\",\"sku\":\"HALSTEN-6-9.5\",\"@id\":\"https://shopaydins.com/products/halsten-platinum-inlaid-beveled-tungsten-carbide-wedding-ring-6mm-or-8mm#Offer_31911708557354\",\"url\":\"https://shopaydins.com/products/halsten-platinum-inlaid-beveled-tungsten-carbide-wedding-ring-6mm-or-8mm?variant=31911708557354\"},{\"@type\":\"Offer\",\"name\":\"6MM / 10\",\"price\":\"692.00\",\"priceCurrency\":\"USD\",\"availability\":\"InStock\",\"itemCondition\":\"http://schema.org/NewCondition\",\"sku\":\"HALSTEN-6-10\",\"@id\":\"https://shopaydins.com/products/halsten-platinum-inlaid-beveled-tungsten-carbide-wedding-ring-6mm-or-8mm#Offer_31911708590122\",\"url\":\"https://shopaydins.com/products/halsten-platinum-inlaid-beveled-tungsten-carbide-wedding-ring-6mm-or-8mm?variant=31911708590122\"},{\"@type\":\"Offer\",\"name\":\"6MM / 10.5\",\"price\":\"692.00\",\"priceCurrency\":\"USD\",\"availability\":\"InStock\",\"itemCondition\":\"http://schema.org/NewCondition\",\"sku\":\"HALSTEN-6-10.5\",\"@id\":\"https://shopaydins.com/products/halsten-platinum-inlaid-beveled-tungsten-carbide-wedding-ring-6mm-or-8mm#Offer_31911708622890\",\"url\":\"https://shopaydins.com/products/halsten-platinum-inlaid-beveled-tungsten-carbide-wedding-ring-6mm-or-8mm?variant=31911708622890\"},{\"@type\":\"Offer\",\"name\":\"6MM / 11\",\"price\":\"692.00\",\"priceCurrency\":\"USD\",\"availability\":\"InStock\",\"itemCondition\":\"http://schema.org/NewCondition\",\"sku\":\"HALSTEN-6-11\",\"@id\":\"https://shopaydins.com/products/halsten-platinum-inlaid-beveled-tungsten-carbide-wedding-ring-6mm-or-8mm#Offer_31911708655658\",\"url\":\"https://shopaydins.com/products/halsten-platinum-inlaid-beveled-tungsten-carbide-wedding-ring-6mm-or-8mm?variant=31911708655658\"},{\"@type\":\"Offer\",\"name\":\"6MM / 11.5\",\"price\":\"692.00\",\"priceCurrency\":\"USD\",\"availability\":\"InStock\",\"itemCondition\":\"http://schema.org/NewCondition\",\"sku\":\"HALSTEN-6-11.5\",\"@id\":\"https://shopaydins.com/products/halsten-platinum-inlaid-beveled-tungsten-carbide-wedding-ring-6mm-or-8mm#Offer_31911708688426\",\"url\":\"https://shopaydins.com/products/halsten-platinum-inlaid-beveled-tungsten-carbide-wedding-ring-6mm-or-8mm?variant=31911708688426\"},{\"@type\":\"Offer\",\"name\":\"6MM / 12\",\"price\":\"692.00\",\"priceCurrency\":\"USD\",\"availability\":\"InStock\",\"itemCondition\":\"http://schema.org/NewCondition\",\"sku\":\"HALSTEN-6-12\",\"@id\":\"https://shopaydins.com/products/halsten-platinum-inlaid-beveled-tungsten-carbide-wedding-ring-6mm-or-8mm#Offer_31911708721194\",\"url\":\"https://shopaydins.com/products/halsten-platinum-inlaid-beveled-tungsten-carbide-wedding-ring-6mm-or-8mm?variant=31911708721194\"},{\"@type\":\"Offer\",\"name\":\"6MM / 12.5\",\"price\":\"692.00\",\"priceCurrency\":\"USD\",\"availability\":\"InStock\",\"itemCondition\":\"http://schema.org/NewCondition\",\"sku\":\"HALSTEN-6-12.5\",\"@id\":\"https://shopaydins.com/products/halsten-platinum-inlaid-beveled-tungsten-carbide-wedding-ring-6mm-or-8mm#Offer_31911708753962\",\"url\":\"https://shopaydins.com/products/halsten-platinum-inlaid-beveled-tungsten-carbide-wedding-ring-6mm-or-8mm?variant=31911708753962\"},{\"@type\":\"Offer\",\"name\":\"6MM / 13\",\"price\":\"692.00\",\"priceCurrency\":\"USD\",\"availability\":\"InStock\",\"itemCondition\":\"http://schema.org/NewCondition\",\"sku\":\"HALSTEN-6-13\",\"@id\":\"https://shopaydins.com/products/halsten-platinum-inlaid-beveled-tungsten-carbide-wedding-ring-6mm-or-8mm#Offer_31911708786730\",\"url\":\"https://shopaydins.com/products/halsten-platinum-inlaid-beveled-tungsten-carbide-wedding-ring-6mm-or-8mm?variant=31911708786730\"},{\"@type\":\"Offer\",\"name\":\"6MM / 13.5\",\"price\":\"692.00\",\"priceCurrency\":\"USD\",\"availability\":\"InStock\",\"itemCondition\":\"http://schema.org/NewCondition\",\"sku\":\"HALSTEN-6-13.5\",\"@id\":\"https://shopaydins.com/products/halsten-platinum-inlaid-beveled-tungsten-carbide-wedding-ring-6mm-or-8mm#Offer_31911708819498\",\"url\":\"https://shopaydins.com/products/halsten-platinum-inlaid-beveled-tungsten-carbide-wedding-ring-6mm-or-8mm?variant=31911708819498\"},{\"@type\":\"Offer\",\"name\":\"6MM / 14\",\"price\":\"692.00\",\"priceCurrency\":\"USD\",\"availability\":\"OutOfStock\",\"itemCondition\":\"http://schema.org/NewCondition\",\"sku\":\"HALSTEN-6-14\",\"@id\":\"https://shopaydins.com/products/halsten-platinum-inlaid-beveled-tungsten-carbide-wedding-ring-6mm-or-8mm#Offer_31911708852266\",\"url\":\"https://shopaydins.com/products/halsten-platinum-inlaid-beveled-tungsten-carbide-wedding-ring-6mm-or-8mm?variant=31911708852266\"},{\"@type\":\"Offer\",\"name\":\"8MM / 4\",\"price\":\"692.00\",\"priceCurrency\":\"USD\",\"availability\":\"InStock\",\"itemCondition\":\"http://schema.org/NewCondition\",\"sku\":\"HALSTEN-8-4\",\"@id\":\"https://shopaydins.com/products/halsten-platinum-inlaid-beveled-tungsten-carbide-wedding-ring-6mm-or-8mm#Offer_31911708885034\",\"url\":\"https://shopaydins.com/products/halsten-platinum-inlaid-beveled-tungsten-carbide-wedding-ring-6mm-or-8mm?variant=31911708885034\"},{\"@type\":\"Offer\",\"name\":\"8MM / 4.5\",\"price\":\"692.00\",\"priceCurrency\":\"USD\",\"availability\":\"InStock\",\"itemCondition\":\"http://schema.org/NewCondition\",\"sku\":\"HALSTEN-8-4.5\",\"@id\":\"https://shopaydins.com/products/halsten-platinum-inlaid-beveled-tungsten-carbide-wedding-ring-6mm-or-8mm#Offer_31911708917802\",\"url\":\"https://shopaydins.com/products/halsten-platinum-inlaid-beveled-tungsten-carbide-wedding-ring-6mm-or-8mm?variant=31911708917802\"},{\"@type\":\"Offer\",\"name\":\"8MM / 5\",\"price\":\"692.00\",\"priceCurrency\":\"USD\",\"availability\":\"InStock\",\"itemCondition\":\"http://schema.org/NewCondition\",\"sku\":\"HALSTEN-8-5\",\"@id\":\"https://shopaydins.com/products/halsten-platinum-inlaid-beveled-tungsten-carbide-wedding-ring-6mm-or-8mm#Offer_31911708950570\",\"url\":\"https://shopaydins.com/products/halsten-platinum-inlaid-beveled-tungsten-carbide-wedding-ring-6mm-or-8mm?variant=31911708950570\"},{\"@type\":\"Offer\",\"name\":\"8MM / 5.5\",\"price\":\"692.00\",\"priceCurrency\":\"USD\",\"availability\":\"InStock\",\"itemCondition\":\"http://schema.org/NewCondition\",\"sku\":\"HALSTEN-8-5.5\",\"@id\":\"https://shopaydins.com/products/halsten-platinum-inlaid-beveled-tungsten-carbide-wedding-ring-6mm-or-8mm#Offer_31911708983338\",\"url\":\"https://shopaydins.com/products/halsten-platinum-inlaid-beveled-tungsten-carbide-wedding-ring-6mm-or-8mm?variant=31911708983338\"},{\"@type\":\"Offer\",\"name\":\"8MM / 6\",\"price\":\"692.00\",\"priceCurrency\":\"USD\",\"availability\":\"InStock\",\"itemCondition\":\"http://schema.org/NewCondition\",\"sku\":\"HALSTEN-8-6\",\"@id\":\"https://shopaydins.com/products/halsten-platinum-inlaid-beveled-tungsten-carbide-wedding-ring-6mm-or-8mm#Offer_31911709016106\",\"url\":\"https://shopaydins.com/products/halsten-platinum-inlaid-beveled-tungsten-carbide-wedding-ring-6mm-or-8mm?variant=31911709016106\"},{\"@type\":\"Offer\",\"name\":\"8MM / 6.5\",\"price\":\"692.00\",\"priceCurrency\":\"USD\",\"availability\":\"InStock\",\"itemCondition\":\"http://schema.org/NewCondition\",\"sku\":\"HALSTEN-8-6.5\",\"@id\":\"https://shopaydins.com/products/halsten-platinum-inlaid-beveled-tungsten-carbide-wedding-ring-6mm-or-8mm#Offer_31911709048874\",\"url\":\"https://shopaydins.com/products/halsten-platinum-inlaid-beveled-tungsten-carbide-wedding-ring-6mm-or-8mm?variant=31911709048874\"},{\"@type\":\"Offer\",\"name\":\"8MM / 7\",\"price\":\"692.00\",\"priceCurrency\":\"USD\",\"availability\":\"InStock\",\"itemCondition\":\"http://schema.org/NewCondition\",\"sku\":\"HALSTEN-8-7\",\"@id\":\"https://shopaydins.com/products/halsten-platinum-inlaid-beveled-tungsten-carbide-wedding-ring-6mm-or-8mm#Offer_31911709081642\",\"url\":\"https://shopaydins.com/products/halsten-platinum-inlaid-beveled-tungsten-carbide-wedding-ring-6mm-or-8mm?variant=31911709081642\"},{\"@type\":\"Offer\",\"name\":\"8MM / 7.5\",\"price\":\"692.00\",\"priceCurrency\":\"USD\",\"availability\":\"InStock\",\"itemCondition\":\"http://schema.org/NewCondition\",\"sku\":\"HALSTEN-8-7.5\",\"@id\":\"https://shopaydins.com/products/halsten-platinum-inlaid-beveled-tungsten-carbide-wedding-ring-6mm-or-8mm#Offer_31911709114410\",\"url\":\"https://shopaydins.com/products/halsten-platinum-inlaid-beveled-tungsten-carbide-wedding-ring-6mm-or-8mm?variant=31911709114410\"},{\"@type\":\"Offer\",\"name\":\"8MM / 8\",\"price\":\"692.00\",\"priceCurrency\":\"USD\",\"availability\":\"InStock\",\"itemCondition\":\"http://schema.org/NewCondition\",\"sku\":\"HALSTEN-8-8\",\"@id\":\"https://shopaydins.com/products/halsten-platinum-inlaid-beveled-tungsten-carbide-wedding-ring-6mm-or-8mm#Offer_31911709147178\",\"url\":\"https://shopaydins.com/products/halsten-platinum-inlaid-beveled-tungsten-carbide-wedding-ring-6mm-or-8mm?variant=31911709147178\"},{\"@type\":\"Offer\",\"name\":\"8MM / 8.5\",\"price\":\"692.00\",\"priceCurrency\":\"USD\",\"availability\":\"InStock\",\"itemCondition\":\"http://schema.org/NewCondition\",\"sku\":\"HALSTEN-8-8.5\",\"@id\":\"https://shopaydins.com/products/halsten-platinum-inlaid-beveled-tungsten-carbide-wedding-ring-6mm-or-8mm#Offer_31911709179946\",\"url\":\"https://shopaydins.com/products/halsten-platinum-inlaid-beveled-tungsten-carbide-wedding-ring-6mm-or-8mm?variant=31911709179946\"},{\"@type\":\"Offer\",\"name\":\"8MM / 9\",\"price\":\"692.00\",\"priceCurrency\":\"USD\",\"availability\":\"InStock\",\"itemCondition\":\"http://schema.org/NewCondition\",\"sku\":\"HALSTEN-8-9\",\"@id\":\"https://shopaydins.com/products/halsten-platinum-inlaid-beveled-tungsten-carbide-wedding-ring-6mm-or-8mm#Offer_31911709212714\",\"url\":\"https://shopaydins.com/products/halsten-platinum-inlaid-beveled-tungsten-carbide-wedding-ring-6mm-or-8mm?variant=31911709212714\"},{\"@type\":\"Offer\",\"name\":\"8MM / 9.5\",\"price\":\"692.00\",\"priceCurrency\":\"USD\",\"availability\":\"InStock\",\"itemCondition\":\"http://schema.org/NewCondition\",\"sku\":\"HALSTEN-8-9.5\",\"@id\":\"https://shopaydins.com/products/halsten-platinum-inlaid-beveled-tungsten-carbide-wedding-ring-6mm-or-8mm#Offer_31911709245482\",\"url\":\"https://shopaydins.com/products/halsten-platinum-inlaid-beveled-tungsten-carbide-wedding-ring-6mm-or-8mm?variant=31911709245482\"},{\"@type\":\"Offer\",\"name\":\"8MM / 10\",\"price\":\"692.00\",\"priceCurrency\":\"USD\",\"availability\":\"InStock\",\"itemCondition\":\"http://schema.org/NewCondition\",\"sku\":\"HALSTEN-8-10\",\"@id\":\"https://shopaydins.com/products/halsten-platinum-inlaid-beveled-tungsten-carbide-wedding-ring-6mm-or-8mm#Offer_31911709278250\",\"url\":\"https://shopaydins.com/products/halsten-platinum-inlaid-beveled-tungsten-carbide-wedding-ring-6mm-or-8mm?variant=31911709278250\"},{\"@type\":\"Offer\",\"name\":\"8MM / 10.5\",\"price\":\"692.00\",\"priceCurrency\":\"USD\",\"availability\":\"InStock\",\"itemCondition\":\"http://schema.org/NewCondition\",\"sku\":\"HALSTEN-8-10.5\",\"@id\":\"https://shopaydins.com/products/halsten-platinum-inlaid-beveled-tungsten-carbide-wedding-ring-6mm-or-8mm#Offer_31911709311018\",\"url\":\"https://shopaydins.com/products/halsten-platinum-inlaid-beveled-tungsten-carbide-wedding-ring-6mm-or-8mm?variant=31911709311018\"},{\"@type\":\"Offer\",\"name\":\"8MM / 11\",\"price\":\"692.00\",\"priceCurrency\":\"USD\",\"availability\":\"InStock\",\"itemCondition\":\"http://schema.org/NewCondition\",\"sku\":\"HALSTEN-8-11\",\"@id\":\"https://shopaydins.com/products/halsten-platinum-inlaid-beveled-tungsten-carbide-wedding-ring-6mm-or-8mm#Offer_31911709343786\",\"url\":\"https://shopaydins.com/products/halsten-platinum-inlaid-beveled-tungsten-carbide-wedding-ring-6mm-or-8mm?variant=31911709343786\"},{\"@type\":\"Offer\",\"name\":\"8MM / 11.5\",\"price\":\"692.00\",\"priceCurrency\":\"USD\",\"availability\":\"InStock\",\"itemCondition\":\"http://schema.org/NewCondition\",\"sku\":\"HALSTEN-8-11.5\",\"@id\":\"https://shopaydins.com/products/halsten-platinum-inlaid-beveled-tungsten-carbide-wedding-ring-6mm-or-8mm#Offer_31911709376554\",\"url\":\"https://shopaydins.com/products/halsten-platinum-inlaid-beveled-tungsten-carbide-wedding-ring-6mm-or-8mm?variant=31911709376554\"},{\"@type\":\"Offer\",\"name\":\"8MM / 12\",\"price\":\"692.00\",\"priceCurrency\":\"USD\",\"availability\":\"InStock\",\"itemCondition\":\"http://schema.org/NewCondition\",\"sku\":\"HALSTEN-8-12\",\"@id\":\"https://shopaydins.com/products/halsten-platinum-inlaid-beveled-tungsten-carbide-wedding-ring-6mm-or-8mm#Offer_31911709409322\",\"url\":\"https://shopaydins.com/products/halsten-platinum-inlaid-beveled-tungsten-carbide-wedding-ring-6mm-or-8mm?variant=31911709409322\"},{\"@type\":\"Offer\",\"name\":\"8MM / 12.5\",\"price\":\"692.00\",\"priceCurrency\":\"USD\",\"availability\":\"InStock\",\"itemCondition\":\"http://schema.org/NewCondition\",\"sku\":\"HALSTEN-8-12.5\",\"@id\":\"https://shopaydins.com/products/halsten-platinum-inlaid-beveled-tungsten-carbide-wedding-ring-6mm-or-8mm#Offer_31911709442090\",\"url\":\"https://shopaydins.com/products/halsten-platinum-inlaid-beveled-tungsten-carbide-wedding-ring-6mm-or-8mm?variant=31911709442090\"},{\"@type\":\"Offer\",\"name\":\"8MM / 13\",\"price\":\"692.00\",\"priceCurrency\":\"USD\",\"availability\":\"InStock\",\"itemCondition\":\"http://schema.org/NewCondition\",\"sku\":\"HALSTEN-8-13\",\"@id\":\"https://shopaydins.com/products/halsten-platinum-inlaid-beveled-tungsten-carbide-wedding-ring-6mm-or-8mm#Offer_31911709474858\",\"url\":\"https://shopaydins.com/products/halsten-platinum-inlaid-beveled-tungsten-carbide-wedding-ring-6mm-or-8mm?variant=31911709474858\"},{\"@type\":\"Offer\",\"name\":\"8MM / 13.5\",\"price\":\"692.00\",\"priceCurrency\":\"USD\",\"availability\":\"InStock\",\"itemCondition\":\"http://schema.org/NewCondition\",\"sku\":\"HALSTEN-8-13.5\",\"@id\":\"https://shopaydins.com/products/halsten-platinum-inlaid-beveled-tungsten-carbide-wedding-ring-6mm-or-8mm#Offer_31911709507626\",\"url\":\"https://shopaydins.com/products/halsten-platinum-inlaid-beveled-tungsten-carbide-wedding-ring-6mm-or-8mm?variant=31911709507626\"},{\"@type\":\"Offer\",\"name\":\"8MM / 14\",\"price\":\"692.00\",\"priceCurrency\":\"USD\",\"availability\":\"InStock\",\"itemCondition\":\"http://schema.org/NewCondition\",\"sku\":\"HALSTEN-8-14\",\"@id\":\"https://shopaydins.com/products/halsten-platinum-inlaid-beveled-tungsten-carbide-wedding-ring-6mm-or-8mm#Offer_31911709540394\",\"url\":\"https://shopaydins.com/products/halsten-platinum-inlaid-beveled-tungsten-carbide-wedding-ring-6mm-or-8mm?variant=31911709540394\"}],\"image\":{\"@type\":\"ImageObject\",\"height\":800,\"width\":800,\"url\":\"https://cdn.shopify.com/s/files/1/1857/8135/products/halsten-tungsten-ring-inlay-beveled-halsten-6-4-aydins-jewelry-841254.jpg?v=1691605225\",\"@id\":\"https://cdn.shopify.com/s/files/1/1857/8135/products/halsten-tungsten-ring-inlay-beveled-halsten-6-4-aydins-jewelry-841254.jpg?v=1691605225\"}}",
+          "type": "string"
+        }
+      },
+      {
+        "node": {
+          "namespace": "mc-facebook",
+          "key": "google_product_category",
+          "value": "200",
+          "type": "string"
+        }
+      },
+      {
+        "node": {
+          "namespace": "mc-facebook",
+          "key": "condition",
+          "value": "new",
+          "type": "string"
+        }
+      },
+      {
+        "node": {
+          "namespace": "customify",
+          "key": "cstmfy_req",
+          "value": "1",
+          "type": "string"
+        }
+      },
+      {
+        "node": {
+          "namespace": "loox",
+          "key": "reviews",
+          "value": "<div id=\"loox-inline-reviews\" style=\"display:none\" data-loox-hash=\"1765298264507\"><div class=\"review\"><div class=\"name\">PRISCILLA D.</div><div class=\"review_text\">Great ring, just as pictured! Great price and great communication! Very pleased. </div></div><div class=\"review\"><div class=\"name\">Adam W.</div><div class=\"review_text\">Great seller. Ring was exactly as pictured and fits perfectly. Good customer service and quick shipping. Not much more to ask for from a seller. Will be buying from them again</div></div></div>",
+          "type": "multi_line_text_field"
+        }
+      },
+      {
+        "node": {
+          "namespace": "loox",
+          "key": "avg_rating",
+          "value": "5.0",
+          "type": "number_decimal"
+        }
+      },
+      {
+        "node": {
+          "namespace": "loox",
+          "key": "num_reviews",
+          "value": "2",
+          "type": "number_integer"
+        }
+      },
+      {
+        "node": {
+          "namespace": "mm-google-shopping",
+          "key": "custom_product",
+          "value": "true",
+          "type": "boolean"
+        }
+      },
+      {
+        "node": {
+          "namespace": "mm-google-shopping",
+          "key": "google_product_category",
+          "value": "200",
+          "type": "string"
+        }
+      },
+      {
+        "node": {
+          "namespace": "custom",
+          "key": "color",
+          "value": "[\"#c0c0c0\"]",
+          "type": "list.color"
+        }
+      },
+      {
+        "node": {
+          "namespace": "mm-google-shopping",
+          "key": "color",
+          "value": "#c0c0c0",
+          "type": "color"
+        }
+      },
+      {
+        "node": {
+          "namespace": "shopify",
+          "key": "age-group",
+          "value": "[\"gid://shopify/Metaobject/56302534893\"]",
+          "type": "list.metaobject_reference"
+        }
+      },
+      {
+        "node": {
+          "namespace": "shopify",
+          "key": "target-gender",
+          "value": "[\"gid://shopify/Metaobject/56064966893\"]",
+          "type": "list.metaobject_reference"
+        }
+      },
+      {
+        "node": {
+          "namespace": "shopify",
+          "key": "color-pattern",
+          "value": "[\"gid://shopify/Metaobject/56066736365\"]",
+          "type": "list.metaobject_reference"
+        }
+      },
+      {
+        "node": {
+          "namespace": "shopify",
+          "key": "ring-design",
+          "value": "[\"gid://shopify/Metaobject/56064704749\"]",
+          "type": "list.metaobject_reference"
+        }
+      },
+      {
+        "node": {
+          "namespace": "mm-google-shopping",
+          "key": "age_group",
+          "value": "adult",
+          "type": "string"
+        }
+      }
+    ]
+  }
+}

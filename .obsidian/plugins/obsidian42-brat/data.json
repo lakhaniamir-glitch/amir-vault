@@ -1,0 +1,24 @@
+{
+  "pluginList": [
+    "oscarhenrycollins/obsidianclaw"
+  ],
+  "pluginSubListFrozenVersion": [
+    {
+      "repo": "oscarhenrycollins/obsidianclaw",
+      "version": ""
+    }
+  ],
+  "themesList": [],
+  "updateAtStartup": true,
+  "updateThemesAtStartup": true,
+  "enableAfterInstall": true,
+  "loggingEnabled": false,
+  "loggingPath": "BRAT-log",
+  "loggingVerboseEnabled": false,
+  "debuggingMode": false,
+  "notificationsEnabled": true,
+  "globalTokenName": "brattt",
+  "personalAccessToken": "",
+  "selectLatestPluginVersionByDefault": true,
+  "allowIncompatiblePlugins": false
+}

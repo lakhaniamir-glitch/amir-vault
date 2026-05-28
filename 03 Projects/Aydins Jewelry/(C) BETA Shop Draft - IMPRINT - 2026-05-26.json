@@ -1,0 +1,94 @@
+{
+  "ok": true,
+  "model": "deterministic-vesuvius-template",
+  "response_format": {
+    "type": "json_object"
+  },
+  "draft": {
+    "status": "ok",
+    "agent": "BETA Shop",
+    "brand": "Aydins",
+    "handle": "finger-print-engraved-mens-wedding-band-two-tone-brushed-black-tungsten-ring-8mm-blue-step-edge-comfort-fit",
+    "title": "IMPRINT | Black Tungsten Fingerprint Ring, Blue Step Edge",
+    "description_html": "<p>IMPRINT is a black tungsten carbide ring with a brushed finish, blue step edges, and a fingerprint engraving detail that makes the design deeply personal without losing its clean, modern edge.</p>\n<p>The 8mm profile gives it a bold feel, while the comfort fit interior keeps it smooth for everyday wear.</p>\n<h3>Key Features</h3>\n<ul>\n<li><strong>Material:</strong> Tungsten carbide</li>\n<li><strong>Inlay/Feature:</strong> Fingerprint engraving detail with blue step edges</li>\n<li><strong>Widths:</strong> 8mm</li>\n<li><strong>Fit:</strong> Comfort fit</li>\n<li><strong>Profile:</strong> Brushed black finish with polished blue step edges</li>\n<li><strong>Engraving:</strong> Inside engraving</li>\n<li><strong>Color:</strong> Black and blue</li>\n<li><strong>Daily wear:</strong> Tungsten carbide is durable and scratch resistant, but it should still be protected from hard impacts.</li>\n</ul>\n<h3>Why IMPRINT</h3>\n<p>IMPRINT turns a classic black tungsten band into something unmistakably personal. The fingerprint detail adds meaning, while the blue step edges give the ring a sharp two-tone finish.</p>",
+    "meta_title": "IMPRINT | Black Tungsten Fingerprint Ring | Aydins",
+    "meta_description": "Black tungsten fingerprint ring with blue step edges, 8mm comfort fit, and inside engraving. Aydins Lifetime Warranty. See policy page for terms.",
+    "tags": [
+      "8mm",
+      "Inside",
+      "Tungsten Rings",
+      "Black",
+      "Blue",
+      "Fingerprint",
+      "Tungsten wedding band",
+      "Black Tungsten Ring",
+      "Blue Ring",
+      "Two Tone Ring",
+      "mens wedding band",
+      "mens ring",
+      "Comfort Fit"
+    ],
+    "image_alt_text": [
+      "IMPRINT black tungsten fingerprint ring with blue step edges"
+    ],
+    "custom_keywords": "Material: Tungsten Carbide\nInlay/Feature: Fingerprint engraving detail with blue step edges\nWidths: 8mm\nFit: Comfort Fit\nProfile: Brushed black finish with polished blue step edges\nEngraving: Inside engraving\nColor: Black and Blue",
+    "custom_quick_specs": "Tungsten Carbide • Fingerprint engraving detail with blue step edges • 8mm • Comfort Fit • Brushed black finish with polished blue step edges • Inside Engraving",
+    "custom_custom_faq": [
+      {
+        "question": "What is IMPRINT made of?",
+        "answer": "IMPRINT is made from tungsten carbide with a brushed black finish, blue step edges, and a fingerprint engraving detail."
+      },
+      {
+        "question": "Is tungsten carbide good for daily wear?",
+        "answer": "Yes. Tungsten carbide is a durable, scratch resistant ring material that works well for daily wear, though it should still be protected from hard impacts."
+      },
+      {
+        "question": "What does the fingerprint engraving detail with blue step edges look like?",
+        "answer": "The fingerprint detail gives the ring a personal engraved pattern, while the blue step edges add a clean two-tone contrast against the brushed black tungsten."
+      },
+      {
+        "question": "Can IMPRINT be engraved?",
+        "answer": "Yes. IMPRINT can be engraved on the inside of the band."
+      },
+      {
+        "question": "Is it comfort fit?",
+        "answer": "Yes. IMPRINT has a comfort fit interior for a smoother feel on the finger."
+      },
+      {
+        "question": "How do I care for a tungsten carbide ring with fingerprint engraving detail?",
+        "answer": "Clean it with mild soap, warm water, and a soft cloth. Avoid harsh chemicals and protect the ring from hard impacts."
+      }
+    ],
+    "faq_schema_jsonld": "{\"@context\":\"https://schema.org\",\"@type\":\"FAQPage\",\"mainEntity\":[{\"@type\":\"Question\",\"name\":\"What is IMPRINT made of?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"IMPRINT is made from tungsten carbide with a brushed black finish, blue step edges, and a fingerprint engraving detail.\"}},{\"@type\":\"Question\",\"name\":\"Is tungsten carbide good for daily wear?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Yes. Tungsten carbide is a durable, scratch resistant ring material that works well for daily wear, though it should still be protected from hard impacts.\"}},{\"@type\":\"Question\",\"name\":\"What does the fingerprint engraving detail with blue step edges look like?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"The fingerprint detail gives the ring a personal engraved pattern, while the blue step edges add a clean two-tone contrast against the brushed black tungsten.\"}},{\"@type\":\"Question\",\"name\":\"Can IMPRINT be engraved?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Yes. IMPRINT can be engraved on the inside of the band.\"}},{\"@type\":\"Question\",\"name\":\"Is it comfort fit?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Yes. IMPRINT has a comfort fit interior for a smoother feel on the finger.\"}},{\"@type\":\"Question\",\"name\":\"How do I care for a tungsten carbide ring with fingerprint engraving detail?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Clean it with mild soap, warm water, and a soft cloth. Avoid harsh chemicals and protect the ring from hard impacts.\"}}]}",
+    "material_info_metafield": {
+      "namespace": "custom",
+      "key": "tungsten_ring_information"
+    },
+    "taxonomy_metafields": {
+      "color": "Black; Blue",
+      "ring_size": "7; 7.5; 8; 8.5; 9; 9.5; 10; 10.5; 11; 11.5; 12; 12.5; 13",
+      "jewelry_material": "Tungsten Carbide",
+      "age_group": "Adult",
+      "jewelry_type": "Ring",
+      "ring_design": "Wedding Band",
+      "target_gender": "Male",
+      "ring_size_chart": "Aydins Ring Size Chart",
+      "gemstone": null
+    },
+    "diff_summary": {
+      "title": "Introduces IMPRINT codename and rewrites the title into the CODENAME pipe descriptor format.",
+      "description": "Rebuilt into VESUVIUS lean structure with product-specific opening, Key Features, and Why IMPRINT close. Removed policy-heavy warranty, return, shipping, sizing, and exchange content.",
+      "meta_title": "Shortened SEO title to stay under 70 characters and focus on codename, material, feature, and brand.",
+      "meta_description": "Rewritten under 150 characters with product facts and approved warranty placement wording.",
+      "tags": "Adds VESUVIUS required ring tags for width, engraving, material collection, visible colors, and feature.",
+      "alt_text": "Uses generic truthful alt text based only on product facts, with no invented scene description.",
+      "custom_keywords": "Adds labeled Quick Specs format required by VESUVIUS.",
+      "custom_quick_specs": "Adds bullet-separated Quick Specs string required by VESUVIUS.",
+      "custom_custom_faq": "Adds 6 product-specific FAQ questions and excludes policy FAQ content.",
+      "faq_schema_jsonld": "Adds FAQPage JSON-LD matching custom_custom_faq exactly.",
+      "material_info_metafield": "Drafts tungsten material information metafield key.",
+      "taxonomy_metafields": "Drafts category and taxonomy values based on known product facts. Gemstone remains null."
+    },
+    "approval_risk": "copy_plus_metafields_no_price_no_image_replacement_no_variant_no_publish"
+  }
+}

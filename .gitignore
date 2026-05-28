@@ -1,0 +1,103 @@
+# ============================================================================
+# Vault .gitignore — keep markdown + small JSON, exclude binary/build/heavy
+# Purpose: sync vault to VPS for Telegram-Claudian context. Strategic content
+# only — no theme files, no image bulk, no build artifacts.
+# ============================================================================
+
+# Obsidian local state (machine-specific, will conflict across machines)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/workspaces.json
+.obsidian/cache
+.obsidian/graph.json
+.obsidian/app.json.bak
+.obsidian/community-plugins-status.json
+
+# OS / IDE noise
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*.swo
+
+# Trash / temp
+.trash/
+_tmp/
+*.tmp
+
+# Playwright + other tooling state
+.playwright/
+.playwright-cli/
+
+# Heavy folders we DON'T need on the VPS
+03 Projects/Aydins Jewelry/02 Build/listing-revamp-overnight-2026-04-22/
+03 Projects/Aydins Jewelry/08 Attachments/
+03 Projects/Aydins Jewelry/data/
+03 Projects/Aydins Jewelry/scripts/
+03 Projects/Aydins Jewelry/(C) Phase 2 Insta Samples - 2026-05-27/
+03 Projects/Aydins Jewelry/(C) Phase 2 Drafts Queue - 2026-05-28/
+03 Projects/(PROJECT TEMPLATE)/
+03 Projects/Thunder Returns/
+theme-migration/
+claude-seo/
+pages/
+
+# Cloned/generated code repos that aren't vault content
+.claude/
+.claudian/
+.agents/
+
+# Large binaries / generated artifacts at root
+hydra_*.json
+hydra_*.ps1
+proof_*.ps1
+proof_*.json
+proof_*.txt
+*-rollout-output.log
+*.log
+
+# Binary file types (Obsidian attachments)
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.webp
+*.svg
+*.ico
+*.pdf
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+*.mp4
+*.mov
+*.mp3
+*.wav
+*.psd
+*.ai
+*.sketch
+*.fig
+
+# Office docs (usually not needed for Claudian context)
+*.xlsx
+*.xls
+*.docx
+*.doc
+*.pptx
+
+# Large JSON exports (>1MB risk; we want small config JSON only)
+**/products.json
+**/products.jsonl
+**/orders.json
+**/inventory.json
+
+# Node / npm
+node_modules/
+package-lock.json
+
+# Backups
+*.bak
+*.bak-*
+
+# Skills lock files
+skills-lock.json

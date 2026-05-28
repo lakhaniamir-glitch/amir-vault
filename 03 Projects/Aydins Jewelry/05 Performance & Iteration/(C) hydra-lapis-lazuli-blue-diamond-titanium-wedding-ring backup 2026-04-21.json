@@ -1,0 +1,56 @@
+{
+  "id": "gid://shopify/Product/1805579059242",
+  "title": "HYDRA | Titanium Ring, Blue Lapis Lazuli Inlay with Blue Diamonds",
+  "handle": "hydra-lapis-lazuli-blue-diamond-titanium-wedding-ring",
+  "status": "ACTIVE",
+  "productType": "Rings",
+  "vendor": "Universal J",
+  "descriptionHtml": "<p><strong> Titanium Wedding Ring with Lapis Lazuli Inlay and Blue Diamonds - 10mm Comfort Fit</strong></p>\n<p>Introducing the HYDRA Ring – where elegance meets sophistication. This stunning wedding band combines the natural beauty of lapis lazuli with the durability of titanium, creating a piece that’s both timeless and unique. Adorned with round blue diamonds and polished beveled edges, the HYDRA Ring is perfect for those who want their jewelry to stand out. Here’s why you’ll fall in love with it:</p>\n<ul>\n<li>\n<strong>Lapis Lazuli Inlay:</strong> The deep blue lapis lazuli inlay, flecked with golden pyrite, adds a touch of luxury and earthiness to the ring.</li>\n<li>\n<strong>Sparkling Blue Diamonds:</strong> Set with brilliant round blue diamonds, this ring catches the light beautifully, adding a touch of sparkle to your every move.</li>\n<li>\n<strong>Durable Titanium Construction:</strong> Known for its incredible strength and lightweight feel, titanium ensures your ring will last a lifetime without losing its shine.</li>\n<li>\n<strong>Polished Beveled Edges:</strong> The sleek, polished beveled edges provide a modern look and ensure the ring is comfortable to wear all day.</li>\n<li>\n<strong>Comfort Fit Design:</strong> At 10mm wide, this ring is designed with a comfort fit interior, ensuring it feels as good as it looks.</li>\n</ul>\n<p>Whether you’re marking a special occasion or simply want to treat yourself to something extraordinary, the HYDRA Ring is the perfect choice. Elevate your style with a ring that’s as unique as you are.</p>\n<!---->",
+  "seo": {
+    "title": "HYDRA | Titanium Ring w/ Lapis Lazuli & Blue Diamonds | Aydins Jewelry",
+    "description": "Discover the HYDRA Titanium Wedding Ring at Aydins Jewelry. Featuring a stunning lapis lazuli inlay, round blue diamonds, and polished beveled edges, this 10mm ring combines elegance with durability. Shop now and add a touch of luxury to your style!"
+  },
+  "priceRangeV2": {
+    "minVariantPrice": {
+      "amount": "1689.0"
+    },
+    "maxVariantPrice": {
+      "amount": "1689.0"
+    }
+  },
+  "totalInventory": 0,
+  "media": {
+    "edges": [
+      {
+        "node": {
+          "id": "gid://shopify/MediaImage/34968955715821",
+          "mediaContentType": "IMAGE",
+          "image": {
+            "url": "https://cdn.shopify.com/s/files/1/1857/8135/files/hydra-titanium-ring-blue-lapis-lazuli-inlay-with-blue-diamonds-rings-aydins-jewelry-686082.jpg?v=1737407752",
+            "altText": ""
+          }
+        }
+      },
+      {
+        "node": {
+          "id": "gid://shopify/MediaImage/33461968535789",
+          "mediaContentType": "IMAGE",
+          "image": {
+            "url": "https://cdn.shopify.com/s/files/1/1857/8135/files/hydra-titanium-ring-blue-lapis-lazuli-inlay-with-blue-diamonds-hydra-10-5-aydins-jewelry-345480.jpg?v=1737226917",
+            "altText": "HYDRA | Titanium Ring, Blue Lapis Lazuli Inlay with Blue Diamonds - Rings - Aydins Jewelry - 2"
+          }
+        }
+      },
+      {
+        "node": {
+          "id": "gid://shopify/MediaImage/33461968568557",
+          "mediaContentType": "IMAGE",
+          "image": {
+            "url": "https://cdn.shopify.com/s/files/1/1857/8135/files/hydra-titanium-ring-blue-lapis-lazuli-inlay-with-blue-diamonds-hydra-10-5-aydins-jewelry-567600.jpg?v=1737226917",
+            "altText": "HYDRA | Titanium Ring, Blue Lapis Lazuli Inlay with Blue Diamonds - Rings - Aydins Jewelry - 3"
+          }
+        }
+      }
+    ]
+  }
+}

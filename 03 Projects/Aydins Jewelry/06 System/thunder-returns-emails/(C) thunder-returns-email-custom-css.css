@@ -1,0 +1,366 @@
+/* =========================================================
+   AYDINS JEWELRY — Thunder Returns transactional email styling
+   ---------------------------------------------------------
+   Source of truth in production: Thunder Returns admin →
+     Brand: Aydins Jewelry → Email settings:
+       (1) Google Fonts URL field (paste separately, NOT in CSS):
+           https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;500;600&family=Poppins:wght@400;500;600&display=swap
+       (2) Custom CSS field (below, 10000-char limit)
+
+   v5 — UNDERSTATED LUXURY (2026-05-15)
+     The v4 paint-job approach used gold as the dominant
+     surface color (label bars, CTA fills, checkmark badges
+     all gold). That reads as decoration, not luxury.
+     Real luxury brands use gold as a WHISPER, not a shout.
+
+   Gold appears in EXACTLY 4 places now:
+     1. Top accent line (2px Warm Gold)
+     2. Card left borders (3px Warm Gold strip)
+     3. Status checkmark circle (Warm Gold fill, Deep Ink check)
+     4. "EXCHANGE" item-type badge (gold text + thin gold border)
+
+   Everything else: Deep Ink, Bone, Charcoal, Hairline.
+
+   Palette:
+     Deep Ink     #0E1116   (frame, headings, CTA fill, footer)
+     Bone         #FAF8F4   (content card, button text)
+     Warm Gold    #B08D57   (accents only — see 4 places above)
+     Charcoal     #333      (body copy)
+     Hairline     #E5E2DB   (borders, dividers)
+     Muted Gold   #C4A87A   (footer support text)
+
+   Fonts: Cormorant Garamond (display), Poppins (body).
+   ========================================================= */
+
+/* ---------- 1. OUTER FRAME ---------- */
+body, body[style] {
+  background: #0E1116 !important;
+  background-color: #0E1116 !important;
+  font-family: 'Poppins', -apple-system, Arial, sans-serif !important;
+  color: #333 !important;
+  margin: 0 !important;
+  padding: 0 !important;
+}
+[style*="background:#1a1a2e"],
+[style*="background: #1a1a2e"],
+[style*="background-color:#1a1a2e"],
+[style*="background-color: #1a1a2e"] {
+  background: #0E1116 !important;
+  background-color: #0E1116 !important;
+}
+
+/* ---------- 2. CONTENT CARD (inner table) ---------- */
+table[style*="background:#fff"],
+table[style*="background: #fff"],
+table[style*="background:#ffffff"],
+table[style*="background: #ffffff"],
+table[style*="background-color:#fff"],
+table[style*="background-color:#ffffff"] {
+  background: #FAF8F4 !important;
+  background-color: #FAF8F4 !important;
+}
+.email-body, .email-content {
+  background: #FAF8F4 !important;
+  color: #333 !important;
+  font-family: 'Poppins', sans-serif !important;
+}
+
+/* ---------- 5. TOP ACCENT LINE (single 2px gold, not gradient) ---------- */
+[style*="linear-gradient"] {
+  background: #B08D57 !important;
+  background-image: none !important;
+  height: 2px !important;
+  min-height: 2px !important;
+  max-height: 2px !important;
+}
+.email-header {
+  background: #FAF8F4 !important;
+  border-top: 2px solid #B08D57 !important;
+  border-bottom: none !important;
+  padding: 32px 32px 16px !important;
+}
+
+/* ---------- 6. HEADING ---------- */
+.email-heading, h1, h2 {
+  font-family: 'Cormorant Garamond', Georgia, serif !important;
+  font-weight: 500 !important;
+  font-size: 28px !important;
+  line-height: 1.25 !important;
+  color: #0E1116 !important;
+  letter-spacing: 0 !important;
+  margin: 0 0 16px !important;
+  text-transform: none !important;
+  font-style: normal !important;
+}
+
+/* ---------- 7. BODY TEXT (no italic, no serif, no gold) ---------- */
+.email-text, .email-greeting, p, td, span, li {
+  font-family: 'Poppins', sans-serif !important;
+  font-size: 14px !important;
+  line-height: 1.7 !important;
+  color: #333 !important;
+  font-style: normal !important;
+  font-weight: 400 !important;
+}
+.email-greeting {
+  margin: 0 0 16px !important;
+}
+
+/* ---------- 3. CARD LABELS — Bone bg + gold LEFT border (no gold fill) ---------- */
+.email-label {
+  background: #FAF8F4 !important;
+  background-color: #FAF8F4 !important;
+  color: #333 !important;
+  font-family: 'Poppins', sans-serif !important;
+  font-size: 11px !important;
+  font-weight: 600 !important;
+  text-transform: uppercase !important;
+  letter-spacing: 0.14em !important;
+  border-left: 3px solid #B08D57 !important;
+  border-top: none !important;
+  border-right: none !important;
+  border-bottom: 1px solid #E5E2DB !important;
+  padding: 10px 14px !important;
+}
+/* Kill the inline dark-slate background on labels */
+.email-label[style*="background:#1E293B"],
+.email-label[style*="background: #1E293B"],
+.email-label[style*="background-color:#1E293B"] {
+  background: #FAF8F4 !important;
+  background-color: #FAF8F4 !important;
+  color: #333 !important;
+}
+
+/* ---------- 4. CARD VALUES ---------- */
+.email-value {
+  background: #FAF8F4 !important;
+  color: #0E1116 !important;
+  font-family: 'Poppins', sans-serif !important;
+  font-size: 14px !important;
+  font-weight: 500 !important;
+  padding: 16px !important;
+  border: none !important;
+}
+
+/* ---------- Cards (containers) ---------- */
+.email-card, .email-item-card {
+  background: #FAF8F4 !important;
+  border: 1px solid #E5E2DB !important;
+  border-radius: 0 !important;
+  box-shadow: none !important;
+  padding: 16px !important;
+  margin: 0 0 16px !important;
+}
+
+/* ---------- 13. All card borders → Hairline ---------- */
+[style*="border:1px solid #e2e8f0"],
+[style*="border: 1px solid #e2e8f0"],
+[style*="border:1px solid #E2E8F0"],
+[style*="border-color:#e2e8f0"] {
+  border-color: #E5E2DB !important;
+}
+
+/* ---------- 8. PRIMARY CTA — Deep Ink fill, thin gold bottom accent ---------- */
+.email-cta, a.email-cta, .email-cta[style] {
+  background: #0E1116 !important;
+  background-color: #0E1116 !important;
+  color: #FAF8F4 !important;
+  font-family: 'Poppins', sans-serif !important;
+  font-size: 12px !important;
+  font-weight: 500 !important;
+  letter-spacing: 0.18em !important;
+  text-transform: uppercase !important;
+  text-decoration: none !important;
+  padding: 16px 32px !important;
+  border: none !important;
+  border-bottom: 2px solid #B08D57 !important;
+  border-radius: 0 !important;
+  box-shadow: none !important;
+  display: inline-block !important;
+}
+/* Kill the inline dark-slate background that's not Deep Ink */
+.email-cta[style*="background:#1E293B"],
+.email-cta[style*="background: #1E293B"] {
+  background: #0E1116 !important;
+  background-color: #0E1116 !important;
+}
+
+/* ---------- 9. SECONDARY CTA — transparent, Deep Ink border ---------- */
+.email-cta-secondary, a.email-cta-secondary {
+  background: transparent !important;
+  background-color: transparent !important;
+  color: #0E1116 !important;
+  font-family: 'Poppins', sans-serif !important;
+  font-size: 12px !important;
+  font-weight: 500 !important;
+  letter-spacing: 0.18em !important;
+  text-transform: uppercase !important;
+  text-decoration: none !important;
+  padding: 16px 32px !important;
+  border: 1px solid #0E1116 !important;
+  border-radius: 0 !important;
+  display: inline-block !important;
+}
+
+/* ---------- 10. STATUS BADGE — no green, no red ---------- */
+.status-badge {
+  background: #FAF8F4 !important;
+  border: 1px solid #E5E2DB !important;
+  color: #333 !important;
+  border-radius: 0 !important;
+  padding: 14px 16px !important;
+  box-shadow: none !important;
+}
+.status-badge *, .status-badge span, .status-badge p {
+  color: #333 !important;
+  font-family: 'Poppins', sans-serif !important;
+}
+/* Checkmark circle — gold fill, Deep Ink mark (covers BOTH positive green
+   #15803d AND negative red #dc2626/#ef4444/#b91c1c inline states) */
+[style*="background:#15803d"],
+[style*="background: #15803d"],
+[style*="background-color:#15803d"],
+[style*="background:#dc2626"],
+[style*="background: #dc2626"],
+[style*="background-color:#dc2626"],
+[style*="background:#ef4444"],
+[style*="background: #ef4444"],
+[style*="background:#b91c1c"],
+[style*="background:#16a34a"],
+[style*="background:#22c55e"] {
+  background: #B08D57 !important;
+  background-color: #B08D57 !important;
+  color: #0E1116 !important;
+}
+[style*="background:#15803d"] *,
+[style*="background:#dc2626"] *,
+[style*="background:#ef4444"] *,
+[style*="background:#b91c1c"] *,
+[style*="background:#16a34a"] *,
+[style*="background:#22c55e"] * {
+  color: #0E1116 !important;
+  fill: #0E1116 !important;
+  stroke: #0E1116 !important;
+}
+
+/* ---------- 11. "WHAT HAPPENS NEXT" BOX — no yellow ---------- */
+[style*="background:#fefce8"],
+[style*="background: #fefce8"],
+[style*="background-color:#fefce8"] {
+  background: #FAF8F4 !important;
+  background-color: #FAF8F4 !important;
+}
+[style*="border:1px solid #fde68a"],
+[style*="border: 1px solid #fde68a"],
+[style*="border-color:#fde68a"] {
+  border: 1px solid #E5E2DB !important;
+  border-color: #E5E2DB !important;
+}
+[style*="background:#fefce8"] h1,
+[style*="background:#fefce8"] h2,
+[style*="background:#fefce8"] h3,
+[style*="background:#fefce8"] strong,
+[style*="background:#fefce8"] b {
+  color: #B08D57 !important;
+  font-family: 'Poppins', sans-serif !important;
+  font-size: 11px !important;
+  font-weight: 600 !important;
+  text-transform: uppercase !important;
+  letter-spacing: 0.14em !important;
+}
+[style*="background:#fefce8"] p,
+[style*="background:#fefce8"] li,
+[style*="background:#fefce8"] span,
+[style*="background:#fefce8"] td {
+  color: #333 !important;
+  font-family: 'Poppins', sans-serif !important;
+  font-size: 14px !important;
+  line-height: 1.7 !important;
+}
+
+/* ---------- 14. ITEM-TYPE BADGE ("EXCHANGE" pill) ---------- */
+.item-type, .item-badge, .exchange-badge, .return-badge, .warranty-badge,
+[class*="item-type"], [class*="-badge"]:not(.status-badge):not(.email-label) {
+  background: transparent !important;
+  background-color: transparent !important;
+  color: #B08D57 !important;
+  border: 1px solid #B08D57 !important;
+  border-radius: 0 !important;
+  font-family: 'Poppins', sans-serif !important;
+  font-size: 10px !important;
+  font-weight: 600 !important;
+  letter-spacing: 0.16em !important;
+  text-transform: uppercase !important;
+  padding: 4px 10px !important;
+}
+
+/* ---------- Divider (kill any brass stripe) ---------- */
+.email-divider, hr {
+  border: none !important;
+  border-top: 1px solid #E5E2DB !important;
+  background: transparent !important;
+  height: 0 !important;
+  margin: 24px 0 !important;
+}
+
+/* ---------- 12. FOOTER — Deep Ink + Bone + muted gold ---------- */
+.email-footer {
+  background: #0E1116 !important;
+  background-color: #0E1116 !important;
+  color: #FAF8F4 !important;
+  padding: 32px !important;
+  text-align: center !important;
+  border-top: 2px solid #B08D57 !important;
+}
+.email-footer * {
+  color: #FAF8F4 !important;
+  font-family: 'Poppins', sans-serif !important;
+}
+.email-footer p, .email-footer span, .email-footer td {
+  font-size: 12px !important;
+  line-height: 1.7 !important;
+  color: #C4A87A !important;
+}
+.email-brand-name {
+  font-family: 'Cormorant Garamond', Georgia, serif !important;
+  font-size: 24px !important;
+  font-weight: 500 !important;
+  color: #FAF8F4 !important;
+  letter-spacing: 0.04em !important;
+  margin: 0 0 8px !important;
+}
+.email-footer a {
+  color: #C4A87A !important;
+  text-decoration: none !important;
+  border-bottom: 1px solid rgba(196, 168, 122, 0.3) !important;
+}
+
+/* ---------- Progress tracker (if rendered) ---------- */
+.progress-tracker, .progress-tracker * {
+  font-family: 'Poppins', sans-serif !important;
+  color: #333 !important;
+}
+
+/* ---------- Shipping instructions ---------- */
+.email-shipping-instructions {
+  background: #FAF8F4 !important;
+  border: 1px solid #E5E2DB !important;
+  color: #333 !important;
+  font-family: 'Poppins', sans-serif !important;
+  padding: 16px !important;
+}
+
+/* ---------- Defensive: kill any remaining italic / serif body leaks ---------- */
+.email-body p, .email-body td, .email-body li, .email-body span {
+  font-style: normal !important;
+  font-family: 'Poppins', sans-serif !important;
+}
+em, i { font-style: normal !important; font-family: 'Poppins', sans-serif !important; }
+
+/* ---------- Links in body ---------- */
+.email-body a {
+  color: #0E1116 !important;
+  text-decoration: underline !important;
+  text-decoration-color: #B08D57 !important;
+  text-underline-offset: 3px !important;
+}
