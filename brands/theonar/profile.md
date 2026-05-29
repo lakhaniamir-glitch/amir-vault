@@ -171,3 +171,49 @@ Theonar uses **the same operational policies** as Aydins so Amir can run both st
 This profile is the locked anchor for Theonar across every surface (Etsy now, future Shopify, future ads, future content). If anything about the brand changes, **edit this file** rather than scattering decisions across other notes. This is the source of truth.
 
 Amir locked the brand on 2026-05-28 in a Claudian conversation, distinguishing Theonar's power positioning from Aydins' polished positioning, after a dashboard chat about whether to build a Theonar Shopify site.
+
+---
+
+## LOCKED 2026-05-28 (final picks)
+
+Amir confirmed Theonar vibe is **Thor / Asgardian power god**, not blacksmith / craftsman.
+
+### Accent direction (LOCKED)
+**Cold Steel** (Direction B) — `#3B6E8F` as primary accent.
+
+Reasoning: Thor's iconography is cold metal + storm blue + deep black + occasional gold detailing. Copper/warm would have evoked Hephaestus/Vulcan (forge god), wrong mythological energy. Cold Steel reads "thunder god / aerospace / cosmic metal."
+
+### Premium-tier accent (ADDED)
+**Aged Bronze** `#8B6F47` — used SPARINGLY for premium tier moments only:
+- Hero product cards on landing pages
+- "Signature collection" badge or sub-brand
+- High-ticket order confirmation emails
+- NEVER as primary UI color, NEVER for body links or buttons
+- Think: the gold detailing on Thor's silver armor — punctuation, not paragraph
+
+### Display font (LOCKED)
+**Anton** — `font-family: 'Anton', sans-serif`
+
+Reasoning: Hits hardest of the four candidates. Tallest, widest, heaviest. Matches the "hammer landing" quality the brand promise requires.
+
+### Body font (LOCKED)
+**Inter Tight** — `font-family: 'Inter Tight', sans-serif`, weights 500-700 preferred for that "substantial" feel.
+
+### Thor anchor (NEW)
+The reference vibe is THOR — the Norse god of thunder. Use this as a creative test when in doubt:
+- "Would Thor wear/use/buy this?" — if yes, on-brand. If no, off-brand.
+- "Does this image/copy/color feel like lightning or like a blacksmith's apron?" — lightning is on, apron is off (lightning = Theonar, apron = wrong).
+- Photography reference vibe: stormy skies, hammered metal textures, deep black backgrounds with single lighting strike, leather and rope props (Norse but not cosplay), mountain/peak imagery (Asgard energy).
+- NEVER include: capes, horned helmets, runes pretending to be Norse, anything that feels like Marvel cosplay. The Thor reference is for ENERGY, not literal aesthetic copying.
+
+### Brand voice samples (revised with Thor anchor)
+
+Old: "Built to outlast everything else you own." (good, keep)
+New supporting lines:
+- "Forged for the strike, the swing, the grip."
+- "Lighter than steel. Heavier than expectation."
+- "Built for the storm."
+- "Worn by those who build, not those who watch."
+- "Titanium. Aerospace-grade. Earth-tested."
+
+The voice should feel like the deity is speaking confidently about his own gear, not like a marketer trying to sell tools.
