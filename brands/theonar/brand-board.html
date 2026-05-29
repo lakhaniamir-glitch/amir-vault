@@ -1,0 +1,317 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<title>Theonar — Brand Board</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Anton&family=Oswald:wght@400;600;700&family=Bebas+Neue&family=Barlow+Condensed:wght@600;700;800&family=Inter+Tight:wght@400;500;600;700&family=DM+Sans:wght@400;500;700&family=Barlow:wght@400;500;700&family=Playfair+Display:wght@600;700&family=Inter:wght@400;500;700&display=swap" rel="stylesheet">
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  html { background: #0a0a0a; color: #e5e7eb; font-family: 'Inter Tight', sans-serif; }
+  body { max-width: 1500px; margin: 0 auto; padding: 40px 32px 80px; }
+  .top { margin-bottom: 56px; }
+  h1.master { font-family: 'Anton', sans-serif; font-size: 96px; letter-spacing: -1px; line-height: 0.9; margin-bottom: 4px; }
+  .eyebrow { font-family: 'Inter Tight', sans-serif; font-size: 11px; text-transform: uppercase; letter-spacing: 0.2em; color: #6b7280; margin-bottom: 12px; }
+  .lede { font-size: 17px; color: #9ca3af; max-width: 720px; line-height: 1.5; }
+
+  /* Section heads */
+  h2 { font-family: 'Anton', sans-serif; font-size: 36px; letter-spacing: 0.04em; text-transform: uppercase; margin: 48px 0 16px; color: #f3f4f6; }
+  h3 { font-family: 'Inter Tight', sans-serif; font-size: 12px; text-transform: uppercase; letter-spacing: 0.25em; color: #9ca3af; margin: 16px 0 12px; font-weight: 600; }
+
+  /* Color swatches */
+  .palette { display: grid; grid-template-columns: repeat(5, 1fr); gap: 10px; margin-bottom: 24px; }
+  .swatch { border-radius: 6px; padding: 24px 14px; min-height: 130px; display: flex; flex-direction: column; justify-content: space-between; position: relative; overflow: hidden; }
+  .swatch .name { font-size: 11px; text-transform: uppercase; letter-spacing: 0.15em; font-weight: 700; opacity: 0.85; }
+  .swatch .hex { font-family: 'Inter Tight', sans-serif; font-size: 13px; font-weight: 600; opacity: 0.95; margin-top: 4px; }
+  .swatch .role { font-size: 10px; text-transform: uppercase; letter-spacing: 0.18em; opacity: 0.6; }
+
+  /* Direction comparison block */
+  .directions { display: grid; grid-template-columns: 1fr 1fr; gap: 28px; margin-bottom: 32px; }
+  .direction-card { background: #111418; border: 1px solid #1f2227; border-radius: 12px; padding: 32px; }
+  .direction-card .label { font-family: 'Anton', sans-serif; font-size: 32px; letter-spacing: 0.05em; text-transform: uppercase; margin-bottom: 4px; }
+  .direction-card .vibe { font-size: 12px; text-transform: uppercase; letter-spacing: 0.25em; color: #6b7280; margin-bottom: 20px; }
+  .direction-card .palette-small { display: grid; grid-template-columns: repeat(3, 1fr); gap: 8px; margin-bottom: 18px; }
+  .direction-card .swatch-small { aspect-ratio: 2/1; border-radius: 4px; display: flex; flex-direction: column; justify-content: flex-end; padding: 10px; font-size: 10px; font-weight: 600; letter-spacing: 0.05em; }
+
+  /* Typography specimens */
+  .type-row { background: #111418; border: 1px solid #1f2227; border-radius: 10px; padding: 28px 32px; margin-bottom: 12px; display: grid; grid-template-columns: 110px 1fr; gap: 24px; align-items: center; }
+  .type-row .name-col { font-family: 'Inter Tight', sans-serif; font-size: 11px; text-transform: uppercase; letter-spacing: 0.2em; color: #9ca3af; font-weight: 700; }
+  .type-row .sample-col .display { font-size: 56px; line-height: 1; }
+  .type-row .sample-col .meta { font-family: 'Inter Tight', sans-serif; font-size: 11px; color: #6b7280; margin-top: 8px; letter-spacing: 0.1em; text-transform: uppercase; }
+  .type-anton .display { font-family: 'Anton', sans-serif; }
+  .type-oswald .display { font-family: 'Oswald', sans-serif; font-weight: 700; }
+  .type-bebas .display { font-family: 'Bebas Neue', sans-serif; }
+  .type-barlow .display { font-family: 'Barlow Condensed', sans-serif; font-weight: 800; }
+
+  /* Voice samples */
+  .voice-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 20px; margin-bottom: 16px; }
+  .voice-card { background: #111418; border: 1px solid #1f2227; border-radius: 10px; padding: 28px; min-height: 220px; }
+  .voice-card .tag { font-size: 10px; text-transform: uppercase; letter-spacing: 0.2em; font-weight: 700; margin-bottom: 14px; padding: 4px 10px; border-radius: 3px; display: inline-block; }
+  .voice-card.aydins .tag { background: rgba(184, 98, 60, 0.15); color: #d97742; }
+  .voice-card.theonar .tag { background: rgba(255, 255, 255, 0.08); color: #e5e7eb; }
+  .voice-card .head { font-size: 26px; font-weight: 700; line-height: 1.2; margin-bottom: 14px; color: #f3f4f6; }
+  .voice-card .body { font-size: 14px; color: #9ca3af; line-height: 1.55; }
+  .voice-card.aydins .head { font-family: 'Inter', sans-serif; }
+  .voice-card.theonar .head { font-family: 'Anton', sans-serif; font-weight: 400; letter-spacing: 0.02em; }
+  .voice-card.theonar .body { font-family: 'Inter Tight', sans-serif; }
+
+  /* Mock product card */
+  .product-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 24px; margin: 20px 0 48px; }
+  .product-card { border-radius: 12px; overflow: hidden; }
+  .product-card.aydins { background: linear-gradient(135deg, #1a1518 0%, #0f0a0c 100%); border: 1px solid #2d2024; }
+  .product-card.theonar-warm { background: linear-gradient(135deg, #0f1115 0%, #050608 100%); border: 1px solid #1f2227; }
+  .product-card.theonar-cold { background: linear-gradient(135deg, #0f1417 0%, #050709 100%); border: 1px solid #1d2227; }
+  .product-card .image { aspect-ratio: 16/10; background: #2d2d2d; display: flex; align-items: center; justify-content: center; color: #555; font-family: 'Inter', sans-serif; font-size: 13px; letter-spacing: 0.1em; text-transform: uppercase; position: relative; }
+  .product-card.aydins .image { background: radial-gradient(circle at 50% 50%, #3d2e2a, #1a1518); }
+  .product-card.theonar-warm .image { background: radial-gradient(circle at 50% 50%, #2a1f1a, #0a0a0a); }
+  .product-card.theonar-cold .image { background: radial-gradient(circle at 50% 50%, #1a2225, #050709); }
+  .product-card .body { padding: 24px 26px; }
+  .product-card .brand-tag { font-size: 10px; text-transform: uppercase; letter-spacing: 0.25em; margin-bottom: 8px; font-weight: 700; }
+  .product-card.aydins .brand-tag { color: #d97742; font-family: 'Inter', sans-serif; }
+  .product-card.theonar-warm .brand-tag { color: #d97742; font-family: 'Anton', sans-serif; letter-spacing: 0.35em; }
+  .product-card.theonar-cold .brand-tag { color: #3b6e8f; font-family: 'Anton', sans-serif; letter-spacing: 0.35em; }
+  .product-card .title { font-size: 22px; font-weight: 700; line-height: 1.2; margin-bottom: 6px; color: #f3f4f6; }
+  .product-card.aydins .title { font-family: 'Playfair Display', serif; font-weight: 600; }
+  .product-card.theonar-warm .title, .product-card.theonar-cold .title { font-family: 'Anton', sans-serif; font-weight: 400; text-transform: uppercase; letter-spacing: 0.04em; }
+  .product-card .price { font-family: 'Inter Tight', sans-serif; font-size: 16px; color: #9ca3af; font-weight: 600; margin-bottom: 12px; }
+  .product-card .copy { font-size: 13px; line-height: 1.55; color: #9ca3af; }
+  .product-card.aydins .copy { font-family: 'Inter', sans-serif; }
+  .product-card.theonar-warm .copy, .product-card.theonar-cold .copy { font-family: 'Inter Tight', sans-serif; }
+
+  /* Side by side big comparison */
+  .compare { display: grid; grid-template-columns: 1fr 1fr; gap: 24px; }
+  .compare-card { background: #111418; border: 1px solid #1f2227; border-radius: 12px; padding: 36px; min-height: 360px; }
+  .compare-card .who { font-family: 'Inter Tight', sans-serif; font-size: 11px; text-transform: uppercase; letter-spacing: 0.25em; color: #6b7280; margin-bottom: 8px; font-weight: 700; }
+  .compare-card .name { font-size: 56px; line-height: 1; margin-bottom: 18px; }
+  .compare-card.aydins .name { font-family: 'Playfair Display', serif; font-weight: 600; color: #f3f4f6; }
+  .compare-card.theonar .name { font-family: 'Anton', sans-serif; color: #f3f4f6; text-transform: uppercase; letter-spacing: 0.02em; }
+  .compare-card .tagline { font-size: 18px; line-height: 1.4; margin-bottom: 24px; color: #d1d5db; }
+  .compare-card.aydins .tagline { font-family: 'Inter', sans-serif; font-style: italic; }
+  .compare-card.theonar .tagline { font-family: 'Inter Tight', sans-serif; font-weight: 600; }
+  .compare-card .attributes { display: grid; grid-template-columns: 110px 1fr; gap: 10px 16px; font-size: 13px; }
+  .compare-card .attributes .k { color: #6b7280; text-transform: uppercase; font-size: 10px; letter-spacing: 0.18em; padding-top: 3px; }
+  .compare-card .attributes .v { color: #d1d5db; }
+
+  /* Notice block */
+  .pick { background: linear-gradient(135deg, rgba(184,98,60,0.08), rgba(45,49,56,0.5)); border: 1px solid #2a2f36; border-radius: 10px; padding: 24px 28px; margin: 32px 0 48px; }
+  .pick .label { font-size: 11px; text-transform: uppercase; letter-spacing: 0.2em; color: #d97742; font-weight: 700; margin-bottom: 8px; }
+  .pick .text { font-size: 14px; color: #d1d5db; line-height: 1.5; }
+</style>
+</head>
+<body>
+
+<div class="top">
+  <div class="eyebrow">Brand Board · Locked 2026-05-28</div>
+  <h1 class="master">THEONAR</h1>
+  <p class="lede">Titanium wedding bands built to outlast everything else you own. Power-built brand for the hands-on groom — distinct from Aydins (polished tungsten). Same operational policies. Different brand world.</p>
+</div>
+
+<h2>The Side-by-Side</h2>
+<div class="compare">
+  <div class="compare-card aydins">
+    <div class="who">Sibling — for context</div>
+    <div class="name">Aydins</div>
+    <div class="tagline">"A wedding band should feel personal."</div>
+    <div class="attributes">
+      <div class="k">Material</div><div class="v">Tungsten (heavy, dense, premium feel)</div>
+      <div class="k">Customer</div><div class="v">Traditional groom, weight = quality</div>
+      <div class="k">Vibe</div><div class="v">Polished, jeweler, refined masculine</div>
+      <div class="k">Voice</div><div class="v">Editorial, soft openers, story-led</div>
+      <div class="k">Trust</div><div class="v">Since 2011, established jeweler</div>
+      <div class="k">Closer</div><div class="v">"Make it personal at Aydins."</div>
+    </div>
+  </div>
+  <div class="compare-card theonar">
+    <div class="who">The new one — Theonar</div>
+    <div class="name">THEONAR</div>
+    <div class="tagline">"Built to outlast everything else you own."</div>
+    <div class="attributes">
+      <div class="k">Material</div><div class="v">Titanium (strong, light, indestructible)</div>
+      <div class="k">Customer</div><div class="v">Hands-on groom, ring as a tool</div>
+      <div class="k">Vibe</div><div class="v">Industrial, raw, tactical-not-military</div>
+      <div class="k">Voice</div><div class="v">Short declarative, no fluff, imperative</div>
+      <div class="k">Trust</div><div class="v">Spec + reviews + policy clarity</div>
+      <div class="k">Closer</div><div class="v">"Forge it in. Wear it harder than anything."</div>
+    </div>
+  </div>
+</div>
+
+<h2>Core Palette</h2>
+<h3>Always-present base colors</h3>
+<div class="palette">
+  <div class="swatch" style="background:#0A0A0A; color:#fff;">
+    <div>
+      <div class="name">Matte Black</div>
+      <div class="role">Primary</div>
+    </div>
+    <div class="hex">#0A0A0A</div>
+  </div>
+  <div class="swatch" style="background:#2D3138; color:#fff;">
+    <div>
+      <div class="name">Gunmetal</div>
+      <div class="role">Primary surface</div>
+    </div>
+    <div class="hex">#2D3138</div>
+  </div>
+  <div class="swatch" style="background:#1A1D21; color:#fff;">
+    <div>
+      <div class="name">Charcoal</div>
+      <div class="role">Secondary surface</div>
+    </div>
+    <div class="hex">#1A1D21</div>
+  </div>
+  <div class="swatch" style="background:#0F1115; color:#fff;">
+    <div>
+      <div class="name">Deep Slate</div>
+      <div class="role">Backgrounds</div>
+    </div>
+    <div class="hex">#0F1115</div>
+  </div>
+  <div class="swatch" style="background:#e5e7eb; color:#111;">
+    <div>
+      <div class="name">Bone</div>
+      <div class="role">Text on dark</div>
+    </div>
+    <div class="hex">#E5E7EB</div>
+  </div>
+</div>
+
+<h2>Pick One Accent Direction</h2>
+<div class="directions">
+  <div class="direction-card">
+    <div class="label">DIRECTION A</div>
+    <div class="vibe">Industrial Warm · workshop · rugged</div>
+    <div class="palette-small">
+      <div class="swatch-small" style="background:#0A0A0A; color:#fff;"><span>Matte Black<br>#0A0A0A</span></div>
+      <div class="swatch-small" style="background:#2D3138; color:#fff;"><span>Gunmetal<br>#2D3138</span></div>
+      <div class="swatch-small" style="background:#B8623C; color:#fff;"><span>Burnt Copper<br>#B8623C</span></div>
+      <div class="swatch-small" style="background:#D97742; color:#fff;"><span>Ember Orange<br>#D97742</span></div>
+      <div class="swatch-small" style="background:#1A1D21; color:#fff;"><span>Charcoal<br>#1A1D21</span></div>
+      <div class="swatch-small" style="background:#E5E7EB; color:#111;"><span>Bone<br>#E5E7EB</span></div>
+    </div>
+    <div style="font-size:13px; color:#9ca3af; line-height:1.55;">
+      Reads <strong style="color:#d97742;">warmer</strong>. Workshop / blacksmith / leather-apron energy. Burnt copper as the "click here" / call-to-action color. Best if Theonar leans into "hand-built / forge-style / craftsman" identity.
+    </div>
+  </div>
+  <div class="direction-card">
+    <div class="label">DIRECTION B</div>
+    <div class="vibe">Cold Steel · precision · tactical</div>
+    <div class="palette-small">
+      <div class="swatch-small" style="background:#0A0A0A; color:#fff;"><span>Matte Black<br>#0A0A0A</span></div>
+      <div class="swatch-small" style="background:#2D3138; color:#fff;"><span>Gunmetal<br>#2D3138</span></div>
+      <div class="swatch-small" style="background:#3B6E8F; color:#fff;"><span>Cold Steel<br>#3B6E8F</span></div>
+      <div class="swatch-small" style="background:#2B4F4A; color:#fff;"><span>Oxide Teal<br>#2B4F4A</span></div>
+      <div class="swatch-small" style="background:#1A1D21; color:#fff;"><span>Charcoal<br>#1A1D21</span></div>
+      <div class="swatch-small" style="background:#E5E7EB; color:#111;"><span>Bone<br>#E5E7EB</span></div>
+    </div>
+    <div style="font-size:13px; color:#9ca3af; line-height:1.55;">
+      Reads <strong style="color:#3b6e8f;">cooler</strong>. Aerospace / engineering / precision-tool energy. Cold steel blue as the call-to-action. Best if Theonar leans into "engineered / aerospace-grade / built-for-precision" identity.
+    </div>
+  </div>
+</div>
+
+<div class="pick">
+  <div class="label">Choice impact</div>
+  <div class="text">Both directions are correct. The choice steers all future creative — IG aesthetic, product photography, ad creative, eventual Shopify theme. <strong>Direction A (warm)</strong> = blacksmith / craftsman emotion. <strong>Direction B (cold)</strong> = engineer / precision emotion. Pick the one the average Theonar customer would actually be drawn to.</div>
+</div>
+
+<h2>Display Font — Pick One</h2>
+<div class="type-row type-anton">
+  <div class="name-col">Anton</div>
+  <div class="sample-col">
+    <div class="display">BUILT TO OUTLAST EVERYTHING</div>
+    <div class="meta">Most muscle · Tallest · Highest impact · Classic industrial</div>
+  </div>
+</div>
+<div class="type-row type-oswald">
+  <div class="name-col">Oswald</div>
+  <div class="sample-col">
+    <div class="display">BUILT TO OUTLAST EVERYTHING</div>
+    <div class="meta">Slightly more refined industrial · Still strong · Works at small sizes</div>
+  </div>
+</div>
+<div class="type-row type-bebas">
+  <div class="name-col">Bebas Neue</div>
+  <div class="sample-col">
+    <div class="display">BUILT TO OUTLAST EVERYTHING</div>
+    <div class="meta">Tallest, cleanest · Most modern · Less aggressive than Anton</div>
+  </div>
+</div>
+<div class="type-row type-barlow">
+  <div class="name-col">Barlow Condensed</div>
+  <div class="sample-col">
+    <div class="display">BUILT TO OUTLAST EVERYTHING</div>
+    <div class="meta">Geometric · Technical · Slightly nerdier · Best with cold-steel palette</div>
+  </div>
+</div>
+
+<h3 style="margin-top:24px;">Body / supporting copy font (paired with display)</h3>
+<div class="type-row" style="grid-template-columns: 110px 1fr; align-items:center;">
+  <div class="name-col">Inter Tight</div>
+  <div class="sample-col" style="font-family:'Inter Tight',sans-serif; font-weight:500;">
+    <div style="font-size:18px; line-height:1.5;">
+      The same titanium ring used by 50,000 fingers around the world. Light enough you forget you're wearing it. Strong enough you don't have to baby it. Engineered for daily wear, hand-checked before it ships.
+    </div>
+    <div class="meta">Default body font · Excellent at small sizes · Reads clean and modern</div>
+  </div>
+</div>
+
+<h2>Voice in Action</h2>
+<div class="voice-grid">
+  <div class="voice-card aydins">
+    <div class="tag">Aydins (for contrast)</div>
+    <div class="head">A wedding band should feel personal.</div>
+    <div class="body">IMPRINT pairs black brushed tungsten with blue step edges and fingerprint engraving for a ring that carries more than a look. It carries a mark that is yours.<br><br>Make it personal at Aydins.</div>
+  </div>
+  <div class="voice-card theonar">
+    <div class="tag">Theonar</div>
+    <div class="head">BUILT TO OUTLAST EVERYTHING ELSE YOU OWN.</div>
+    <div class="body">Titanium. Aerospace-grade. Lighter than your watch. Stronger than your wedding ring deserves to be.<br><br>Wear it on the job, in the gym, in the shop. It doesn't care. Forge it in. Wear it harder than anything else.</div>
+  </div>
+</div>
+
+<h2>Mock Product Card — Three Brands Side by Side</h2>
+<div class="product-grid" style="grid-template-columns: 1fr 1fr 1fr;">
+  <div class="product-card aydins">
+    <div class="image"></div>
+    <div class="body">
+      <div class="brand-tag">Aydins · Tungsten</div>
+      <div class="title">IMPRINT</div>
+      <div class="price">$249</div>
+      <div class="copy">Black brushed tungsten with blue step edges. Fingerprint engraving inside. Comfort fit, made personal. Aydins Lifetime Warranty.</div>
+    </div>
+  </div>
+  <div class="product-card theonar-warm">
+    <div class="image"></div>
+    <div class="body">
+      <div class="brand-tag">THEONAR · WARM</div>
+      <div class="title">FORGE</div>
+      <div class="price">$229</div>
+      <div class="copy">Brushed titanium. Aerospace-grade. Hypoallergenic. Wear it harder than your tools. Theonar Lifetime Warranty.</div>
+    </div>
+  </div>
+  <div class="product-card theonar-cold">
+    <div class="image"></div>
+    <div class="body">
+      <div class="brand-tag">THEONAR · COLD</div>
+      <div class="title">FORGE</div>
+      <div class="price">$229</div>
+      <div class="copy">Brushed titanium. Aerospace-grade. Hypoallergenic. Wear it harder than your tools. Theonar Lifetime Warranty.</div>
+    </div>
+  </div>
+</div>
+
+<div class="pick">
+  <div class="label">Next step</div>
+  <div class="text">Look at this board. Two questions to answer:
+  <br><br>
+  <strong>1.</strong> Direction A (Industrial Warm — burnt copper accent) or Direction B (Cold Steel — steel blue accent)?
+  <br>
+  <strong>2.</strong> Display font: Anton / Oswald / Bebas Neue / Barlow Condensed?
+  <br><br>
+  Tell me your two picks and I'll lock them into the brand profile. Then BETA Etsy is ready to start refreshing Theonar listings against the locked brand.</div>
+</div>
+
+</body>
+</html>

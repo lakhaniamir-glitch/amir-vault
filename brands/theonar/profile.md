@@ -217,3 +217,26 @@ New supporting lines:
 - "Titanium. Aerospace-grade. Earth-tested."
 
 The voice should feel like the deity is speaking confidently about his own gear, not like a marketer trying to sell tools.
+
+
+---
+
+## FINAL APPROVAL — 2026-05-28
+
+Amir reviewed the rendered brand board (brand-board-LOCKED.html / .png) and approved all picks. Brand identity is now LOCKED for execution:
+
+- Display font: **Anton** (final)
+- Body font: **Inter Tight** (final)
+- Primary accent: **Cold Steel #3B6E8F** (final)
+- Secondary accent: Oxide Teal #2B4F4A (final)
+- Premium-tier accent: Aged Bronze #8B6F47 (used sparingly, final)
+- Thor anchor: locked
+- Anti-positioning rules: locked
+- Voice rules: locked
+- Universal Aydins-stack rules: inherited
+
+No further iteration on visual identity. Any change to the above requires an explicit new Claudian conversation to revisit, not a one-off tweak.
+
+The locked brand board is at brands/theonar/brand-board-LOCKED.html and brands/theonar/brand-board-LOCKED.png. Treat those as reference frozen at this date.
+
+

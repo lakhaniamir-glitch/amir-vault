@@ -1,0 +1,293 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<title>Theonar — Locked Brand Identity</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Anton&family=Inter+Tight:wght@400;500;600;700;800&family=Playfair+Display:wght@600&display=swap" rel="stylesheet">
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  html { background: #0A0A0A; color: #E5E7EB; font-family: 'Inter Tight', sans-serif; line-height: 1.5; }
+  body { max-width: 1500px; margin: 0 auto; padding: 40px 32px 100px; }
+
+  /* Top hero */
+  .hero { background: radial-gradient(ellipse at top, rgba(59,110,143,0.25) 0%, transparent 60%), linear-gradient(180deg, #0A0A0A, #050608); border: 1px solid #1F2227; border-radius: 16px; padding: 80px 60px; margin-bottom: 56px; position: relative; overflow: hidden; }
+  .hero::before { content: ''; position: absolute; top: 30px; right: 60px; width: 320px; height: 320px; background: radial-gradient(circle, rgba(59,110,143,0.4) 0%, transparent 70%); pointer-events: none; }
+  .hero .stamp { font-size: 10px; text-transform: uppercase; letter-spacing: 0.3em; color: #3B6E8F; font-weight: 700; margin-bottom: 12px; }
+  .hero h1 { font-family: 'Anton', sans-serif; font-size: 144px; letter-spacing: -2px; line-height: 0.9; color: #F3F4F6; }
+  .hero .tagline { font-family: 'Inter Tight', sans-serif; font-size: 22px; font-weight: 500; color: #D1D5DB; margin-top: 16px; max-width: 700px; }
+  .hero .anchor { font-size: 11px; text-transform: uppercase; letter-spacing: 0.3em; color: #8B6F47; margin-top: 32px; font-weight: 700; }
+
+  /* Section heads */
+  h2 { font-family: 'Anton', sans-serif; font-size: 48px; letter-spacing: 0.03em; text-transform: uppercase; margin: 56px 0 8px; color: #F3F4F6; }
+  h2 .num { color: #3B6E8F; margin-right: 16px; }
+  .h2-sub { font-size: 13px; color: #6B7280; text-transform: uppercase; letter-spacing: 0.2em; margin-bottom: 24px; font-weight: 600; }
+
+  /* Palette grid */
+  .palette { display: grid; grid-template-columns: repeat(4, 1fr); gap: 14px; }
+  .swatch { border-radius: 8px; padding: 32px 20px; min-height: 170px; display: flex; flex-direction: column; justify-content: space-between; border: 1px solid rgba(255,255,255,0.04); }
+  .swatch .name { font-family: 'Anton', sans-serif; font-size: 22px; letter-spacing: 0.05em; text-transform: uppercase; }
+  .swatch .role { font-size: 10px; text-transform: uppercase; letter-spacing: 0.18em; opacity: 0.7; margin-top: 4px; font-weight: 600; }
+  .swatch .hex { font-family: 'Inter Tight', sans-serif; font-size: 15px; font-weight: 700; opacity: 0.9; }
+  .accent-row { display: grid; grid-template-columns: 2fr 1fr; gap: 14px; margin-top: 14px; }
+  .swatch-cta { padding: 36px 24px; }
+  .swatch-cta .name { font-size: 28px; }
+
+  /* Type spec */
+  .type-spec { background: #111418; border: 1px solid #1F2227; border-radius: 12px; padding: 48px 40px; margin-bottom: 16px; }
+  .type-spec .label { font-size: 10px; text-transform: uppercase; letter-spacing: 0.3em; color: #3B6E8F; font-weight: 700; margin-bottom: 12px; }
+  .type-spec.display .specimen { font-family: 'Anton', sans-serif; font-size: 100px; line-height: 0.95; color: #F3F4F6; }
+  .type-spec.body .specimen { font-family: 'Inter Tight', sans-serif; font-size: 19px; font-weight: 500; color: #D1D5DB; max-width: 800px; line-height: 1.55; }
+  .type-spec .name-stat { display: flex; gap: 32px; margin-top: 20px; padding-top: 18px; border-top: 1px solid #1F2227; }
+  .type-spec .stat { font-size: 11px; color: #6B7280; text-transform: uppercase; letter-spacing: 0.15em; }
+  .type-spec .stat strong { color: #E5E7EB; font-weight: 700; }
+
+  /* Voice samples */
+  .voice-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 20px; }
+  .voice-card { background: #111418; border: 1px solid #1F2227; border-radius: 12px; padding: 36px 32px; min-height: 240px; position: relative; }
+  .voice-card .tag { position: absolute; top: 20px; right: 20px; font-size: 10px; text-transform: uppercase; letter-spacing: 0.25em; font-weight: 700; padding: 5px 12px; border-radius: 3px; background: rgba(59,110,143,0.15); color: #3B6E8F; }
+  .voice-card .head { font-family: 'Anton', sans-serif; font-size: 36px; line-height: 1; text-transform: uppercase; color: #F3F4F6; margin-bottom: 18px; letter-spacing: 0.01em; }
+  .voice-card .body { font-family: 'Inter Tight', sans-serif; font-size: 15px; color: #9CA3AF; line-height: 1.6; }
+  .voice-card .body strong { color: #E5E7EB; }
+  .voice-card .closer { font-family: 'Anton', sans-serif; font-size: 17px; text-transform: uppercase; letter-spacing: 0.05em; color: #3B6E8F; margin-top: 20px; padding-top: 16px; border-top: 1px solid #1F2227; }
+
+  /* Product mock */
+  .product-mock { background: linear-gradient(135deg, #0F1417 0%, #050709 100%); border: 1px solid #1D2227; border-radius: 12px; overflow: hidden; max-width: 480px; }
+  .product-mock .image { aspect-ratio: 16/10; background: radial-gradient(circle at 50% 50%, #1a2225 0%, #050709 70%); display: flex; align-items: center; justify-content: center; position: relative; }
+  .product-mock .image::before { content: 'PRODUCT PHOTO'; font-family: 'Inter Tight', sans-serif; font-size: 10px; text-transform: uppercase; letter-spacing: 0.3em; color: #2D3138; }
+  .product-mock .image::after { content: ''; position: absolute; bottom: 0; left: 0; right: 0; height: 1px; background: linear-gradient(90deg, transparent, #3B6E8F 50%, transparent); }
+  .product-mock .body { padding: 28px 32px 32px; }
+  .product-mock .brand-tag { font-family: 'Anton', sans-serif; font-size: 11px; letter-spacing: 0.35em; color: #3B6E8F; font-weight: 400; margin-bottom: 10px; }
+  .product-mock .title { font-family: 'Anton', sans-serif; font-size: 32px; text-transform: uppercase; letter-spacing: 0.03em; color: #F3F4F6; margin-bottom: 4px; }
+  .product-mock .price { font-family: 'Inter Tight', sans-serif; font-size: 18px; color: #D1D5DB; font-weight: 600; margin-bottom: 16px; }
+  .product-mock .copy { font-family: 'Inter Tight', sans-serif; font-size: 14px; color: #9CA3AF; line-height: 1.6; margin-bottom: 24px; }
+  .product-mock .cta { background: #3B6E8F; color: white; padding: 14px 24px; border-radius: 4px; font-family: 'Anton', sans-serif; font-size: 14px; letter-spacing: 0.15em; text-transform: uppercase; display: inline-block; }
+  .product-mock .badge { display: inline-block; background: rgba(139,111,71,0.15); color: #B89A6E; padding: 4px 10px; border-radius: 3px; font-size: 10px; text-transform: uppercase; letter-spacing: 0.2em; font-weight: 700; margin-bottom: 14px; }
+
+  /* Anchor block */
+  .anchor-card { background: linear-gradient(135deg, rgba(59,110,143,0.12) 0%, rgba(15,17,21,0.6) 100%); border: 1px solid #2A3540; border-radius: 12px; padding: 36px 40px; margin: 32px 0; }
+  .anchor-card .label { font-family: 'Anton', sans-serif; font-size: 13px; letter-spacing: 0.3em; color: #3B6E8F; margin-bottom: 16px; }
+  .anchor-card .anchor-quote { font-family: 'Inter Tight', sans-serif; font-size: 22px; font-weight: 500; color: #E5E7EB; line-height: 1.4; margin-bottom: 20px; }
+  .anchor-card .grid { display: grid; grid-template-columns: 1fr 1fr; gap: 24px; }
+  .anchor-card .on, .anchor-card .off { padding: 16px 20px; border-radius: 6px; }
+  .anchor-card .on { background: rgba(59,110,143,0.1); border-left: 3px solid #3B6E8F; }
+  .anchor-card .off { background: rgba(184,98,60,0.06); border-left: 3px solid #6B7280; }
+  .anchor-card .on .h, .anchor-card .off .h { font-size: 11px; text-transform: uppercase; letter-spacing: 0.2em; font-weight: 700; margin-bottom: 8px; }
+  .anchor-card .on .h { color: #3B6E8F; }
+  .anchor-card .off .h { color: #9CA3AF; }
+  .anchor-card .on .l, .anchor-card .off .l { font-size: 14px; color: #D1D5DB; line-height: 1.55; }
+
+  /* Side by side compare */
+  .compare { display: grid; grid-template-columns: 1fr 1fr; gap: 24px; }
+  .compare-card { background: #111418; border: 1px solid #1F2227; border-radius: 12px; padding: 36px; min-height: 320px; }
+  .compare-card .who { font-family: 'Inter Tight', sans-serif; font-size: 10px; text-transform: uppercase; letter-spacing: 0.25em; color: #6B7280; margin-bottom: 8px; font-weight: 700; }
+  .compare-card .name { font-size: 56px; line-height: 1; margin-bottom: 18px; }
+  .compare-card.aydins .name { font-family: 'Playfair Display', serif; font-weight: 600; color: #D97742; }
+  .compare-card.theonar .name { font-family: 'Anton', sans-serif; color: #3B6E8F; text-transform: uppercase; letter-spacing: 0.02em; }
+  .compare-card .tagline { font-size: 18px; line-height: 1.4; margin-bottom: 24px; color: #D1D5DB; }
+  .compare-card.aydins .tagline { font-family: 'Inter', sans-serif; font-style: italic; }
+  .compare-card.theonar .tagline { font-family: 'Inter Tight', sans-serif; font-weight: 600; }
+  .compare-card .attributes { display: grid; grid-template-columns: 110px 1fr; gap: 8px 16px; font-size: 13px; }
+  .compare-card .attributes .k { color: #6B7280; text-transform: uppercase; font-size: 10px; letter-spacing: 0.18em; padding-top: 3px; }
+  .compare-card .attributes .v { color: #D1D5DB; }
+
+  /* Bottom CTA */
+  .next-card { background: linear-gradient(135deg, #3B6E8F 0%, #2A4A65 100%); border-radius: 12px; padding: 40px 48px; margin-top: 48px; }
+  .next-card .label { font-family: 'Anton', sans-serif; font-size: 14px; letter-spacing: 0.3em; color: rgba(255,255,255,0.6); margin-bottom: 12px; }
+  .next-card h3 { font-family: 'Anton', sans-serif; font-size: 36px; text-transform: uppercase; letter-spacing: 0.03em; color: white; margin-bottom: 12px; }
+  .next-card .text { color: rgba(255,255,255,0.85); font-size: 15px; line-height: 1.6; max-width: 700px; }
+
+</style>
+</head>
+<body>
+
+<div class="hero">
+  <div class="stamp">⚡ Locked · 2026-05-28 · Brand Identity</div>
+  <h1>THEONAR</h1>
+  <div class="tagline">Titanium wedding bands built to outlast everything else you own.</div>
+  <div class="anchor">Anchor: Thor · Asgardian power · Lightning forged into the finger</div>
+</div>
+
+<h2><span class="num">01</span>POSITIONING SIDE-BY-SIDE</h2>
+<div class="h2-sub">How Theonar lives next to Aydins — distinct brand worlds, same operational policies</div>
+<div class="compare">
+  <div class="compare-card aydins">
+    <div class="who">Aydins · Sibling brand (for contrast)</div>
+    <div class="name">Aydins</div>
+    <div class="tagline">"A wedding band should feel personal."</div>
+    <div class="attributes">
+      <div class="k">Material</div><div class="v">Tungsten</div>
+      <div class="k">Customer</div><div class="v">Traditional groom, weight as quality signal</div>
+      <div class="k">Vibe</div><div class="v">Polished, jeweler, refined masculine</div>
+      <div class="k">Voice</div><div class="v">Editorial, soft openers, story-led</div>
+      <div class="k">Trust</div><div class="v">Since 2011, established jeweler heritage</div>
+    </div>
+  </div>
+  <div class="compare-card theonar">
+    <div class="who">Theonar · The new one</div>
+    <div class="name">THEONAR</div>
+    <div class="tagline">"Built to outlast everything else you own."</div>
+    <div class="attributes">
+      <div class="k">Material</div><div class="v">Titanium</div>
+      <div class="k">Customer</div><div class="v">Hands-on groom, ring as a tool</div>
+      <div class="k">Vibe</div><div class="v">Thor / Asgardian / power-built</div>
+      <div class="k">Voice</div><div class="v">Short, declarative, imperative</div>
+      <div class="k">Trust</div><div class="v">Spec + reviews + policy clarity</div>
+    </div>
+  </div>
+</div>
+
+<h2><span class="num">02</span>THE THOR ANCHOR</h2>
+<div class="h2-sub">When in doubt about a creative decision, ask: would Thor own/wear/buy this?</div>
+<div class="anchor-card">
+  <div class="label">⚡ The Reference Vibe</div>
+  <div class="anchor-quote">"Theonar is the brand the god of thunder would buy for himself. Cold metal. Storm energy. Built for the strike, the swing, the grip."</div>
+  <div class="grid">
+    <div class="on">
+      <div class="h">✓ ON BRAND (Thor energy)</div>
+      <div class="l">Stormy skies, hammered metal textures, lightning-style backdrops, deep black with single bright key light, leather and rope props (Norse but not cosplay), mountain peaks, raw stone, aged bronze detailing as punctuation</div>
+    </div>
+    <div class="off">
+      <div class="h">✗ OFF BRAND (avoid)</div>
+      <div class="l">Capes, horned helmets, literal runes, Marvel cosplay, anything sweet/floral/warm/soft, copper/orange dominant tones (that's Hephaestus/forge), white marble, velvet ring boxes</div>
+    </div>
+  </div>
+</div>
+
+<h2><span class="num">03</span>FINAL PALETTE</h2>
+<div class="h2-sub">Locked colors · Same operational palette across every Theonar surface</div>
+
+<div class="palette" style="margin-bottom:14px;">
+  <div class="swatch" style="background:#0A0A0A; color:#fff;">
+    <div>
+      <div class="name">Matte Black</div>
+      <div class="role">Primary background</div>
+    </div>
+    <div class="hex">#0A0A0A</div>
+  </div>
+  <div class="swatch" style="background:#0F1115; color:#fff;">
+    <div>
+      <div class="name">Deep Slate</div>
+      <div class="role">App background</div>
+    </div>
+    <div class="hex">#0F1115</div>
+  </div>
+  <div class="swatch" style="background:#1A1D21; color:#fff;">
+    <div>
+      <div class="name">Charcoal</div>
+      <div class="role">Secondary surface</div>
+    </div>
+    <div class="hex">#1A1D21</div>
+  </div>
+  <div class="swatch" style="background:#2D3138; color:#fff;">
+    <div>
+      <div class="name">Gunmetal</div>
+      <div class="role">Primary surface</div>
+    </div>
+    <div class="hex">#2D3138</div>
+  </div>
+</div>
+<div class="accent-row">
+  <div class="swatch swatch-cta" style="background:#3B6E8F; color:#fff;">
+    <div>
+      <div class="name">Cold Steel</div>
+      <div class="role">⚡ Primary accent · CTAs · Links · Hero highlights · Lightning moments</div>
+    </div>
+    <div class="hex">#3B6E8F</div>
+  </div>
+  <div class="swatch" style="background:#2B4F4A; color:#fff;">
+    <div>
+      <div class="name">Oxide Teal</div>
+      <div class="role">Subtle accents · Divider lines · Quiet tags</div>
+    </div>
+    <div class="hex">#2B4F4A</div>
+  </div>
+</div>
+<div class="palette" style="grid-template-columns: 1fr 3fr; margin-top:14px;">
+  <div class="swatch" style="background:#8B6F47; color:#fff;">
+    <div>
+      <div class="name">Aged Bronze</div>
+      <div class="role">⚡ Premium tier ONLY</div>
+    </div>
+    <div class="hex">#8B6F47</div>
+  </div>
+  <div class="swatch" style="background:#E5E7EB; color:#111; min-height: 100px;">
+    <div>
+      <div class="name">Bone</div>
+      <div class="role">Text on dark backgrounds · Body copy color</div>
+    </div>
+    <div class="hex">#E5E7EB</div>
+  </div>
+</div>
+<div style="margin-top:18px; padding:18px 22px; background:rgba(139,111,71,0.06); border-left:3px solid #8B6F47; border-radius:4px;">
+  <div style="font-size:11px; text-transform:uppercase; letter-spacing:0.2em; color:#8B6F47; font-weight:700; margin-bottom:6px;">Aged Bronze · Use Sparingly</div>
+  <div style="font-size:13px; color:#9CA3AF; line-height:1.6;">Like the gold detailing on Thor's silver armor — punctuation, not paragraph. Use only for: hero product on landing pages, "Signature Collection" sub-brand, high-ticket order confirmation. NEVER for primary UI, NEVER for buttons or main body text.</div>
+</div>
+
+<h2><span class="num">04</span>TYPOGRAPHY</h2>
+<div class="h2-sub">Locked fonts · Both available on Google Fonts (free)</div>
+
+<div class="type-spec display">
+  <div class="label">Display Font · Hero copy · Section headers · Product names</div>
+  <div class="specimen">BUILT TO<br>OUTLAST.</div>
+  <div class="name-stat">
+    <div class="stat">Font: <strong>Anton</strong></div>
+    <div class="stat">Source: <strong>Google Fonts (free)</strong></div>
+    <div class="stat">Weight: <strong>Regular (only weight available)</strong></div>
+    <div class="stat">Use case: <strong>ALL hero headlines, button labels, product names</strong></div>
+  </div>
+</div>
+
+<div class="type-spec body">
+  <div class="label">Body Font · Listing descriptions · Article copy · Forms</div>
+  <div class="specimen">Aerospace-grade titanium. Hypoallergenic. Lighter than your watch, harder to break than your last phone. Built for daily wear, finished for comfort, and meant to be worn on the job, in the gym, in the shop. Free shipping over $50. Theonar Lifetime Warranty.</div>
+  <div class="name-stat">
+    <div class="stat">Font: <strong>Inter Tight</strong></div>
+    <div class="stat">Source: <strong>Google Fonts (free)</strong></div>
+    <div class="stat">Weights: <strong>400, 500, 600, 700</strong></div>
+    <div class="stat">Default weight: <strong>500 (medium)</strong></div>
+  </div>
+</div>
+
+<h2><span class="num">05</span>VOICE IN ACTION</h2>
+<div class="h2-sub">How Theonar speaks · Drafted for IG / Etsy / future Shopify</div>
+
+<div class="voice-grid">
+  <div class="voice-card">
+    <div class="tag">Voice Sample</div>
+    <div class="head">BUILT FOR THE STORM.</div>
+    <div class="body">Aerospace-grade titanium. <strong>Lighter than your watch. Harder than your last phone.</strong><br><br>Wear it on the job. In the gym. In the shop. It doesn't care. It was built for this.</div>
+    <div class="closer">⚡ Forge it in. Wear it harder than anything.</div>
+  </div>
+  <div class="voice-card">
+    <div class="tag">Voice Sample</div>
+    <div class="head">LIGHTER THAN STEEL. HEAVIER THAN EXPECTATION.</div>
+    <div class="body">Titanium isn't just lighter. It's <strong>stronger by weight</strong>. Strength-to-weight ratio that beats every other metal in your toolbox.<br><br>One ring. Decades of work. No babying.</div>
+    <div class="closer">⚡ Built once. Wear forever.</div>
+  </div>
+</div>
+
+<h2><span class="num">06</span>MOCK PRODUCT CARD</h2>
+<div class="h2-sub">How a Theonar Etsy / Shopify listing card actually looks with the locked spec</div>
+
+<div class="product-mock">
+  <div class="image"></div>
+  <div class="body">
+    <div class="brand-tag">⚡ THEONAR</div>
+    <div class="title">FORGE</div>
+    <div class="price">$229</div>
+    <div class="badge">Signature Collection</div>
+    <div class="copy">Brushed titanium. Aerospace-grade. Hypoallergenic. <strong>Lighter than your watch.</strong> Harder than your last phone. Built for daily wear, finished for comfort. Theonar Lifetime Warranty.</div>
+    <div class="cta">Build Yours →</div>
+  </div>
+</div>
+
+<div class="next-card">
+  <div class="label">⚡ Brand Locked. Next Action.</div>
+  <h3>Hand off to BETA Etsy</h3>
+  <div class="text">Brand identity is locked into vault/brands/theonar/profile.md. Next move: have BETA Etsy run a Theonar audit (same playbook as the AmazingWeddingBands eBay audit running now). It will pull your current Theonar Etsy listings, compare to the new brand spec, identify which need rewriting first based on traffic + sales signal, and draft the new copy + image direction. Same approval gate as Aydins work — drafts only, you approve before anything goes live.</div>
+</div>
+
+</body>
+</html>
