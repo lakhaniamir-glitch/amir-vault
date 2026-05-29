@@ -183,14 +183,6 @@ Amir confirmed Theonar vibe is **Thor / Asgardian power god**, not blacksmith / 
 
 Reasoning: Thor's iconography is cold metal + storm blue + deep black + occasional gold detailing. Copper/warm would have evoked Hephaestus/Vulcan (forge god), wrong mythological energy. Cold Steel reads "thunder god / aerospace / cosmic metal."
 
-### Premium-tier accent (ADDED)
-**Aged Bronze** `#8B6F47` — used SPARINGLY for premium tier moments only:
-- Hero product cards on landing pages
-- "Signature collection" badge or sub-brand
-- High-ticket order confirmation emails
-- NEVER as primary UI color, NEVER for body links or buttons
-- Think: the gold detailing on Thor's silver armor — punctuation, not paragraph
-
 ### Display font (LOCKED)
 **Anton** — `font-family: 'Anton', sans-serif`
 
@@ -218,7 +210,6 @@ New supporting lines:
 
 The voice should feel like the deity is speaking confidently about his own gear, not like a marketer trying to sell tools.
 
-
 ---
 
 ## FINAL APPROVAL — 2026-05-28
@@ -229,7 +220,6 @@ Amir reviewed the rendered brand board (brand-board-LOCKED.html / .png) and appr
 - Body font: **Inter Tight** (final)
 - Primary accent: **Cold Steel #3B6E8F** (final)
 - Secondary accent: Oxide Teal #2B4F4A (final)
-- Premium-tier accent: Aged Bronze #8B6F47 (used sparingly, final)
 - Thor anchor: locked
 - Anti-positioning rules: locked
 - Voice rules: locked
@@ -238,5 +228,4 @@ Amir reviewed the rendered brand board (brand-board-LOCKED.html / .png) and appr
 No further iteration on visual identity. Any change to the above requires an explicit new Claudian conversation to revisit, not a one-off tweak.
 
 The locked brand board is at brands/theonar/brand-board-LOCKED.html and brands/theonar/brand-board-LOCKED.png. Treat those as reference frozen at this date.
-
 
