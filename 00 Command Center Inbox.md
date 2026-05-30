@@ -1,5 +1,5 @@
 ---
-generated: 2026-05-30T16:45:01.655409+00:00
+generated: 2026-05-30T17:00:02.025731+00:00
 generator: claudian_command_center_inbox.py
 refresh_cadence: every 15 min
 ---
@@ -8,7 +8,7 @@ refresh_cadence: every 15 min
 
 _Live dashboard of everything BETA is producing. Auto-refreshes every 15 min. Open any item below by clicking the wikilink._
 
-**Last refresh**: 2026-05-30 11:45 CT
+**Last refresh**: 2026-05-30 12:00 CT
 
 ---
 
@@ -45,7 +45,7 @@ _Live dashboard of everything BETA is producing. Auto-refreshes every 15 min. Op
 
 ## 🎬 Today's GMC Briefs → Action Needed in GMC
 
-- **nemesis-black-tungsten-ring-white-round-cz-beveled-edge-ring** → open [[brands/aydins/gmc-briefs/2026-05-30-nemesis-black-tungsten-ring-white-round-cz-beveled-edge-ring/brief.md]] → image + prompts inside
+- **shipping-protection** → open [[brands/aydins/gmc-briefs/2026-05-30-shipping-protection/brief.md]] → image + prompts inside
 
 **Workflow**: open brief → grab `restaged.jpg` → GMC Product Studio → paste prompt → download MP4 → name it `{handle}.mp4` → drop in `brands/aydins/reel-videos/pending/`
 
@@ -64,7 +64,7 @@ _Live dashboard of everything BETA is producing. Auto-refreshes every 15 min. Op
 _Everything BETA created today across the multi-agent platform. Click to open._
 
 ### 📷 GMC Brief (1)
-- [[brands/aydins/gmc-briefs/2026-05-30-nemesis-black-tungsten-ring-white-round-cz-beveled-edge-ring/brief.md]]
+- [[brands/aydins/gmc-briefs/2026-05-30-shipping-protection/brief.md]]
 
 ### 📷 Reel Script (1)
 - [[brands/aydins/reel-scripts/2026-05-30-lifestyle-reel.md]]
