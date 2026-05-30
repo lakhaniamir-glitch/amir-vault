@@ -78,6 +78,16 @@ proof_*.txt
 *.sketch
 *.fig
 
+# EXCEPTIONS — allow specific binary types in BETA Insta hybrid reel pipeline
+# so MP4s sync from local to VPS and JPGs (briefs) sync from VPS to local
+!brands/aydins/gmc-briefs/**/*.jpg
+!brands/aydins/gmc-briefs/**/*.png
+!brands/aydins/reel-videos/pending/*.mp4
+!brands/aydins/reel-videos/pending/*.mov
+!brands/aydins/reel-videos/approved/*.mp4
+!brands/aydins/reel-videos/published/*.mp4
+!brands/aydins/reel-videos/rejected/*.mp4
+
 # Office docs (usually not needed for Claudian context)
 *.xlsx
 *.xls
