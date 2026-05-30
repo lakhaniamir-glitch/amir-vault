@@ -1,5 +1,5 @@
 ---
-generated: 2026-05-30T17:30:01.520630+00:00
+generated: 2026-05-30T17:42:30.585475+00:00
 generator: claudian_command_center_inbox.py
 refresh_cadence: every 15 min
 ---
@@ -8,7 +8,7 @@ refresh_cadence: every 15 min
 
 _Live dashboard of everything BETA is producing. Auto-refreshes every 15 min. Open any item below by clicking the wikilink._
 
-**Last refresh**: 2026-05-30 12:30 CT
+**Last refresh**: 2026-05-30 12:42 CT
 
 ---
 
@@ -45,7 +45,9 @@ _Live dashboard of everything BETA is producing. Auto-refreshes every 15 min. Op
 
 ## 🎬 Today's GMC Briefs → Action Needed in GMC
 
+- **legend-gold-flat-tungsten-wedding-cz-eternity-band-with-white-diamond-inlay-polished-finish** → open [[brands/aydins/gmc-briefs/2026-05-30-legend-gold-flat-tungsten-wedding-cz-eternity-band-with-white-diamond-inlay-polished-finish/brief.md]] → image + prompts inside
 - **nemesis-black-tungsten-ring-white-round-cz-beveled-edge-ring** → open [[brands/aydins/gmc-briefs/2026-05-30-nemesis-black-tungsten-ring-white-round-cz-beveled-edge-ring/brief.md]] → image + prompts inside
+- **aurion-gold-tungsten-ring-gold-foil-inlay-beveled-8mm** → open [[brands/aydins/gmc-briefs/2026-05-30-aurion-gold-tungsten-ring-gold-foil-inlay-beveled-8mm/brief.md]] → image + prompts inside
 
 **Workflow**: open brief → grab `restaged.jpg` → GMC Product Studio → paste prompt → download MP4 → name it `{handle}.mp4` → drop in `brands/aydins/reel-videos/pending/`
 
@@ -64,7 +66,9 @@ _Live dashboard of everything BETA is producing. Auto-refreshes every 15 min. Op
 
 _Everything BETA created today across the multi-agent platform. Click to open._
 
-### 📷 GMC Brief (1)
+### 📷 GMC Brief (3)
+- [[brands/aydins/gmc-briefs/2026-05-30-aurion-gold-tungsten-ring-gold-foil-inlay-beveled-8mm/brief.md]]
+- [[brands/aydins/gmc-briefs/2026-05-30-legend-gold-flat-tungsten-wedding-cz-eternity-band-with-white-diamond-inlay-polished-finish/brief.md]]
 - [[brands/aydins/gmc-briefs/2026-05-30-nemesis-black-tungsten-ring-white-round-cz-beveled-edge-ring/brief.md]]
 
 ### 📷 Reel Script (1)
@@ -73,10 +77,8 @@ _Everything BETA created today across the multi-agent platform. Click to open._
 ### 📷 Carousel Script (1)
 - [[brands/aydins/carousel-scripts/2026-05-30-process-carousel.md]]
 
-### 🎬 Reel Pending Upload (1)
-- [[brands/aydins/reel-videos/pending/nemesis-black-tungsten-ring-white-round-cz-beveled-edge-ring_vertical.mp4]]
-
-### 🎬 Reel Approved (1)
+### 🎬 Reel Approved (2)
+- [[brands/aydins/reel-videos/approved/nemesis-black-tungsten-ring-white-round-cz-beveled-edge-ring_vertical.mp4]]
 - [[brands/aydins/reel-videos/approved/nemesis-black-tungsten-ring-white-round-cz-beveled-edge-ring.mp4]]
 
 ### 🛍 Listing Enrichment (1)
