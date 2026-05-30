@@ -1,5 +1,5 @@
 ---
-generated: 2026-05-30T19:30:01.894264+00:00
+generated: 2026-05-30T19:45:01.675380+00:00
 generator: claudian_command_center_inbox.py
 refresh_cadence: every 15 min
 ---
@@ -8,7 +8,7 @@ refresh_cadence: every 15 min
 
 _Live dashboard of everything BETA is producing. Auto-refreshes every 15 min. Open any item below by clicking the wikilink._
 
-**Last refresh**: 2026-05-30 14:30 CT
+**Last refresh**: 2026-05-30 14:45 CT
 
 ---
 
@@ -77,12 +77,16 @@ _Everything BETA created today across the multi-agent platform. Click to open._
 ### 📷 Carousel Script (1)
 - [[brands/aydins/carousel-scripts/2026-05-30-process-carousel.md]]
 
-### 🎬 Reel Pending Upload (3)
-- [[brands/aydins/reel-videos/pending/legend-gold-flat-tungsten-wedding-cz-eternity-band-with-white-diamond-inlay-polished-finish_landscape_pp_vertical.mp4]]
-- [[brands/aydins/reel-videos/pending/legend-gold-flat-tungsten-wedding-cz-eternity-band-with-white-diamond-inlay-polished-finish_landscape_pp_landscape_pp.mp4]]
-- [[brands/aydins/reel-videos/pending/legend-gold-flat-tungsten-wedding-cz-eternity-band-with-white-diamond-inlay-polished-finish_vertical_landscape_pp.mp4]]
+### 🎬 Reel Pending Upload (4)
+- [[brands/aydins/reel-videos/pending/legend-gold-flat-tungsten-wedding-cz-eternity-band-with-white-diamond-inlay-polished-finish_vertical_landscape_pp_landscape_pp.mp4]]
+- [[brands/aydins/reel-videos/pending/legend-gold-flat-tungsten-wedding-cz-eternity-band-with-white-diamond-inlay-polished-finish_landscape_pp_vertical_landscape_pp.mp4]]
+- [[brands/aydins/reel-videos/pending/legend-gold-flat-tungsten-wedding-cz-eternity-band-with-white-diamond-inlay-polished-finish_landscape_pp_landscape_pp_vertical.mp4]]
+- [[brands/aydins/reel-videos/pending/legend-gold-flat-tungsten-wedding-cz-eternity-band-with-white-diamond-inlay-polished-finish_landscape_pp_landscape_pp_landscape_pp.mp4]]
 
-### 🎬 Reel Approved (5)
+### 🎬 Reel Approved (8)
+- [[brands/aydins/reel-videos/approved/legend-gold-flat-tungsten-wedding-cz-eternity-band-with-white-diamond-inlay-polished-finish_landscape_pp_vertical.mp4]]
+- [[brands/aydins/reel-videos/approved/legend-gold-flat-tungsten-wedding-cz-eternity-band-with-white-diamond-inlay-polished-finish_landscape_pp_landscape_pp.mp4]]
+- [[brands/aydins/reel-videos/approved/legend-gold-flat-tungsten-wedding-cz-eternity-band-with-white-diamond-inlay-polished-finish_vertical_landscape_pp.mp4]]
 - [[brands/aydins/reel-videos/approved/legend-gold-flat-tungsten-wedding-cz-eternity-band-with-white-diamond-inlay-polished-finish_vertical.mp4]]
 - [[brands/aydins/reel-videos/approved/legend-gold-flat-tungsten-wedding-cz-eternity-band-with-white-diamond-inlay-polished-finish_landscape_pp.mp4]]
 - [[brands/aydins/reel-videos/approved/legend-gold-flat-tungsten-wedding-cz-eternity-band-with-white-diamond-inlay-polished-finish.mp4]]
