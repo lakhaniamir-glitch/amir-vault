@@ -26,23 +26,23 @@ scene_theme: leather_library
 8. BETA Insta watcher (runs every 30 min) auto-detects, generates caption, schedules to IG
 
 ## Recommended prompt to try first
-**Start with Slow Orbit to elegantly showcase the ring's full 360° detail against the leather and books, maximizing the editorial luxury feel.**
+**Try 'Dolly Push In' first as it creates an intimate, elegant reveal of the ring's details while maintaining the luxurious editorial feel.**
 
 ## All 3 prompt variants
 
-### Slow Orbit
+### Dolly Push In
 ```
-Slow cinematic orbit around the ring, camera arcs left, slight parallax shift on background books and brass lamp, warm tungsten light glinting on ring surface.
-```
-
-### Push & Rack
-```
-Slow push-in dolly shot, soft rack focus from blurred books and lamp to crisp ring texture, leather and brass details emerge, cinematic luxury.
+Slow dolly push in towards the ring, keeping it centered, with shallow depth of field blurring the leather and books in background. Warm tungsten light.
 ```
 
-### Parallax Pan
+### Subtle Orbit
 ```
-Subtle parallax pan, camera slides right, ring remains centered, background books and lamp shift in perspective, warm library light.
+Gentle orbit around the ring from left to right, revealing the aged leather texture and the soft glow of the brass lamp. Cinematic.
+```
+
+### Parallax Dolly
+```
+Slow lateral dolly left to right, creating parallax between the ring and the leather-bound books in soft focus background. Warm library light.
 ```
 
 
