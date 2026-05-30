@@ -1,5 +1,5 @@
 ---
-generated: 2026-05-30T16:30:01.761143+00:00
+generated: 2026-05-30T16:45:01.655409+00:00
 generator: claudian_command_center_inbox.py
 refresh_cadence: every 15 min
 ---
@@ -8,7 +8,7 @@ refresh_cadence: every 15 min
 
 _Live dashboard of everything BETA is producing. Auto-refreshes every 15 min. Open any item below by clicking the wikilink._
 
-**Last refresh**: 2026-05-30 11:30 CT
+**Last refresh**: 2026-05-30 11:45 CT
 
 ---
 
