@@ -26,23 +26,23 @@ scene_theme: dark_walnut_workshop
 8. BETA Insta watcher (runs every 30 min) auto-detects, generates caption, schedules to IG
 
 ## Recommended prompt to try first
-**Try 'Slow Orbit Reveal' first because it creates a luxurious sense of depth and highlights the ring's craftsmanship from all angles.**
+**Try 'Light Sweep' first as its gentle light motion and drift forward create the most intimate and luxurious reveal of the ring's beveled details and warm gold tungsten finish.**
 
 ## All 3 prompt variants
 
-### Slow Orbit Reveal
+### Light Sweep
 ```
-Cinematic dolly orbit around the ring, maintaining focus, warm amber rim light shifting across the surface, smooth 360-degree rotation, shallow depth of field.
-```
-
-### Precision Rack Focus
-```
-Rack focus from sharp ring to blurred leather strap, then back to ring, with a subtle parallax pan across the walnut surface, slow and deliberate motion.
+The video begins with the static image of the AURION Gold Tungsten Beveled Ring resting on the dark walnut wood workbench surface, a leather strap and brass tools blurred in the background. A warm amber rim light from the side starts to sweep slowly across the scene. As the light glides over the ring, it catches the beveled edges, causing the gold tungsten to gleam with a rich, honeyed glow. The light then traces the polished interior, revealing the smooth, mirror like finish. The camera performs a subtle drift forward, closing in on the ring as the light completes its path. The final shot settles with the ring glowing against the dark wood, a testament to enduring craftsmanship.
 ```
 
-### Elevator Push In
+### Orbit Reveal
 ```
-Push in from wide establishing shot of the workbench, slowly descending towards the ring, amber light intensifying, tools fading further into background.
+The video opens with the AURION Gold Tungsten Beveled Ring centered on the dark walnut wood workbench, the leather strap and brass tools softly blurred behind it. A slow, deliberate 360 degree camera orbit begins around the ring, maintaining a steady focus. As the camera rotates, the warm amber rim light from the side catches the beveled edges, creating a shifting play of light and shadow across the gold tungsten surface. The orbit reveals the ring's precise geometry and the subtle depth of its bevel. The camera then settles back to the starting angle, the ring now bathed in a soft, inner radiance against the dark wood. A quiet tribute to precision and luxury.
+```
+
+### Parallax Depth
+```
+The video starts with the AURION Gold Tungsten Beveled Ring resting on the dark walnut wood workbench, the blurred leather strap and brass tools adding depth to the craftsman atmosphere. A slow parallax motion begins, the camera gliding laterally to the left while the background elements shift subtly behind the ring. The warm amber rim light from the side catches the ring's beveled edge, illuminating the gold tungsten with a rich, metallic sheen. The camera then performs a gentle push in, narrowing the focus on the ring's polished interior as the light traces its curve. The final shot settles, the ring appearing to float with a quiet, luminous presence. A symbol of timeless artistry.
 ```
 
 

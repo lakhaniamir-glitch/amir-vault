@@ -1,5 +1,5 @@
 ---
-generated: 2026-05-30T18:00:01.373848+00:00
+generated: 2026-05-30T18:14:41.079650+00:00
 generator: claudian_command_center_inbox.py
 refresh_cadence: every 15 min
 ---
@@ -8,7 +8,7 @@ refresh_cadence: every 15 min
 
 _Live dashboard of everything BETA is producing. Auto-refreshes every 15 min. Open any item below by clicking the wikilink._
 
-**Last refresh**: 2026-05-30 13:00 CT
+**Last refresh**: 2026-05-30 13:14 CT
 
 ---
 
@@ -57,7 +57,7 @@ _Live dashboard of everything BETA is producing. Auto-refreshes every 15 min. Op
 
 - ✅ `2026-05-30-0800-ct` · product_showcase · published → [view](https://www.instagram.com/p/DY9rSQOANCh/)
 - ✅ `2026-05-30-1226-ct` · reel_showcase · published → [view](https://www.instagram.com/reel/DY-J-MSAF1J/)
-- ⏳ `2026-05-30-1300-ct` · product_showcase · approved-queued
+- ✅ `2026-05-30-1300-ct` · product_showcase · published → [view](https://www.instagram.com/p/DY-NnWgAAa2/)
 - ⏳ `2026-05-30-1900-ct` · bts · approved-queued
 
 ---
@@ -91,6 +91,7 @@ _Everything BETA created today across the multi-agent platform. Click to open._
 - **BETA Check**: reject Phase 1 listing draft `tungsten-wood-ring-mahogany-wood-tungsten-wedding-band-polished-finish-8mm-tungsten-wedding-ring`
 - **BETA Insta (auto-publisher cron)**: publish IG post auto-mode → [view](https://www.instagram.com/p/DY9rSQOANCh/)
 - **BETA Insta (auto-publisher cron)**: publish IG post auto-mode → [view](https://www.instagram.com/reel/DY-J-MSAF1J/)
+- **BETA Insta (auto-publisher cron)**: publish IG post auto-mode → [view](https://www.instagram.com/p/DY-NnWgAAa2/)
 
 ---
 

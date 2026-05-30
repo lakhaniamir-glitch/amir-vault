@@ -26,23 +26,23 @@ scene_theme: beach_zen
 8. BETA Insta watcher (runs every 30 min) auto-detects, generates caption, schedules to IG
 
 ## Recommended prompt to try first
-**Try 'Slow Push' first for a dramatic, intimate reveal that emphasizes the zen textures and golden light reflections.**
+**Try 'Golden Light Sweep' first because its light choreography directly mirrors the reference style, ensuring a strong match with the client's existing visual language.**
 
 ## All 3 prompt variants
 
-### Slow Push
+### Golden Light Sweep
 ```
-Slow push in toward the center, depth of field compressing, natural parallax between foreground pebbles and driftwood, warm light flares
-```
-
-### Orbit Reveal
-```
-Smooth 180-degree orbit around the focal point, golden light raking across sand, subtle shadow shifts from pebbles and wood
+The video begins with the static image of the LEGEND | Gold Tungsten CZ Eternity Wedding Ring — 8mm upright on raked sand, surrounded by smooth river pebbles, weathered driftwood, and scattered organic beads. A warm golden directional light from the right sweeps slowly across the scene. As it glides over the ring, it catches the facets of the CZ stones, igniting a cascade of tiny, brilliant sparkles. The light then traces the brushed gold texture of the band, revealing its subtle grain, before kissing the polished inner curve. The camera performs an imperceptible push-in, drawing closer as the light completes its journey. The final frame settles with the ring glowing from within, a testament to enduring craftsmanship and timeless elegance.
 ```
 
-### Focus Shift
+### Orbit & Reveal
 ```
-Rack focus from weathered driftwood in foreground to the center, then slow pan left across scattered beads and sand textures
+The video opens on the LEGEND | Gold Tungsten CZ Eternity Wedding Ring — 8mm resting upright on raked sand, with smooth river pebbles and weathered driftwood framing the composition. A soft golden light begins to drift from the left, illuminating the organic beads scattered nearby. The camera then initiates a slow 360-degree orbit around the ring. As it rotates, the light catches each CZ stone in sequence, creating a rhythmic pulse of sparkles across the eternity band. The brushed gold surface reflects the warm hue, while the driftwood casts subtle shadows. The orbit completes, settling back to the original angle, where the ring now appears to hold the last rays of sunset, embodying a quiet luxury and masterful artistry.
+```
+
+### Parallax Depth
+```
+The video starts with the LEGEND | Gold Tungsten CZ Eternity Wedding Ring — 8mm upright on raked sand, surrounded by smooth river pebbles, weathered driftwood, and scattered organic beads. A golden directional light sweeps from behind the ring, casting a long shadow across the sand. The camera then performs a slow parallax shift, moving laterally while keeping the ring centered. This motion reveals the depth of the scene as the pebbles and driftwood drift in the foreground. The light catches the CZ stones, making them flicker like distant stars, and glides over the ring's polished interior. The movement eases to a stop, leaving the ring bathed in a warm, inner glow, a quiet symbol of refined craftsmanship.
 ```
 
 
