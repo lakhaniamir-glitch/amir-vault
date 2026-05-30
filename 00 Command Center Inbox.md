@@ -1,5 +1,5 @@
 ---
-generated: 2026-05-30T18:30:01.429208+00:00
+generated: 2026-05-30T18:45:01.484871+00:00
 generator: claudian_command_center_inbox.py
 refresh_cadence: every 15 min
 ---
@@ -8,7 +8,7 @@ refresh_cadence: every 15 min
 
 _Live dashboard of everything BETA is producing. Auto-refreshes every 15 min. Open any item below by clicking the wikilink._
 
-**Last refresh**: 2026-05-30 13:30 CT
+**Last refresh**: 2026-05-30 13:45 CT
 
 ---
 
@@ -77,7 +77,12 @@ _Everything BETA created today across the multi-agent platform. Click to open._
 ### 📷 Carousel Script (1)
 - [[brands/aydins/carousel-scripts/2026-05-30-process-carousel.md]]
 
-### 🎬 Reel Approved (2)
+### 🎬 Reel Pending Upload (2)
+- [[brands/aydins/reel-videos/pending/legend-gold-flat-tungsten-wedding-cz-eternity-band-with-white-diamond-inlay-polished-finish_vertical.mp4]]
+- [[brands/aydins/reel-videos/pending/legend-gold-flat-tungsten-wedding-cz-eternity-band-with-white-diamond-inlay-polished-finish_landscape_pp.mp4]]
+
+### 🎬 Reel Approved (3)
+- [[brands/aydins/reel-videos/approved/legend-gold-flat-tungsten-wedding-cz-eternity-band-with-white-diamond-inlay-polished-finish.mp4]]
 - [[brands/aydins/reel-videos/approved/nemesis-black-tungsten-ring-white-round-cz-beveled-edge-ring_vertical.mp4]]
 - [[brands/aydins/reel-videos/approved/nemesis-black-tungsten-ring-white-round-cz-beveled-edge-ring.mp4]]
 
