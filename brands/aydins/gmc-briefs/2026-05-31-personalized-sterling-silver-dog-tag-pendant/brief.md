@@ -6,12 +6,12 @@ status: awaiting-amir-gmc-action
 product_id: 8858181697773
 product_handle: personalized-sterling-silver-dog-tag-pendant
 product_title: Personalized Sterling Silver Dog Tag Pendant
-scene_theme: leather_library
+scene_theme: concrete_industrial
 ---
 
 # GMC Brief: Personalized Sterling Silver Dog Tag Pendant
 
-## The image (already restaged via Nano Banana — preserves the real ring)
+## The image (already restaged via Nano Banana — preserves the real pendant)
 ![[restaged.jpg]]
 
 ## What to do (2-3 min in GMC)
@@ -26,23 +26,23 @@ scene_theme: leather_library
 8. BETA Insta watcher (runs every 30 min) auto-detects, generates caption, schedules to IG
 
 ## Recommended prompt to try first
-**Start with Slow Orbit for a classic luxury reveal that emphasizes the ring detail.**
+**Start with Chain Reveal for a classic premium mens jewelry lifestyle motion that builds anticipation toward the pendant.**
 
 ## All 3 prompt variants
 
-### Slow Orbit
+### Chain Reveal
 ```
-Slow clockwise camera orbit around the ring, subtle parallax reveals background depth, smooth cinematic motion, premium product showcase.
-```
-
-### Push In
-```
-Gentle push-in toward the ring, shallow depth of field, soft light shift, premium macro product cinematography.
+Slow camera tilt up the silver chain from pendant to neck, the pendant sways slightly as light catches the polished metal surface, soft warm lighting, premium mens lifestyle cinematography.
 ```
 
-### Parallax Slide
+### Push & Soften
 ```
-Horizontal camera slide left to right, ring stays centered, background reveals layered depth, slow cinematic motion.
+Gentle push-in toward the pendant centered on the chest, shallow depth of field with shirt fabric blurring in the background, soft light shift across the metal face, editorial mens fashion aesthetic.
+```
+
+### Parallax Pull
+```
+Slow horizontal camera slide, pendant stays centered while the wearer's upper chest fabric parallaxes behind, chain catches subtle highlights, cinematic mens lifestyle motion.
 ```
 
 
@@ -53,7 +53,7 @@ Horizontal camera slide left to right, ring stays centered, background reveals l
 - **Shopify admin**: https://aydinsjewelry.myshopify.com/admin/products/8858181697773
 
 ## Scene theme today
-**leather_library**: Ring on aged tan leather surface, with closed leather-bound books and a brass desk lamp in soft focus background. Warm tungsten library lighting. Editorial luxury aesthetic.
+**lifestyle (mens on-neck)**: Pendant on a silver chain at a fit adult man's neck and upper chest. Neutral dark crew-neck cotton tee, soft warm directional light, premium mens fashion editorial aesthetic. (Overrides daily theme rotation for pendants.)
 
 ---
 
