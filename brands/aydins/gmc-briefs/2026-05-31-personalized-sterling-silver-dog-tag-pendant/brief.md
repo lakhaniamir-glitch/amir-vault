@@ -6,7 +6,7 @@ status: awaiting-amir-gmc-action
 product_id: 8858181697773
 product_handle: personalized-sterling-silver-dog-tag-pendant
 product_title: Personalized Sterling Silver Dog Tag Pendant
-scene_theme: concrete_industrial
+scene_theme: moss_forest
 ---
 
 # GMC Brief: Personalized Sterling Silver Dog Tag Pendant
@@ -26,23 +26,23 @@ scene_theme: concrete_industrial
 8. BETA Insta watcher (runs every 30 min) auto-detects, generates caption, schedules to IG
 
 ## Recommended prompt to try first
-**Start with Chain Reveal for a classic premium mens jewelry lifestyle motion that builds anticipation toward the pendant.**
+**Try 'Light Sweep' first as its emphasis on soft light interacting with the engraved surface and chain links most directly mirrors the reference style's cascading sparkle and emotional finish.**
 
 ## All 3 prompt variants
 
-### Chain Reveal
+### Orbit Focus
 ```
-Slow camera tilt up the silver chain from pendant to neck, the pendant sways slightly as light catches the polished metal surface, soft warm lighting, premium mens lifestyle cinematography.
-```
-
-### Push & Soften
-```
-Gentle push-in toward the pendant centered on the chest, shallow depth of field with shirt fabric blurring in the background, soft light shift across the metal face, editorial mens fashion aesthetic.
+The video begins with the static image of the Personalized Sterling Silver Dog Tag Pendant resting on a bed of fresh deep green moss, its chain coiled beside it among small smooth river stones and a single fern leaf. Soft diffused forest light falls gently from above. A slow, deliberate 360 degree camera orbit begins around the pendant, maintaining its focus on the brushed sterling surface. As the camera drifts, the light catches the polished edges of the dog tag, revealing the subtle depth of the personalized engraving. The chain links catch the glow in a soft, rhythmic shimmer. The orbit completes, settling back to the initial composition. The pendant now appears to radiate a quiet, enduring strength, a testament to timeless craftsmanship.
 ```
 
-### Parallax Pull
+### Light Sweep
 ```
-Slow horizontal camera slide, pendant stays centered while the wearer's upper chest fabric parallaxes behind, chain catches subtle highlights, cinematic mens lifestyle motion.
+The video begins with the static image of the Personalized Sterling Silver Dog Tag Pendant lying on a bed of fresh deep green moss, its chain coiled beside smooth river stones and a single fern leaf. A soft, ethereal light begins to sweep across the scene from the left, gliding over the moss and stones. As the light traces the pendant’s face, it illuminates the sterling silver’s brushed texture and catches the edges of the personalized engraving, creating a warm, cascading sparkle. The light continues its journey, kissing each link of the coiled chain, revealing its fine craftsmanship. The camera then performs a gentle push in toward the pendant, narrowing focus on the engraved surface. The final shot settles, the pendant glowing with an inner radiance, a quiet symbol of enduring elegance.
+```
+
+### Parallax Depth
+```
+The video begins with the static image of the Personalized Sterling Silver Dog Tag Pendant resting on a bed of fresh deep green moss, its chain coiled beside small smooth river stones and a single fern leaf. A soft, diffused light drifts across the scene from above. The camera executes a slow parallax slide, shifting perspective to reveal depth on the pendant’s surface. As the angle changes, the light catches the sterling silver’s polished face, highlighting the personalized engraving with a subtle gleam. The chain coils shift in the frame, their links catching the glow in a delicate dance. The camera settles into a final composition, the pendant and moss now harmonized. The piece stands as a quiet monument to meticulous artistry and lasting quality.
 ```
 
 
@@ -53,7 +53,7 @@ Slow horizontal camera slide, pendant stays centered while the wearer's upper ch
 - **Shopify admin**: https://aydinsjewelry.myshopify.com/admin/products/8858181697773
 
 ## Scene theme today
-**lifestyle (mens on-neck)**: Pendant on a silver chain at a fit adult man's neck and upper chest. Neutral dark crew-neck cotton tee, soft warm directional light, premium mens fashion editorial aesthetic. (Overrides daily theme rotation for pendants.)
+**moss_forest**: Ring resting on a bed of fresh deep green moss with small smooth river stones and a single fern leaf. Soft diffused forest light. Natural earthy aesthetic.
 
 ---
 
