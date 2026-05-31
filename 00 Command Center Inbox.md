@@ -1,5 +1,5 @@
 ---
-generated: 2026-05-31T18:30:01.744712+00:00
+generated: 2026-05-31T18:45:01.831421+00:00
 generator: claudian_command_center_inbox.py
 refresh_cadence: every 15 min
 ---
@@ -8,7 +8,7 @@ refresh_cadence: every 15 min
 
 _Live dashboard of everything BETA is producing. Auto-refreshes every 15 min. Open any item below by clicking the wikilink._
 
-**Last refresh**: 2026-05-31 13:30 CT
+**Last refresh**: 2026-05-31 13:45 CT
 
 ---
 
@@ -48,7 +48,6 @@ _Live dashboard of everything BETA is producing. Auto-refreshes every 15 min. Op
 ## 🎬 Today's GMC Briefs → Action Needed in GMC
 
 - **winston-white-tungsten-ring-with-raised-hammered-finish-and-polished-step-edges-4mm-10mm** → open [[brands/aydins/gmc-briefs/2026-05-31-winston-white-tungsten-ring-with-raised-hammered-finish-and-polished-step-edges-4mm-10mm/brief.md]] → image + prompts inside
-- **personalized-sterling-silver-dog-tag-pendant** → open [[brands/aydins/gmc-briefs/2026-05-31-personalized-sterling-silver-dog-tag-pendant/brief.md]] → image + prompts inside
 - **high-polished-stainless-steel-fingerprint-bracelet** → open [[brands/aydins/gmc-briefs/2026-05-31-high-polished-stainless-steel-fingerprint-bracelet/brief.md]] → image + prompts inside
 
 **Workflow**: open brief → grab `restaged.jpg` → GMC Product Studio → paste prompt → download MP4 → name it `{handle}.mp4` → drop in `brands/aydins/reel-videos/pending/`
@@ -76,8 +75,7 @@ _Live dashboard of everything BETA is producing. Auto-refreshes every 15 min. Op
 
 _Everything BETA created today across the multi-agent platform. Click to open._
 
-### 📷 GMC Brief (3)
-- [[brands/aydins/gmc-briefs/2026-05-31-personalized-sterling-silver-dog-tag-pendant/brief.md]]
+### 📷 GMC Brief (2)
 - [[brands/aydins/gmc-briefs/2026-05-31-winston-white-tungsten-ring-with-raised-hammered-finish-and-polished-step-edges-4mm-10mm/brief.md]]
 - [[brands/aydins/gmc-briefs/2026-05-31-high-polished-stainless-steel-fingerprint-bracelet/brief.md]]
 
