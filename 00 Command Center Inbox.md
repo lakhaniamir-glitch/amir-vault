@@ -1,5 +1,5 @@
 ---
-generated: 2026-05-30T21:00:02.088661+00:00
+generated: 2026-05-31T17:45:02.052046+00:00
 generator: claudian_command_center_inbox.py
 refresh_cadence: every 15 min
 ---
@@ -8,16 +8,12 @@ refresh_cadence: every 15 min
 
 _Live dashboard of everything BETA is producing. Auto-refreshes every 15 min. Open any item below by clicking the wikilink._
 
-**Last refresh**: 2026-05-30 16:00 CT
+**Last refresh**: 2026-05-31 12:45 CT
 
 ---
 
 ## ⚡ Needs Your Approval
 
-- **?**: Meta description exceeds 150 characters: 177; Engraving tag must be exactly Inside or Inside & Outside; Unsupported manu `prussian-blue-inner-ring-with-hawaiian-koa-wood-inlay-beveled-edge-8mm-tungsten-wedding-band`  
-  _2026-05-27T05:58_
-- **BETA Google**: (no reason) `actual-fingerprint-couples-ring-forever-heart-promise-ring-engraved-ring-anniversary-ring-engagement-ring-mens-wedding-band-ring` → [[/home/openclaw/.openclaw/command-center/work/phase3/drafts/phase3-seo-20260528T032409Z-actual-fingerprint-couples-ring-forever-heart-promise-ring-engraved-ring-anniversary-ring-engagement-ring-mens-wedding-band-ring.json]]  
-  _2026-05-28T03:24_
 - **?**: Meta description exceeds 150 characters: 170; Engraving tag must be exactly Inside or Inside & Outside; Unsupported manu `rose-gold-ip-with-hawaiian-koa-wood-inlay-shiny-beveled-edge-8mm-tungsten-carbide-wedding-ring`  
   _2026-05-28T05:57_
 - **BETA**: Star Wars Wave1 products are now ACTIVE with inventory restored, so these negatives may block newly sellable inventory.  
@@ -42,12 +38,18 @@ _Live dashboard of everything BETA is producing. Auto-refreshes every 15 min. Op
   _2026-05-30T09:00_
 - **?**: Supplier or trade-show name found; Unsupported manufacturing language found `tungsten-wood-ring-mahogany-wood-tungsten-wedding-band-polished-finish-8mm-tungsten-wedding-ring`  
   _2026-05-30T10:57_
+- **BETA Shop**: BETA Shop drafted FAQ + meta-description enrichment. Review and push to Shopify. `signet-ring-custom-signet-ring-fingerprint-ring-laser-engraved-gold-signet-ring-silver-signet-ring-black-signet-ring` → [[brands/aydins/listing-enrichment/2026-05-31-signet-ring-custom-signet-ring-fingerprint-ring-laser-engraved-gold-signet-ring-silver-signet-ring-black-signet-ring.md]]  
+  _2026-05-31T09:00_
+- **BETA Insta drafter**: caption failed V4 Flash self-check  
+  _2026-05-31T09:01_
+- **?**: Supplier or trade-show name found; Bare lifetime warranty wording found `austin-blue-and-green-opal-inlay`  
+  _2026-05-31T10:57_
 
 ## 🎬 Today's GMC Briefs → Action Needed in GMC
 
-- **legend-gold-flat-tungsten-wedding-cz-eternity-band-with-white-diamond-inlay-polished-finish** → open [[brands/aydins/gmc-briefs/2026-05-30-legend-gold-flat-tungsten-wedding-cz-eternity-band-with-white-diamond-inlay-polished-finish/brief.md]] → image + prompts inside
-- **nemesis-black-tungsten-ring-white-round-cz-beveled-edge-ring** → open [[brands/aydins/gmc-briefs/2026-05-30-nemesis-black-tungsten-ring-white-round-cz-beveled-edge-ring/brief.md]] → image + prompts inside
-- **aurion-gold-tungsten-ring-gold-foil-inlay-beveled-8mm** → open [[brands/aydins/gmc-briefs/2026-05-30-aurion-gold-tungsten-ring-gold-foil-inlay-beveled-8mm/brief.md]] → image + prompts inside
+- **winston-white-tungsten-ring-with-raised-hammered-finish-and-polished-step-edges-4mm-10mm** → open [[brands/aydins/gmc-briefs/2026-05-31-winston-white-tungsten-ring-with-raised-hammered-finish-and-polished-step-edges-4mm-10mm/brief.md]] → image + prompts inside
+- **personalized-sterling-silver-dog-tag-pendant** → open [[brands/aydins/gmc-briefs/2026-05-31-personalized-sterling-silver-dog-tag-pendant/brief.md]] → image + prompts inside
+- **high-polished-stainless-steel-fingerprint-bracelet** → open [[brands/aydins/gmc-briefs/2026-05-31-high-polished-stainless-steel-fingerprint-bracelet/brief.md]] → image + prompts inside
 
 **Workflow**: open brief → grab `restaged.jpg` → GMC Product Studio → paste prompt → download MP4 → name it `{handle}.mp4` → drop in `brands/aydins/reel-videos/pending/`
 
@@ -55,10 +57,18 @@ _Live dashboard of everything BETA is producing. Auto-refreshes every 15 min. Op
 
 ## 📷 Today's IG Schedule
 
-- ✅ `2026-05-30-0800-ct` · product_showcase · published → [view](https://www.instagram.com/p/DY9rSQOANCh/)
-- ✅ `2026-05-30-1226-ct` · reel_showcase · published → [view](https://www.instagram.com/reel/DY-J-MSAF1J/)
-- ✅ `2026-05-30-1300-ct` · product_showcase · published → [view](https://www.instagram.com/p/DY-NnWgAAa2/)
-- ⏳ `2026-05-30-1900-ct` · bts · approved-queued
+- ✅ `2026-05-31-0800-ct` · bts · published → [view](https://www.instagram.com/p/DZAQE88gNOT/)
+- ✅ `2026-05-31-0800-ct` · reel_showcase · published → [view](https://www.instagram.com/reel/DZAQNicj5ws/)
+- ✅ `2026-05-31-0800-ct` · reel_showcase · published → [view](https://www.instagram.com/reel/DZAQStCDoVN/)
+- ⏳ `2026-05-31-0800-ct` · reel_showcase · draft-failed
+- ✅ `2026-05-31-0800-ct` · reel_showcase · published → [view](https://www.instagram.com/reel/DZAQXpvjDpC/)
+- ⏳ `2026-05-31-0800-ct` · reel_showcase · manual-post-only
+- ⏳ `2026-05-31-0800-ct` · reel_showcase · manual-post-only
+- ⏳ `2026-05-31-0800-ct` · reel_showcase · manual-post-only
+- ⏳ `2026-05-31-0800-ct` · reel_showcase · manual-post-only
+- ⏳ `2026-05-31-0800-ct` · reel_showcase · manual-post-only
+- ⏳ `2026-05-31-1300-ct` · faq_visual · approved-queued
+- ⏳ `2026-05-31-1900-ct` · comparison_split · approved-queued
 
 ---
 
@@ -67,47 +77,29 @@ _Live dashboard of everything BETA is producing. Auto-refreshes every 15 min. Op
 _Everything BETA created today across the multi-agent platform. Click to open._
 
 ### 📷 GMC Brief (3)
-- [[brands/aydins/gmc-briefs/2026-05-30-aurion-gold-tungsten-ring-gold-foil-inlay-beveled-8mm/brief.md]]
-- [[brands/aydins/gmc-briefs/2026-05-30-legend-gold-flat-tungsten-wedding-cz-eternity-band-with-white-diamond-inlay-polished-finish/brief.md]]
-- [[brands/aydins/gmc-briefs/2026-05-30-nemesis-black-tungsten-ring-white-round-cz-beveled-edge-ring/brief.md]]
+- [[brands/aydins/gmc-briefs/2026-05-31-high-polished-stainless-steel-fingerprint-bracelet/brief.md]]
+- [[brands/aydins/gmc-briefs/2026-05-31-personalized-sterling-silver-dog-tag-pendant/brief.md]]
+- [[brands/aydins/gmc-briefs/2026-05-31-winston-white-tungsten-ring-with-raised-hammered-finish-and-polished-step-edges-4mm-10mm/brief.md]]
 
-### 📷 Reel Script (1)
-- [[brands/aydins/reel-scripts/2026-05-30-lifestyle-reel.md]]
-
-### 📷 Carousel Script (1)
-- [[brands/aydins/carousel-scripts/2026-05-30-process-carousel.md]]
-
-### 🎬 Reel Pending Upload (8)
-- [[brands/aydins/reel-videos/pending/legend-gold-flat-tungsten-wedding-cz-eternity-band-with-white-diamond-inlay-polished-finish_landscape_pp_landscape_pp_landscape_pp_landscape_pp_vertical.mp4]]
-- [[brands/aydins/reel-videos/pending/legend-gold-flat-tungsten-wedding-cz-eternity-band-with-white-diamond-inlay-polished-finish_landscape_pp_landscape_pp_landscape_pp_landscape_pp_landscape_pp.mp4]]
-- [[brands/aydins/reel-videos/pending/legend-gold-flat-tungsten-wedding-cz-eternity-band-with-white-diamond-inlay-polished-finish_landscape_pp_landscape_pp_landscape_pp_vertical.mp4]]
-- [[brands/aydins/reel-videos/pending/legend-gold-flat-tungsten-wedding-cz-eternity-band-with-white-diamond-inlay-polished-finish_landscape_pp_landscape_pp_landscape_pp_landscape_pp.mp4]]
+### 🎬 Reel Pending Upload (9)
 - [[brands/aydins/reel-videos/pending/legend-gold-flat-tungsten-wedding-cz-eternity-band-with-white-diamond-inlay-polished-finish_vertical_landscape_pp_landscape_pp_landscape_pp.mp4]]
 - [[brands/aydins/reel-videos/pending/legend-gold-flat-tungsten-wedding-cz-eternity-band-with-white-diamond-inlay-polished-finish_landscape_pp_vertical_landscape_pp.mp4]]
 - [[brands/aydins/reel-videos/pending/legend-gold-flat-tungsten-wedding-cz-eternity-band-with-white-diamond-inlay-polished-finish_landscape_pp_landscape_pp_vertical.mp4]]
+- [[brands/aydins/reel-videos/pending/legend-gold-flat-tungsten-wedding-cz-eternity-band-with-white-diamond-inlay-polished-finish_landscape_pp_landscape_pp_landscape_pp_vertical.mp4]]
+- [[brands/aydins/reel-videos/pending/legend-gold-flat-tungsten-wedding-cz-eternity-band-with-white-diamond-inlay-polished-finish_landscape_pp_landscape_pp_landscape_pp_landscape_pp_vertical.mp4]]
+- [[brands/aydins/reel-videos/pending/legend-gold-flat-tungsten-wedding-cz-eternity-band-with-white-diamond-inlay-polished-finish_landscape_pp_landscape_pp_landscape_pp_landscape_pp_landscape_pp.mp4]]
+- [[brands/aydins/reel-videos/pending/legend-gold-flat-tungsten-wedding-cz-eternity-band-with-white-diamond-inlay-polished-finish_landscape_pp_landscape_pp_landscape_pp_landscape_pp.mp4]]
 - [[brands/aydins/reel-videos/pending/legend-gold-flat-tungsten-wedding-cz-eternity-band-with-white-diamond-inlay-polished-finish_landscape_pp_landscape_pp_landscape_pp.mp4]]
-
-### 🎬 Reel Approved (9)
-- [[brands/aydins/reel-videos/approved/legend-gold-flat-tungsten-wedding-cz-eternity-band-with-white-diamond-inlay-polished-finish_vertical_landscape_pp_landscape_pp.mp4]]
-- [[brands/aydins/reel-videos/approved/legend-gold-flat-tungsten-wedding-cz-eternity-band-with-white-diamond-inlay-polished-finish_landscape_pp_vertical.mp4]]
-- [[brands/aydins/reel-videos/approved/legend-gold-flat-tungsten-wedding-cz-eternity-band-with-white-diamond-inlay-polished-finish_landscape_pp_landscape_pp.mp4]]
-- [[brands/aydins/reel-videos/approved/legend-gold-flat-tungsten-wedding-cz-eternity-band-with-white-diamond-inlay-polished-finish_vertical_landscape_pp.mp4]]
-- [[brands/aydins/reel-videos/approved/legend-gold-flat-tungsten-wedding-cz-eternity-band-with-white-diamond-inlay-polished-finish_vertical.mp4]]
-- [[brands/aydins/reel-videos/approved/legend-gold-flat-tungsten-wedding-cz-eternity-band-with-white-diamond-inlay-polished-finish_landscape_pp.mp4]]
-- [[brands/aydins/reel-videos/approved/legend-gold-flat-tungsten-wedding-cz-eternity-band-with-white-diamond-inlay-polished-finish.mp4]]
-- [[brands/aydins/reel-videos/approved/nemesis-black-tungsten-ring-white-round-cz-beveled-edge-ring_vertical.mp4]]
-
-### 🛍 Listing Enrichment (1)
-- [[brands/aydins/listing-enrichment/2026-05-30-shipping-protection.md]]
 
 ---
 
 ## ✅ Recent Wins (Today)
 
-- **BETA Check**: reject Phase 1 listing draft `tungsten-wood-ring-mahogany-wood-tungsten-wedding-band-polished-finish-8mm-tungsten-wedding-ring`
-- **BETA Insta (auto-publisher cron)**: publish IG post auto-mode → [view](https://www.instagram.com/p/DY9rSQOANCh/)
-- **BETA Insta (auto-publisher cron)**: publish IG post auto-mode → [view](https://www.instagram.com/reel/DY-J-MSAF1J/)
-- **BETA Insta (auto-publisher cron)**: publish IG post auto-mode → [view](https://www.instagram.com/p/DY-NnWgAAa2/)
+- **BETA Check**: reject Phase 1 listing draft `austin-blue-and-green-opal-inlay`
+- **BETA Insta (auto-publisher cron)**: publish IG post auto-mode → [view](https://www.instagram.com/p/DZAQE88gNOT/)
+- **BETA Insta (auto-publisher cron)**: publish IG post auto-mode → [view](https://www.instagram.com/reel/DZAQNicj5ws/)
+- **BETA Insta (auto-publisher cron)**: publish IG post auto-mode → [view](https://www.instagram.com/reel/DZAQStCDoVN/)
+- **BETA Insta (auto-publisher cron)**: publish IG post auto-mode → [view](https://www.instagram.com/reel/DZAQXpvjDpC/)
 
 ---
 
