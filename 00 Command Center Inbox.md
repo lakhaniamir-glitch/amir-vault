@@ -1,5 +1,5 @@
 ---
-generated: 2026-05-31T19:15:01.143451+00:00
+generated: 2026-05-31T19:30:01.756237+00:00
 generator: claudian_command_center_inbox.py
 refresh_cadence: every 15 min
 ---
@@ -8,7 +8,7 @@ refresh_cadence: every 15 min
 
 _Live dashboard of everything BETA is producing. Auto-refreshes every 15 min. Open any item below by clicking the wikilink._
 
-**Last refresh**: 2026-05-31 14:15 CT
+**Last refresh**: 2026-05-31 14:30 CT
 
 ---
 
@@ -81,15 +81,14 @@ _Everything BETA created today across the multi-agent platform. Click to open._
 - [[brands/aydins/gmc-briefs/2026-05-31-winston-white-tungsten-ring-with-raised-hammered-finish-and-polished-step-edges-4mm-10mm/brief.md]]
 - [[brands/aydins/gmc-briefs/2026-05-31-high-polished-stainless-steel-fingerprint-bracelet/brief.md]]
 
-### 🎬 Reel Pending Upload (9)
-- [[brands/aydins/reel-videos/pending/legend-gold-flat-tungsten-wedding-cz-eternity-band-with-white-diamond-inlay-polished-finish_vertical_landscape_pp_landscape_pp_landscape_pp.mp4]]
-- [[brands/aydins/reel-videos/pending/legend-gold-flat-tungsten-wedding-cz-eternity-band-with-white-diamond-inlay-polished-finish_landscape_pp_vertical_landscape_pp.mp4]]
-- [[brands/aydins/reel-videos/pending/legend-gold-flat-tungsten-wedding-cz-eternity-band-with-white-diamond-inlay-polished-finish_landscape_pp_landscape_pp_vertical.mp4]]
-- [[brands/aydins/reel-videos/pending/legend-gold-flat-tungsten-wedding-cz-eternity-band-with-white-diamond-inlay-polished-finish_landscape_pp_landscape_pp_landscape_pp_vertical.mp4]]
-- [[brands/aydins/reel-videos/pending/legend-gold-flat-tungsten-wedding-cz-eternity-band-with-white-diamond-inlay-polished-finish_landscape_pp_landscape_pp_landscape_pp_landscape_pp_vertical.mp4]]
-- [[brands/aydins/reel-videos/pending/legend-gold-flat-tungsten-wedding-cz-eternity-band-with-white-diamond-inlay-polished-finish_landscape_pp_landscape_pp_landscape_pp_landscape_pp_landscape_pp.mp4]]
-- [[brands/aydins/reel-videos/pending/legend-gold-flat-tungsten-wedding-cz-eternity-band-with-white-diamond-inlay-polished-finish_landscape_pp_landscape_pp_landscape_pp_landscape_pp.mp4]]
-- [[brands/aydins/reel-videos/pending/legend-gold-flat-tungsten-wedding-cz-eternity-band-with-white-diamond-inlay-polished-finish_landscape_pp_landscape_pp_landscape_pp.mp4]]
+### 🎬 Reel Pending Upload (3)
+- [[brands/aydins/reel-videos/pending/winston-white-tungsten-ring-with-raised-hammered-finish-and-polished-step-edges-4mm-10mm_vertical.mp4]]
+- [[brands/aydins/reel-videos/pending/winston-white-tungsten-ring-with-raised-hammered-finish-and-polished-step-edges-4mm-10mm_landscape_pp.mp4]]
+- [[brands/aydins/reel-videos/pending/winston-white-tungsten-ring-with-raised-hammered-finish-and-polished-step-edges-4mm-10mm.mp4]]
+
+### 🎬 Reel Approved (2)
+- [[brands/aydins/reel-videos/approved/signet-ring-custom-signet-ring-fingerprint-ring-laser-engraved-gold-signet-ring-silver-signet-ring-black-signet-ring.mp4]]
+- [[brands/aydins/reel-videos/approved/high-polished-stainless-steel-fingerprint-bracelet.mp4]]
 
 ---
 
