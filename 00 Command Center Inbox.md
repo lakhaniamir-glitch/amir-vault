@@ -1,5 +1,5 @@
 ---
-generated: 2026-05-31T17:45:02.052046+00:00
+generated: 2026-05-31T18:00:01.287976+00:00
 generator: claudian_command_center_inbox.py
 refresh_cadence: every 15 min
 ---
@@ -8,7 +8,7 @@ refresh_cadence: every 15 min
 
 _Live dashboard of everything BETA is producing. Auto-refreshes every 15 min. Open any item below by clicking the wikilink._
 
-**Last refresh**: 2026-05-31 12:45 CT
+**Last refresh**: 2026-05-31 13:00 CT
 
 ---
 
@@ -77,9 +77,9 @@ _Live dashboard of everything BETA is producing. Auto-refreshes every 15 min. Op
 _Everything BETA created today across the multi-agent platform. Click to open._
 
 ### 📷 GMC Brief (3)
-- [[brands/aydins/gmc-briefs/2026-05-31-high-polished-stainless-steel-fingerprint-bracelet/brief.md]]
-- [[brands/aydins/gmc-briefs/2026-05-31-personalized-sterling-silver-dog-tag-pendant/brief.md]]
 - [[brands/aydins/gmc-briefs/2026-05-31-winston-white-tungsten-ring-with-raised-hammered-finish-and-polished-step-edges-4mm-10mm/brief.md]]
+- [[brands/aydins/gmc-briefs/2026-05-31-personalized-sterling-silver-dog-tag-pendant/brief.md]]
+- [[brands/aydins/gmc-briefs/2026-05-31-high-polished-stainless-steel-fingerprint-bracelet/brief.md]]
 
 ### 🎬 Reel Pending Upload (9)
 - [[brands/aydins/reel-videos/pending/legend-gold-flat-tungsten-wedding-cz-eternity-band-with-white-diamond-inlay-polished-finish_vertical_landscape_pp_landscape_pp_landscape_pp.mp4]]
