@@ -1,5 +1,5 @@
 ---
-generated: 2026-05-31T23:00:01.724418+00:00
+generated: 2026-05-31T23:15:01.645519+00:00
 generator: claudian_command_center_inbox.py
 refresh_cadence: every 15 min
 ---
@@ -8,7 +8,7 @@ refresh_cadence: every 15 min
 
 _Live dashboard of everything BETA is producing. Auto-refreshes every 15 min. Open any item below by clicking the wikilink._
 
-**Last refresh**: 2026-05-31 18:00 CT
+**Last refresh**: 2026-05-31 18:15 CT
 
 ---
 
@@ -85,6 +85,9 @@ _Everything BETA created today across the multi-agent platform. Click to open._
 - [[brands/aydins/reel-videos/approved/winston-white-tungsten-ring-with-raised-hammered-finish-and-polished-step-edges-4mm-10mm.mp4]]
 - [[brands/aydins/reel-videos/approved/signet-ring-custom-signet-ring-fingerprint-ring-laser-engraved-gold-signet-ring-silver-signet-ring-black-signet-ring.mp4]]
 - [[brands/aydins/reel-videos/approved/high-polished-stainless-steel-fingerprint-bracelet.mp4]]
+
+### 📊 IG Engagement Review (1)
+- [[brands/aydins/insta-weekly-reviews/2026-05-31-engagement.md]]
 
 ---
 
