@@ -6,7 +6,7 @@ status: awaiting-amir-gmc-action
 product_id: 8858181697773
 product_handle: personalized-sterling-silver-dog-tag-pendant
 product_title: Personalized Sterling Silver Dog Tag Pendant
-scene_theme: dark_walnut_workshop
+scene_theme: leather_library
 ---
 
 # GMC Brief: Personalized Sterling Silver Dog Tag Pendant
@@ -26,23 +26,23 @@ scene_theme: dark_walnut_workshop
 8. BETA Insta watcher (runs every 30 min) auto-detects, generates caption, schedules to IG
 
 ## Recommended prompt to try first
-**Try 'Light Cascade' first because its sweeping light motion best showcases the engraving details and the luxurious silver texture, matching the reference style's emphasis on light interaction with product features.**
+**Start with Slow Orbit for a classic luxury reveal that emphasizes the ring detail.**
 
 ## All 3 prompt variants
 
-### Orbit Glide
+### Slow Orbit
 ```
-The video begins with the static image of the Personalized Sterling Silver Dog Tag Pendant resting on the dark walnut wood workbench surface, a leather strap and brass tools blurred in the background. A warm amber rim light from the side begins a slow, horizontal sweep across the scene. As the light glides over the pendant's polished silver surface, it catches the crisp edges of the dog tag shape and the faint engraved personalization, causing them to gleam with a soft, metallic pulse. The camera then executes a deliberate 360 degree orbit around the pendant, maintaining a steady focus on the sterling silver finish and the subtle contrast of the dark wood beneath. The orbit slows as the light completes its pass, settling back to the original composition. The pendant now appears to hold a quiet, radiant authority, embodying enduring craftsmanship and personal significance.
-```
-
-### Light Cascade
-```
-The video begins with the static image of the Personalized Sterling Silver Dog Tag Pendant lying flat on the dark walnut workbench, the leather strap and brass tools softly out of focus in the background. A warm amber light, mimicking a setting sun, sweeps in from the right side of the frame. As the light washes over the pendant, it illuminates the satin brushed texture of the sterling silver, then catches the shallow engraving of the personalization, making the letters glisten one by one. A second subtle light source drifts in from the left, creating a delicate interplay of highlights across the dog tag's rounded corners and the smooth loop at the top. The camera performs a slow push in toward the pendant, the background blur deepening. The light sweeps complete, the pendant is left glowing with a soft inner warmth. A testament to precision and timeless masculine elegance.
+Slow clockwise camera orbit around the ring, subtle parallax reveals background depth, smooth cinematic motion, premium product showcase.
 ```
 
-### Parallax Depth
+### Push In
 ```
-The video begins with the static image of the Personalized Sterling Silver Dog Tag Pendant resting centered on the dark walnut wood surface, the blurred leather and brass tools framing the background. A single warm amber rim light traces a slow diagonal path across the scene from the lower left. As the light travels, it reveals the mirror like polish on the pendant's front face and the subtle satin finish on its reverse side. The camera then initiates a gentle parallax drift, moving slightly to the right while tilting upward, creating a sense of depth between the pendant, the wood grain, and the distant tools. The light completes its arc, casting a long soft shadow of the pendant across the workbench. The camera settles at a slightly elevated angle, the pendant now seemingly suspended in its own crafted atmosphere. A piece of sterling silver that carries a story, forged with quiet dedication.
+Gentle push-in toward the ring, shallow depth of field, soft light shift, premium macro product cinematography.
+```
+
+### Parallax Slide
+```
+Horizontal camera slide left to right, ring stays centered, background reveals layered depth, slow cinematic motion.
 ```
 
 
@@ -53,7 +53,7 @@ The video begins with the static image of the Personalized Sterling Silver Dog T
 - **Shopify admin**: https://aydinsjewelry.myshopify.com/admin/products/8858181697773
 
 ## Scene theme today
-**dark_walnut_workshop**: Ring resting on dark walnut wood workbench surface, with subtle leather strap and brass tools blurred in background. Warm amber rim light from the side. Craftsman atmosphere.
+**leather_library**: Ring on aged tan leather surface, with closed leather-bound books and a brass desk lamp in soft focus background. Warm tungsten library lighting. Editorial luxury aesthetic.
 
 ---
 
