@@ -1,5 +1,5 @@
 ---
-generated: 2026-06-01T01:00:01.716969+00:00
+generated: 2026-06-01T01:15:01.164926+00:00
 generator: claudian_command_center_inbox.py
 refresh_cadence: every 15 min
 ---
@@ -8,7 +8,7 @@ refresh_cadence: every 15 min
 
 _Live dashboard of everything BETA is producing. Auto-refreshes every 15 min. Open any item below by clicking the wikilink._
 
-**Last refresh**: 2026-05-31 20:00 CT
+**Last refresh**: 2026-05-31 20:15 CT
 
 ---
 
@@ -68,7 +68,7 @@ _Live dashboard of everything BETA is producing. Auto-refreshes every 15 min. Op
 - ⏳ `2026-05-31-0800-ct` · reel_showcase · manual-post-only
 - ⏳ `2026-05-31-0800-ct` · reel_showcase · manual-post-only
 - ✅ `2026-05-31-1300-ct` · faq_visual · published → [view](https://www.instagram.com/p/DZAyaP_AJqs/)
-- ⏳ `2026-05-31-1900-ct` · product_showcase · queued
+- ⏳ `2026-05-31-1900-ct` · product_showcase · drafted-needs-review
 
 ---
 
