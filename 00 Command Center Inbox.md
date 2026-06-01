@@ -1,5 +1,5 @@
 ---
-generated: 2026-06-01T02:00:01.922986+00:00
+generated: 2026-06-01T02:15:01.679168+00:00
 generator: claudian_command_center_inbox.py
 refresh_cadence: every 15 min
 ---
@@ -8,12 +8,14 @@ refresh_cadence: every 15 min
 
 _Live dashboard of everything BETA is producing. Auto-refreshes every 15 min. Open any item below by clicking the wikilink._
 
-**Last refresh**: 2026-05-31 21:00 CT
+**Last refresh**: 2026-05-31 21:15 CT
 
 ---
 
 ## ⚡ Needs Your Approval
 
+- **BETA Google**: (no reason) `actual-fingerprint-couples-ring-forever-heart-promise-ring-engraved-ring-anniversary-ring-engagement-ring-mens-wedding-band-ring` → [[/home/openclaw/.openclaw/command-center/work/phase3/drafts/phase3-seo-20260528T032409Z-actual-fingerprint-couples-ring-forever-heart-promise-ring-engraved-ring-anniversary-ring-engagement-ring-mens-wedding-band-ring.json]]  
+  _2026-05-28T03:24_
 - **?**: Meta description exceeds 150 characters: 170; Engraving tag must be exactly Inside or Inside & Outside; Unsupported manu `rose-gold-ip-with-hawaiian-koa-wood-inlay-shiny-beveled-edge-8mm-tungsten-carbide-wedding-ring`  
   _2026-05-28T05:57_
 - **BETA**: Star Wars Wave1 products are now ACTIVE with inventory restored, so these negatives may block newly sellable inventory.  
@@ -24,8 +26,6 @@ _Live dashboard of everything BETA is producing. Auto-refreshes every 15 min. Op
   _2026-05-29T10:56_
 - **BETA Insta drafter**: caption failed V4 Flash self-check  
   _2026-05-29T14:55_
-- **BETA Google**: BETA Google drafted SEO blog post. Review and publish. → [[brands/aydins/blog-drafts/2026-05-29-titanium-rings-wedding-bands-for-men-and-women-ayd.md]]  
-  _2026-05-29T17:25_
 - **BETA Shop**: BETA Shop drafted FAQ + meta-description enrichment. Review and push to Shopify. `falkor-tungsten-ring-silver-brushed-beveled` → [[brands/aydins/listing-enrichment/2026-05-29-falkor-tungsten-ring-silver-brushed-beveled.md]]  
   _2026-05-29T17:27_
 - **BETA Klaviyo**: BETA Klaviyo drafted 3 subject variants + body opener for `Customer Winback: Email 1`. Review and create A/B in Klaviyo. → [[brands/aydins/klaviyo-email-drafts/2026-05-29-QVt7Vu-customer-winback---standard.md]]  
