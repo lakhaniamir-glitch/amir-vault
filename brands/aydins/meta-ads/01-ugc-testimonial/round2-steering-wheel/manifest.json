@@ -1,0 +1,267 @@
+{
+  "generated_at_utc": "2026-06-03T17:35:37.758151+00:00",
+  "brief": "UGC testimonial brief 1, round 2 focused steering wheel direction",
+  "output_dir": "/home/openclaw/.openclaw/vault/brands/aydins/meta-ads/01-ugc-testimonial/round2-steering-wheel",
+  "hard_cap": "4 image generations plus 2 retries max",
+  "visuals": [
+    {
+      "variant": "v1",
+      "asset_path": "/home/openclaw/.openclaw/vault/brands/aydins/meta-ads/01-ugc-testimonial/round2-steering-wheel/v1.png",
+      "dimensions": "1080x1350",
+      "size_bytes": 1605076,
+      "visual_prompt": "Generate a realistic cinematic 4:5 portrait ad image for Aydins Jewelry. Modern luxury sedan interior at golden hour. Critical: the steering wheel must be completely plain and unbranded, with no center badge, no emblem, no logo, no text, no AIRBAG label, no dashboard icons, no symbols, no numbers, no readable anything anywhere. Use a generic leather steering wheel with smooth blank center and brushed metal trim in soft blur. Hero is an 8mm men's wood inlay wedding band on realistic mid-30s male hand, tungsten base, comfort fit profile, warm red burl or ebony wood grain. No watermarks. No signage. Candid premium end-of-workday mood, warm shadows, slight teal highlights, not oversaturated. Tight classic shot: hand at 2 o'clock grip position on the plain unbranded leather steering wheel, camera slightly above looking down. Ring catches golden hour sun. Crop the wheel center mostly out of frame if needed to guarantee no badge or text. Bare forearm. Ring is focal point.",
+      "gemini_model": "gemini-2.5-flash-image",
+      "gemini_usage": {
+        "promptTokenCount": 217,
+        "candidatesTokenCount": 1290,
+        "totalTokenCount": 1507,
+        "promptTokensDetails": [
+          {
+            "modality": "TEXT",
+            "tokenCount": 217
+          }
+        ],
+        "candidatesTokensDetails": [
+          {
+            "modality": "IMAGE",
+            "tokenCount": 1290
+          }
+        ],
+        "serviceTier": "standard"
+      },
+      "gemini_cost_usd": 0.039,
+      "retry": true,
+      "visual_qa": {
+        "status": "FAIL",
+        "issue": "Garbled button text or symbols on steering wheel controls after retry",
+        "recommended": false
+      }
+    },
+    {
+      "variant": "v2",
+      "asset_path": "/home/openclaw/.openclaw/vault/brands/aydins/meta-ads/01-ugc-testimonial/round2-steering-wheel/v2.png",
+      "dimensions": "1080x1350",
+      "size_bytes": 1487530,
+      "visual_prompt": "Create a polished cinematic but candid UGC-style Meta feed image for Aydins Jewelry. 4:5 portrait, final 1080x1350. Subject is a realistic adult men's hand in a modern luxury sedan interior at golden hour, warm sun through side window, peaceful end-of-workday mood, masculine and premium without flashy. Vehicle interior should suggest a modern German or Japanese luxury sedan with leather steering wheel, brushed metal trim, clean minimalist dashboard, but absolutely no visible car brand badges, no logos, no text, no numbers, no readable dashboard symbols, no watermarks, no signage. The ring is the hero: 8mm men's wood inlay wedding band, tungsten base, comfort fit profile, warm visible wood grain like red burl wood or ebony. Cinematic color grading, warm shadows, slight teal highlights, not oversaturated. Realistic men's hand, mid-30s, natural skin, no perfect manicure. No text anywhere in the image. If engraving is visible, make it subtle abstract engraving marks, not readable letters or words. V2 two hands couples angle: driver's hand with slightly darker skin tone on the steering wheel wearing the wood inlay men's band. Passenger-side hand visible at the edge of frame wearing a thinner women's band, resting near gear shift or door armrest, hands do not touch. Reinforce couples anniversary feeling without text. Shirt cuff visible on driver, soft golden hour light.",
+      "gemini_model": "gemini-2.5-flash-image",
+      "gemini_usage": {
+        "promptTokenCount": 305,
+        "candidatesTokenCount": 1325,
+        "totalTokenCount": 1630,
+        "promptTokensDetails": [
+          {
+            "modality": "TEXT",
+            "tokenCount": 305
+          }
+        ],
+        "candidatesTokensDetails": [
+          {
+            "modality": "IMAGE",
+            "tokenCount": 1290
+          }
+        ],
+        "serviceTier": "standard"
+      },
+      "gemini_cost_usd": 0.039,
+      "retry": false,
+      "visual_qa": {
+        "status": "FAIL",
+        "issue": "Visible car logo and second hand ring mismatch; not recommended",
+        "recommended": false
+      }
+    },
+    {
+      "variant": "v3",
+      "asset_path": "/home/openclaw/.openclaw/vault/brands/aydins/meta-ads/01-ugc-testimonial/round2-steering-wheel/v3.png",
+      "dimensions": "1080x1350",
+      "size_bytes": 1435627,
+      "visual_prompt": "Create a polished cinematic but candid UGC-style Meta feed image for Aydins Jewelry. 4:5 portrait, final 1080x1350. Subject is a realistic adult men's hand in a modern luxury sedan interior at golden hour, warm sun through side window, peaceful end-of-workday mood, masculine and premium without flashy. Vehicle interior should suggest a modern German or Japanese luxury sedan with leather steering wheel, brushed metal trim, clean minimalist dashboard, but absolutely no visible car brand badges, no logos, no text, no numbers, no readable dashboard symbols, no watermarks, no signage. The ring is the hero: 8mm men's wood inlay wedding band, tungsten base, comfort fit profile, warm visible wood grain like red burl wood or ebony. Cinematic color grading, warm shadows, slight teal highlights, not oversaturated. Realistic men's hand, mid-30s, natural skin, no perfect manicure. No text anywhere in the image. If engraving is visible, make it subtle abstract engraving marks, not readable letters or words. V3 over-shoulder broader composition: camera behind and slightly above driver's right shoulder, shows hand on wheel, soft blurred speedometer shape with no numbers or symbols, dashboard reflecting warm sunlight. Ring readable but smaller in frame, cinematic story of daily wear and driving. Olive skin tone, dark sleeve.",
+      "gemini_model": "gemini-2.5-flash-image",
+      "gemini_usage": {
+        "promptTokenCount": 286,
+        "candidatesTokenCount": 1290,
+        "totalTokenCount": 1576,
+        "promptTokensDetails": [
+          {
+            "modality": "TEXT",
+            "tokenCount": 286
+          }
+        ],
+        "candidatesTokensDetails": [
+          {
+            "modality": "IMAGE",
+            "tokenCount": 1290
+          }
+        ],
+        "serviceTier": "standard"
+      },
+      "gemini_cost_usd": 0.039,
+      "retry": false,
+      "visual_qa": {
+        "status": "PASS",
+        "issue": null,
+        "recommended": true
+      }
+    },
+    {
+      "variant": "v4",
+      "asset_path": "/home/openclaw/.openclaw/vault/brands/aydins/meta-ads/01-ugc-testimonial/round2-steering-wheel/v4.png",
+      "dimensions": "1080x1350",
+      "size_bytes": 1638549,
+      "visual_prompt": "Generate a realistic cinematic 4:5 portrait ad image for Aydins Jewelry. Modern luxury sedan interior at golden hour. Critical: the steering wheel must be completely plain and unbranded, with no center badge, no emblem, no logo, no text, no AIRBAG label, no dashboard icons, no symbols, no numbers, no readable anything anywhere. Use a generic leather steering wheel with smooth blank center and brushed metal trim in soft blur. Hero is an 8mm men's wood inlay wedding band on realistic mid-30s male hand, tungsten base, comfort fit profile, warm red burl or ebony wood grain. No watermarks. No signage. Candid premium end-of-workday mood, warm shadows, slight teal highlights, not oversaturated. Extreme macro detail: hand on plain leather wheel, ring fills 60 to 70 percent of frame, crisp wood grain. Background only leather texture, no wheel center, no text, no badge. Inside edge angled toward camera with subtle abstract engraving grooves only, no readable letters. Simple shirt cuff.",
+      "gemini_model": "gemini-2.5-flash-image",
+      "gemini_usage": {
+        "promptTokenCount": 220,
+        "candidatesTokenCount": 1290,
+        "totalTokenCount": 1510,
+        "promptTokensDetails": [
+          {
+            "modality": "TEXT",
+            "tokenCount": 220
+          }
+        ],
+        "candidatesTokensDetails": [
+          {
+            "modality": "IMAGE",
+            "tokenCount": 1290
+          }
+        ],
+        "serviceTier": "standard"
+      },
+      "gemini_cost_usd": 0.039,
+      "retry": true,
+      "visual_qa": {
+        "status": "FAIL",
+        "issue": "Unnatural or incorrect steering wheel control icons after retry",
+        "recommended": false
+      }
+    }
+  ],
+  "captions": [
+    {
+      "id": "round2_v1_end_of_day",
+      "primaryText": "After work, I still catch myself checking the wood grain. Free engraving made it feel like mine.",
+      "headline": "Free Engraving",
+      "description": "Free U.S. shipping",
+      "landingUrl": "https://shopaydins.com/collections/mens-wedding-bands?utm_source=facebook&utm_medium=paid_social&utm_campaign=couples_engraved_test_ugc_testimonial",
+      "engravingAvailable": true,
+      "productTags": [
+        "Inside",
+        "Free Engraving",
+        "Men Ring",
+        "Wood Inlay"
+      ]
+    },
+    {
+      "id": "round2_v2_couples_anniversary",
+      "primaryText": "Our rings ride with us every day. Free engraving put our anniversary inside his band for us.",
+      "headline": "Make His Ring Personal",
+      "description": "Free U.S. shipping",
+      "landingUrl": "https://shopaydins.com/collections/mens-wedding-bands?utm_source=facebook&utm_medium=paid_social&utm_campaign=couples_engraved_test_ugc_testimonial",
+      "engravingAvailable": true,
+      "productTags": [
+        "Inside",
+        "Free Engraving",
+        "Men Ring"
+      ]
+    },
+    {
+      "id": "round2_v3_daily_wear",
+      "primaryText": "I wanted a band he could wear all day. The wood inlay and free engraving made this one stick.",
+      "headline": "Built For Daily Wear",
+      "description": "Free U.S. shipping",
+      "landingUrl": "https://shopaydins.com/collections/mens-wedding-bands?utm_source=facebook&utm_medium=paid_social&utm_campaign=couples_engraved_test_ugc_testimonial",
+      "engravingAvailable": true,
+      "productTags": [
+        "Inside",
+        "Free Engraving",
+        "Men Ring",
+        "Wood Inlay"
+      ]
+    },
+    {
+      "id": "round2_v4_personal_touch",
+      "primaryText": "She chose the message inside. Free engraving turned a good ring into something personal.",
+      "headline": "Make His Ring Personal",
+      "description": "Free U.S. shipping",
+      "landingUrl": "https://shopaydins.com/collections/mens-wedding-bands?utm_source=facebook&utm_medium=paid_social&utm_campaign=couples_engraved_test_ugc_testimonial",
+      "engravingAvailable": true,
+      "productTags": [
+        "Inside",
+        "Free Engraving",
+        "Men Ring",
+        "Wood Inlay"
+      ]
+    }
+  ],
+  "validator": "/home/openclaw/.openclaw/command-center/scripts/beta_check_meta.mjs",
+  "validator_results": {
+    "ok": true,
+    "ruleCount": 15,
+    "results": [
+      {
+        "index": 0,
+        "name": "round2_v1_end_of_day",
+        "ok": true,
+        "ruleCount": 15,
+        "warnings": [
+          {
+            "rule": "pixel_id_match_on_landing_page",
+            "field": "pixel",
+            "message": "Pixel ID match not checked. Supply expectedPixelId and detectedPixelId for live landing page validation."
+          }
+        ],
+        "failures": []
+      },
+      {
+        "index": 1,
+        "name": "round2_v2_couples_anniversary",
+        "ok": true,
+        "ruleCount": 15,
+        "warnings": [
+          {
+            "rule": "pixel_id_match_on_landing_page",
+            "field": "pixel",
+            "message": "Pixel ID match not checked. Supply expectedPixelId and detectedPixelId for live landing page validation."
+          }
+        ],
+        "failures": []
+      },
+      {
+        "index": 2,
+        "name": "round2_v3_daily_wear",
+        "ok": true,
+        "ruleCount": 15,
+        "warnings": [
+          {
+            "rule": "pixel_id_match_on_landing_page",
+            "field": "pixel",
+            "message": "Pixel ID match not checked. Supply expectedPixelId and detectedPixelId for live landing page validation."
+          }
+        ],
+        "failures": []
+      },
+      {
+        "index": 3,
+        "name": "round2_v4_personal_touch",
+        "ok": true,
+        "ruleCount": 15,
+        "warnings": [
+          {
+            "rule": "pixel_id_match_on_landing_page",
+            "field": "pixel",
+            "message": "Pixel ID match not checked. Supply expectedPixelId and detectedPixelId for live landing page validation."
+          }
+        ],
+        "failures": []
+      }
+    ]
+  },
+  "gemini_calls_initial": 4,
+  "gemini_retries_used": 2,
+  "gemini_calls_total": 6,
+  "gemini_cost_per_image_usd": 0.039,
+  "total_gemini_cost_usd": 0.234,
+  "final_recommendation": "Only v3 passes strict visual QA. v1, v2, and v4 are saved but not recommended for ad use because retry cap was exhausted.",
+  "no_meta_upload_performed": true
+}

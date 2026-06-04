@@ -1,0 +1,217 @@
+{
+  "checkedAt": "2026-06-02T21:34:52.197Z",
+  "accountId": "23304577",
+  "billingType": "threshold billing",
+  "currentBalance": 8.73,
+  "fundsBalance": 0,
+  "billingThreshold": 900,
+  "thresholdUtilizationPct": 1,
+  "paymentMethods": [
+    {
+      "type": "Ad credit",
+      "status": "active",
+      "amount": 0.02
+    },
+    {
+      "type": "American Express",
+      "last4": "1004",
+      "default": false,
+      "expiry": null,
+      "status": "active"
+    },
+    {
+      "type": "American Express",
+      "last4": "1004",
+      "default": true,
+      "expiry": "Expires 6/27",
+      "status": "active"
+    },
+    {
+      "type": "MasterCard",
+      "last4": "4041",
+      "default": false,
+      "expiry": "Expired 02/26",
+      "status": "expired"
+    },
+    {
+      "type": "PayPal",
+      "account": "s****@a****.com",
+      "default": false,
+      "expiry": null,
+      "status": "active"
+    }
+  ],
+  "backupPaymentMethodExists": true,
+  "lastSuccessfulCharge": {
+    "id": "27390732197282516-27281323851556690",
+    "date": "Jun 2, 2026",
+    "amount": "$903.00",
+    "method": "sales@ayd…com",
+    "code": null,
+    "status": "Paid"
+  },
+  "failedRows": [
+    {
+      "id": "27424269043928833-27205911132431294",
+      "date": "Jun 1, 2026",
+      "amount": "$903.00",
+      "method": "American Express ···· 1004",
+      "code": "7TY3BUDLQ2",
+      "status": "Failed"
+    },
+    {
+      "id": "27296769513345460-27343925988629804",
+      "date": "May 30, 2026",
+      "amount": "$903.00",
+      "method": "sales@ayd…com",
+      "code": null,
+      "status": "Failed"
+    },
+    {
+      "id": "27168928606129547-27296768643345547",
+      "date": "May 30, 2026",
+      "amount": "$903.00",
+      "method": "MasterCard ···· 4041",
+      "code": "NW3AKRZKQ2",
+      "status": "Failed"
+    },
+    {
+      "id": "27296767743345637-27234453796243696",
+      "date": "May 30, 2026",
+      "amount": "$903.00",
+      "method": "American Express ···· 1004",
+      "code": "UDPUEU9LQ2",
+      "status": "Failed"
+    },
+    {
+      "id": "27450201404668935-27182546014767808",
+      "date": "May 26, 2026",
+      "amount": "$903.00",
+      "method": "sales@ayd…com",
+      "code": null,
+      "status": "Failed"
+    },
+    {
+      "id": "27117206754635066-27212339171788496",
+      "date": "May 26, 2026",
+      "amount": "$903.00",
+      "method": "MasterCard ···· 4041",
+      "code": "SP5HHTDLQ2",
+      "status": "Failed"
+    },
+    {
+      "id": "27335064626182609-27117205881301820",
+      "date": "May 26, 2026",
+      "amount": "$903.00",
+      "method": "American Express ···· 1004",
+      "code": "UL2KGSRKQ2",
+      "status": "Failed"
+    },
+    {
+      "id": "27285372004485203-27493703013652106",
+      "date": "May 26, 2026",
+      "amount": "$903.00",
+      "method": "sales@ayd…com",
+      "code": null,
+      "status": "Failed"
+    },
+    {
+      "id": "27174083922280683-27175921555430254",
+      "date": "May 26, 2026",
+      "amount": "$903.00",
+      "method": "MasterCard ···· 4041",
+      "code": "VDEXVT9LQ2",
+      "status": "Failed"
+    }
+  ],
+  "recentRows": [
+    {
+      "id": "27390732197282516-27281323851556690",
+      "date": "Jun 2, 2026",
+      "amount": "$903.00",
+      "method": "sales@ayd…com",
+      "code": null,
+      "status": "Paid"
+    },
+    {
+      "id": "27424269043928833-27205911132431294",
+      "date": "Jun 1, 2026",
+      "amount": "$903.00",
+      "method": "American Express ···· 1004",
+      "code": "7TY3BUDLQ2",
+      "status": "Failed"
+    },
+    {
+      "id": "27296769513345460-27343925988629804",
+      "date": "May 30, 2026",
+      "amount": "$903.00",
+      "method": "sales@ayd…com",
+      "code": null,
+      "status": "Failed"
+    },
+    {
+      "id": "27168928606129547-27296768643345547",
+      "date": "May 30, 2026",
+      "amount": "$903.00",
+      "method": "MasterCard ···· 4041",
+      "code": "NW3AKRZKQ2",
+      "status": "Failed"
+    },
+    {
+      "id": "27296767743345637-27234453796243696",
+      "date": "May 30, 2026",
+      "amount": "$903.00",
+      "method": "American Express ···· 1004",
+      "code": "UDPUEU9LQ2",
+      "status": "Failed"
+    },
+    {
+      "id": "27450201404668935-27182546014767808",
+      "date": "May 26, 2026",
+      "amount": "$903.00",
+      "method": "sales@ayd…com",
+      "code": null,
+      "status": "Failed"
+    },
+    {
+      "id": "27117206754635066-27212339171788496",
+      "date": "May 26, 2026",
+      "amount": "$903.00",
+      "method": "MasterCard ···· 4041",
+      "code": "SP5HHTDLQ2",
+      "status": "Failed"
+    },
+    {
+      "id": "27335064626182609-27117205881301820",
+      "date": "May 26, 2026",
+      "amount": "$903.00",
+      "method": "American Express ···· 1004",
+      "code": "UL2KGSRKQ2",
+      "status": "Failed"
+    },
+    {
+      "id": "27285372004485203-27493703013652106",
+      "date": "May 26, 2026",
+      "amount": "$903.00",
+      "method": "sales@ayd…com",
+      "code": null,
+      "status": "Failed"
+    },
+    {
+      "id": "27174083922280683-27175921555430254",
+      "date": "May 26, 2026",
+      "amount": "$903.00",
+      "method": "MasterCard ···· 4041",
+      "code": "VDEXVT9LQ2",
+      "status": "Failed"
+    }
+  ],
+  "accountQuality": "no account or asset issues visible in last 30 days",
+  "warning": true,
+  "warnings": [
+    "Payment failures or expired method visible: 9 failed rows, 1 expired method(s)",
+    "Meta daily spending limit pause warning visible",
+    "Meta verification needed modal visible"
+  ],
+  "capturePath": "/home/openclaw/.openclaw/command-center/work/meta/meta-billing-health-capture-2026-06-02.json"
+}

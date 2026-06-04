@@ -1,0 +1,102 @@
+{
+  "ok": true,
+  "ruleCount": 15,
+  "results": [
+    {
+      "index": 0,
+      "name": "01 primary 1",
+      "ok": true,
+      "ruleCount": 15,
+      "warnings": [],
+      "failures": []
+    },
+    {
+      "index": 1,
+      "name": "01 primary 2",
+      "ok": true,
+      "ruleCount": 15,
+      "warnings": [],
+      "failures": []
+    },
+    {
+      "index": 2,
+      "name": "01 primary 3",
+      "ok": true,
+      "ruleCount": 15,
+      "warnings": [],
+      "failures": []
+    },
+    {
+      "index": 3,
+      "name": "02 primary 1",
+      "ok": true,
+      "ruleCount": 15,
+      "warnings": [],
+      "failures": []
+    },
+    {
+      "index": 4,
+      "name": "02 primary 2",
+      "ok": true,
+      "ruleCount": 15,
+      "warnings": [],
+      "failures": []
+    },
+    {
+      "index": 5,
+      "name": "02 primary 3",
+      "ok": true,
+      "ruleCount": 15,
+      "warnings": [],
+      "failures": []
+    },
+    {
+      "index": 6,
+      "name": "03 primary 1",
+      "ok": true,
+      "ruleCount": 15,
+      "warnings": [],
+      "failures": []
+    },
+    {
+      "index": 7,
+      "name": "03 primary 2",
+      "ok": true,
+      "ruleCount": 15,
+      "warnings": [],
+      "failures": []
+    },
+    {
+      "index": 8,
+      "name": "03 primary 3",
+      "ok": true,
+      "ruleCount": 15,
+      "warnings": [],
+      "failures": []
+    },
+    {
+      "index": 9,
+      "name": "04 primary 1",
+      "ok": true,
+      "ruleCount": 15,
+      "warnings": [],
+      "failures": []
+    },
+    {
+      "index": 10,
+      "name": "04 primary 2",
+      "ok": true,
+      "ruleCount": 15,
+      "warnings": [],
+      "failures": []
+    },
+    {
+      "index": 11,
+      "name": "04 primary 3",
+      "ok": true,
+      "ruleCount": 15,
+      "warnings": [],
+      "failures": []
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "pulled_at": "2026-06-02T21:08:00Z",
+  "mode": "read-only",
+  "shop": {
+    "name": "Aydins Jewelry",
+    "myshopify_domain": "aydinsjewelry.myshopify.com",
+    "primary_domain": "shopaydins.com",
+    "plan": "Basic"
+  },
+  "meta_dataset": {
+    "pixel_id": "1151493648281503",
+    "name": "Amir Lakhani's Pixel",
+    "owner": "Aydins Jewelry",
+    "owner_id": "229198364454380",
+    "connected_ad_account": "23304577"
+  },
+  "integration_owner_assessment": {
+    "primary_owner": "Shopify managed web pixel plus Shopify server-side event relay",
+    "confidence": "high",
+    "evidence": [
+      "Storefront HTML contains Shopify webPixelsManager configuration.",
+      "Storefront HTML contains app pixel configuration for pixel_id 1151493648281503.",
+      "Storefront HTML contains Trekkie S2S configuration with facebookCapiEnabled true.",
+      "Events Manager settings show dataset owner Aydins Jewelry and connected ad account 23304577.",
+      "Theme scan found no hard-coded fbq, fbevents script, or pixel ID in checked published theme assets.",
+      "Script tags list contains three storefront scripts, none related to the Meta pixel."
+    ]
+  },
+  "current_match_parameter_state_from_events_manager": {
+    "email": "On",
+    "phone_number": "Off",
+    "first_and_last_name": "On",
+    "gender": "Off",
+    "city_state_zip_postal_code": "Off",
+    "country": "Off",
+    "date_of_birth": "Off",
+    "external_id": "Off",
+    "automatic_website_matching": "On",
+    "first_party_cookies": "On",
+    "track_events_automatically_without_code": "Off",
+    "meta_pixel_page_product_details": "On"
+  },
+  "events_manager_quality_state": {
+    "purchase_emq": "8.0/10",
+    "add_to_cart_emq": "5.1/10",
+    "view_content_emq": "5.2/10",
+    "view_content_capi_coverage": "71%",
+    "view_content_capi_goal": "75%",
+    "affected_spend_low_data_quality": "$101"
+  },
+  "custom_code_overrides": {
+    "published_theme_id": 159068061933,
+    "published_theme_name": "kalles-v5-4-0-official",
+    "checked_asset_count": 63,
+    "hard_coded_meta_pixel_found": false,
+    "hard_coded_pixel_id_found": false,
+    "checked_for": [
+      "pixel id 1151493648281503",
+      "fbq call",
+      "fbevents script",
+      "Meta Pixel text",
+      "trackSingle",
+      "trackCustom",
+      "webPixelsManager references"
+    ],
+    "raw_scan_path": "/home/openclaw/.openclaw/command-center/work/meta/shopify-pixel-readonly-raw-2026-06-02.json"
+  },
+  "script_tags": {
+    "count": 3,
+    "pixel_related_found": false,
+    "items": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/1857/8135/t/49/assets/aydins-premium-mega-fix.js?v=1779152506452",
+        "event": "onload",
+        "display_scope": "online_store"
+      },
+      {
+        "src": "https://shopaydins.com/cdn/shop/t/49/assets/aydins-christian-menu-fix.js",
+        "event": "onload",
+        "display_scope": "online_store"
+      },
+      {
+        "src": "https://shopaydins.com/cdn/shop/t/49/assets/beta-mobile-cookie-compact.js",
+        "event": "onload",
+        "display_scope": "online_store"
+      }
+    ]
+  },
+  "app_list_access": {
+    "admin_api_app_installations_query": "access denied for current Shopify token scope",
+    "rest_apps_endpoint": "not available, returned 404",
+    "note": "Installed app names could not be enumerated through the available Admin API token. Storefront and Events Manager evidence still identify Shopify managed web pixels as the active owner."
+  },
+  "customer_events_api": {
+    "web_pixel_for_this_custom_app": "none",
+    "meaning": "The Beta custom app does not own a Shopify web pixel. The active Meta pixel is owned by a Shopify managed app pixel visible in storefront webPixelsManager config."
+  },
+  "source_files": {
+    "shopify_raw_audit": "/home/openclaw/.openclaw/command-center/work/meta/shopify-pixel-readonly-raw-2026-06-02.json",
+    "storefront_parse": "/home/openclaw/.openclaw/command-center/work/meta/storefront-pixel-parsed-2026-06-02.json",
+    "events_manager_audit": "/home/openclaw/.openclaw/command-center/work/meta/tracking-audit-2026-06-02.md"
+  }
+}

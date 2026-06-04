@@ -1,0 +1,250 @@
+{
+  "brief": "/home/openclaw/.openclaw/command-center/work/meta/creative-briefs/01-ugc-testimonial.md",
+  "requested_brief_path_missing": "/home/openclaw/.openclaw/vault/03 Projects/Aydins Jewelry/Meta Ads/Creative Briefs/01-ugc-testimonial.md",
+  "generated_at_utc": "2026-06-03T17:30:15.478439+00:00",
+  "concept": "UGC testimonial, synthetic customer-post style, Aydins men wedding band with engraving angle",
+  "visuals": [
+    {
+      "variant": "v1",
+      "asset_path": "/home/openclaw/.openclaw/vault/brands/aydins/meta-ads/01-ugc-testimonial/v1.png",
+      "size_bytes": 1595040,
+      "dimensions": "1080x1350",
+      "visual_prompt": "Create a realistic synthetic UGC-style Meta feed ad image for Aydins Jewelry men's wedding bands. 4:5 portrait composition, final crop suitable for 1080x1350. Casual phone-shot aesthetic, natural available light, slight real-world imperfection, not a polished studio ad. Show a real-looking adult hand wearing or holding an Aydins-style men's wedding band: tungsten or ceramic base, comfort fit profile, with wood, meteorite, or carbon fiber inlay. Subtle inside engraving detail visible if physically plausible. No text, no captions, no logos, no watermarks, no brand marks, no signage, no readable packaging, no extra jewelry store branding. Avoid AI-obvious hands: correct anatomy, realistic skin texture, natural fingernails, realistic ring scale. Photographic, believable, satisfied customer post feel. Variant 1: hand with a medium warm skin tone resting naturally on a small coffee shop table, ring visible with wood inlay or meteorite detail, soft morning window light, blurred coffee cup in background, shallow phone-camera depth of field, candid customer snapshot.",
+      "gemini_model": "gemini-2.5-flash-image",
+      "gemini_usage": {
+        "promptTokenCount": 230,
+        "candidatesTokenCount": 1321,
+        "totalTokenCount": 1551,
+        "promptTokensDetails": [
+          {
+            "modality": "TEXT",
+            "tokenCount": 230
+          }
+        ],
+        "candidatesTokensDetails": [
+          {
+            "modality": "IMAGE",
+            "tokenCount": 1290
+          }
+        ],
+        "serviceTier": "standard"
+      },
+      "gemini_cost_usd": 0.039,
+      "retry": false
+    },
+    {
+      "variant": "v2",
+      "asset_path": "/home/openclaw/.openclaw/vault/brands/aydins/meta-ads/01-ugc-testimonial/v2.png",
+      "size_bytes": 1568622,
+      "dimensions": "1080x1350",
+      "visual_prompt": "Create a realistic synthetic UGC-style Meta feed ad image for Aydins Jewelry men's wedding bands. 4:5 portrait composition, final crop suitable for 1080x1350. Casual phone-shot aesthetic, natural available light, slight real-world imperfection, not a polished studio ad. Show a real-looking adult hand wearing or holding an Aydins-style men's wedding band: tungsten or ceramic base, comfort fit profile, with wood, meteorite, or carbon fiber inlay. Subtle inside engraving detail visible if physically plausible. No text, no captions, no logos, no watermarks, no brand marks, no signage, no readable packaging, no extra jewelry store branding. Avoid AI-obvious hands: correct anatomy, realistic skin texture, natural fingernails, realistic ring scale. Photographic, believable, satisfied customer post feel. Variant 2: two hands clasped in an intimate wedding shot vibe, one hand wearing the Aydins-style men's band, darker skin tone on the ring wearer, golden hour outdoor light, close crop on hands, emotional and natural, not posed like a magazine.",
+      "gemini_model": "gemini-2.5-flash-image",
+      "gemini_usage": {
+        "promptTokenCount": 235,
+        "candidatesTokenCount": 1302,
+        "totalTokenCount": 1537,
+        "promptTokensDetails": [
+          {
+            "modality": "TEXT",
+            "tokenCount": 235
+          }
+        ],
+        "candidatesTokensDetails": [
+          {
+            "modality": "IMAGE",
+            "tokenCount": 1290
+          }
+        ],
+        "serviceTier": "standard"
+      },
+      "gemini_cost_usd": 0.039,
+      "retry": false
+    },
+    {
+      "variant": "v3",
+      "asset_path": "/home/openclaw/.openclaw/vault/brands/aydins/meta-ads/01-ugc-testimonial/v3.png",
+      "size_bytes": 1757112,
+      "dimensions": "1080x1350",
+      "visual_prompt": "Realistic synthetic UGC-style Meta feed ad image for Aydins Jewelry men's wedding bands. 4:5 portrait, 1080x1350. Casual phone-shot aesthetic, natural available light, not studio. Show a real-looking adult hand and an Aydins-style men's wedding band: tungsten or ceramic base, comfort fit profile, with wood, meteorite, or carbon fiber inlay. No text anywhere in the image. No readable letters, no numbers, no symbols, no icons, no logos, no watermarks, no brand marks, no dashboard labels, no car brand marks, no visible signage, no readable engraving. If engraving is implied, make it only a subtle inner-band shadow or tiny abstract mark that cannot be read. Correct hand anatomy, natural skin, realistic ring scale. Variant 3 retry: adult male hand with light olive skin tone on a plain unbranded car steering wheel, ring catches a natural glint, casual men's lifestyle shot, parked car feel. Crop so the steering wheel and background contain no buttons, no instrument panel, no icons, no letters, no numbers, only soft blurred upholstery and light.",
+      "gemini_model": "gemini-2.5-flash-image",
+      "gemini_usage": {
+        "promptTokenCount": 243,
+        "candidatesTokenCount": 1290,
+        "totalTokenCount": 1533,
+        "promptTokensDetails": [
+          {
+            "modality": "TEXT",
+            "tokenCount": 243
+          }
+        ],
+        "candidatesTokensDetails": [
+          {
+            "modality": "IMAGE",
+            "tokenCount": 1290
+          }
+        ],
+        "serviceTier": "standard"
+      },
+      "gemini_cost_usd": 0.039,
+      "retry": true
+    },
+    {
+      "variant": "v4",
+      "asset_path": "/home/openclaw/.openclaw/vault/brands/aydins/meta-ads/01-ugc-testimonial/v4.png",
+      "size_bytes": 1516769,
+      "dimensions": "1080x1350",
+      "visual_prompt": "Realistic synthetic UGC-style Meta feed ad image for Aydins Jewelry men's wedding bands. 4:5 portrait, 1080x1350. Casual phone-shot aesthetic, natural available light, not studio. Show a real-looking adult hand and an Aydins-style men's wedding band: tungsten or ceramic base, comfort fit profile, with wood, meteorite, or carbon fiber inlay. No text anywhere in the image. No readable letters, no numbers, no symbols, no icons, no logos, no watermarks, no brand marks, no dashboard labels, no car brand marks, no visible signage, no readable engraving. If engraving is implied, make it only a subtle inner-band shadow or tiny abstract mark that cannot be read. Correct hand anatomy, natural skin, realistic ring scale. Variant 4 retry: close-up of hand with fair skin tone holding the ring up between thumb and forefinger to inspect the smooth inside of the band, natural window light, bedroom or office softly blurred. The ring interior may show a faint abstract engraving groove but absolutely no readable words or letters. Candid customer inspection feel.",
+      "gemini_model": "gemini-2.5-flash-image",
+      "gemini_usage": {
+        "promptTokenCount": 237,
+        "candidatesTokenCount": 1290,
+        "totalTokenCount": 1527,
+        "promptTokensDetails": [
+          {
+            "modality": "TEXT",
+            "tokenCount": 237
+          }
+        ],
+        "candidatesTokensDetails": [
+          {
+            "modality": "IMAGE",
+            "tokenCount": 1290
+          }
+        ],
+        "serviceTier": "standard"
+      },
+      "gemini_cost_usd": 0.039,
+      "retry": true
+    }
+  ],
+  "caption_variants": [
+    {
+      "id": "v1_anniversary",
+      "primaryText": "Got mine engraved with our anniversary date. Free engraving made it feel like his ring, not just a ring.",
+      "headline": "Free Engraving",
+      "description": "Free U.S. shipping",
+      "landingUrl": "https://shopaydins.com/collections/mens-wedding-bands?utm_source=facebook&utm_medium=paid_social&utm_campaign=couples_engraved_test_ugc_testimonial",
+      "engravingAvailable": true,
+      "productTags": [
+        "Inside",
+        "Free Engraving",
+        "Men Ring"
+      ]
+    },
+    {
+      "id": "v2_comparison",
+      "primaryText": "Looked at a bunch of basic bands. Aydins free engraving is what made this one feel personal.",
+      "headline": "Make His Ring Personal",
+      "description": "Free U.S. shipping",
+      "landingUrl": "https://shopaydins.com/collections/mens-wedding-bands?utm_source=facebook&utm_medium=paid_social&utm_campaign=couples_engraved_test_ugc_testimonial",
+      "engravingAvailable": true,
+      "productTags": [
+        "Inside",
+        "Free Engraving",
+        "Men Ring"
+      ]
+    },
+    {
+      "id": "v3_distinctive",
+      "primaryText": "Picked the wood inlay, then added free engraving inside. It felt different without trying too hard.",
+      "headline": "Not A Basic Band",
+      "description": "Free U.S. shipping",
+      "landingUrl": "https://shopaydins.com/collections/mens-wedding-bands?utm_source=facebook&utm_medium=paid_social&utm_campaign=couples_engraved_test_ugc_testimonial",
+      "engravingAvailable": true,
+      "productTags": [
+        "Inside",
+        "Free Engraving",
+        "Men Ring",
+        "Wood Inlay"
+      ]
+    },
+    {
+      "id": "v4_personalization",
+      "primaryText": "I added a private message inside his band. Free engraving made the whole thing feel like ours.",
+      "headline": "Make His Ring Personal",
+      "description": "Free U.S. shipping",
+      "landingUrl": "https://shopaydins.com/collections/mens-wedding-bands?utm_source=facebook&utm_medium=paid_social&utm_campaign=couples_engraved_test_ugc_testimonial",
+      "engravingAvailable": true,
+      "productTags": [
+        "Inside",
+        "Free Engraving",
+        "Men Ring"
+      ]
+    }
+  ],
+  "validator": "/home/openclaw/.openclaw/command-center/scripts/beta_check_meta.mjs",
+  "validator_results": {
+    "ok": true,
+    "ruleCount": 15,
+    "results": [
+      {
+        "index": 0,
+        "name": "v1_anniversary",
+        "ok": true,
+        "ruleCount": 15,
+        "warnings": [
+          {
+            "rule": "pixel_id_match_on_landing_page",
+            "field": "pixel",
+            "message": "Pixel ID match not checked. Supply expectedPixelId and detectedPixelId for live landing page validation."
+          }
+        ],
+        "failures": []
+      },
+      {
+        "index": 1,
+        "name": "v2_comparison",
+        "ok": true,
+        "ruleCount": 15,
+        "warnings": [
+          {
+            "rule": "pixel_id_match_on_landing_page",
+            "field": "pixel",
+            "message": "Pixel ID match not checked. Supply expectedPixelId and detectedPixelId for live landing page validation."
+          }
+        ],
+        "failures": []
+      },
+      {
+        "index": 2,
+        "name": "v3_distinctive",
+        "ok": true,
+        "ruleCount": 15,
+        "warnings": [
+          {
+            "rule": "pixel_id_match_on_landing_page",
+            "field": "pixel",
+            "message": "Pixel ID match not checked. Supply expectedPixelId and detectedPixelId for live landing page validation."
+          }
+        ],
+        "failures": []
+      },
+      {
+        "index": 3,
+        "name": "v4_personalization",
+        "ok": true,
+        "ruleCount": 15,
+        "warnings": [
+          {
+            "rule": "pixel_id_match_on_landing_page",
+            "field": "pixel",
+            "message": "Pixel ID match not checked. Supply expectedPixelId and detectedPixelId for live landing page validation."
+          }
+        ],
+        "failures": []
+      }
+    ]
+  },
+  "image_quality_review": {
+    "v1": "PASS",
+    "v2": "PASS",
+    "v3": "PASS after retry",
+    "v4": "PASS after retry"
+  },
+  "gemini_calls_initial": 4,
+  "gemini_retries_used": 2,
+  "gemini_calls_total": 6,
+  "gemini_cost_per_image_usd": 0.039,
+  "total_gemini_cost_usd": 0.234,
+  "notes": "v3 and v4 were regenerated because the first versions had visible text. No Meta upload performed."
+}

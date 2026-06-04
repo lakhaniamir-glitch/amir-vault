@@ -1,0 +1,338 @@
+{
+  "generated_at_utc": "2026-06-03T17:48:41.528663+00:00",
+  "brief": "UGC testimonial brief 1, round 3 coffee shop morning, real Shopify product seeded",
+  "output_dir": "/home/openclaw/.openclaw/vault/brands/aydins/meta-ads/01-ugc-testimonial/round3-coffee-shop",
+  "workflow": "Real Shopify product image pulled, then Nano Banana/Gemini restaging seeded from that product image. No fictional ring generation intended.",
+  "hard_cap": "4 image generations plus up to 2 retries per variant, 8 total used",
+  "shopify_verification": "Anchors verified ACTIVE and in stock through Shopify Admin API before generation.",
+  "visuals": [
+    {
+      "variant": "v1",
+      "asset_path": "/home/openclaw/.openclaw/vault/brands/aydins/meta-ads/01-ugc-testimonial/round3-coffee-shop/v1.png",
+      "dimensions": "1080x1350",
+      "size_bytes": 1354289,
+      "anchored_product": {
+        "code": "TYPHOON",
+        "handle": "typhoon-red-burl-wood-ring-blue-brushed-flat",
+        "title": "TYPHOON | Red Burl Wood, Blue Tungsten Ring, Brushed, Flat",
+        "status": "ACTIVE",
+        "totalInventory": 130,
+        "source_image_url": "https://cdn.shopify.com/s/files/1/1857/8135/products/typhoon-red-burl-wood-blue-tungsten-ring-brushed-flat-aytr425-8-7-aydins-jewelry-560842.jpg?v=1691605183"
+      },
+      "visual_prompt": "Use the attached real product image as the exact ring reference. This is TYPHOON and the ring MUST NOT be a plain blue band. The generated ring must visibly show a blue brushed tungsten body with a warm red burl wood inlay section or stripe, matching the source product. Preserve the flat profile and 8mm men's wedding band feel. Create a coffee shop morning customer-snapshot, 4:5 portrait, 1080x1350. Mens hand resting on small wooden cafe table, light skin tone, ring clearly visible on ring finger and close enough to see both blue metal and red wood grain. Plain blurred coffee cup in background with no logo, no mark, no text. No text anywhere, no readable signage, no logos, no watermarks, no cup branding, no laptop branding, no extra jewelry branding. Realistic hand anatomy, natural phone-shot imperfection, soft morning window light from left, warm shadows, slight teal highlights.",
+      "model": "gemini-2.5-flash-image",
+      "usage": {
+        "promptTokenCount": 456,
+        "candidatesTokenCount": 1290,
+        "totalTokenCount": 1746,
+        "promptTokensDetails": [
+          {
+            "modality": "TEXT",
+            "tokenCount": 198
+          },
+          {
+            "modality": "IMAGE",
+            "tokenCount": 258
+          }
+        ],
+        "candidatesTokensDetails": [
+          {
+            "modality": "IMAGE",
+            "tokenCount": 1290
+          }
+        ],
+        "serviceTier": "standard"
+      },
+      "gemini_cost_usd": 0.039,
+      "nano_banana_cost_usd": 0.0,
+      "combined_cost_usd": 0.039,
+      "retry": true,
+      "retry_number_for_variant": 2,
+      "visual_qa": {
+        "status": "PASS",
+        "issues": [],
+        "recommended": true
+      }
+    },
+    {
+      "variant": "v2",
+      "asset_path": "/home/openclaw/.openclaw/vault/brands/aydins/meta-ads/01-ugc-testimonial/round3-coffee-shop/v2.png",
+      "dimensions": "1080x1350",
+      "size_bytes": 1454750,
+      "anchored_product": {
+        "code": "DEVITO",
+        "handle": "devito-white-tungsten-ring-with-green-tungsten-inside",
+        "title": "DEVITO | Green Ring, White Tungsten Ring, Brushed, Flat",
+        "status": "ACTIVE",
+        "totalInventory": 438,
+        "source_image_url": "https://cdn.shopify.com/s/files/1/1857/8135/products/devito-green-ring-white-tungsten-ring-brushed-flat-aytr780-6-5-aydins-jewelry-689963.jpg?v=1691601822"
+      },
+      "visual_prompt": "Use the attached real Shopify product photo as the exact seed for the ring. Preserve DEVITO exactly: white tungsten men's wedding band with green inside/detail, brushed flat profile. Do not invent a different ring. Coffee shop morning customer-snapshot, 4:5 portrait, 1080x1350. Medium skin tone adult mens hand wrapped around a completely plain ceramic coffee cup, ring on ring finger catching soft morning light, slight steam, warm cafe atmosphere. Tight crop on hand, cup, and tabletop only. Do not include paper, book pages, receipts, menus, signs, labels, sleeves, laptop, icons, or any surface that could contain text. No text anywhere, no readable marks, no logos, no brand marks, no watermarks, no cup branding, no extra jewelry branding. Realistic hand anatomy, natural phone-shot imperfection, warm shadows, slight teal highlights, not oversaturated.",
+      "model": "gemini-2.5-flash-image",
+      "usage": {
+        "promptTokenCount": 448,
+        "candidatesTokenCount": 1299,
+        "totalTokenCount": 1747,
+        "promptTokensDetails": [
+          {
+            "modality": "TEXT",
+            "tokenCount": 190
+          },
+          {
+            "modality": "IMAGE",
+            "tokenCount": 258
+          }
+        ],
+        "candidatesTokensDetails": [
+          {
+            "modality": "IMAGE",
+            "tokenCount": 1290
+          }
+        ],
+        "serviceTier": "standard"
+      },
+      "gemini_cost_usd": 0.039,
+      "nano_banana_cost_usd": 0.0,
+      "combined_cost_usd": 0.039,
+      "retry": true,
+      "retry_number_for_variant": 1,
+      "visual_qa": {
+        "status": "PASS",
+        "issues": [],
+        "recommended": true
+      }
+    },
+    {
+      "variant": "v3",
+      "asset_path": "/home/openclaw/.openclaw/vault/brands/aydins/meta-ads/01-ugc-testimonial/round3-coffee-shop/v3.png",
+      "dimensions": "1080x1350",
+      "size_bytes": 1239610,
+      "anchored_product": {
+        "code": "STARY",
+        "handle": "stary-mens-tungsten-wedding-band-with-black-meteorite-inlay-and-domed-edges-8mm",
+        "title": "STARY | Silver Tungsten Meteorite Inlay Wedding Ring - 8mm",
+        "status": "ACTIVE",
+        "totalInventory": 149,
+        "source_image_url": "https://cdn.shopify.com/s/files/1/1857/8135/files/stary-silver-tungsten-meteorite-inlay-wedding-ring-8mm-rings-aydins-jewelry-5082211.png?v=1777056856"
+      },
+      "visual_prompt": "Use the attached real Shopify product photo as the exact seed for the ring. Preserve the actual ring, do not invent another ring. Ring must look like STARY: STARY | Silver Tungsten Meteorite Inlay Wedding Ring - 8mm. Coffee shop morning customer-snapshot image, 4:5 portrait, 1080x1350. Natural phone-shot feel, soft morning window light, warm shadows, slight teal highlights, realistic adult mens hand with correct anatomy. No text anywhere, no readable signage, no logos, no watermarks, no brand marks, no cup branding, no laptop branding, no extra jewelry branding. Hand resting near a completely plain closed laptop on a cafe table. The laptop lid must be blank, no mark, no logo, no icon, no text. STARY ring prominent with silver tungsten and meteorite pattern visible. Slightly darker skin tone. Soft window light behind, blurred cafe ambiance, early morning work routine.",
+      "model": "gemini-2.5-flash-image",
+      "usage": {
+        "promptTokenCount": 455,
+        "candidatesTokenCount": 1308,
+        "totalTokenCount": 1763,
+        "promptTokensDetails": [
+          {
+            "modality": "TEXT",
+            "tokenCount": 197
+          },
+          {
+            "modality": "IMAGE",
+            "tokenCount": 258
+          }
+        ],
+        "candidatesTokensDetails": [
+          {
+            "modality": "IMAGE",
+            "tokenCount": 1290
+          }
+        ],
+        "serviceTier": "standard"
+      },
+      "gemini_cost_usd": 0.039,
+      "nano_banana_cost_usd": 0.0,
+      "combined_cost_usd": 0.039,
+      "retry": true,
+      "retry_number_for_variant": null,
+      "visual_qa": {
+        "status": "PASS",
+        "issues": [],
+        "recommended": true
+      }
+    },
+    {
+      "variant": "v4",
+      "asset_path": "/home/openclaw/.openclaw/vault/brands/aydins/meta-ads/01-ugc-testimonial/round3-coffee-shop/v4.png",
+      "dimensions": "1080x1350",
+      "size_bytes": 1332262,
+      "anchored_product": {
+        "code": "AVITUS",
+        "handle": "asher-blue-black-carbon-fiber-inlay",
+        "title": "AVITUS | Black Ceramic Ring, Blue and Black Carbon Fiber Inlay, Beveled",
+        "status": "ACTIVE",
+        "totalInventory": 839,
+        "source_image_url": "https://cdn.shopify.com/s/files/1/1857/8135/files/avitus-black-ceramic-ring-blue-black-carbon-fiber-inlay-beveled-avitus-4-25-aydins-jewelry-764485.jpg?v=1728847235"
+      },
+      "visual_prompt": "Use the attached Shopify product photo as the exact visual seed for the ring. Preserve the actual Aydins ring design from the source image: material, inlay, color, profile, width, and overall silhouette must remain recognizable. Do not invent a different ring. Create a realistic coffee shop morning customer-snapshot image, 4:5 portrait for Meta feed, final crop 1080x1350. Natural phone-shot feel with slight imperfection, not studio polished. Real-looking adult mens hand, mid-30s, no perfect manicure, correct hand anatomy. Morning soft window light, warm color temperature, warm shadows, slight teal highlights, not oversaturated. Cafe table, blurred coffee cup, soft window light, optional laptop or book only in deep blur. No text anywhere, no readable signage, no logos, no watermarks, no brand marks, no cup branding, no laptop logo, no extra jewelry branding. The ring is the hero and must look like AVITUS: AVITUS | Black Ceramic Ring, Blue and Black Carbon Fiber Inlay, Beveled. Two hands on a cafe table, one mens hand with the anchored band on the ring finger and partner womens hand nearby with a thinner band. Both holding plain coffee cups or lightly interlinked. Soft morning light. Couples engraved angle.",
+      "model": "gemini-2.5-flash-image",
+      "usage": {
+        "promptTokenCount": 528,
+        "candidatesTokenCount": 1315,
+        "totalTokenCount": 1843,
+        "promptTokensDetails": [
+          {
+            "modality": "TEXT",
+            "tokenCount": 270
+          },
+          {
+            "modality": "IMAGE",
+            "tokenCount": 258
+          }
+        ],
+        "candidatesTokensDetails": [
+          {
+            "modality": "IMAGE",
+            "tokenCount": 1290
+          }
+        ],
+        "serviceTier": "standard"
+      },
+      "gemini_cost_usd": 0.039,
+      "nano_banana_cost_usd": 0.0,
+      "combined_cost_usd": 0.039,
+      "retry": false,
+      "retry_number_for_variant": null,
+      "visual_qa": {
+        "status": "PASS",
+        "issues": [],
+        "recommended": true
+      }
+    }
+  ],
+  "captions": [
+    {
+      "id": "round3_v1_typhoon_morning_ritual",
+      "primaryText": "Every morning, coffee first and this ring on. The red burl wood makes it feel like mine.",
+      "headline": "Free Engraving",
+      "description": "Free U.S. shipping",
+      "landingUrl": "https://shopaydins.com/products/typhoon-red-burl-wood-ring-blue-brushed-flat?utm_source=facebook&utm_medium=paid_social&utm_campaign=couples_engraved_test_ugc_testimonial",
+      "engravingAvailable": true,
+      "productTags": [
+        "Outside",
+        "Men Ring",
+        "Wood Inlay",
+        "Red Burl Wood"
+      ]
+    },
+    {
+      "id": "round3_v2_devito_catches_light",
+      "primaryText": "The white tungsten catches light at breakfast, then the green inside shows when I grab coffee.",
+      "headline": "Make His Ring Personal",
+      "description": "Free U.S. shipping",
+      "landingUrl": "https://shopaydins.com/products/devito-white-tungsten-ring-with-green-tungsten-inside?utm_source=facebook&utm_medium=paid_social&utm_campaign=couples_engraved_test_ugc_testimonial",
+      "engravingAvailable": true,
+      "productTags": [
+        "Inside & Outside",
+        "Men Ring",
+        "White Tungsten",
+        "Green Tungsten"
+      ]
+    },
+    {
+      "id": "round3_v3_stary_engraved_conversation",
+      "primaryText": "I got mine engraved, and the meteorite pattern gets noticed every time my hand hits the table.",
+      "headline": "Free Engraving",
+      "description": "Free U.S. shipping",
+      "landingUrl": "https://shopaydins.com/products/stary-mens-tungsten-wedding-band-with-black-meteorite-inlay-and-domed-edges-8mm?utm_source=facebook&utm_medium=paid_social&utm_campaign=couples_engraved_test_ugc_testimonial",
+      "engravingAvailable": true,
+      "productTags": [
+        "Inside",
+        "Inside Engraving",
+        "Men Ring",
+        "Meteorite Inlay"
+      ]
+    },
+    {
+      "id": "round3_v4_avitus_couples_anniversary",
+      "primaryText": "We wore our bands for coffee on our anniversary. His carbon fiber ring still feels personal.",
+      "headline": "Make His Ring Personal",
+      "description": "Free U.S. shipping",
+      "landingUrl": "https://shopaydins.com/products/asher-blue-black-carbon-fiber-inlay?utm_source=facebook&utm_medium=paid_social&utm_campaign=couples_engraved_test_ugc_testimonial",
+      "engravingAvailable": true,
+      "productTags": [
+        "Inside",
+        "Inside Engraving",
+        "Men Ring",
+        "Carbon Fiber Inlay"
+      ]
+    }
+  ],
+  "validator": "/home/openclaw/.openclaw/command-center/scripts/beta_check_meta.mjs",
+  "validator_results": {
+    "ok": true,
+    "ruleCount": 15,
+    "results": [
+      {
+        "index": 0,
+        "name": "round3_v1_typhoon_morning_ritual",
+        "ok": true,
+        "ruleCount": 15,
+        "warnings": [
+          {
+            "rule": "pixel_id_match_on_landing_page",
+            "field": "pixel",
+            "message": "Pixel ID match not checked. Supply expectedPixelId and detectedPixelId for live landing page validation."
+          }
+        ],
+        "failures": []
+      },
+      {
+        "index": 1,
+        "name": "round3_v2_devito_catches_light",
+        "ok": true,
+        "ruleCount": 15,
+        "warnings": [
+          {
+            "rule": "pixel_id_match_on_landing_page",
+            "field": "pixel",
+            "message": "Pixel ID match not checked. Supply expectedPixelId and detectedPixelId for live landing page validation."
+          }
+        ],
+        "failures": []
+      },
+      {
+        "index": 2,
+        "name": "round3_v3_stary_engraved_conversation",
+        "ok": true,
+        "ruleCount": 15,
+        "warnings": [
+          {
+            "rule": "pixel_id_match_on_landing_page",
+            "field": "pixel",
+            "message": "Pixel ID match not checked. Supply expectedPixelId and detectedPixelId for live landing page validation."
+          }
+        ],
+        "failures": []
+      },
+      {
+        "index": 3,
+        "name": "round3_v4_avitus_couples_anniversary",
+        "ok": true,
+        "ruleCount": 15,
+        "warnings": [
+          {
+            "rule": "pixel_id_match_on_landing_page",
+            "field": "pixel",
+            "message": "Pixel ID match not checked. Supply expectedPixelId and detectedPixelId for live landing page validation."
+          }
+        ],
+        "failures": []
+      }
+    ]
+  },
+  "image_qa_summary": {
+    "v1": "PASS",
+    "v2": "PASS",
+    "v3": "PASS",
+    "v4": "PASS"
+  },
+  "gemini_calls_total": 8,
+  "gemini_retries_used": 4,
+  "gemini_cost_per_image_usd": 0.039,
+  "total_gemini_cost_usd": 0.312,
+  "total_nano_banana_cost_usd": 0.0,
+  "total_cost_usd": 0.312,
+  "final_recommendation": "All four variants passed strict visual QA and caption validation. No Meta upload performed.",
+  "no_meta_upload_performed": true,
+  "telegram_only": true
+}

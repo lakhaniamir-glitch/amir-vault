@@ -1,0 +1,17 @@
+{
+  "at": "2026-06-02T20:03:00.583Z",
+  "status": "CHECKPOINT",
+  "screenshotPath": "/home/openclaw/.openclaw/agents/beta/screens/meta-cookie-session-test-2026-06-02.png",
+  "resultPath": "/home/openclaw/.openclaw/command-center/work/meta/meta-cookie-session-test-2026-06-02.json",
+  "cookieCount": 9,
+  "finalUrl": "https://business.facebook.com/latest/home?nav_ref=bm_home_redirect&business_id=229198364454380&asset_id=310890435606809",
+  "title": "Meta Business Suite",
+  "bodySample": "Home\nBusiness portfolio\nProfile overview\nEdit cover photo\nAydins Jewelry\n1.7K\nfollowers\n2K\nfollowers\nEdit Facebook Page | Edit Instagram Profile\nGet a verified badge\nCreate post\nCreate ad\nCreate reel\nCreate story\nMore\nGet familiar with Meta Business Suite\nClose\n​\nSteps to get started\n1 of 4 steps completed\nSee all steps\nIncomplete\nindicates a recommended onboarding action as incomplete\nCreate a post\nShare updates about your business on both Facebook and Instagram.\nIncomplete\nindicates a recommended onboarding action as incomplete\nSchedule a post\nConnect regularly with your audience by scheduling a post.\nIncomplete\nindicates a recommended onboarding action as incomplete\nInvite people\nInvite people who reacted to your posts to like your Page.\nCompleted\nindicates a recommended onboarding action as completed\nReply to messages\nSave time by replying to all messages in one place.\nTo-do list\nCheck unread messages, comments and other things that may require your attention.\nMessages\n5+\n6 new s\nSee all\nErik Loones\nI do not receive a reaction from you ?\n5d\nFrancheska Marie Najera\nOk thank you\n23w\nNatalie Francis\nTy\n24w\nStats Damascus Knives Sword\nHello\n25w\nMessenger for Business\nHere are a few",
+  "accountSignals": {
+    "hasBusinessSuiteText": true,
+    "hasTopbarLikely": true,
+    "hasAydinsText": true,
+    "hasSandboxUserIdCookie": true
+  },
+  "storagePath": "/home/openclaw/.openclaw/command-center/work/meta/meta-cookie-storage-state-2026-06-02.json"
+}
