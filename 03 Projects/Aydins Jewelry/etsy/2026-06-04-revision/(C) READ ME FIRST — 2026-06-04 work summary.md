@@ -27,12 +27,24 @@ Applied data-backed title/tag/description formula to every single listing. Zero 
 | Empty Title / Description / Tags | 0 |
 | Empty Price | 137 (these were inactive/draft on Etsy, no price to start with — see "Pricing" below) |
 
-### 3. Hero images: 25 of 50 done while you were out (in progress, still generating)
-Top-50 Shopify sellers, Etsy-compliant hero photos (2048x2048 white background, strict product fidelity restaging from your Shopify source images via Gemini nano-banana).
+### 3. Hero images: 50 of 50 done — but mixed quality (you flagged the issue)
+Top-50 Shopify sellers, all generated. BUT the original Phase 2A run used text-only image gen (no Shopify reference), so detailed inlays / stones / patterns came out wrong. I dispatched a redo using edit-mode with Shopify reference images, but the OLD task kept running in parallel and both wrote to the same paths. Result: some heroes are good (edit mode), some are bad (text-only). I cannot tell which is which without visual comparison.
 
-Pulled to: `hero-images-existing/{handle}/hero.jpg` (this folder, 25 product folders so far)
+**Solution for you to QC fast:**
+Each `hero-images-existing/{handle}/` folder now contains BOTH:
+- `hero.jpg` (AI-generated)
+- `SHOPIFY-REFERENCE.jpg` (your actual product photo for comparison)
 
-Beta-Etsy is still generating the remaining ~25 in the background. Will continue until either: (a) 45 images done, (b) gemini errors, or (c) 50-min timeout. Spend cap: $4.50 total. Check this folder when back.
+Open Obsidian → preview the two files side-by-side per folder. Confirmed bad examples:
+- `baldur-domed-tungsten-rune-wedding-band` (generated misses celtic borders + gold interior)
+
+Confirmed good examples:
+- `ridges-genuine-damascus-steel-silver-ring-with-olive-wood-sleeve-inlay` (damascus + olive wood both visible)
+- `crimsen-red-tungsten-ring-brushed-domed` (simple product, AI gen got it right)
+
+**What to do:** Tell me which handles you want regenerated (give me 5-10 names), and I'll run a clean single-process edit-mode pass on just those. Total cost: $0.10 per hero. No more parallel-run mess.
+
+Total spend so far: ~$3 (mix of text-only + edit mode).
 
 ### 4. Strategic playbook written
 [[(C) Etsy Champion Playbook — 2026-06-04]] has the full title/tag/description formula, photo standards, 30-day Etsy sprint plan, and the brutal-truth competitive table.
