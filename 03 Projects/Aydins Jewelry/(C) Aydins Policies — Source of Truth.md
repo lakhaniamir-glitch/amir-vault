@@ -11,18 +11,29 @@
 > 4. **Return shipping (asymmetric):** Customer pays inbound shipping (their ring → Aydins). Aydins pays outbound shipping (replacement → customer). Do not write "free returns" or "we cover return shipping" — that's only half true.
 > 5. **Price Match Guarantee:** REAL but **soft/quiet**. Exists so a customer doing due diligence can find it and feel confident. **Do NOT trumpet this in emails, ads, homepage, or PDPs.** Keep it on its own policy page only. Treat it as a confidence-builder, not a marketing pillar. Terms are intentionally vague — Aydins reviews matches case-by-case.
 > 6. **5% store-credit bonus:** REAL, but conditional. **Only if the customer chooses store credit INSTEAD of a refund.** One-time only. Not stacked, not auto-applied to refunds. Mention it only on the returns/exchanges page and in customer-service replies — not as a general trust pillar.
-> 7. **Location — two-context rule (locked 2026-05-15).**
->    - **Workshop / brand-voice location = Irving, Texas.** All body copy, brand storytelling, social posts, ad creative, and customer-facing trust lines say **"Irving, Texas"** as the workshop / shipping origin. The Grapevine Mills Mall kiosk is **CLOSED**, never reference it as a current location.
+> 7. **Location — two-context rule (updated 2026-06-05, previously locked 2026-05-15).**
+>    - **Workshop / brand-voice location = broad "Texas" / "heart of Texas".** Locked refresh 2026-06-05 per Amir: brand voice should reference Texas broadly, not the specific city of Irving. The reason: broader Texas language travels better in marketing copy and reads as more universal without losing the regional credibility. Irving as a specific city is retained internally and on Returns & Exchanges page for operational accuracy, but is NOT the default for body copy / ads / emails / listings anymore.
+>    - **Approved customer-facing location phrasings (use these verbatim or as variants):**
+>      - "From the heart of Texas" (eyebrow / kicker / short trust line)
+>      - "ship from the heart of Texas to your door. Free FedEx 2-day in the US, worldwide shipping available." (full shipping line in body copy)
+>      - "Texas crafted. Worldwide delivered." (closing line / P.S. / footer trust)
+>      - "engraved in Texas, shipped worldwide" (compact form)
+>      - "from our Texas workshop" (medium form, when operational context matters)
+>    - **Deprecated phrasings (do NOT use as default any more):**
+>      - "Irving, Texas" as a customer-facing trust line (still allowed on Returns & Exchanges page where the actual workshop city matters for operational clarity, and in origin-story brand copy)
+>      - "from our workshop in Irving, Texas"
+>      - "engraved and shipped from Irving, Texas"
+>    - The Grapevine Mills Mall kiosk is **CLOSED**, never reference it as a current location.
 >    - **Legal mailing / return address = Flower Mound, TX.** The registered mailing address is **2201 Long Prairie Rd., Suite 107, PMB 308, Flower Mound, TX 75022**. This is the real address. Flower Mound is the PMB (private mail box) where mail and returns are received. Irving is where the work happens. The two do NOT contradict each other.
 >    - **Where each appears (locked 2026-05-15):**
->       - Irving, TX → all body copy, brand voice, trust lines, social posts, ad creative, SMS, listing descriptions.
+>       - "Texas" / "heart of Texas" → all body copy, brand voice, trust lines, social posts, ad creative, SMS, listing descriptions. (Replaced "Irving, TX" as default per 2026-06-05 refresh: Irving isn't globally recognizable, "Texas" travels universally.)
 >       - Flower Mound, TX → REQUIRED in (a) **Klaviyo marketing email footers** (CAN-SPAM commercial-message physical-address requirement), (b) the **Returns & Exchanges page**, (c) the **Return Address section below**, and (d) any **legal page** (Terms, Privacy, etc.).
 >       - Flower Mound, TX → NOT REQUIRED in **Shopify transactional notification email footers** (order confirmation, shipping confirmation, etc.). Transactional messages whose primary purpose is to facilitate an existing transaction are not subject to CAN-SPAM's physical-address rule. Skip it to keep the transactional footer clean and short. If a customer needs the return address, the Returns & Exchanges page has it.
 >       - Flower Mound, TX → NOT in SMS. No footer required.
 >    - **Address formatting (canonical):** `2201 Long Prairie Rd., Suite 107, PMB 308 / Flower Mound, TX 75022`. Do not write "Suite 107-308" or similar variations in any official surface. Use the PMB-explicit format above.
->    - Online-only, no walk-in retail. Origin story may reference "started in a North Texas mall kiosk in 2011" in past tense, then transition to "today, we ship from our workshop in Irving, Texas."
+>    - Online-only, no walk-in retail. Origin story may reference "started in a North Texas mall kiosk in 2011" in past tense, then transition to "today, we engrave and ship from the heart of Texas." (Updated 2026-06-05 from prior "from our workshop in Irving, Texas.")
 > 8. **Fees in marketing copy.** **Do not put fee schedules in emails, ads, banners, or homepage trust blocks.** Marketing copy uses naked-but-true labels only ("Lifetime Warranty," "30-Day Returns," "Free Engraving," "Free Shipping") without a "free" qualifier when the program isn't free. Full fee schedules belong on dedicated policy pages (Returns & Exchanges, Lifetime Sizing & Warranty, Protection Plan T&Cs) and in the Klaviyo "shipping confirmation" / "order confirmation" educational drop only.
-> 9. **What Aydins actually does — engraves and ships. Does NOT manufacture, hand-craft, "build," "cut," "make by hand," or "forge" rings.** Rings are sourced wholesale (white-labeled from Universal Jewelry / Thorsten per existing CLAUDE.md rule). Aydins's value-add is **laser engraving + fulfillment + customer service from the Irving, Texas workshop.** All customer-facing copy must reflect this honestly. ❌ Banned phrases: "handcrafted," "hand-finished," "made by hand," "built one ring at a time," "we'll start cutting your ring," "forged," "crafted in our workshop," "we make every ring." ✅ Approved phrasing: "engraved and shipped from Irving, Texas," "your engraving applied at our workshop," "we set up your engraving the day your order comes in," "engraving wedding bands in Irving, Texas since 2011," "small family operation — engraving and shipping every order from our shop." Origin / brand-story copy may say "started in a North Texas mall kiosk in 2011, today engraves and ships from a workshop in Irving" — in that order, in past→present tense.
+> 9. **What Aydins actually does — engraves and ships. Does NOT manufacture, hand-craft, "build," "cut," "make by hand," or "forge" rings.** Rings are sourced wholesale (white-labeled from Universal Jewelry / Thorsten per existing CLAUDE.md rule). Aydins's value-add is **laser engraving + fulfillment + customer service from our Texas workshop.** All customer-facing copy must reflect this honestly. ❌ Banned phrases: "handcrafted," "hand-finished," "made by hand," "built one ring at a time," "we'll start cutting your ring," "forged," "crafted in our workshop," "we make every ring." ✅ Approved phrasing (updated 2026-06-05): "engraved and shipped from the heart of Texas," "your engraving applied at our Texas workshop," "we set up your engraving the day your order comes in," "engraving wedding bands in Texas since 2011," "Texas crafted. Worldwide delivered.," "small family operation engraving and shipping every order from Texas." Origin / brand-story copy may say "started in a North Texas mall kiosk in 2011, today engraves and ships from the heart of Texas to anywhere in the world." in past→present tense.
 
 ---
 
@@ -55,9 +66,9 @@
 
 ✅ Approved customer-facing phrasing:
 - "Free 2-business-day FedEx shipping in the U.S."
-- "Free U.S. shipping on every order. Most orders ship in 1 to 3 business days from our workshop in Irving, Texas."
+- "Free U.S. shipping on every order. Most orders ship in 1 to 3 business days from our Texas workshop." (Updated 2026-06-05 from "Irving, Texas".)
 - "Free FedEx 2Day shipping on every U.S. order, after our 1 to 3 business day processing."
-- Combined (preferred when space allows): "Free 2-business-day FedEx shipping in the U.S. Most orders ship in 1 to 3 business days from our workshop in Irving, Texas."
+- Combined (preferred when space allows): "Free 2-business-day FedEx shipping in the U.S. Ships from the heart of Texas, 1 to 3 business days processing." (Updated 2026-06-05 from "from our workshop in Irving, Texas".)
 
 ❌ Still avoid:
 - "Arrives in 2 days" / "Delivered in 2 days" / "Get it in 2 days" — these imply arrival from order, when the real window is 3 to 5 business days. The 2-day claim must always be paired with the processing window so customers do not misread the timeline.
@@ -70,7 +81,7 @@
 
 **Free international shipping on all wedding bands to four countries: Canada, United Kingdom, Germany, Australia.** Confirmed by Amir 2026-05-19.
 
-**Transit window:** 1 to 5 business days, after the standard 1 to 3 business day processing at the Irving, Texas workshop.
+**Transit window:** 1 to 5 business days, after the standard 1 to 3 business day processing at the Texas workshop. (Updated 2026-06-05 from "Irving, Texas workshop".)
 
 **Total international order-to-door window (free-shipping countries):** approximately 2 to 8 business days depending on destination.
 
