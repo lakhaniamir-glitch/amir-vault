@@ -2,59 +2,54 @@
 agent: BETA Klaviyo
 date: 2026-06-05
 type: weekly-campaign-draft
-status: draft-needs-amir-approval
-klaviyo_campaign_id: 01KTC4TTH6AX17B948ZVRWWSBK
+status: blocked-template-attach-api
+klaviyo_campaign_id: 01KTC6V8QWHMFEBEF9PPK1M14P
+klaviyo_message_id: 01KTC6V8R41P1CFYNTE7K09RTT
 klaviyo_status: Draft
 list_id: WqHHmn
-angle: soft_promo
+master_template_id: SnvSyP
+rendered_template_id: WU5dwb
+old_campaign_id_not_deleted: 01KTC4TTH6AX17B948ZVRWWSBK
 ---
 
-# Weekly Email Campaign: Weekly · 2026-06-07 · soft promo · free engraving
+# Weekly Email Campaign: A few words, inside the band.
 
-**Klaviyo deep link**: https://www.klaviyo.com/campaign/01KTC4TTH6AX17B948ZVRWWSBK/edit
-**Target list**: `WqHHmn` (Email List)
-**Status in Klaviyo**: Draft
+**New Klaviyo deep link**: https://www.klaviyo.com/campaign/01KTC6V8QWHMFEBEF9PPK1M14P/edit
+**Status**: Draft, but template is not attached because Klaviyo API rejected all public assignment routes.
+**Master template ID**: `SnvSyP`
+**Rendered campaign template ID**: `WU5dwb`
+**Old draft kept**: `01KTC4TTH6AX17B948ZVRWWSBK`
 
-## Subject (39 chars)
-`Free engraving on any band this weekend`
+## Subject
+`A few words, inside the band.`
 
-## Preview text (62 chars)
-`Make it yours. A personalized message inside your Aydins ring.`
+## Preview text
+`Every Aydins ring comes with engraving included. Always.`
 
-## Body (paste into Klaviyo template)
+## Fixed body copy
 
-This weekend, every ring from Aydins comes with complimentary engraving. Choose a date, initials, or a short phrase to mark your commitment. It is a subtle, personal touch that transforms a fine men’s wedding band into something truly yours. No discount code, no gimmick. Just a service we believe every groom deserves.
+A wedding band is the one piece of jewelry he will wear every day for the rest of his life. Why should it stay anonymous?
 
-## Your words, inside the band
+Every ring from Aydins comes with complimentary laser engraving. A date. Her initials. A line only the two of you understand. We engrave it cleanly on the inside of the band, so it sits against his skin and stays his alone.
 
-Our brushed tungsten and satin cobalt bands accept engraving cleanly, with crisp lines that last. For example, a classic beveled 6mm tungsten ring in matte black can carry a single initial inside the shank. Or a 8mm brushed cobalt band can hold a full date on the inner wall. We use laser engraving for precision, and every piece is backed by the Aydins Lifetime Warranty. Simply select any band from our collection, add engraving at checkout, and we will handle the rest. Orders placed this weekend will ship with your personal message already in place.
+Pick a brushed tungsten ring, a satin cobalt band, a Damascus steel piece with real pattern. Add your engraving at checkout. We set it up the same day your order comes in, then ship it from our workshop in Irving, Texas. Free FedEx 2-day in the US.
 
+Backed by the Aydins Lifetime Warranty. Quietly built since 2011.
 
-**CTA**: [Browse the collection and add your engraving](/collections/mens-wedding-bands)
+**CTA**: [Browse the collection](https://shopaydins.com/collections/mens-wedding-bands)
 
-_P.S. P.S. Every Aydins ring includes the Aydins Lifetime Warranty, so even your engraving is protected._
+_P.S. Engraving is included on every order. No code, no minimum, no time limit._
 
----
+## Verification
 
-## Angle rationale (BETA's reasoning)
-Free engraving offers tangible value without a discount, which aligns with a soft promotional angle. It feels like a limited weekend service, not a sale, and encourages immediate action while preserving the brand's editorial tone.
+- V4 master template created in Klaviyo: `SnvSyP`.
+- Rendered campaign-specific V4 template created in Klaviyo: `WU5dwb`.
+- Replacement campaign created as Draft: `01KTC6V8QWHMFEBEF9PPK1M14P`.
+- Campaign message template relationship checked: `null`.
+- Klaviyo API rejected PATCH/POST to `/campaign-messages/{message_id}/relationships/template/` with HTTP 405.
+- Klaviyo API rejected template fields on campaign creation and campaign-message patch with HTTP 400.
+- Therefore the old draft was not deleted, per boundary.
 
----
+## Required manual action
 
-## To send this campaign
-
-1. Open the Klaviyo deep link above
-2. Subject + preview + from are already set
-3. Click "Choose template" → pick your Aydins brand template
-4. Replace the template body text with the body content above
-5. Update the CTA button URL to `/collections/mens-wedding-bands`
-6. Preview on desktop + mobile
-7. Schedule send (recommend Sunday 9am CT or Monday 7am CT for B2C jewelry)
-8. Hit send
-
-## To skip this campaign
-
-- Open Klaviyo deep link → delete the draft
-- Delete this vault file
-
-Next Friday a different angle is picked on rotation.
+Open Klaviyo, attach template `WU5dwb` or master `SnvSyP` to the new draft, preview desktop/mobile, then schedule manually. BETA did not send or schedule anything.
