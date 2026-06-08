@@ -72,5 +72,18 @@
       "6": ["5","5.5","6","6.5","7","7.5","8","8.5","9","9.5","10","10.5","11","11.5","12","12.5","13","14","15"],
       "8": ["5","5.5","6","6.5","7","7.5","8","8.5","9","9.5","10","10.5","11","11.5","12","12.5","13","14","15"]
     }
+  },
+
+  "JDTR969": {
+    "_status": "ok_shopify_created_2026_06_08",
+    "shopify_alias": ["JDTR969"],
+    "shopify_product_id": "9394649694445",
+    "shopify_handle": "jdtr969-black-tungsten-ring-blue-meteorite-arrow-inlay-8mm",
+    "shopify_title": "JDTR969 | Black Tungsten Ring, Blue Meteorite Arrow Inlay, 8mm",
+    "etsy_listing_id": "4512019324",
+    "notes": "Created on Shopify 2026-06-08 via API from jewelrydepotusa.com/product/969-tr-8mm/. Black tungsten + blue meteorite + silver arrow inlay, 8mm domed. 15 variants @ $169.",
+    "widths": {
+      "8": ["7","7.5","8","8.5","9","9.5","10","10.5","11","11.5","12","12.5","13","14","15"]
+    }
   }
 }

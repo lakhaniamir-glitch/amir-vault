@@ -1,13 +1,13 @@
-# Scrapped Etsy Listings — 52 dropped, 434 kept
+# Scrapped Etsy Listings — 51 dropped, 435 kept
 
 **Date:** 2026-06-08
 **Reason:** Listings without a Shopify codename match were removed from `listings-corrected.csv` per Amir's instruction.
 
 ## Summary
 - Total listing blocks scanned: 486
-- Kept (Shopify-matched, variants pruned to Shopify reality): **434**
-- Dropped (no Shopify match): **52**
-- Total variant rows in final CSV: 11735
+- Kept (Shopify-matched, variants pruned to Shopify reality): **435**
+- Dropped (no Shopify match): **51**
+- Total variant rows in final CSV: 11750
 
 ## Dropped listings
 | Listing ID | Codename | Raw SKU | Title (truncated) |
@@ -46,7 +46,6 @@
 | 4512020032 | `ADDISON` | `ADDISON-4-3.5` | Tungsten Wedding Band for Men, 4mm Silver Mens Tungsten Ring Box Elder Wood, Per |
 | 4512018707 | `RAIDER` | `RAIDER-2-4` | Tungsten Wedding Band for Men, 2mm Black Mens Tungsten Ring Raider, Personalized |
 | 4512019664 | `LST4512019664` | `LST4512019664-4-2.5` | Tungsten Wedding Band for Men, 4mm Silver Mens Tungsten Ring, Personalized Engra |
-| 4512019324 | `JDTR969` | `JDTR969-8-5` | Tungsten Wedding Band for Men, 8mm Rose Gold Mens Tungsten Ring Meteorite Inlay, |
 | 4512010162 | `LST4512010162` | `LST4512010162-BLACK` | Personalized Fingerprint Dog Tag Necklace, Mens Engraved Stainless Steel Dog Tag |
 | 4512017935 | `DROGON` | `DROGON-8-2.5` | Ceramic Wedding Band for Men, 8mm Black Mens Ceramic Ring Dinosaur Bone, Persona |
 | 4512010410 | `RENEGADE` | `RENEGADE-6-5` | Tungsten Wedding Band for Men, 6mm Black Mens Tungsten Ring Hammered, Personaliz |

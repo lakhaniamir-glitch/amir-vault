@@ -1,4 +1,4 @@
-Etsy Listing IDs to deactivate in Vela — 52 listings, 2026-06-08 (FINAL)
+Etsy Listing IDs to deactivate in Vela — 51 listings, 2026-06-08 (FINAL)
 Reason: Not in current Shopify catalog, Shopify gaps need fixing first, or marked discontinued by Amir.
 
 509712178
@@ -25,7 +25,6 @@ Reason: Not in current Shopify catalog, Shopify gaps need fixing first, or marke
 4512018705
 4512018707
 4512019289
-4512019324
 4512019397
 4512019664
 4512019725
@@ -54,22 +53,22 @@ Reason: Not in current Shopify catalog, Shopify gaps need fixing first, or marke
 4512057576
 4512057674
 
-=== 5 LISTINGS THAT CAN BE RE-ACTIVATED AFTER SHOPIFY IS FIXED ===
+=== 4 LISTINGS THAT CAN BE RE-ACTIVATED AFTER SHOPIFY IS FIXED ===
 
 | Etsy Listing ID | Codename | Shopify gap to fix |
 |---|---|---|
 | 4512054893 | HALIFAX | Add all variants (4,6,7,8,10,12mm) from Universal-J source |
 | 4512020444 | KONA | Add all variants (4,6,8,10,12mm) from Universal-J source |
 | 4512008686 | KODIAK | Add all variants (4,6,7,8,10,12mm) from Universal-J source |
-| 4512057674 | AYTR009 | Fix SKU format on Shopify (currently uses sequential numbers) |
-| 4512019324 | JDTR969 | Create Shopify product from jewelrydepotusa.com/product/969-tr-8mm/ |
+| 4512057674 | AYTR009 | Fix SKU format on Shopify (parked - Amir will do later) |
 
 === SHOPIFY UPDATES COMPLETED 2026-06-08 ===
 | Shopify product | Action | Result |
 |---|---|---|
 | RHYTHM (JDTR698) | Added 6mm width with 17 sizes (5-13 incl half) | 17 new variants @ $169 |
 | RANGER (JDTR079) | Added 4mm width with 15 sizes (5-12 incl half) | 15 new variants @ $169 |
+| JDTR969 (NEW) | Created from jewelrydepotusa.com source | 15 variants @ $169 + 1 image uploaded |
 
-The Etsy listings for these (JDTR809 and JDTR172) are now in the UPDATE CSV.
+The Etsy listings for these (JDTR809, JDTR172, JDTR969) are now in the UPDATE CSV.
 
 Full details (codename, title, category) in: scrapped-listings-2026-06-08.md
