@@ -106,28 +106,35 @@ ssh openclaw@178.105.131.33 "/usr/bin/python3 /home/openclaw/.openclaw/command-c
 
 ## Daily briefs — open them here in Obsidian
 
-Today's briefs (2026-06-08) are at `brands/aydins/research/{agent}/2026-06-08.md` in this vault.
+**All 9 of today's briefs (2026-06-08) are in your vault. Click to open:**
 
-**In your vault now** (pulled overnight, ready to read):
 - [[brands/aydins/research/beta-google/2026-06-08.md|beta-google — today]]
 - [[brands/aydins/research/beta-meta/2026-06-08.md|beta-meta — today]]
 - [[brands/aydins/research/beta-insta/2026-06-08.md|beta-insta — today]]
+- [[brands/aydins/research/beta-tiktok/2026-06-08.md|beta-tiktok — today]]
+- [[brands/aydins/research/beta-klaviyo/2026-06-08.md|beta-klaviyo — today]]
+- [[brands/aydins/research/beta-shop/2026-06-08.md|beta-shop — today]]
+- [[brands/aydins/research/beta-etsy/2026-06-08.md|beta-etsy — today]]
+- [[brands/aydins/research/beta-ebay/2026-06-08.md|beta-ebay — today]]
+- [[brands/aydins/research/beta-design/2026-06-08.md|beta-design — today]]
 
-**Still on VPS waiting to sync** (SSH timed out before all 9 could pull; auto-sync recovery is queued):
-- beta-tiktok, beta-klaviyo, beta-shop, beta-etsy, beta-ebay, beta-design
+**Auto-sync for tomorrow and onward (DEPLOYED, confirmed in crontab):**
 
-To pull the remaining 6 manually if the auto-recovery hasn't completed when you wake up, from any shell:
-
-```bash
-cd "C:/Users/amirl/Documents/Amirs Command Center"
-for a in beta-tiktok beta-klaviyo beta-shop beta-etsy beta-ebay beta-design; do
-  mkdir -p "brands/aydins/research/$a"
-  scp openclaw@178.105.131.33:/home/openclaw/vault/brands/aydins/research/$a/2026-06-08.md "brands/aydins/research/$a/"
-  scp openclaw@178.105.131.33:/home/openclaw/vault/brands/aydins/research/$a/learnings.md "brands/aydins/research/$a/"
-done
+```
+4am CT  VPS: agent_research_loop.py writes 9 fresh briefs to /home/openclaw/vault/brands/aydins/research/
+5am CT  VPS: vault_push_research.sh commits + pushes them to GitHub amir-vault main
+Then    Obsidian Git plugin pulls from GitHub on its sync cycle
+Result  Briefs appear in this Obsidian vault automatically
 ```
 
-Or just tell me "pull the rest of the research briefs" and I'll do it.
+No more manual pulls needed. The two crons that make this work:
+
+```
+0 9  * * *   agent_research_loop.py                (4am CT)
+0 10 * * *   vault_push_research.sh                (5am CT)
+```
+
+Both confirmed live in the VPS crontab.
 
 **How they get into your vault every morning:**
 
