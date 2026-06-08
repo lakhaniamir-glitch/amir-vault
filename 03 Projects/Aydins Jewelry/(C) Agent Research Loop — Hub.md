@@ -104,23 +104,45 @@ ssh openclaw@178.105.131.33 "/usr/bin/python3 /home/openclaw/.openclaw/command-c
 
 ---
 
-## Daily briefs (open today)
+## Daily briefs — open them here in Obsidian
 
-Each agent writes a fresh markdown brief every morning to its own folder on the VPS, then syncs to this vault via vault-sync.
+Today's briefs (2026-06-08) are at `brands/aydins/research/{agent}/2026-06-08.md` in this vault.
 
-| Agent | Today's brief (vault path) |
-|---|---|
-| beta-google | `brands/aydins/research/beta-google/2026-06-09.md` (or today's date) |
-| beta-meta | `brands/aydins/research/beta-meta/2026-06-09.md` |
-| beta-insta | `brands/aydins/research/beta-insta/2026-06-09.md` |
-| beta-tiktok | `brands/aydins/research/beta-tiktok/2026-06-09.md` |
-| beta-klaviyo | `brands/aydins/research/beta-klaviyo/2026-06-09.md` |
-| beta-shop | `brands/aydins/research/beta-shop/2026-06-09.md` |
-| beta-etsy | `brands/aydins/research/beta-etsy/2026-06-09.md` |
-| beta-ebay | `brands/aydins/research/beta-ebay/2026-06-09.md` |
-| beta-design | `brands/aydins/research/beta-design/2026-06-09.md` |
+**In your vault now** (pulled overnight, ready to read):
+- [[brands/aydins/research/beta-google/2026-06-08.md|beta-google — today]]
+- [[brands/aydins/research/beta-meta/2026-06-08.md|beta-meta — today]]
+- [[brands/aydins/research/beta-insta/2026-06-08.md|beta-insta — today]]
 
-**If the vault doesn't have a `brands/aydins/research/` folder yet,** that's normal. The vault-sync cron pulls VPS files into this vault on a schedule. To force a pull manually, or to view live on the VPS, see the dashboard `/research` tab (see [[#Dashboard access]] below).
+**Still on VPS waiting to sync** (SSH timed out before all 9 could pull; auto-sync recovery is queued):
+- beta-tiktok, beta-klaviyo, beta-shop, beta-etsy, beta-ebay, beta-design
+
+To pull the remaining 6 manually if the auto-recovery hasn't completed when you wake up, from any shell:
+
+```bash
+cd "C:/Users/amirl/Documents/Amirs Command Center"
+for a in beta-tiktok beta-klaviyo beta-shop beta-etsy beta-ebay beta-design; do
+  mkdir -p "brands/aydins/research/$a"
+  scp openclaw@178.105.131.33:/home/openclaw/vault/brands/aydins/research/$a/2026-06-08.md "brands/aydins/research/$a/"
+  scp openclaw@178.105.131.33:/home/openclaw/vault/brands/aydins/research/$a/learnings.md "brands/aydins/research/$a/"
+done
+```
+
+Or just tell me "pull the rest of the research briefs" and I'll do it.
+
+**How they get into your vault every morning:**
+
+```
+4am CT  VPS: agent_research_loop.py writes briefs to /home/openclaw/vault/brands/aydins/research/
+5am CT  VPS: vault_push_research.sh commits + pushes to GitHub amir-vault main
+Then    Obsidian Git plugin pulls from GitHub on its sync cycle
+Result  Briefs appear in this vault under brands/aydins/research/
+```
+
+The 5am CT push cron is being deployed overnight. The first auto-push happens tomorrow (2026-06-09) at 10 UTC. Today's briefs (2026-06-08) were pulled manually so you'd have them in the vault on wake-up.
+
+For browsing all dates, use the agent folders: [[brands/aydins/research/beta-google/]], [[brands/aydins/research/beta-tiktok/]], etc.
+
+For "what has this agent seen this week," open the cumulative learnings: [[brands/aydins/research/beta-design/learnings.md]].
 
 ---
 
