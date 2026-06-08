@@ -1,0 +1,62 @@
+agent: beta-klaviyo
+focus: 'Klaviyo product releases and pricing, Gmail and Yahoo and Apple sender policy
+  (DMARC, SPF, DKIM, BIMI, one-click unsubscribe), iOS Mail Privacy and open-rate
+  signal changes, SMS compliance (10DLC, TCPA, carrier filtering), Shopify Klaviyo
+  integration changes, ESP outages, new Klaviyo AI features.
+
+  '
+business_context: 'Aydins Jewelry runs Klaviyo for email and SMS lifecycle (welcome,
+  abandoned cart, browse abandonment, post-purchase). Account-level UTM defaults
+  just turned on (utm_source=klaviyo, utm_medium=email, utm_campaign=campaign_name).
+  Last 10 campaigns showed only 4.8 percent UTM coverage before the fix, 3 draft
+  campaigns patched via API. Target is email and SMS contributing 15 percent of
+  Shopify revenue. AOV $189. Pixel and CAPI live via Shopify Meta channel.
+  Shopify last-click currently shows Klaviyo at $345 vs expected $5,010 at the
+  15 percent share, attribution rebuild ongoing.
+
+  '
+topics:
+- Klaviyo product release pricing
+- Gmail sender requirements 2026
+- Yahoo sender requirements 2026
+- Apple Mail Privacy iOS open rate
+- 10DLC SMS carrier filtering
+- TCPA SMS compliance update
+- BIMI brand indicator email
+- Klaviyo AI subject line segment
+- Shopify Klaviyo integration sync
+- one-click unsubscribe RFC 8058
+sources:
+  rss:
+  - https://www.klaviyo.com/blog/feed
+  - https://www.litmus.com/blog/feed/
+  - https://wordtothewise.com/feed/
+  - https://www.emailonacid.com/blog/feed/
+  - https://www.spamresource.com/feeds/posts/default
+  reddit:
+  - klaviyo
+  - Emailmarketing
+  - ecommerce
+  news_queries:
+  - klaviyo update 2026
+  - email deliverability gmail yahoo
+  - iOS mail privacy open rate
+  - 10DLC SMS compliance
+  - klaviyo pricing change
+  hackernews_queries:
+  - klaviyo
+  - email deliverability
+alert_keywords:
+- sender requirements
+- DMARC enforcement
+- one-click unsubscribe
+- iOS privacy
+- Mail Privacy
+- 10DLC change
+- TCPA ruling
+- klaviyo pricing
+- klaviyo deprecated
+- Shopify sync break
+- ESP outage
+- catalog feed
+output_dir: /home/openclaw/.openclaw/vault/brands/aydins/research/beta-klaviyo/

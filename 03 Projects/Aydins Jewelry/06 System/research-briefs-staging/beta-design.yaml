@@ -1,0 +1,82 @@
+agent: beta-design
+focus: 'New and updated AI tools across image generation, video generation, agents,
+  automation, marketing and ad creative, ecommerce AI, voice and audio. Mandate
+  is AI tools scout, not design trends. Find tools that replace, compress, or
+  speed up an Aydins workflow, or that materially shift cost (model price drops,
+  capability jumps).
+
+  '
+business_context: 'Aydins Jewelry uses AI heavily across the stack. Image gen via
+  Gemini 2.5 Flash Image (nano-banana) for product hero shots, reference image
+  rule locked 2026-06-04. Video via CapCut for reels. Agentic loops on a Hetzner
+  VPS, beta orchestrator plus channel specialists (beta-shop, beta-meta, beta-google,
+  beta-insta, beta-tiktok, beta-klaviyo, beta-etsy, beta-ebay, beta-design).
+  OpenRouter to DeepSeek v3.2 backend for cheap synthesis. Anthropic Claude for
+  high-end reasoning. Replicate occasionally. Arcads for UGC video. The goal is
+  to catch new tools or model releases or price cuts that beat current setup
+  within 7 days of release.
+
+  '
+topics:
+- image generation model release 2026
+- video generation model release 2026
+- nano banana Gemini image update
+- Veo 3 Sora 2 Kling Seedance release
+- LLM price drop OpenRouter
+- Claude Sonnet Opus Haiku update
+- agentic framework Claude Code Cursor
+- AI ecommerce tool Shopify Magic
+- Arcads UGC AI update
+- voice AI ElevenLabs Suno update
+- Replicate Hugging Face trending model
+- AI image editing product photo
+sources:
+  rss:
+  - https://openai.com/blog/rss.xml
+  - https://www.anthropic.com/news/rss.xml
+  - https://blog.google/technology/ai/rss/
+  - https://deepmind.google/blog/rss.xml
+  - https://huggingface.co/blog/feed.xml
+  - https://replicate.com/blog/rss
+  - https://www.producthunt.com/feed
+  reddit:
+  - LocalLLaMA
+  - StableDiffusion
+  - ArtificialIntelligence
+  - ChatGPT
+  - singularity
+  - aivideo
+  news_queries:
+  - AI image generation model release
+  - AI video generation model release
+  - nano banana Gemini image
+  - Veo Sora Kling release
+  - Claude Sonnet release
+  - OpenRouter price drop
+  - Shopify Magic AI update
+  - Arcads update
+  hackernews_queries:
+  - show hn ai
+  - model release
+  - image generation
+  - video generation
+  - agent framework
+alert_keywords:
+- model release
+- price drop
+- nano banana
+- Gemini Image
+- Veo
+- Sora
+- Kling
+- Seedance
+- Claude update
+- new image model
+- new video model
+- Anthropic update
+- OpenAI update
+- Shopify Magic
+- Arcads update
+- Replicate trending
+- launches today
+output_dir: /home/openclaw/.openclaw/vault/brands/aydins/research/beta-design/

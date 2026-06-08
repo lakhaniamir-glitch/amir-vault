@@ -1,0 +1,60 @@
+agent: beta-ebay
+focus: 'eBay final value and insertion fees, Best Match search algorithm, Promoted
+  Listings (Standard, Advanced, Offsite) auction and attribution, seller performance
+  standards (Top Rated, defect rate, INR), Managed Payments policy, returns and
+  seller protection, jewelry category policy, eBay AI listing tools.
+
+  '
+business_context: 'Aydins Jewelry sells men''s wedding bands on eBay alongside
+  Etsy and Shopify. Lower volume than Etsy or the Shopify store but still active
+  inventory. Listings handled outside the Vela/Shopify flow. Best Match ranking
+  and Promoted Listings auction directly drive visibility. Fee model is a margin
+  squeeze on rings that already carry tight margin after white-label cost.
+  Authenticity Guarantee program expansion into jewelry is a watched event.
+
+  '
+topics:
+- eBay final value fee jewelry
+- Best Match algorithm 2026
+- Promoted Listings Advanced auction
+- Promoted Listings Offsite commission
+- Top Rated Seller criteria
+- Managed Payments payout hold
+- eBay International Shipping change
+- eBay Authenticity Guarantee jewelry
+- eBay returns policy window
+- eBay AI listing tool magical
+sources:
+  rss:
+  - https://www.ebayinc.com/stories/feed/
+  - https://www.tamebay.com/feed
+  reddit:
+  - Ebay
+  - Flipping
+  - ecommerce
+  news_queries:
+  - ebay seller fee change
+  - best match algorithm 2026
+  - promoted listings advanced
+  - top rated seller
+  - managed payments hold
+  - ebay jewelry policy
+  - ebay ai listing tool
+  hackernews_queries:
+  - ebay
+  - ebay seller
+alert_keywords:
+- final value fee
+- insertion fee
+- Best Match change
+- Promoted Listings change
+- Top Rated criteria
+- Managed Payments
+- payout hold
+- returns policy
+- seller protection
+- jewelry category
+- Authenticity Guarantee
+- AI listing tool
+- holiday selling window
+output_dir: /home/openclaw/.openclaw/vault/brands/aydins/research/beta-ebay/

@@ -1,0 +1,60 @@
+agent: beta-shop
+focus: 'Shopify changelog and platform releases, theme system (OS2.0, theme blocks,
+  sections, app extensions), checkout extensibility migration, Admin Storefront
+  Functions API version changes and deprecations, Shop Pay and Shop app changes,
+  Shopify native AI features, major app deprecations, Liquid Hydrogen Oxygen shifts.
+
+  '
+business_context: 'Aydins Jewelry runs a Shopify store (shopaydins.com) on the
+  Kalles v4 theme (theme 136614478061, live) with a v5 OS2.0 migration in
+  progress (theme 159068061933, unpublished). Stack: Klaviyo, Google Channel,
+  Meta Channel, Shop Pay, Zepto personalizer (for engraving on Inside vs Inside
+  and Outside tags), several third-party apps. AOV $189. About 5-6 paid orders
+  per day on a normal day. The v5 migration is mid-flight, so any breaking change
+  in OS2.0 or checkout extensibility forces a plan update.
+
+  '
+topics:
+- Shopify changelog deprecation 2026
+- Checkout extensibility deadline
+- OS2.0 theme blocks app extensions
+- Shopify Functions API version
+- Shop Pay Installments change
+- Shopify Magic Sidekick AI
+- Shopify Editions announcement
+- Liquid Hydrogen Oxygen update
+- Shopify Markets currency tax
+- Shopify app store deprecation
+sources:
+  rss:
+  - https://shopify.dev/changelog.atom
+  - https://shopify.engineering/blog.atom
+  - https://www.shopify.com/blog.atom
+  - https://www.shopify.com/partners/blog.atom
+  reddit:
+  - shopify
+  - ShopifyAppDev
+  - ecommerce
+  news_queries:
+  - shopify update 2026
+  - shopify checkout extensibility
+  - shop pay change
+  - shopify api deprecated
+  - shopify editions
+  hackernews_queries:
+  - shopify
+  - shop pay
+alert_keywords:
+- API deprecated
+- breaking change
+- checkout extensibility deadline
+- OS2.0 change
+- Shopify Functions
+- app deprecated
+- app sunset
+- theme app extension
+- Shop Pay change
+- Liquid removed
+- Markets change
+- payments compliance
+output_dir: /home/openclaw/.openclaw/vault/brands/aydins/research/beta-shop/

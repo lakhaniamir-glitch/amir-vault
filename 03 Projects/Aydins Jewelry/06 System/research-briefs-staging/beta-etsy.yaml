@@ -1,0 +1,62 @@
+agent: beta-etsy
+focus: 'Etsy seller fees (listing, transaction, payment processing, offsite ads),
+  Etsy search algorithm and Etsy Ads auction, Star Seller and Etsy Plus, jewelry
+  and personalization listing policy, free shipping guarantee, Vela CSV and Etsy
+  API changes, holiday cutoffs and returns windows.
+
+  '
+business_context: 'Aydins Jewelry is actively pushing Etsy as a growth channel.
+  Listings managed via Vela CSV exports. Runs Etsy Ads. Competes in men''s wedding
+  bands (saturated category, Star Seller pressure). Aydins white-labels rings
+  (sourced wholesale from Universal Jewelry / Thorsten) and presents them as
+  handcrafted Aydins product, so listing copy policy and personalization rules
+  matter. AOV is comparable to Shopify but margin is tighter after Etsy fees,
+  so any fee model change hits PnL directly.
+
+  '
+topics:
+- Etsy seller fee change 2026
+- Etsy search algorithm signals
+- Etsy Ads attribution budget
+- Star Seller criteria change
+- Etsy Plus subscription change
+- Offsite Ads commission update
+- free shipping guarantee threshold
+- Etsy jewelry policy
+- Etsy personalization rules
+- Vela CSV Etsy API change
+- holiday shipping cutoff
+sources:
+  rss:
+  - https://www.etsy.com/seller-handbook/feed
+  - https://www.etsy.com/news/feed
+  reddit:
+  - Etsy
+  - EtsySellers
+  - EtsySellersOnly
+  - EtsyAdvice
+  news_queries:
+  - etsy seller fee change
+  - etsy algorithm 2026
+  - etsy ads attribution
+  - star seller criteria
+  - etsy plus subscription
+  - offsite ads commission
+  hackernews_queries:
+  - etsy
+  - etsy seller
+alert_keywords:
+- fee change
+- transaction fee
+- offsite ads
+- algorithm change
+- Star Seller criteria
+- free shipping guarantee
+- jewelry policy
+- personalization rule
+- Vela CSV
+- Etsy API
+- holiday cutoff
+- returns policy
+- IP enforcement
+output_dir: /home/openclaw/.openclaw/vault/brands/aydins/research/beta-etsy/

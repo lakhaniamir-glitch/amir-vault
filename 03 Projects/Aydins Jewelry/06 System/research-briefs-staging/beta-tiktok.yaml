@@ -1,0 +1,58 @@
+agent: beta-tiktok
+focus: 'TikTok algorithm and FYP weighting, TikTok Shop policy and fees, ad formats
+  (Spark Ads, Smart+, Shopping Ads), creator monetization, watermark and repost
+  detection, music licensing for commercial use, US regulatory developments.
+
+  '
+business_context: 'Aydins Jewelry posts daily reels to TikTok via the same automated
+  pipeline that publishes to IG and YouTube Shorts (vertical 1080x1920, ping-pong
+  rebound, generated captions and hashtags). first_comment field carries CTA plus
+  hashtags. Aydins tests TikTok Shop and runs paid ads via Smart+. Cross-platform
+  reposts are common, so watermark or repost penalties hit Aydins directly. US ban
+  and divestiture risk is a watched variable.
+
+  '
+topics:
+- TikTok algorithm change 2026
+- TikTok Shop fees and payout
+- Smart+ campaign optimization
+- Spark Ads format change
+- TikTok creator rewards monetization
+- TikTok repost watermark penalty
+- TikTok US ban divestiture timeline
+- TikTok Shopping Ads launch
+- Music commercial use library
+sources:
+  rss:
+  - https://newsroom.tiktok.com/en-us/rss
+  - https://www.socialmediatoday.com/feeds/news.xml
+  - https://www.marketingbrew.com/feed
+  - https://later.com/blog/rss.xml
+  - https://buffer.com/library/feed/
+  reddit:
+  - Tiktokhelp
+  - TikTokads
+  - TikTokshop
+  - socialmedia
+  news_queries:
+  - tiktok algorithm 2026
+  - tiktok shop fees change
+  - tiktok smart plus campaign
+  - tiktok ads update
+  - tiktok ban divestiture
+  hackernews_queries:
+  - tiktok
+  - tiktok shop
+alert_keywords:
+- algorithm change
+- Shop fee change
+- repost penalty
+- watermark detection
+- Spark Ads change
+- Smart+ change
+- Shopping Ads launch
+- TikTok ban
+- divestiture
+- API change
+- first comment
+output_dir: /home/openclaw/.openclaw/vault/brands/aydins/research/beta-tiktok/
