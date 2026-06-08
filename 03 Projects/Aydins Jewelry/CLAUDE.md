@@ -142,6 +142,7 @@ Aydins Jewelry/
 ### Variant sizing convention
 - **Only use the sizes listed on Universal Jewelry (source) for each width.** Do not extend or shrink the size range. Some rings have multiple widths with different size ranges per width — respect that exactly.
 - **Inventory default: 10 per size** (with `tracked: true` on every inventory item so totalInventory counts properly).
+- **Default width: 8mm.** Locked rule 2026-06-08. Any ring listing that does not have an explicit Width variation column populated (the `V_Option` where `Variation = "Width"`) defaults to **8mm** in the title and SKU. Do NOT scan the title, tags, description, or any other field for stray "Nmm" references to guess a width. Only trust the explicit Width variation. Applies to: Etsy Vela CSVs (Title formula, Var SKU `{CODENAME}-{WIDTH}-{SIZE}`), Shopify product titles, ad copy, and any new listing generation. Override only when Amir explicitly specifies a different width for a particular product.
 
 ### Listing file naming
 Boring and consistent. Use the product handle as the prefix.

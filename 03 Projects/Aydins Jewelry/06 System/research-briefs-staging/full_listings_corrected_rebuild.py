@@ -94,12 +94,14 @@ def detect_color(blob):
     return None
 
 def detect_width(v_opt, title):
+    # LOCKED RULE 2026-06-08 (Amir): only trust V_Option when the Variation label is 'Width'.
+    # If no explicit Width variation column has a value, DEFAULT TO 8mm (do NOT scan the title for stray mm references).
     if v_opt:
         m = re.match(r'^(\d+(?:\.\d+)?)\s*mm?$', v_opt.lower().strip())
-        if m: return m.group(1).rstrip('0').rstrip('.') if '.' in m.group(1) else m.group(1)
-    m = re.search(r'(\d+(?:\.\d+)?)\s*mm', title.lower())
-    if m: return m.group(1).rstrip('0').rstrip('.') if '.' in m.group(1) else m.group(1)
-    return None
+        if m:
+            v = m.group(1)
+            return v.rstrip('0').rstrip('.') if '.' in v else v
+    return '8'  # default per Amir's rule
 
 def detect_feature_label(blob):
     blob = blob.lower()
@@ -233,13 +235,15 @@ for row in rows:
         # detect from this row
         v1_opt = (row.get('V1 Option') or '').strip()
         v2_opt = (row.get('V2 Option') or '').strip()
+        # Per Amir locked rule: only treat as explicit width if a Width-labeled variation column has a parseable value.
+        # Otherwise the listing has no explicit width and the title defaults to 8mm.
         width = None
-        if current_v2_label.lower() == 'width':
+        if current_v2_label.lower() == 'width' and v2_opt:
             width = detect_width(v2_opt, old_title)
-        elif current_v1_label.lower() == 'width':
+        elif current_v1_label.lower() == 'width' and v1_opt:
             width = detect_width(v1_opt, old_title)
-        else:
-            width = detect_width('', old_title)
+        if not width:
+            width = '8'  # explicit Amir-rule default
 
         blob = f'{old_materials} {old_title} {old_tags} {section}'
         material = detect_material(blob)
@@ -274,6 +278,10 @@ for row in rows:
         extra = re.sub(r'[^A-Za-z0-9]+', '', v2).upper()[:12]
 
     parts = [current_codename] if current_codename else []
+    # Per Amir locked rule 2026-06-08: default width to 8 when no explicit Width variation present.
+    # Only applies when there IS a size (otherwise it's a non-ring like a signet/dog tag)
+    if width_v is None and size_v is not None:
+        width_v = '8'
     if width_v is not None: parts.append(width_v)
     if size_v is not None: parts.append(size_v)
     if extra: parts.append(extra)
