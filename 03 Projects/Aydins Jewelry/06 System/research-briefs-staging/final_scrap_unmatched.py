@@ -15,19 +15,34 @@ idx = json.loads(INDEX.read_text())
 print(f"Shopify index codenames: {len(idx)}")
 
 def extract_codename(sku):
-    """Strip -CFP{N}, -VARIATION, -{digits}, -{digits.digits} suffixes."""
+    """Strip -CFP{N}, -VARIATION, -{digits}, -{decimal} suffixes.
+    BUG-FIX 2026-06-08: iterate ALL strip patterns together so SKUs like
+    'JDTR061-CFP1-4-5' reduce to 'JDTR061' (strip -5, -4, then -CFP1)."""
     if not sku: return ""
     s = sku.strip().upper()
-    # Strip -CFP{N}
-    s = re.sub(r"-CFP\d+$", "", s)
-    # Strip -VARIATION
-    s = re.sub(r"-VARIATION$", "", s)
-    # Strip trailing -{digits} or -{decimal} repeatedly
     while True:
-        new = re.sub(r"-\d+(?:\.\d+)?$", "", s)
-        if new == s: break
-        s = new
+        prev = s
+        s = re.sub(r"-CFP\d+$", "", s)
+        s = re.sub(r"-VARIATION$", "", s)
+        s = re.sub(r"-\d+(?:\.\d+)?$", "", s)
+        if s == prev: break
     return s
+
+# === Manual overrides ===
+# Format: { etsy_codename: { "widths": { width_mm: [size_decimal,...] } } }
+# Used when Shopify's own data is incomplete or when one Etsy listing maps to multiple Shopify SKU codes.
+MANUAL_OVERRIDES_PATH = Path("/tmp/manual_codename_overrides.json")
+manual_overrides = {}
+if MANUAL_OVERRIDES_PATH.exists():
+    try:
+        raw = json.loads(MANUAL_OVERRIDES_PATH.read_text())
+        for k, v in raw.items():
+            if k.startswith("_"): continue
+            if isinstance(v, dict) and "widths" in v:
+                manual_overrides[k.upper()] = v["widths"]
+        print(f"loaded manual overrides: {len(manual_overrides)} codenames")
+    except Exception as e:
+        print(f"manual overrides load failed: {e}")
 
 def display_size(s):
     s = s.strip()
@@ -79,11 +94,14 @@ for first_idx, block_indices in listings:
     lid = first_row.get("Listing ID","").strip()
     title = first_row.get("Title","")[:80]
 
-    if not codename or codename not in idx:
+    # Resolve widths: manual override wins over Shopify index
+    if codename in manual_overrides:
+        shopify_widths = manual_overrides[codename]
+    elif codename and codename in idx:
+        shopify_widths = idx[codename]
+    else:
         dropped.append({"lid": lid, "codename": codename, "raw_sku": var_sku, "title": title})
         continue
-
-    shopify_widths = idx[codename]
     valid_widths = sorted(shopify_widths.keys(), key=lambda x: float(x) if x.replace(".","").isdigit() else 99)
     all_sizes = set()
     for w in valid_widths:
