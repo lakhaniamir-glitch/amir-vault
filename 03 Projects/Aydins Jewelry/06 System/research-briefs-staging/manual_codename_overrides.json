@@ -1,21 +1,51 @@
 {
-  "_comment": "Etsy codename -> Shopify width/size override. Used when Shopify's own data is incomplete/incorrect.",
-  "_format": {
-    "etsy_codename": {
-      "shopify_alias_codenames": ["one or more Shopify SKU prefixes that represent the same ring at different widths"],
-      "widths": {
-        "{width_in_mm}": ["array of size labels as decimal strings"]
-      }
+  "_comment": "Etsy codename -> width/size override. Only includes products where Shopify data is COMPLETE.",
+  "_legend": "Products with incomplete Shopify data are NOT in this file - they get scrapped until Shopify is fixed.",
+
+  "JDTR124": {
+    "_status": "ok_clean_shopify",
+    "shopify_alias": ["JDTR124", "JDTR214"],
+    "etsy_listing_id": "4512057440",
+    "notes": "HERALD per Amir 2026-06-08. Shopify has both 6mm (JDTR214) and 8mm (JDTR124).",
+    "widths": {
+      "6": ["5","5.5","6","6.5","7","7.5","8","8.5","9","9.5","10","10.5","11","11.5","12","12.5","13"],
+      "8": ["7","7.5","8","8.5","9","9.5","10","10.5","11","11.5","12","12.5","13","14","15"]
     }
   },
-  "JDTR124": {
-    "shopify_alias_codenames": ["JDTR124", "JDTR214"],
-    "shopify_handle": "products/1571675668522",
-    "etsy_listing_id": "4512057440",
-    "notes": "Both JDTR124 (8mm) and JDTR214 (6mm) are the SAME ring on Shopify, called HERALD. Per Amir 2026-06-08.",
+
+  "JDTR061": {
+    "_status": "ok_clean_shopify",
+    "shopify_alias": ["FPR-JDTR061"],
+    "shopify_title": "Fingerprint Ring | Mens Wedding Band, Couple Wedding Ring, Memorial Ring",
+    "etsy_listing_id": "817764707",
     "widths": {
-      "6": ["5", "5.5", "6", "6.5", "7", "7.5", "8", "8.5", "9", "9.5", "10", "10.5", "11", "11.5", "12", "12.5", "13"],
-      "8": ["7", "7.5", "8", "8.5", "9", "9.5", "10", "10.5", "11", "11.5", "12", "12.5", "13", "14", "15"]
+      "4": ["5","5.5","6","6.5","7","7.5","8","8.5","9","9.5","10","10.5","11","11.5","12"],
+      "6": ["5","5.5","6","6.5","7","7.5","8","8.5","9","9.5","10","10.5","11","11.5","12","12.5","13"],
+      "8": ["7","7.5","8","8.5","9","9.5","10","10.5","11","11.5","12","12.5","13","14","15"],
+      "10": ["7","7.5","8","8.5","9","9.5","10","10.5","11","11.5","12","12.5","13","14"]
+    }
+  },
+
+  "TR210": {
+    "_status": "ok_clean_shopify",
+    "shopify_alias": ["JDTR810"],
+    "shopify_title": "GEMINI | Gold Tungsten Ring, Brushed, Beveled",
+    "etsy_listing_id": "4512054099",
+    "notes": "Etsy uses TR210 codename; Shopify is JDTR810 / GEMINI",
+    "widths": {
+      "4": ["5","5.5","6","6.5","7","7.5","8","8.5","9","9.5","10","10.5","11","11.5","12"],
+      "6": ["5","5.5","6","6.5","7","7.5","8","8.5","9","9.5","10","10.5","11","11.5","12","12.5","13"],
+      "8": ["5","5.5","6","6.5","7","7.5","8","8.5","9","9.5","10","10.5","11","11.5","12","12.5","13","14","15"]
+    }
+  },
+
+  "VIPER": {
+    "_status": "ok_clean_shopify",
+    "shopify_alias": ["JDTR683"],
+    "shopify_title": "VIPER | Silver Tungsten Ring, Gold Braid, Domed",
+    "etsy_listing_id": "4512018501",
+    "widths": {
+      "8": ["7","7.5","8","8.5","9","9.5","10","10.5","11","11.5","12","12.5","13","14","15"]
     }
   }
 }

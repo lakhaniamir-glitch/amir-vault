@@ -15,15 +15,16 @@ idx = json.loads(INDEX.read_text())
 print(f"Shopify index codenames: {len(idx)}")
 
 def extract_codename(sku):
-    """Strip -CFP{N}, -VARIATION, -{digits}, -{decimal} suffixes.
-    BUG-FIX 2026-06-08: iterate ALL strip patterns together so SKUs like
-    'JDTR061-CFP1-4-5' reduce to 'JDTR061' (strip -5, -4, then -CFP1)."""
+    """Strip -CFP{N}, -VARIATION, -{COLOR_OR_FINISH}, -{digits}, -{decimal} suffixes.
+    BUG-FIX 2026-06-08: iterate ALL strip patterns together."""
     if not sku: return ""
     s = sku.strip().upper()
+    color_finish_pattern = r"-(BLACK|SILVER|GOLD|WHITE|ROSE|POLISHED|BRUSHED|MATTE|SATIN|YELLOW|ROSE\s?GOLD)$"
     while True:
         prev = s
         s = re.sub(r"-CFP\d+$", "", s)
         s = re.sub(r"-VARIATION$", "", s)
+        s = re.sub(color_finish_pattern, "", s)
         s = re.sub(r"-\d+(?:\.\d+)?$", "", s)
         if s == prev: break
     return s
