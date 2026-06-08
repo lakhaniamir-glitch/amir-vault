@@ -1,13 +1,13 @@
-# Scrapped Etsy Listings — 54 dropped, 432 kept
+# Scrapped Etsy Listings — 52 dropped, 434 kept
 
 **Date:** 2026-06-08
 **Reason:** Listings without a Shopify codename match were removed from `listings-corrected.csv` per Amir's instruction.
 
 ## Summary
 - Total listing blocks scanned: 486
-- Kept (Shopify-matched, variants pruned to Shopify reality): **432**
-- Dropped (no Shopify match): **54**
-- Total variant rows in final CSV: 11650
+- Kept (Shopify-matched, variants pruned to Shopify reality): **434**
+- Dropped (no Shopify match): **52**
+- Total variant rows in final CSV: 11735
 
 ## Dropped listings
 | Listing ID | Codename | Raw SKU | Title (truncated) |
@@ -31,7 +31,6 @@
 | 4512046336 | `LST4512046336` | `LST4512046336-8` | Tungsten Wedding Band for Men, 8mm Black Mens Tungsten Ring, Personalized Engrav |
 | 4512043599 | `LST4512043599` | `LST4512043599-8-7` | Mens Signet Ring, Personalized Engraved Signet Ring, Custom Laser Engraved Gold  |
 | 4512042877 | `CJ` | `CJ-6-5` | Tungsten Wedding Band for Men, 6mm Black Mens Tungsten Ring Carbon Fiber, Person |
-| 4512043912 | `JDTR172` | `JDTR172-4-5` | Tungsten Wedding Band for Men, 4mm Silver Mens Tungsten Ring Jdtr172, Personaliz |
 | 4512031769 | `JDTR045` | `JDTR045-7-5` | Tungsten Wedding Band for Men, 7mm Silver Mens Tungsten Ring Brushed Finish, Per |
 | 4512032001 | `TR675` | `TR675-8-6` | Tungsten Wedding Band for Men, 8mm Rose Gold Mens Tungsten Ring Brushed Finish,  |
 | 4512031632 | `LST4512031632` | `LST4512031632-6-2.5` | Ceramic Wedding Band for Men, 6mm Black Mens Ceramic Ring Lava Rock, Personalize |
@@ -52,7 +51,6 @@
 | 4512017935 | `DROGON` | `DROGON-8-2.5` | Ceramic Wedding Band for Men, 8mm Black Mens Ceramic Ring Dinosaur Bone, Persona |
 | 4512010410 | `RENEGADE` | `RENEGADE-6-5` | Tungsten Wedding Band for Men, 6mm Black Mens Tungsten Ring Hammered, Personaliz |
 | 4512008127 | `MAHI` | `MAHI-8-2.5` | Tungsten Wedding Band for Men, 8mm Mens Tungsten Ring Malachite, Personalized En |
-| 4512008688 | `JDTR809` | `JDTR809-6-5` | Tungsten Wedding Band for Men, 6mm Black Mens Tungsten Ring Koa Wood, Personaliz |
 | 4512009018 | `LST4512009018` | `LST4512009018-6-4` | Tungsten Wedding Band for Men, 6mm Black Mens Tungsten Ring, Personalized Engrav |
 | 4512008686 | `KODIAK` | `KODIAK-4-2.5` | Tungsten Wedding Band for Men, 4mm Silver Mens Tungsten Ring Rosewood, Personali |
 | 4512007335 | `LST4512007335` | `LST4512007335-8-2.5` | Tungsten Wedding Band for Men, 8mm Black Mens Tungsten Ring, Personalized Engrav |
