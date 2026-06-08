@@ -23,16 +23,30 @@ The 4am CT cron will fire ~3 hours after this note was written. When you wake up
 
 If briefs for the 6 new agents are missing entirely by 8am CT, see [[#Troubleshooting]] at the bottom.
 
-## Smoke run results
+## Smoke run results — ALL 9 AGENTS PRODUCED OUTPUT
 
-Deployed at ~06:39 UTC and triggered a manual smoke run at 06:43 UTC. As of 06:52 UTC, 7 of 9 agents produced output, the last 2 (beta-shop, beta-tiktok — last alphabetically) were still processing when I closed this session. The natural 4am CT cron will also fire ~2 hours from this writing as the production fallback.
+Deployed at ~06:39 UTC, triggered smoke run at 06:43 UTC, all 9 agents completed by 07:07 UTC.
+
+**Final state verified at 07:07 UTC:**
+```
+beta-google   OK 8772b
+beta-meta     OK 5569b
+beta-insta    OK 7732b
+beta-tiktok   OK 7076b
+beta-klaviyo  OK 4133b
+beta-shop     OK 3725b
+beta-etsy     OK 9876b
+beta-ebay     OK 5953b
+beta-design   OK 2688b
+```
 
 **What's verified:**
-- All 6 YAMLs uploaded to `/home/openclaw/.openclaw/agents/research-briefs/` ([listing confirmed](#)).
+- All 6 new YAMLs uploaded to `/home/openclaw/.openclaw/agents/research-briefs/`.
 - All 6 pass `yaml.safe_load` parse.
 - Cron `0 9 * * *` is active.
 - Script globs `*.yaml` so new agents auto-load (no script patch needed).
-- 7 of 9 agents produced today's brief during smoke run. Output quality is high (see samples below).
+- All 9 agents produced today's brief in the smoke run. Output quality is high (see samples below).
+- The natural 4am CT cron will also fire at 9 UTC, producing fresh briefs for 6/9.
 
 **Sample output from the smoke run** (real findings, not synthetic):
 
