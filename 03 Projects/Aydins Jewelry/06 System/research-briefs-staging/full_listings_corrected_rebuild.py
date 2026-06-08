@@ -68,15 +68,61 @@ COLOR_TITLE = {'black': 'Black', 'silver': 'Silver', 'gold': 'Gold', 'rose gold'
                'blue': 'Blue', 'green': 'Green', 'red': 'Red', 'purple': 'Purple',
                'white': 'White', 'yellow gold': 'Yellow Gold', 'orange': 'Orange',
                'pink': 'Pink', 'gunmetal': 'Gunmetal', 'two tone': 'Two Tone', 'brown': 'Brown'}
+# Order matters: specific features first so they match before the generic 'wood inlay' fallback
 FEATURE_LABEL = {
-    'meteorite': 'Meteorite Inlay', 'wood inlay': 'Wood Inlay', 'koa': 'Koa Wood',
-    'olive wood': 'Olive Wood', 'walnut': 'Walnut Inlay', 'iron wood': 'Ironwood',
-    'opal': 'Opal Inlay', 'celtic': 'Celtic Dragon', 'hammered': 'Hammered',
-    'spinner': 'Spinner Ring', 'carbon fiber': 'Carbon Fiber', 'beveled': 'Beveled',
-    'brushed': 'Brushed Finish', 'turquoise': 'Turquoise Inlay',
-    'fingerprint': 'Fingerprint', 'antler': 'Deer Antler',
-    'dinosaur bone': 'Dinosaur Bone', 'whiskey barrel': 'Whiskey Barrel',
-    'abalone': 'Abalone', 'damascus': 'Damascus Pattern',
+    # Specific wood types (must come before 'wood inlay')
+    'bocote': 'Bocote Wood',
+    'box elder': 'Box Elder Wood',
+    'wenge': 'Wenge Wood',
+    'whiskey barrel': 'Whiskey Barrel',
+    'iron wood': 'Ironwood',
+    'ironwood': 'Ironwood',
+    'koa': 'Koa Wood',
+    'olive wood': 'Olive Wood',
+    'walnut': 'Walnut Inlay',
+    'rosewood': 'Rosewood',
+    'zebrawood': 'Zebrawood',
+    'red burl': 'Red Burl Wood',
+    'burl wood': 'Burl Wood',
+    'oak wood': 'Oak Wood',
+    'redwood': 'Redwood Inlay',
+    'sequoia': 'Sequoia Wood',
+    # Specific stones/inlays
+    'meteorite': 'Meteorite Inlay',
+    'opal': 'Opal Inlay',
+    'mother of pearl': 'Mother of Pearl',
+    'abalone': 'Abalone Inlay',
+    'turquoise': 'Turquoise Inlay',
+    'dinosaur bone': 'Dinosaur Bone',
+    'antler': 'Deer Antler',
+    'sapphire': 'Sapphire',
+    'ruby': 'Ruby',
+    'alexandrite': 'Alexandrite Inlay',
+    'goldstone': 'Goldstone Inlay',
+    'tiger cowrie': 'Tiger Cowrie',
+    'lava rock': 'Lava Rock',
+    'malachite': 'Malachite',
+    # Patterns / styles
+    'celtic': 'Celtic Dragon',
+    'damascus': 'Damascus Pattern',
+    'carbon fiber': 'Carbon Fiber',
+    'fingerprint': 'Fingerprint',
+    'cross': 'Cross Pattern',
+    'rune': 'Rune Pattern',
+    'fleur': 'Fleur de Lis',
+    # Generic finishes (fallbacks)
+    'hammered': 'Hammered',
+    'brushed': 'Brushed Finish',
+    'beveled': 'Beveled',
+    'spinner': 'Spinner Ring',
+    'stepped': 'Stepped Edge',
+    'pipe cut': 'Pipe Cut',
+    'flat': 'Flat Profile',
+    'domed': 'Domed Profile',
+    'polished': 'Polished',
+    'groove': 'Grooved',
+    # Generic wood (after specific woods)
+    'wood inlay': 'Wood Inlay',
 }
 
 def detect_material(blob):
@@ -113,6 +159,39 @@ def detect_feature_kw(blob):
     blob = blob.lower()
     for k in FEATURE_LABEL.keys():
         if k in blob: return k
+    return None
+
+# Distinguishing words extracted from old titles when no FEATURE_LABEL matches.
+# These are descriptive nouns/adjectives that differentiate listings sharing the same material/color/width.
+EXTRA_FEATURE_WORDS = [
+    'polished', 'stepped', 'flat', 'domed', 'beveled', 'rounded', 'channel',
+    'cube', 'cubed', 'striped', 'octagon', 'octagonal', 'pipe cut',
+    'hexagon', 'square', 'concave', 'convex', 'matte', 'satin',
+    'inlay', 'inset', 'groove', 'grooved', 'two tone', 'rope',
+    'eternity', 'milgrain', 'lattice', 'knot', 'cross', 'anchor',
+    'arrow', 'wave', 'mountain', 'tree', 'leaf',
+    'koa', 'olive', 'walnut', 'rosewood', 'zebrawood', 'redwood', 'oak',
+    'mother of pearl', 'pearl', 'antler', 'wood',
+    'tiger', 'goldstone', 'alexandrite', 'sapphire', 'ruby', 'cz', 'zirconia',
+    'guitar', 'piano', 'music',
+]
+
+def extract_distinguishing_word(old_title, used_keywords):
+    """Scan old title for a unique product-distinguishing word.
+    used_keywords = set of lowercase words already covered by Material/Color/Width.
+    Returns Title-Case word like 'Hammered' or 'Mother of Pearl'."""
+    if not old_title:
+        return None
+    t = old_title.lower()
+    # First try multi-word matches
+    for word in EXTRA_FEATURE_WORDS:
+        if ' ' in word and word in t:
+            return ' '.join(w.capitalize() for w in word.split())
+    # Then single-word
+    for word in EXTRA_FEATURE_WORDS:
+        if ' ' in word: continue
+        if re.search(rf'\b{re.escape(word)}\b', t) and word not in used_keywords:
+            return word.capitalize()
     return None
 
 def is_dog_tag(title, var_sku):
@@ -248,8 +327,25 @@ for row in rows:
         blob = f'{old_materials} {old_title} {old_tags} {section}'
         material = detect_material(blob)
         color = detect_color(blob)
-        feature_label = detect_feature_label(f'{old_title} {old_tags}')
-        feature_kw = detect_feature_kw(f'{old_title} {old_tags}')
+        # Expanded feature blob includes Materials + Section so things like 'Opal' in Materials get caught
+        feature_blob = f'{old_title} {old_tags} {old_materials} {section}'
+        feature_label = detect_feature_label(feature_blob)
+        feature_kw = detect_feature_kw(feature_blob)
+
+        # If no playbook feature detected, extract a distinguishing word from old title
+        # to prevent duplicate titles across listings sharing material/color/width.
+        if not feature_label:
+            used_kw = {material, (color or ''), 'tungsten', 'titanium', 'ring', 'band',
+                       'wedding', 'mens', "men's", 'silver', 'gold', 'black', 'blue',
+                       'green', 'red', 'purple', 'white', 'carbide', 'comfort', 'fit'}
+            extra = extract_distinguishing_word(old_title, used_kw)
+            if extra:
+                feature_label = extra
+                feature_kw = extra.lower()
+        # FINAL guarantee uniqueness: when nothing distinguishes (truly plain product),
+        # use the codename as a model-name identifier in the title.
+        if not feature_label and current_codename and current_codename != f'LST{lid}':
+            feature_label = current_codename.title()  # e.g., 'Aytr435', 'Jdtr709', 'Maui'
 
         # Apply playbook
         row['Title'] = build_title(material, color, width, feature_label, old_title, var_sku)

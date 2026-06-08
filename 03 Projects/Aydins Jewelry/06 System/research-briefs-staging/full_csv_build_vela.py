@@ -282,14 +282,30 @@ def display_size(s):
         return f'{s.split(".")[0]} 3/4'
     return s
 
+# === Determine which codenames already exist on Etsy (in listings-corrected.csv) ===
+# Per Amir 2026-06-08: skip Shopify products that already have Etsy listings to avoid duplicates.
+existing_codenames = set()
+existing_csv = ROOT / 'listings-corrected.csv'
+if existing_csv.exists():
+    with open(existing_csv, encoding='utf-8') as f:
+        for r in csv.DictReader(f):
+            sku = (r.get('Var SKU') or '').strip()
+            cn = extract_codename(sku)
+            if cn: existing_codenames.add(cn)
+    print(f'detected {len(existing_codenames)} existing Etsy codenames; will skip overlaps')
+
 # === Build all rows ===
 all_rows = []
+skipped_overlapping = []
 for p in products:
     handle = p['handle']
     variants = p.get('variants', [])
     if not variants: continue
 
     codename = extract_codename(variants[0].get('sku', f'LST{p["shopify_product_id"]}'))
+    if codename in existing_codenames:
+        skipped_overlapping.append((codename, handle, p.get('title', '')[:60]))
+        continue
     title = scrub(build_title(p))
     desc = scrub(p.get('description_text_clean', '') or '')
     tags = ','.join(build_tags(p))
@@ -394,7 +410,10 @@ tmp.replace(OUT)
 with open(OUT, encoding='utf-8') as f:
     reader = csv.reader(f)
     rows = list(reader)
-print(f'\nWrote {len(rows)-1} variant rows for {len(products)} products')
+print(f'\nWrote {len(rows)-1} variant rows for {len(products) - len(skipped_overlapping)} new products')
+print(f'Skipped {len(skipped_overlapping)} products that already exist on Etsy (will be updated via listings-corrected.csv):')
+for cn, h, t in skipped_overlapping:
+    print(f'  - {cn}: {t}')
 print(f'col counts: {Counter(len(r) for r in rows)}')
 
 # Sample first listing's first 3 rows
