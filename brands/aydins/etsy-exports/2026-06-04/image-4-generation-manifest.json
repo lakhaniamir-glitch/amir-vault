@@ -1,0 +1,428 @@
+{
+  "runs": [
+    {
+      "model": "gemini-3.1-flash-image",
+      "ran_at": "2026-06-08T15:59:44Z",
+      "count_total": 1,
+      "count_ok": 1,
+      "results": [
+        {
+          "handle": "nurgle-black-diamond-titanium-wedding-ring",
+          "status": "ok",
+          "out": "/home/openclaw/.openclaw/vault/brands/aydins/etsy-exports/2026-06-04/images/nurgle-black-diamond-titanium-wedding-ring/image-4.jpg",
+          "size_bytes": 567478,
+          "env": "moody dark gothic library with candelabra and weathered leather books, dark velvet sleeve, deep shadows, the black diamonds catch faint candlelight, KNIGHT character mood",
+          "prompt": "Take the EXACT ring shown in the input reference image and place it in this lifestyle scene: worn on a man's left ring finger, close-up of the hand with the ring as the focal point, natural masculine hand, mid-30s skin. Scene: moody dark gothic library with candelabra and weathered leather books, da"
+        }
+      ]
+    },
+    {
+      "model": "gemini-3.1-flash-image",
+      "ran_at": "2026-06-08T16:13:47Z",
+      "count_total": 50,
+      "count_ok": 50,
+      "results": [
+        {
+          "handle": "addersfield-gold-tungsten-ring-gold-brushed-flat",
+          "status": "ok",
+          "out": "/home/openclaw/.openclaw/vault/brands/aydins/etsy-exports/2026-06-04/images/addersfield-gold-tungsten-ring-gold-brushed-flat/image-4.jpg",
+          "size_bytes": 590149,
+          "env": "tailored navy suit cuff and a tumbler of amber whiskey on dark walnut desk, warm late-afternoon side light, leather chair edge",
+          "prompt": "Take the EXACT ring shown in the input reference image and place it in this lifestyle scene: worn on a man's left ring finger, close-up of the hand with the ring as the focal point, natural masculine hand, mid-30s skin. Scene: tailored navy suit cuff and a tumbler of amber whiskey on dark walnut des"
+        },
+        {
+          "handle": "alabaster-silver-ring-white-ceramic-domed",
+          "status": "ok",
+          "out": "/home/openclaw/.openclaw/vault/brands/aydins/etsy-exports/2026-06-04/images/alabaster-silver-ring-white-ceramic-domed/image-4.jpg",
+          "size_bytes": 491358,
+          "env": "clean white marble countertop in a modern apartment, soft morning daylight, white linen shirt sleeve, minimalist",
+          "prompt": "Take the EXACT ring shown in the input reference image and place it in this lifestyle scene: worn on a man's left ring finger, close-up of the hand with the ring as the focal point, natural masculine hand, mid-30s skin. Scene: clean white marble countertop in a modern apartment, soft morning dayligh"
+        },
+        {
+          "handle": "alexander-black-gray-lava-rock-stone-inlay",
+          "status": "ok",
+          "out": "/home/openclaw/.openclaw/vault/brands/aydins/etsy-exports/2026-06-04/images/alexander-black-gray-lava-rock-stone-inlay/image-4.jpg",
+          "size_bytes": 718532,
+          "env": "rocky volcanic shore with weathered grey stones, overcast moody light, dark olive canvas jacket cuff",
+          "prompt": "Take the EXACT ring shown in the input reference image and place it in this lifestyle scene: worn on a man's left ring finger, close-up of the hand with the ring as the focal point, natural masculine hand, mid-30s skin. Scene: rocky volcanic shore with weathered grey stones, overcast moody light, da"
+        },
+        {
+          "handle": "auric-silver-tungsten-ring-white-black-and-gold-foil-resin-inlay",
+          "status": "ok",
+          "out": "/home/openclaw/.openclaw/vault/brands/aydins/etsy-exports/2026-06-04/images/auric-silver-tungsten-ring-white-black-and-gold-foil-resin-inlay/image-4.jpg",
+          "size_bytes": 705776,
+          "env": "rich black leather armchair and brass side table with a small art-deco lamp, warm low light, charcoal suit cuff",
+          "prompt": "Take the EXACT ring shown in the input reference image and place it in this lifestyle scene: worn on a man's left ring finger, close-up of the hand with the ring as the focal point, natural masculine hand, mid-30s skin. Scene: rich black leather armchair and brass side table with a small art-deco la"
+        },
+        {
+          "handle": "aurion-gold-tungsten-ring-gold-foil-inlay-beveled-8mm",
+          "status": "ok",
+          "out": "/home/openclaw/.openclaw/vault/brands/aydins/etsy-exports/2026-06-04/images/aurion-gold-tungsten-ring-gold-foil-inlay-beveled-8mm/image-4.jpg",
+          "size_bytes": 593282,
+          "env": "polished dark walnut desk with vintage fountain pen and gold-edged journal, warm tungsten lamp, navy blazer sleeve",
+          "prompt": "Take the EXACT ring shown in the input reference image and place it in this lifestyle scene: worn on a man's left ring finger, close-up of the hand with the ring as the focal point, natural masculine hand, mid-30s skin. Scene: polished dark walnut desk with vintage fountain pen and gold-edged journa"
+        },
+        {
+          "handle": "aydins-tungsten-carbide-mens-band-black-hammered-stepped-edge-8mm-tungsten-wedding-ring",
+          "status": "ok",
+          "out": "/home/openclaw/.openclaw/vault/brands/aydins/etsy-exports/2026-06-04/images/aydins-tungsten-carbide-mens-band-black-hammered-stepped-edge-8mm-tungsten-wedding-ring/image-4.jpg",
+          "size_bytes": 651386,
+          "env": "rustic forge workshop with anvil and glowing coals out of focus, soot on hand, dark canvas apron, warm orange backlight",
+          "prompt": "Take the EXACT ring shown in the input reference image and place it in this lifestyle scene: worn on a man's left ring finger, close-up of the hand with the ring as the focal point, natural masculine hand, mid-30s skin. Scene: rustic forge workshop with anvil and glowing coals out of focus, soot on "
+        },
+        {
+          "handle": "baldur-domed-tungsten-rune-wedding-band",
+          "status": "ok",
+          "out": "/home/openclaw/.openclaw/vault/brands/aydins/etsy-exports/2026-06-04/images/baldur-domed-tungsten-rune-wedding-band/image-4.jpg",
+          "size_bytes": 580764,
+          "env": "weathered viking-style longship oar handle, cold dawn light over a fjord, dark wool sleeve, stoic Nordic mood",
+          "prompt": "Take the EXACT ring shown in the input reference image and place it in this lifestyle scene: worn on a man's left ring finger, close-up of the hand with the ring as the focal point, natural masculine hand, mid-30s skin. Scene: weathered viking-style longship oar handle, cold dawn light over a fjord,"
+        },
+        {
+          "handle": "blackjack-tungsten-ring-black-brushed-beveled",
+          "status": "ok",
+          "out": "/home/openclaw/.openclaw/vault/brands/aydins/etsy-exports/2026-06-04/images/blackjack-tungsten-ring-black-brushed-beveled/image-4.jpg",
+          "size_bytes": 615758,
+          "env": "green-felt poker table with stacks of black chips out of focus, dim casino lighting from above, sharp dark suit cuff",
+          "prompt": "Take the EXACT ring shown in the input reference image and place it in this lifestyle scene: worn on a man's left ring finger, close-up of the hand with the ring as the focal point, natural masculine hand, mid-30s skin. Scene: green-felt poker table with stacks of black chips out of focus, dim casin"
+        },
+        {
+          "handle": "brave-blue-tungsten-ring-blue-brushed-flat",
+          "status": "ok",
+          "out": "/home/openclaw/.openclaw/vault/brands/aydins/etsy-exports/2026-06-04/images/brave-blue-tungsten-ring-blue-brushed-flat/image-4.jpg",
+          "size_bytes": 591828,
+          "env": "wooden boat dock at sunset over a calm blue lake, denim shirt cuff, gentle golden hour reflection on water",
+          "prompt": "Take the EXACT ring shown in the input reference image and place it in this lifestyle scene: worn on a man's left ring finger, close-up of the hand with the ring as the focal point, natural masculine hand, mid-30s skin. Scene: wooden boat dock at sunset over a calm blue lake, denim shirt cuff, gentl"
+        },
+        {
+          "handle": "bridgeport-purple-aluminum-ring-green-groove",
+          "status": "ok",
+          "out": "/home/openclaw/.openclaw/vault/brands/aydins/etsy-exports/2026-06-04/images/bridgeport-purple-aluminum-ring-green-groove/image-4.jpg",
+          "size_bytes": 707694,
+          "env": "creative studio with paint-splattered wooden workbench, eclectic green and purple color objects out of focus, warm afternoon light through industrial window",
+          "prompt": "Take the EXACT ring shown in the input reference image and place it in this lifestyle scene: worn on a man's left ring finger, close-up of the hand with the ring as the focal point, natural masculine hand, mid-30s skin. Scene: creative studio with paint-splattered wooden workbench, eclectic green an"
+        },
+        {
+          "handle": "cairns-rose-gold-tungsten-ring-purple-groove",
+          "status": "ok",
+          "out": "/home/openclaw/.openclaw/vault/brands/aydins/etsy-exports/2026-06-04/images/cairns-rose-gold-tungsten-ring-purple-groove/image-4.jpg",
+          "size_bytes": 715928,
+          "env": "rose gold ceramic coffee mug and a sprig of lavender on linen tablecloth, soft morning daylight, white shirt sleeve",
+          "prompt": "Take the EXACT ring shown in the input reference image and place it in this lifestyle scene: worn on a man's left ring finger, close-up of the hand with the ring as the focal point, natural masculine hand, mid-30s skin. Scene: rose gold ceramic coffee mug and a sprig of lavender on linen tablecloth,"
+        },
+        {
+          "handle": "clematis-tungsten-black-beveled-and-purple-inside-aluminum-ring",
+          "status": "ok",
+          "out": "/home/openclaw/.openclaw/vault/brands/aydins/etsy-exports/2026-06-04/images/clematis-tungsten-black-beveled-and-purple-inside-aluminum-ring/image-4.jpg",
+          "size_bytes": 703110,
+          "env": "garden bed of blooming purple clematis vines on a wood trellis, dappled afternoon sunlight, casual dark gardening shirt cuff",
+          "prompt": "Take the EXACT ring shown in the input reference image and place it in this lifestyle scene: worn on a man's left ring finger, close-up of the hand with the ring as the focal point, natural masculine hand, mid-30s skin. Scene: garden bed of blooming purple clematis vines on a wood trellis, dappled a"
+        },
+        {
+          "handle": "cosmic-black-tungsten-ring-crushed-alexandrite-goldstone-inlay-domed",
+          "status": "ok",
+          "out": "/home/openclaw/.openclaw/vault/brands/aydins/etsy-exports/2026-06-04/images/cosmic-black-tungsten-ring-crushed-alexandrite-goldstone-inlay-domed/image-4.jpg",
+          "size_bytes": 572491,
+          "env": "backyard astronomy setup with a brass telescope and starry deep-blue sky just after dusk, dark sweater cuff, faint Milky Way glow",
+          "prompt": "Take the EXACT ring shown in the input reference image and place it in this lifestyle scene: worn on a man's left ring finger, close-up of the hand with the ring as the focal point, natural masculine hand, mid-30s skin. Scene: backyard astronomy setup with a brass telescope and starry deep-blue sky "
+        },
+        {
+          "handle": "crimsen-red-tungsten-ring-brushed-domed",
+          "status": "ok",
+          "out": "/home/openclaw/.openclaw/vault/brands/aydins/etsy-exports/2026-06-04/images/crimsen-red-tungsten-ring-brushed-domed/image-4.jpg",
+          "size_bytes": 627408,
+          "env": "wrapped around the gear shift of a red vintage sports car, leather interior, low evening sun through the windshield, driving gloves removed",
+          "prompt": "Take the EXACT ring shown in the input reference image and place it in this lifestyle scene: worn on a man's left ring finger, close-up of the hand with the ring as the focal point, natural masculine hand, mid-30s skin. Scene: wrapped around the gear shift of a red vintage sports car, leather interi"
+        },
+        {
+          "handle": "custom-logo-laser-engraved-signet-ring-gold-silver-black",
+          "status": "ok",
+          "out": "/home/openclaw/.openclaw/vault/brands/aydins/etsy-exports/2026-06-04/images/custom-logo-laser-engraved-signet-ring-gold-silver-black/image-4.jpg",
+          "size_bytes": 605064,
+          "env": "vintage leather-topped writing desk with wax seal stamp and embossed letterhead, warm desk lamp, white shirt sleeve, classic gentleman's office",
+          "prompt": "Take the EXACT ring shown in the input reference image and place it in this lifestyle scene: worn on a man's left ring finger, close-up of the hand with the ring as the focal point, natural masculine hand, mid-30s skin. Scene: vintage leather-topped writing desk with wax seal stamp and embossed lett"
+        },
+        {
+          "handle": "dominus-domed-tungsten-carbide-ring-2mm-10mm",
+          "status": "ok",
+          "out": "/home/openclaw/.openclaw/vault/brands/aydins/etsy-exports/2026-06-04/images/dominus-domed-tungsten-carbide-ring-2mm-10mm/image-4.jpg",
+          "size_bytes": 720703,
+          "env": "minimalist modern office with brushed concrete desk, simple stainless mechanical watch nearby, soft north-facing daylight, charcoal suit sleeve",
+          "prompt": "Take the EXACT ring shown in the input reference image and place it in this lifestyle scene: worn on a man's left ring finger, close-up of the hand with the ring as the focal point, natural masculine hand, mid-30s skin. Scene: minimalist modern office with brushed concrete desk, simple stainless mec"
+        },
+        {
+          "handle": "elysian-black-titanium-ring-with-polished-beveled-edges-and-brush-finished-center-8mm",
+          "status": "ok",
+          "out": "/home/openclaw/.openclaw/vault/brands/aydins/etsy-exports/2026-06-04/images/elysian-black-titanium-ring-with-polished-beveled-edges-and-brush-finished-center-8mm/image-4.jpg",
+          "size_bytes": 597269,
+          "env": "matte black slate countertop in a high-end loft kitchen, brushed steel pendant lamp above, dark grey henley sleeve",
+          "prompt": "Take the EXACT ring shown in the input reference image and place it in this lifestyle scene: worn on a man's left ring finger, close-up of the hand with the ring as the focal point, natural masculine hand, mid-30s skin. Scene: matte black slate countertop in a high-end loft kitchen, brushed steel pe"
+        },
+        {
+          "handle": "emperor-black-tungsten-ring-blue-brushed-flat",
+          "status": "ok",
+          "out": "/home/openclaw/.openclaw/vault/brands/aydins/etsy-exports/2026-06-04/images/emperor-black-tungsten-ring-blue-brushed-flat/image-4.jpg",
+          "size_bytes": 660647,
+          "env": "stormy harbor at twilight with weathered wood pier and rope coil, deep navy waterproof jacket sleeve, cool blue cast light",
+          "prompt": "Take the EXACT ring shown in the input reference image and place it in this lifestyle scene: worn on a man's left ring finger, close-up of the hand with the ring as the focal point, natural masculine hand, mid-30s skin. Scene: stormy harbor at twilight with weathered wood pier and rope coil, deep na"
+        },
+        {
+          "handle": "ferrari-black-and-red-tungsten-carbide-ring",
+          "status": "ok",
+          "out": "/home/openclaw/.openclaw/vault/brands/aydins/etsy-exports/2026-06-04/images/ferrari-black-and-red-tungsten-carbide-ring/image-4.jpg",
+          "size_bytes": 593346,
+          "env": "leather-wrapped steering wheel of a red sports car, deep red stitching, dashboard out of focus with no readable badges or symbols, golden hour through windshield",
+          "prompt": "Take the EXACT ring shown in the input reference image and place it in this lifestyle scene: worn on a man's left ring finger, close-up of the hand with the ring as the focal point, natural masculine hand, mid-30s skin. Scene: leather-wrapped steering wheel of a red sports car, deep red stitching, d"
+        },
+        {
+          "handle": "fingerprint-jewelry-his-and-her-fingerprint-couples-ring-promise-ring-plus-engraved-ring-personalized-ring-anniversary-ring-tungsten-4",
+          "status": "ok",
+          "out": "/home/openclaw/.openclaw/vault/brands/aydins/etsy-exports/2026-06-04/images/fingerprint-jewelry-his-and-her-fingerprint-couples-ring-promise-ring-plus-engraved-ring-personalized-ring-anniversary-ring-tungsten-4/image-4.jpg",
+          "size_bytes": 548580,
+          "env": "two hands gently overlapping, man's hand wearing the ring on top, partner's hand below with delicate band visible, warm window light in a quiet bedroom, white linen bedding",
+          "prompt": "Take the EXACT ring shown in the input reference image and place it in this lifestyle scene: worn on a man's left ring finger, close-up of the hand with the ring as the focal point, natural masculine hand, mid-30s skin. Scene: two hands gently overlapping, man's hand wearing the ring on top, partner"
+        },
+        {
+          "handle": "fingerprint-jewelry-his-and-her-fingerprint-couples-ring-promise-ring-plus-engraved-ring-personalized-ring-anniversary-ring-tungsten-6",
+          "status": "ok",
+          "out": "/home/openclaw/.openclaw/vault/brands/aydins/etsy-exports/2026-06-04/images/fingerprint-jewelry-his-and-her-fingerprint-couples-ring-promise-ring-plus-engraved-ring-personalized-ring-anniversary-ring-tungsten-6/image-4.jpg",
+          "size_bytes": 588425,
+          "env": "two hands clasped near a small bouquet of soft white flowers on a wooden bench, golden hour outdoor light, casual wedding-day mood",
+          "prompt": "Take the EXACT ring shown in the input reference image and place it in this lifestyle scene: worn on a man's left ring finger, close-up of the hand with the ring as the focal point, natural masculine hand, mid-30s skin. Scene: two hands clasped near a small bouquet of soft white flowers on a wooden "
+        },
+        {
+          "handle": "galaxy-titanium-polished-beveled-edge-with-blue-green-opal-inlay-8-mm",
+          "status": "ok",
+          "out": "/home/openclaw/.openclaw/vault/brands/aydins/etsy-exports/2026-06-04/images/galaxy-titanium-polished-beveled-edge-with-blue-green-opal-inlay-8-mm/image-4.jpg",
+          "size_bytes": 652418,
+          "env": "open observatory dome at night with the Milky Way visible above, dark sweater sleeve, the opal inlay catches faint starlight reflection",
+          "prompt": "Take the EXACT ring shown in the input reference image and place it in this lifestyle scene: worn on a man's left ring finger, close-up of the hand with the ring as the focal point, natural masculine hand, mid-30s skin. Scene: open observatory dome at night with the Milky Way visible above, dark swe"
+        },
+        {
+          "handle": "geelong-green-aluminum-ring-purple-groove",
+          "status": "ok",
+          "out": "/home/openclaw/.openclaw/vault/brands/aydins/etsy-exports/2026-06-04/images/geelong-green-aluminum-ring-purple-groove/image-4.jpg",
+          "size_bytes": 670774,
+          "env": "creative graphic-design studio desk with green plants and a purple notebook out of focus, white shirt sleeve, afternoon natural light",
+          "prompt": "Take the EXACT ring shown in the input reference image and place it in this lifestyle scene: worn on a man's left ring finger, close-up of the hand with the ring as the focal point, natural masculine hand, mid-30s skin. Scene: creative graphic-design studio desk with green plants and a purple notebo"
+        },
+        {
+          "handle": "glowhigh-domed-blue-tungsten-carbide-wedding-ring-with-brushed-finish",
+          "status": "ok",
+          "out": "/home/openclaw/.openclaw/vault/brands/aydins/etsy-exports/2026-06-04/images/glowhigh-domed-blue-tungsten-carbide-wedding-ring-with-brushed-finish/image-4.jpg",
+          "size_bytes": 582646,
+          "env": "edge of a calm blue alpine lake at dusk, dark blue technical jacket cuff, soft cool blue light, ripples on water",
+          "prompt": "Take the EXACT ring shown in the input reference image and place it in this lifestyle scene: worn on a man's left ring finger, close-up of the hand with the ring as the focal point, natural masculine hand, mid-30s skin. Scene: edge of a calm blue alpine lake at dusk, dark blue technical jacket cuff,"
+        },
+        {
+          "handle": "gunnar-yellow-gold-tungsten-ring-with-rosewood-and-crushed-turquoise-inlay-8mm",
+          "status": "ok",
+          "out": "/home/openclaw/.openclaw/vault/brands/aydins/etsy-exports/2026-06-04/images/gunnar-yellow-gold-tungsten-ring-with-rosewood-and-crushed-turquoise-inlay-8mm/image-4.jpg",
+          "size_bytes": 759621,
+          "env": "southwestern leather workbench with turquoise stones and tooled leather strap, warm late-afternoon sun, denim shirt cuff",
+          "prompt": "Take the EXACT ring shown in the input reference image and place it in this lifestyle scene: worn on a man's left ring finger, close-up of the hand with the ring as the focal point, natural masculine hand, mid-30s skin. Scene: southwestern leather workbench with turquoise stones and tooled leather s"
+        },
+        {
+          "handle": "hartman-white-tungsten-blue-yellow-wood-ring",
+          "status": "ok",
+          "out": "/home/openclaw/.openclaw/vault/brands/aydins/etsy-exports/2026-06-04/images/hartman-white-tungsten-blue-yellow-wood-ring/image-4.jpg",
+          "size_bytes": 630286,
+          "env": "artist's painting studio with canvas and yellow and blue oil paint tubes out of focus, paint-flecked white shirt sleeve, soft north-facing daylight",
+          "prompt": "Take the EXACT ring shown in the input reference image and place it in this lifestyle scene: worn on a man's left ring finger, close-up of the hand with the ring as the focal point, natural masculine hand, mid-30s skin. Scene: artist's painting studio with canvas and yellow and blue oil paint tubes "
+        },
+        {
+          "handle": "ironlance-black-tungsten-ring-with-flat-brushed-center-and-8-laser-engraved-crosses-8mm",
+          "status": "ok",
+          "out": "/home/openclaw/.openclaw/vault/brands/aydins/etsy-exports/2026-06-04/images/ironlance-black-tungsten-ring-with-flat-brushed-center-and-8-laser-engraved-crosses-8mm/image-4.jpg",
+          "size_bytes": 601294,
+          "env": "old stone chapel interior with candle flames and a leather-bound bible on a wooden pew, warm candlelight, dark suit sleeve, reverent quiet mood",
+          "prompt": "Take the EXACT ring shown in the input reference image and place it in this lifestyle scene: worn on a man's left ring finger, close-up of the hand with the ring as the focal point, natural masculine hand, mid-30s skin. Scene: old stone chapel interior with candle flames and a leather-bound bible on"
+        },
+        {
+          "handle": "jakub-black-tungsten-ring-gold-groove",
+          "status": "ok",
+          "out": "/home/openclaw/.openclaw/vault/brands/aydins/etsy-exports/2026-06-04/images/jakub-black-tungsten-ring-gold-groove/image-4.jpg",
+          "size_bytes": 659096,
+          "env": "sophisticated home library with leather-bound books and brass desk lamp, warm low light, dark herringbone jacket cuff",
+          "prompt": "Take the EXACT ring shown in the input reference image and place it in this lifestyle scene: worn on a man's left ring finger, close-up of the hand with the ring as the focal point, natural masculine hand, mid-30s skin. Scene: sophisticated home library with leather-bound books and brass desk lamp, "
+        },
+        {
+          "handle": "knox-gold-tungsten-ring-black-hammered",
+          "status": "ok",
+          "out": "/home/openclaw/.openclaw/vault/brands/aydins/etsy-exports/2026-06-04/images/knox-gold-tungsten-ring-black-hammered/image-4.jpg",
+          "size_bytes": 593905,
+          "env": "blacksmith forge workshop with hammered metal tools and a glowing forge out of focus, dark leather apron, soot on hand, warm orange backlight",
+          "prompt": "Take the EXACT ring shown in the input reference image and place it in this lifestyle scene: worn on a man's left ring finger, close-up of the hand with the ring as the focal point, natural masculine hand, mid-30s skin. Scene: blacksmith forge workshop with hammered metal tools and a glowing forge o"
+        },
+        {
+          "handle": "leporis-black-tungsten-ring-round-cut-white-cz",
+          "status": "ok",
+          "out": "/home/openclaw/.openclaw/vault/brands/aydins/etsy-exports/2026-06-04/images/leporis-black-tungsten-ring-round-cut-white-cz/image-4.jpg",
+          "size_bytes": 624161,
+          "env": "black tie event with crystal champagne flute and white tablecloth out of focus, crisp white tuxedo shirt cuff and onyx cufflink, soft chandelier light",
+          "prompt": "Take the EXACT ring shown in the input reference image and place it in this lifestyle scene: worn on a man's left ring finger, close-up of the hand with the ring as the focal point, natural masculine hand, mid-30s skin. Scene: black tie event with crystal champagne flute and white tablecloth out of "
+        },
+        {
+          "handle": "lusters-black-tungsten-ring-with-purple-tiger-cowrie-inlay",
+          "status": "ok",
+          "out": "/home/openclaw/.openclaw/vault/brands/aydins/etsy-exports/2026-06-04/images/lusters-black-tungsten-ring-with-purple-tiger-cowrie-inlay/image-4.jpg",
+          "size_bytes": 651271,
+          "env": "tropical beach at golden hour with seashells and warm tide on dark sand, casual linen shirt cuff, the purple cowrie inlay catches the sunset",
+          "prompt": "Take the EXACT ring shown in the input reference image and place it in this lifestyle scene: worn on a man's left ring finger, close-up of the hand with the ring as the focal point, natural masculine hand, mid-30s skin. Scene: tropical beach at golden hour with seashells and warm tide on dark sand, "
+        },
+        {
+          "handle": "maestro-mens-silver-brushed-tungsten-wedding-band-with-gold-groove-in-center-7mm",
+          "status": "ok",
+          "out": "/home/openclaw/.openclaw/vault/brands/aydins/etsy-exports/2026-06-04/images/maestro-mens-silver-brushed-tungsten-wedding-band-with-gold-groove-in-center-7mm/image-4.jpg",
+          "size_bytes": 605814,
+          "env": "concert hall stage with sheet music on a music stand and conductor's baton out of focus, warm spotlight, formal black tuxedo cuff",
+          "prompt": "Take the EXACT ring shown in the input reference image and place it in this lifestyle scene: worn on a man's left ring finger, close-up of the hand with the ring as the focal point, natural masculine hand, mid-30s skin. Scene: concert hall stage with sheet music on a music stand and conductor's bato"
+        },
+        {
+          "handle": "nemesis-black-tungsten-ring-white-round-cz-beveled-edge-ring",
+          "status": "ok",
+          "out": "/home/openclaw/.openclaw/vault/brands/aydins/etsy-exports/2026-06-04/images/nemesis-black-tungsten-ring-white-round-cz-beveled-edge-ring/image-4.jpg",
+          "size_bytes": 628576,
+          "env": "black tie gala with marble bar and crystal glassware out of focus, sharp black tuxedo sleeve with onyx cufflink, dramatic spotlight",
+          "prompt": "Take the EXACT ring shown in the input reference image and place it in this lifestyle scene: worn on a man's left ring finger, close-up of the hand with the ring as the focal point, natural masculine hand, mid-30s skin. Scene: black tie gala with marble bar and crystal glassware out of focus, sharp "
+        },
+        {
+          "handle": "nurgle-black-diamond-titanium-wedding-ring",
+          "status": "ok",
+          "out": "/home/openclaw/.openclaw/vault/brands/aydins/etsy-exports/2026-06-04/images/nurgle-black-diamond-titanium-wedding-ring/image-4.jpg",
+          "size_bytes": 618103,
+          "env": "moody dark gothic library with candelabra and weathered leather books, dark velvet sleeve, deep shadows, the black diamonds catch faint candlelight, KNIGHT character mood",
+          "prompt": "Take the EXACT ring shown in the input reference image and place it in this lifestyle scene: worn on a man's left ring finger, close-up of the hand with the ring as the focal point, natural masculine hand, mid-30s skin. Scene: moody dark gothic library with candelabra and weathered leather books, da"
+        },
+        {
+          "handle": "nymeria-tension-set-blue-sapphire-titanium-band-with-blue-stripe-4mm",
+          "status": "ok",
+          "out": "/home/openclaw/.openclaw/vault/brands/aydins/etsy-exports/2026-06-04/images/nymeria-tension-set-blue-sapphire-titanium-band-with-blue-stripe-4mm/image-4.jpg",
+          "size_bytes": 641328,
+          "env": "yacht teak deck at dusk over deep blue ocean, light blue linen shirt cuff, the sapphire catches the last sunlight, refined coastal mood",
+          "prompt": "Take the EXACT ring shown in the input reference image and place it in this lifestyle scene: worn on a man's left ring finger, close-up of the hand with the ring as the focal point, natural masculine hand, mid-30s skin. Scene: yacht teak deck at dusk over deep blue ocean, light blue linen shirt cuff"
+        },
+        {
+          "handle": "peachland-black-tungsten-ring-green-celtic-dragon-inlay",
+          "status": "ok",
+          "out": "/home/openclaw/.openclaw/vault/brands/aydins/etsy-exports/2026-06-04/images/peachland-black-tungsten-ring-green-celtic-dragon-inlay/image-4.jpg",
+          "size_bytes": 649209,
+          "env": "medieval longsword pommel resting on a wooden table with a worn map and brass compass, dim torchlight, dark leather sleeve, Celtic warrior mood",
+          "prompt": "Take the EXACT ring shown in the input reference image and place it in this lifestyle scene: worn on a man's left ring finger, close-up of the hand with the ring as the focal point, natural masculine hand, mid-30s skin. Scene: medieval longsword pommel resting on a wooden table with a worn map and b"
+        },
+        {
+          "handle": "phantom-black-titanium-brushed-center-spinner-mens-wedding-ring-with-spinning-polished-base-8mm",
+          "status": "ok",
+          "out": "/home/openclaw/.openclaw/vault/brands/aydins/etsy-exports/2026-06-04/images/phantom-black-titanium-brushed-center-spinner-mens-wedding-ring-with-spinning-polished-base-8mm/image-4.jpg",
+          "size_bytes": 617249,
+          "env": "modern coffee shop bar counter with a flat-white espresso cup and notebook, dark grey hoodie sleeve, soft window light, casual everyday mood",
+          "prompt": "Take the EXACT ring shown in the input reference image and place it in this lifestyle scene: worn on a man's left ring finger, close-up of the hand with the ring as the focal point, natural masculine hand, mid-30s skin. Scene: modern coffee shop bar counter with a flat-white espresso cup and noteboo"
+        },
+        {
+          "handle": "raptor-black-tungsten-ring-blue-offset-groove",
+          "status": "ok",
+          "out": "/home/openclaw/.openclaw/vault/brands/aydins/etsy-exports/2026-06-04/images/raptor-black-tungsten-ring-blue-offset-groove/image-4.jpg",
+          "size_bytes": 647211,
+          "env": "matte black motorcycle fuel tank with blue accent stripe out of focus, black leather glove resting nearby, golden hour garage light, aggressive masculine mood",
+          "prompt": "Take the EXACT ring shown in the input reference image and place it in this lifestyle scene: worn on a man's left ring finger, close-up of the hand with the ring as the focal point, natural masculine hand, mid-30s skin. Scene: matte black motorcycle fuel tank with blue accent stripe out of focus, bl"
+        },
+        {
+          "handle": "revolution-tungsten-carbide-spinner-ring-spinning-wedding-band-8mm",
+          "status": "ok",
+          "out": "/home/openclaw/.openclaw/vault/brands/aydins/etsy-exports/2026-06-04/images/revolution-tungsten-carbide-spinner-ring-spinning-wedding-band-8mm/image-4.jpg",
+          "size_bytes": 654051,
+          "env": "casual standing desk with a fidget toy and a notebook, soft daylight from window, plain grey t-shirt sleeve, calm focused mood",
+          "prompt": "Take the EXACT ring shown in the input reference image and place it in this lifestyle scene: worn on a man's left ring finger, close-up of the hand with the ring as the focal point, natural masculine hand, mid-30s skin. Scene: casual standing desk with a fidget toy and a notebook, soft daylight from"
+        },
+        {
+          "handle": "revolve-black-tungsten-brushed-finish-spinner-ring-polished-base-spinning-wedding-band-6mm-8mm",
+          "status": "ok",
+          "out": "/home/openclaw/.openclaw/vault/brands/aydins/etsy-exports/2026-06-04/images/revolve-black-tungsten-brushed-finish-spinner-ring-polished-base-spinning-wedding-band-6mm-8mm/image-4.jpg",
+          "size_bytes": 630886,
+          "env": "minimalist desk with a paperback book and a black ceramic coffee cup, warm late-morning light, plain dark t-shirt sleeve",
+          "prompt": "Take the EXACT ring shown in the input reference image and place it in this lifestyle scene: worn on a man's left ring finger, close-up of the hand with the ring as the focal point, natural masculine hand, mid-30s skin. Scene: minimalist desk with a paperback book and a black ceramic coffee cup, war"
+        },
+        {
+          "handle": "ridges-genuine-damascus-steel-silver-ring-with-olive-wood-sleeve-inlay",
+          "status": "ok",
+          "out": "/home/openclaw/.openclaw/vault/brands/aydins/etsy-exports/2026-06-04/images/ridges-genuine-damascus-steel-silver-ring-with-olive-wood-sleeve-inlay/image-4.jpg",
+          "size_bytes": 707198,
+          "env": "blacksmith forge bench with a damascus blade out of focus and olive wood handle scales, soot on hand, dark canvas apron, warm forge backlight",
+          "prompt": "Take the EXACT ring shown in the input reference image and place it in this lifestyle scene: worn on a man's left ring finger, close-up of the hand with the ring as the focal point, natural masculine hand, mid-30s skin. Scene: blacksmith forge bench with a damascus blade out of focus and olive wood "
+        },
+        {
+          "handle": "ridwan-black-tungsten-ring-green-groove",
+          "status": "ok",
+          "out": "/home/openclaw/.openclaw/vault/brands/aydins/etsy-exports/2026-06-04/images/ridwan-black-tungsten-ring-green-groove/image-4.jpg",
+          "size_bytes": 848638,
+          "env": "deep evergreen forest trail at golden hour with moss-covered stones, olive utility jacket cuff, soft dappled sunlight",
+          "prompt": "Take the EXACT ring shown in the input reference image and place it in this lifestyle scene: worn on a man's left ring finger, close-up of the hand with the ring as the focal point, natural masculine hand, mid-30s skin. Scene: deep evergreen forest trail at golden hour with moss-covered stones, oliv"
+        },
+        {
+          "handle": "rugged-black-tungsten-ring-gun-metal-hammered-center-with-stepped-edge",
+          "status": "ok",
+          "out": "/home/openclaw/.openclaw/vault/brands/aydins/etsy-exports/2026-06-04/images/rugged-black-tungsten-ring-gun-metal-hammered-center-with-stepped-edge/image-4.jpg",
+          "size_bytes": 678542,
+          "env": "weathered mountain overlook with grey granite ledge, cold morning mist, dark technical jacket cuff, rugged outdoorsman mood",
+          "prompt": "Take the EXACT ring shown in the input reference image and place it in this lifestyle scene: worn on a man's left ring finger, close-up of the hand with the ring as the focal point, natural masculine hand, mid-30s skin. Scene: weathered mountain overlook with grey granite ledge, cold morning mist, d"
+        },
+        {
+          "handle": "sequoia-iron-wood-black-shiny-domed",
+          "status": "ok",
+          "out": "/home/openclaw/.openclaw/vault/brands/aydins/etsy-exports/2026-06-04/images/sequoia-iron-wood-black-shiny-domed/image-4.jpg",
+          "size_bytes": 634865,
+          "env": "old-growth redwood forest with sun rays through the canopy, deep brown wool flannel cuff, warm forest floor light, calm natural mood",
+          "prompt": "Take the EXACT ring shown in the input reference image and place it in this lifestyle scene: worn on a man's left ring finger, close-up of the hand with the ring as the focal point, natural masculine hand, mid-30s skin. Scene: old-growth redwood forest with sun rays through the canopy, deep brown wo"
+        },
+        {
+          "handle": "signet-ring-custom-signet-ring-fingerprint-ring-laser-engraved-gold-signet-ring-silver-signet-ring-black-signet-ring",
+          "status": "ok",
+          "out": "/home/openclaw/.openclaw/vault/brands/aydins/etsy-exports/2026-06-04/images/signet-ring-custom-signet-ring-fingerprint-ring-laser-engraved-gold-signet-ring-silver-signet-ring-black-signet-ring/image-4.jpg",
+          "size_bytes": 569580,
+          "env": "vintage mahogany executive desk with leather blotter, brass paperweight and an embossed envelope, warm desk lamp, white French-cuff shirt sleeve",
+          "prompt": "Take the EXACT ring shown in the input reference image and place it in this lifestyle scene: worn on a man's left ring finger, close-up of the hand with the ring as the focal point, natural masculine hand, mid-30s skin. Scene: vintage mahogany executive desk with leather blotter, brass paperweight a"
+        },
+        {
+          "handle": "smokeylade-black-gun-metal-tungsten-with-domed-brushed-ring",
+          "status": "ok",
+          "out": "/home/openclaw/.openclaw/vault/brands/aydins/etsy-exports/2026-06-04/images/smokeylade-black-gun-metal-tungsten-with-domed-brushed-ring/image-4.jpg",
+          "size_bytes": 591096,
+          "env": "dim speakeasy whiskey bar with crystal tumbler of bourbon and a cigar cutter on dark wood, warm low light, charcoal blazer cuff",
+          "prompt": "Take the EXACT ring shown in the input reference image and place it in this lifestyle scene: worn on a man's left ring finger, close-up of the hand with the ring as the focal point, natural masculine hand, mid-30s skin. Scene: dim speakeasy whiskey bar with crystal tumbler of bourbon and a cigar cut"
+        },
+        {
+          "handle": "spartanite-black-ring-black-brushed-domed-orange-groove",
+          "status": "ok",
+          "out": "/home/openclaw/.openclaw/vault/brands/aydins/etsy-exports/2026-06-04/images/spartanite-black-ring-black-brushed-domed-orange-groove/image-4.jpg",
+          "size_bytes": 602795,
+          "env": "matte black sport motorcycle with orange accent stripe out of focus, black riding glove nearby, warm garage light, athletic masculine mood",
+          "prompt": "Take the EXACT ring shown in the input reference image and place it in this lifestyle scene: worn on a man's left ring finger, close-up of the hand with the ring as the focal point, natural masculine hand, mid-30s skin. Scene: matte black sport motorcycle with orange accent stripe out of focus, blac"
+        },
+        {
+          "handle": "stainless-steel-fingerprint-dog-tag-black-style-2",
+          "status": "ok",
+          "out": "/home/openclaw/.openclaw/vault/brands/aydins/etsy-exports/2026-06-04/images/stainless-steel-fingerprint-dog-tag-black-style-2/image-4.jpg",
+          "size_bytes": 809454,
+          "env": "worn around a man's neck on a stainless ball chain, dark grey crewneck t-shirt visible, soft side light, casual quiet portrait, no face",
+          "prompt": "Take the EXACT ring shown in the input reference image and place it in this lifestyle scene: worn around a man's neck on a chain, no face visible, close-up of the dog tag against a t-shirt. Scene: worn around a man's neck on a stainless ball chain, dark grey crewneck t-shirt visible, soft side light"
+        },
+        {
+          "handle": "valor-silver-tungsten-ring-silver-inlay-black-diamonds",
+          "status": "ok",
+          "out": "/home/openclaw/.openclaw/vault/brands/aydins/etsy-exports/2026-06-04/images/valor-silver-tungsten-ring-silver-inlay-black-diamonds/image-4.jpg",
+          "size_bytes": 632740,
+          "env": "black tie formal event with marble bar top and crystal glassware out of focus, sharp black tuxedo cuff with onyx cufflink, soft chandelier light",
+          "prompt": "Take the EXACT ring shown in the input reference image and place it in this lifestyle scene: worn on a man's left ring finger, close-up of the hand with the ring as the focal point, natural masculine hand, mid-30s skin. Scene: black tie formal event with marble bar top and crystal glassware out of f"
+        },
+        {
+          "handle": "yorkshire-brushed-finish-black-ceramic-wedding-band-with-beveled-edges-6mm-8mm",
+          "status": "ok",
+          "out": "/home/openclaw/.openclaw/vault/brands/aydins/etsy-exports/2026-06-04/images/yorkshire-brushed-finish-black-ceramic-wedding-band-with-beveled-edges-6mm-8mm/image-4.jpg",
+          "size_bytes": 575368,
+          "env": "minimalist concrete loft kitchen with matte black espresso machine and white ceramic cup, soft north-facing daylight, dark henley sleeve",
+          "prompt": "Take the EXACT ring shown in the input reference image and place it in this lifestyle scene: worn on a man's left ring finger, close-up of the hand with the ring as the focal point, natural masculine hand, mid-30s skin. Scene: minimalist concrete loft kitchen with matte black espresso machine and wh"
+        }
+      ]
+    }
+  ]
+}
