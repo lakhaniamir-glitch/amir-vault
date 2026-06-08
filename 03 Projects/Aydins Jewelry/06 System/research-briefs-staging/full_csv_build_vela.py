@@ -333,7 +333,10 @@ for p in products:
     for v in variants:
         w_raw = (v.get('option1') or '').strip()
         s_raw = (v.get('option2') or '').strip()
-        if not (w_raw and s_raw): continue
+        if not s_raw: continue
+        # LOCKED RULE 2026-06-08: default width to 8mm when not specified in source.
+        if not w_raw:
+            w_raw = '8mm'
         w_mm = norm_width_mm(w_raw)
         if w_mm not in widths_seen: widths_seen.append(w_mm)
         if s_raw not in sizes_seen: sizes_seen.append(s_raw)

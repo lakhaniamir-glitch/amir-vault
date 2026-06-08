@@ -354,6 +354,18 @@ for row in rows:
         row['Description'] = scrub(old_desc)
         listings_updated += 1
 
+    # LOCKED RULE 2026-06-08: every ring listing must have a Width variation column populated.
+    # If neither V1 nor V2 is labeled 'Width', force Variation 2 = 'Width' / V2 Option = '8mm' default.
+    v1l_check = (row.get('Variation 1') or current_v1_label).strip().lower()
+    v2l_check = (row.get('Variation 2') or current_v2_label).strip().lower()
+    if 'width' not in (v1l_check, v2l_check):
+        # Skip for non-ring listings (dog tag, etc.)
+        title_check = (row.get('Title') or '').lower()
+        if 'dog tag' not in title_check:
+            row['Variation 2'] = 'Width'
+            row['V2 Option'] = '8mm'
+            current_v2_label = 'Width'
+
     # Apply SKU fix to every row (variant rows too)
     v1_label = (row.get('Variation 1') or current_v1_label).strip().lower()
     v2_label = (row.get('Variation 2') or current_v2_label).strip().lower()
