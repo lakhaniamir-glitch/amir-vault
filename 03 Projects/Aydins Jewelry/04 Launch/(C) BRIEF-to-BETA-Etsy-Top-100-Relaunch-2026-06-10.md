@@ -48,29 +48,55 @@ Reference docs:
 
 ---
 
-## Scope correction (2026-06-10 evening — Amir's directive)
+## Scope correction (2026-06-10 evening — Amir's directive + Etsy revenue data added)
 
-**Final catalog = 117 listings, not 100.** Pure top-100 would drop 17 keepers currently generating Etsy revenue ($146-$638 each per 90 days). Amir's standing rule: **never drop a listing that has Etsy revenue, even small.**
+**Final catalog = 150 listings.** Amir provided 2026 YTD Etsy Shop Stats showing per-listing revenue. 38 unique LIDs have confirmed $11,052 YTD Etsy revenue (averaging $290 per listing). Amir's standing rule: **never drop a listing that has Etsy revenue, even small.**
 
-| Group | Listings | Image gen |
+## Image standard: 4 images per Etsy listing (LOCKED)
+
+Standard pattern matches existing set at `brands/aydins/etsy-exports/2026-06-04/images/{handle}/`:
+- `hero.jpg` (2048×2048 lifestyle hero, uses Shopify reference)
+- `image-2.jpg` (alt angle or scene variation)
+- `image-3.jpg` (alt angle or scene variation)
+- `image-4.jpg` (alt angle or scene variation)
+
+Amir's directive: every listing must follow this 4-image standard for visual consistency across the store.
+
+| Group | Count | Images already done | Images to generate |
+|---|---|---|---|
+| Existing keepers — confirmed 2026 Etsy revenue | 38 | varies (few overlap) | ~144 |
+| Existing keepers — Shopify top 100 | 24 | varies | ~80 |
+| Tier A new — proven on Shopify | 42 | ~33 listings complete (4 each) | ~60 |
+| Tier B new — sessions ranked | 46 | 0 | 184 |
+| **TOTAL** | **150** | **33 listings × 4 = 132 done** | **~468 new images** |
+
+The precise count from the inventory script:
+- **33 of 150 listings have complete 4-image sets ready** (in `etsy-exports/2026-06-04/images/`)
+- **117 of 150 listings need image generation** (4 images each = **468 new images**)
+
+Source: `image-inventory-150-4per.csv` lists each LID + codename + image_status + images_to_generate count.
+
+## ⚠️ RESCUED FROM PRIOR DELETION LIST
+
+These 4 LIDs were on the earlier "scrapped/discontinued" list but have confirmed 2026 Etsy revenue. **MUST KEEP. Do NOT deactivate.**
+
+| LID | YTD Revenue | Title |
 |---|---|---|
-| Tier A — has existing AI image | 50 | 0 |
-| Tier B — top sessions, need image | 50 | 50 |
-| 17 keepers in neither tier (proven Etsy revenue) | 17 | 17 |
-| **TOTAL** | **117** | **67** |
-
-Tier A overlaps with 4 keepers (REVOLVE, DOMINUS, FERRARI, MAESTRO).
-Tier B overlaps with 3 keepers (APODIS, SHADOW, SAGAN).
-17 keepers in NEITHER tier: TALON, REAPER, CHARGER, BUGATTI, OVERGROWTH, ZEUS, REPTAR, IRONCLAD, RENEGADO, MARCEL, COVE, HAMLET, AUTUMNAL, APRICOT, KINGSLEY, TOUCAN, RYSER.
+| 509712178 | $1,364 | Personalized Fingerprint Dog Tag w/ Two Name |
+| 1219745003 | $305 | CLEMATIS Tungsten Ring Purple Inside |
+| 556753279 | $292 | Black & Gray Lava Rock Stone Inlay Ceramic |
+| 556548493 | $261 | Black Ceramic Purple Goldstone Inlay |
 
 Source data:
-- `top100-final-tiered.csv` — Tier A + Tier B
-- `etsy-keep-list.csv` — 24 keepers
-- `image-inventory-top-100.csv` — per-codename HAVE/NEED status
+- `final-etsy-keep-list-UNIFIED.csv` — **single source of truth** for the 150
+- `final-etsy-catalog-summary.md` — readable report
+- `etsy-revenue-2026-ytd.csv` — raw revenue data with matched LIDs
+- `top100-final-tiered.csv` — Tier A + Tier B Shopify products
+- `image-inventory-top-100.csv` — per-codename HAVE/NEED image status
 
-## Open follow-up task (beta-etsy)
+## Follow-up validation task (beta-etsy)
 
-The 24 keepers were derived from Shopify-revenue × Etsy-presence intersection. There may be **additional Etsy-only revenue producers not in the keepers list.** beta-etsy: pull Amir's last 12 months of Etsy Sold Items / Orders report (separate from monthly statements), identify any LIDs with non-trivial revenue not already covered by the 117. Add them to the keep list and proceed accordingly. Surface count and revenue impact to Amir before adding.
+The 38 revenue LIDs came from screenshots of Amir's Etsy Shop Stats (10 pages shown). If there are MORE pages with smaller-revenue listings, pull them all and add to the keep list. Each $ counts — never drop one. Surface count + revenue total before adding to confirm.
 
 ## Deliverables (4 batches, each gates on Amir approval before next)
 
