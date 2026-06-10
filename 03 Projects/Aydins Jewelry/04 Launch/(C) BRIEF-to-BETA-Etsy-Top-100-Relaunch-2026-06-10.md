@@ -50,7 +50,18 @@ Reference docs:
 
 ## Scope correction (2026-06-10 evening — Amir's directive + Etsy revenue data added)
 
-**Final catalog = 150 listings.** Amir provided 2026 YTD Etsy Shop Stats showing per-listing revenue. 38 unique LIDs have confirmed $11,052 YTD Etsy revenue (averaging $290 per listing). Amir's standing rule: **never drop a listing that has Etsy revenue, even small.**
+**Final catalog = 166 listings.** Amir provided 2026 YTD Etsy Shop Stats showing per-listing revenue. 38 unique LIDs have confirmed $11,052 YTD Etsy revenue (averaging $290 per listing). Plus 16 orphan products with existing 4-image sets that aren't in our current Shopify export but are confirmed live on shopaydins.com via sessions + sales data. Amir's standing rule: **never drop a listing that has Etsy revenue, even small.**
+
+### Critical: Shopify CSV is incomplete
+
+Our current `aydinsjewelry.myshopify.com (2).csv` (45,584 rows, 1,915 codenames) is missing high-traffic active products like AURIC (6,072 90-day sessions), AURION (1,001), COSMIC (776), NEMESIS (407), LUSTERS (382), etc. These products show in `sales-by-product-90d.csv` and `sessions-by-product-90d.csv` but are absent from the product CSV.
+
+**beta-shop first task before any other work**: Get a fresh full Shopify product export with no filters. Confirm row count matches Shopify Admin's actual product count. Use that as the authoritative source going forward. WebFetch each of the 16 orphan Shopify URLs is the backup path.
+
+User-confirmed codename overrides (orphans):
+- VALOR (image folder) → titled "SURYA" on Shopify (SKU codename stays VALOR)
+- NEMESIS (image folder) → current Shopify codename: JDTR1028
+- AURION (image folder) → current Shopify codename: JDTR1166
 
 ## Image standard: 4 images per Etsy listing (LOCKED)
 
