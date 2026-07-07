@@ -1,0 +1,8 @@
+# beta-insta Cumulative Learnings
+
+
+## 2026-07-07
+### Actionable
+- [Instagram algorithm tips for 2026: Everything you need to know](https://blog.hootsuite.com/instagram-algorithm/) - This is a comprehensive, up-to-date guide (published 2026-06-30) on how the Instagram algorithm works across Feed, Reels, and Stories, which is essential for optimizing Aydins' automated Reel pipeline for maximum reach. **Action:** Review the guide and audit the last 14 days of Reel performance against the cited best practices to identify quick wins for engagement.
+- [13 Trending Sounds on Instagram in July 2026 (+ How to Use Them)](https://buffer.com/resources/trending-audio-instagram/) - Using trending audio is a key Reels growth tactic, and this list (published 2026-06-30) provides fresh, relevant sounds for the current month to make content more discoverable. **Action:** Integrate 2-3 of the top trending, brand-appropriate songs into the Reel creation pipeline for the next two weeks and monitor performance versus non-trending audio clips.
+- [Instagram Tests New Ways To Let Users Control Their Feed](https://news.google.com/rss/articles/CBMijgFBVV95cUxNN2VlbC1JNWZza0NtdmV6cVpMMjRSc0NSY0lRcXFkVXZYdHRvQ011a3FvcXMxcEJEdDlVYTB4Z3Y1VEpveDZMaEpRaDJjSWQxVE1FaWhwbFF3ajJPZnN3d3VYQ1lSU2lnX2FuRmJSbmlsSXBXQ0JVUjYzelBjdWpJN1BLTUZqemptY3ZpQWJn?oc=5) - This test (reported 2026-07-02) indicates a potential shift in user feed preferences, which could impact how Reels are surfaced and prioritized by the algorithm. **Action:** Monitor this development closely and be prepared to emphasize high-quality, engaging hooks in the first 3 seconds of Reels to capture user attention regardless of feed controls.

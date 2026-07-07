@@ -1,6 +1,12 @@
 # beta-google Cumulative Learnings
 
 
+## 2026-07-07
+### Actionable
+- [Elevate your campaign performance with June’s Demand Gen Drop.](https://blog.google/products/ads-commerce/demand-gen-drop-june-2026/) — This details new Demand Gen features released in June 2026 that could directly improve the performance of Aydins' $30/day YouTube Shorts campaign. **Action:** Review the new features (e.g., creative tools, audience insights) and implement relevant tests in the existing Demand Gen campaign within the next two weeks.
+- [Google Ads Makes Changes To Bidding For Campaigns Limited By Budget](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWS0xWGFYWERmQUJ2bEZWVkJ5UFVpU0tEaC1RcFpyVzBqUEktZ0ZNenhHU3R1ZXB6THBVSllOdkl2SXBBanpOVFRsc1pVa2plMlZydG5nMGt5ZVI1bXJZMXhxbWVXOUR0aWozZG9xSnhvTXFwdFhQNWctTGpLZFNKcUJObXBwU094a0hN?oc=5) — This update (July 2, 2026) changes how Google's Smart Bidding handles budget-constrained campaigns, which could impact the efficiency of Aydins' PMax campaigns if they are frequently limited. **Action:** Monitor campaign "Budget lost" metrics closely and be prepared to adjust budgets or bidding strategies if performance fluctuates after this change takes effect.
+- [Microsoft Adds Performance Max Experiments for Campaign Testing](https://news.google.com/rss/articles/CBMieEFVX3lxTE16M19KLXM4TWxDNjgyak9SQ2pGbVRVZmo2M2w4RGgxaUo5blBGX3NZcXNvS0ZhNmp1c0lmdHJZUjNoY3VXTFpzZ1FMTDhlS1hmN2JFeTRsQlY1Ry1qcTVqOHBiMmJfdTQzWlZGSU1VVGUxZ0cxcm4wRA?oc=5) — While for Microsoft Ads, this (July 2, 2026) signals a broader industry shift toward more controlled PMax testing, which is highly relevant given Aydins' heavy reliance on two PMax campaigns. **Action:** Proactively explore Google Ads' own experiment features for PMax to design a structured test (e.g., asset variations, bidding adjustments) for one of the two campaigns to find optimization opportunities.
+
 ## 2026-06-08
 ### Critical
 - [Google Ads bug blocks edits to Performance Max asset groups](https://news.google.com/rss/articles/CBMimwFBVV95cUxOcUZPUkcxcl8ybTVQUWMyTjRDZkprV2k1ZXZYblFfZkFQR1ZYYXBnQVdkcVpzZFZsRU9KOEQ3V1dDOEhYQmVYSmEtNUl1bnZJOHdKWnBlTWdFZUVENFlzSEpjRDdwMHIyOVhyRUczclJKSHN1SG0tR0dmbW1sMHZaZlVmZnFYSXpUMjI3aWhDeXY5MkUzajBibWxZTQ) — This directly impacts the ability to optimize the primary PMax campaigns driving most of Aydins' spend. **Action:** Check both PMax campaigns immediately for any editing issues and contact Google Ads support if blocked.

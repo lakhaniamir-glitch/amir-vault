@@ -1,6 +1,11 @@
 # beta-tiktok Cumulative Learnings
 
 
+## 2026-07-07
+### Actionable
+- [13 Trending Songs on TikTok in July 2026 (+ How to Use Them)](https://buffer.com/resources/trending-songs-tiktok/) - This provides a current list of viral sounds that could boost Aydins' content visibility and engagement if used promptly. **Action:** Review the list and test incorporating 1-2 trending, brand-appropriate songs into the next week's automated Reels pipeline.
+- [TikTok Adds Three New AI Video Generation Tools to Its Symphony Ad Toolkit](https://news.google.com/rss/articles/CBMiogFBVV95cUxOLV9oVzM5a3RwSUFlbFhrUXpNaUJuX3ItbmQ2LXQyaE5aT1pfTVg2M0xUbGFzRjFVaF9GV3VrNkhMa09JR0JyeGx3cktfaEdsdnY4T3JkdC1QSjVEU29TTlhLOUtUSTQ2M0RzVEU3S2E3WHZNMzdLOWF1SW1MSkY0ZTJBN051SXlMNHo4X25UbTBfbUg0VVB3bktiMVlOMTBtQVE) - New AI ad tools could streamline creative production for Smart+ campaigns and improve ad performance. **Action:** Explore the new Symphony AI tools within the TikTok Ads Manager to assess if they can speed up ad creative iteration for jewelry promotions.
+
 ## 2026-06-08
 ### Critical
 - [TikTok Shop increases its sales commission from 5% to 9% in January 2026](https://news.google.com/rss/articles/CBMid0FVX3lxTE5mbWJyRWgyQ1NwcXJzUmhCVUE3d1ZwR1JTRXFxSks2aHV5ekZfbUR5V1ZFRWt0LURrc2oweXhwWldzLWlvbUFoZWozVFFERVdKaldSc1RLMjR2QXNlZ29Uek5BR0Z2V3hWXy1CTGV4Qjg1SXlCdV9n) — This directly impacts Aydins' profitability on TikTok Shop, requiring an immediate review of pricing and margins. **Action:** Recalculate product pricing and profit margins for TikTok Shop listings this week to account for the increased fee.

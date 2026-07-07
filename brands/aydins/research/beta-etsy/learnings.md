@@ -1,6 +1,10 @@
 # beta-etsy Cumulative Learnings
 
 
+## 2026-07-07
+### Actionable
+- [New USPS Noncompliance Fee Could Take Sellers by Surprise - EcommerceBytes](https://news.google.com/rss/articles/CBMiogFBVV95cUxOR09sbnJndzZYVWc2UGZ2YVlhb3dMMWNKWUJRRm9ab2JRTFNkQVlJUFAxcVI0SzB0SFRfTjYzMk9ldkQzeWtCUkRzLUpJSzkwQXR1TllQVjRsYkg1ajRZdzZTcFJwTDRBb0dTeF9wc3ZiVnd0NXZaZmFqRTNxMWtNdjdNVDFNV3J6VlpvNXdhVXFqdzJzTGdWeUpfNC16TENyZ1E?oc=5) - This matters because unexpected USPS fees directly reduce Aydins' already tight margins on Etsy. Recommended action: Review current shipping weights and dimensions in Vela CSV exports to ensure compliance and avoid new penalties.
+
 ## 2026-06-08
 ### Critical
 - [Etsy Announces It’s Found a New Way to Gouge Sellers - Gizmodo](https://news.google.com/rss/articles/CBMiigFBVV95cUxQQWVGVWxkdXlidTh6UzRkdWtKZHRldnFuQ3gtdmhNMVBNM1ZSbzVNUUx5WGl4LTE3QTJsdmw5MVJyVm1NYktBUDMtRHNQYWR0bnptLVlNRHhrS2JFeExQbUtHM2lqeS1wc01ZYnFDeFVPMURENUdDM1NhNVhXN292am55RFZPRGkzN3c?oc=5) — This suggests a new, potentially significant fee or commission change from Etsy that could immediately impact Aydins' already tight margins. **Action:** Immediately review seller dashboard and official Etsy announcements for details on any new fee structure to model P&L impact.
