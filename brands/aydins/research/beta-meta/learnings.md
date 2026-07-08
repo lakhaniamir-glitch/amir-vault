@@ -1,6 +1,11 @@
 # beta-meta Cumulative Learnings
 
 
+## 2026-07-08
+### Actionable
+- [Meta adds updated disclosure tags for AI-generated ads](https://news.google.com/rss/articles/CBMiogFBVV95cUxPa3ZlaFpWUDZOLTktTndWaklJdzRpVVQzM3F5QzRueXVreWxEWFlyTEEySUMxUFNsN3poYjRiVmpPakc0WWkzMXZGMmV2SC00ekxFUW5XUm9fRGZvdXpRY1NYWGFkVXRUcmwyQ3FQUnZHbkQwM1lfLVhFbndVVm1kY2xYdXNITlRDLWlLWG93ei1SbzNVTFpuOEdLbEZFRmxVQkE?oc=5) - This new ad policy, announced July 8, 2026, requires clear labeling for AI-generated content in ads, which could impact creative production and compliance. **Action:** Review any AI-assisted ad creatives (e.g., from Muse Image) and ensure they include the new "AI-generated" disclosure tag to avoid policy violations.
+- [Meta launches Muse Image across apps and ads](https://news.google.com/rss/articles/CBMijwFBVV95cUxOTHp0YjFldDJFTFU4b3ozSXVhaVNSWWlJZEFGM25CT0U4cHh3VTBxWHEzZzFVcDJVSllzdHpKUFVfR200TnJVWGQxOWFJZ2RiTGxlQklTRWNwSGJma3R0b1FHRWEyQllmMFBsS25HclBnOTItdS1xaGZDM2pVOENPUC13N0t6dDJHd1kydlRUbw?oc=5) - The launch of Muse Image (July 7, 2026) provides a new, integrated AI tool for generating ad creatives, which could streamline production for a small team. **Action:** Test Muse Image within Ads Manager to quickly generate and test new visual concepts for jewelry ads, potentially improving creative velocity.
+
 ## 2026-06-08
 ### Critical
 - [Meta upgrades Pixel and Conversions API to close the gap for small advertisers - PPC Land](https://news.google.com/rss/articles/CBMinAFBVV95cUxNTC1aNU9iREZ0elh4LWZlbVh0bFNDMGFienVUaTB4UVN2Skp3Q2xYYVE5RW5zdE1hMVVVd19MUkpxclRXRnZHUXA5aTRTUkg4SWtEdENfdnI0RmFNb1pXRUNzTTVmNXE1cEJaTUFMTkRlb0EzbENJU0lrVlBSa2FhbTNxakozNEZBUmNRVjJBelBhaldVZVlnWmIzNks?oc=5) — This directly addresses Aydins' core issue of low event match rates and the gap between Meta and Shopify attribution. **Recommended Action:** Immediately audit your Shopify-Meta channel integration to ensure all required parameters (like catalog IDs) are being passed correctly via both Pixel and CAPI.

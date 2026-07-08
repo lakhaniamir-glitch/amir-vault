@@ -1,6 +1,11 @@
 # beta-klaviyo Cumulative Learnings
 
 
+## 2026-07-08
+### Actionable
+- [Klaviyo launches beta for marketing AI agents - Digital Commerce 360](https://news.google.com/rss/articles/CBMilwFBVV95cUxOQU9yV0VUcHBmS01RdEg0TzVUczAwQW5yRVBLVXhobzdiaTNIeEctbDlyUlFtTmNTTGlydXZ3UkhkOW9rZTVZRU5VWnBzdzlvdS1oZGd4d3l3ZVE2RlRIaXEydHRqVE5ueS1iOTF0THppY0o3U254bkRxWUJrd1B4ZUh5OFp1SEJfdWZxNDgxSzNsRlVUWXhR0gGcAUFVX3lxTE81QWRlMzZLei11aFhNNGtUekJ4aFN6bjBlUWdxbXdtVUtSeHBrR1J5RGVXS0oyR3lYZ0FqTmVRQVdOR1dJbTBpTEIxSWZYamFPbGhNVjlrcm1UZzd4cm9hUjNvcTlQZTFEWjgzbm1qdlZuVHpnY1BrLWVaNDlKd0pSTm51Wnk4TjRzRnhQTVNKd01pd1lmNHpwYlY1Zg?oc=5) - This matters because new AI agents could automate and improve Aydins' lifecycle campaigns (abandoned cart, browse abandonment) for better revenue contribution. Recommended action: Monitor the Klaviyo beta program for early access to test AI agents on a segment of your audience.
+- [Klaviyo Embeds AI Agents in its CRM to Deliver Shared Customer Context - CX Today](https://news.google.com/rss/articles/CBMioAFBVV95cUxOX3pVRHB0QkNhUWtrc2pTRnhDN01lVHFvVmVCbXVRZi1SQnk3a0NaRVA0M2Y1Y18yRFZhRXN1TjdkSGdCM1FXWm52TXVWaTdHMmVTYUtObzVnVmJ4V3pkWjE2QnNDckpZdzBrbG9kVXZ1WDBka2NERU8zMXpwYk90RC1IR2J2bjMxVmxMVldkbVdEUTEtalYyUFdnZXM4TXFN?oc=5) - This matters because shared customer context from AI agents can lead to more personalized and effective cross-channel messaging, potentially improving conversion rates. Recommended action: Review the new AI CRM features when available to see if they can enhance your segmentation for post-purchase and win-back flows.
+
 ## 2026-07-07
 ### Critical
 - [Apple changing hide my / sign in domains](https://www.spamresource.com/feeds/5394082189459339189/comments/default) - This indicates a potential change to Apple's email privacy features that could affect open-rate tracking and deliverability for campaigns sent to Apple Mail users. **Action:** Review the details of the change (published 2026-07-05) and assess its impact on your open-rate metrics and list hygiene immediately.

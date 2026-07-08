@@ -1,6 +1,13 @@
 # beta-design Cumulative Learnings
 
 
+## 2026-07-08
+### Actionable
+- [Start building with Nano Banana 2 Lite and Gemini Omni Flash](https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/) - This is a direct update to the Gemini image generation family (including "nano-banana"), which Aydins uses for product hero shots, and could offer better quality or lower cost. **Action:** Test Nano Banana 2 Lite against the current reference image rule (2026-06-04) to see if it improves output for product shots.
+- [Previewing GPT-5.6 Sol: a next-generation model](https://openai.com/index/previewing-gpt-5-6-sol) - A new OpenAI model preview with stronger coding and reasoning could significantly improve the agentic loops or synthesis tasks currently run on DeepSeek. **Action:** Monitor OpenRouter for GPT-5.6 Sol availability and pricing to evaluate a potential switch for high-end reasoning tasks.
+- [Expanding Managed Agents in Gemini API: background tasks, remote MCP and more](https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/) - New managed agent capabilities could simplify or enhance the current beta orchestrator and channel specialist setup on Hetzner VPS. **Action:** Review the new Gemini API agent features to see if they can replace or streamline parts of the existing agentic infrastructure.
+- [Introducing computer use in Gemini 3.5 Flash](https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/) - Computer use capability in a fast, cheap model could automate web-based tasks for ecommerce platforms (Shopify, Etsy, eBay) more effectively. **Action:** Prototype a task (e.g., inventory check, price update) using Gemini 3.5 Flash's computer use to see if it's more reliable than current methods.
+
 ## 2026-07-07
 ### Actionable
 - [Start building with Nano Banana 2 Lite and Gemini Omni Flash](https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/) - This is a direct update to the "nano-banana" image generation model family Aydins uses for product hero shots, potentially offering better quality or lower cost. **Action:** Test Nano Banana 2 Lite against the current reference image rule (2026-06-04) to see if it improves product visuals or reduces inference costs.

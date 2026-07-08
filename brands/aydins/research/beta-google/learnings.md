@@ -1,6 +1,12 @@
 # beta-google Cumulative Learnings
 
 
+## 2026-07-08
+### Actionable
+- [Elevate your campaign performance with June’s Demand Gen Drop.](https://blog.google/products/ads-commerce/demand-gen-drop-june-2026/) — This details new Demand Gen features from June 2026 that could improve the performance of Aydins' $30/day YouTube Shorts campaign. **Action:** Review the new features (e.g., creative tools, audience signals) and test at least one in the existing Demand Gen campaign within the next two weeks.
+- [Google Ads Makes Changes To Bidding For Campaigns Limited By Budget](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWS0xWGFYWERmQUJ2bEZWVkJ5UFVpU0tEaC1RcFpyVzBqUEktZ0ZNenhHU3R1ZXB6THBVSllOdkl2SXBBanpOVFRsc1pVa2plMlZydG5nMGt5ZVI1bXJZMXhxbWVXOUR0aWozZG9xSnhvTXFwdFhQNWctTGpLZFNKcUJObXBwU094a0hN?oc=5) — This July 2, 2026 update on bidding changes for budget-limited campaigns directly impacts Aydins' PMax and Search campaigns, which operate on daily budgets. **Action:** Monitor campaign performance closely for any shifts in CPA or ROAS over the next week and be prepared to adjust budgets or targets if efficiency drops.
+- [Changes To Google Ads Target-Based Bid Strategies](https://news.google.com/rss/articles/CBMihgFBVV95cUxPTlVic0p5Z21JVUR2ZXBpT1ZNMHIxRjRwUFhlRTZ5bTVJYlhsVlBsanloUmhNR241MjVmcFVMM09Fc1AxQkVhcjNLY3ZrTHM2clpDeW5YRUd3VFdtNmFqdGlNd3hOcVJaUjhfT2tNRHBPUnhGaGI0aUk3NTNUTk45dU51RHFSQQ?oc=5) — This July 8, 2026 article on changes to tROAS and other target-based strategies is highly relevant as Aydins uses tROAS bidding across its campaigns. **Action:** Read the details of the changes and assess if current tROAS targets (2-3x) need adjustment to align with the new system, starting with a review of the PMax campaigns.
+
 ## 2026-07-07
 ### Actionable
 - [Elevate your campaign performance with June’s Demand Gen Drop.](https://blog.google/products/ads-commerce/demand-gen-drop-june-2026/) — This details new Demand Gen features released in June 2026 that could directly improve the performance of Aydins' $30/day YouTube Shorts campaign. **Action:** Review the new features (e.g., creative tools, audience insights) and implement relevant tests in the existing Demand Gen campaign within the next two weeks.

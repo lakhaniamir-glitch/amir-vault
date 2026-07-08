@@ -1,6 +1,10 @@
 # beta-shop Cumulative Learnings
 
 
+## 2026-07-08
+### Actionable
+- [Shopify Retail Roundup (June 2026 - v11.8 & 11.9) - Shopify](https://news.google.com/rss/articles/CBMickFVX3lxTE5BNTRGaV8xWnRNME5Yd1ZIVjA3ZjRrbDJwemVsTnk0SDl2M2tON0U5Vi1TcHZ6Ym9tOEdTLXJfWGR4LTliV0JDX0lTaHJxbUVQV0VsWUZhb2hTMmVFOVhEV19zeDFzZjJPRUZ5d001aTRFUQ?oc=5) - This is a direct platform update (published July 7, 2026) that may contain critical changelog entries, deprecations, or new features affecting OS 2.0 themes and checkout extensibility during your migration. **Action:** Review the roundup notes immediately to identify any breaking changes or new requirements for your v5 theme and app integrations.
+
 ## 2026-06-08
 ### Actionable
 - [Checkout Extensibility Opens New Ways to Customize Checkouts on Shopify](https://news.google.com/rss/articles/CBMibEFVX3lxTFBwcnpBN2xEa1d5R05pcGFJWEpNX1NTLVRSeG5rdTQxandGMEFwSjJ5OFZPbTQ2aUJzcXZnc09UU1RxVVZDa1VxOV93LWZsZmhhQUZ0TWJvZ1VVZEZVLXowZVBrY3NFWnhJQTlHeA) - This is a core platform shift that will impact all customizations on the checkout page, which is critical for Aydins' engraving personalizer (Zepto) and other post-purchase upsells. - Review the new extensibility model and assess the migration timeline for any checkout scripts or apps to ensure a smooth transition before the 2024 deadline.

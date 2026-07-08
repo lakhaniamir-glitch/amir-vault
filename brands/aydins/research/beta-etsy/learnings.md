@@ -1,6 +1,11 @@
 # beta-etsy Cumulative Learnings
 
 
+## 2026-07-08
+### Actionable
+- [New USPS Noncompliance Fee Could Take Sellers by Surprise - EcommerceBytes](https://news.google.com/rss/articles/CBMiogFBVV95cUxOR09sbnJndzZYVWc2UGZ2YVlhb3dMMWNKWUJRRm9ab2JRTFNkQVlJUFAxcVI0SzB0SFRfTjYzMk9ldkQzeWtCUkRzLUpJSzkwQXR1TllQVjRsYkg1ajRZdzZTcFJwTDRBb0dTeF9wc3ZiVnd0NXZaZmFqRTNxMWtNdjdNVDFNV3J6VlpvNXdhVXFqdzJzTGdWeUpfNC16TENyZ1E?oc=5) - This matters for Aydins because unexpected USPS fees directly erode already tight margins on Etsy orders, especially for a high-AOV product like jewelry. Recommended action: Review current shipping label practices and package weight declarations this week to ensure compliance and avoid the new fee.
+- [USPS July Rate Changes Impact Sites Like eBay Differently - EcommerceBytes](https://news.google.com/rss/articles/CBMiogFBVV95cUxNQklzUFZvQlUydXM3NlhYU3B0UVM0V3VjUDRlWVVIX2Y1M3dyanFqTEZjUHJpMlh0QTBhMXZuNVRLQ19kTTd2X2JxMkNvQnNISmt3LS1RUmNjSUg3Qmpjb205S0RvZXJTRXhIal9TaVpfb1hMRTVBaXdoRUp4VS1tWGpqSWZUcWdIYXo4bkJhX0ZVbTB6VVowRHJIam9lVlNhTHc?oc=5) - This matters for Aydins as USPS rate changes can alter the cost-effectiveness of the Free Shipping Guarantee and impact overall shipping strategy for men's wedding bands. Recommended action: Within the next two weeks, audit current shipping profiles and costs to adjust pricing or service selection if needed.
+
 ## 2026-07-07
 ### Actionable
 - [New USPS Noncompliance Fee Could Take Sellers by Surprise - EcommerceBytes](https://news.google.com/rss/articles/CBMiogFBVV95cUxOR09sbnJndzZYVWc2UGZ2YVlhb3dMMWNKWUJRRm9ab2JRTFNkQVlJUFAxcVI0SzB0SFRfTjYzMk9ldkQzeWtCUkRzLUpJSzkwQXR1TllQVjRsYkg1ajRZdzZTcFJwTDRBb0dTeF9wc3ZiVnd0NXZaZmFqRTNxMWtNdjdNVDFNV3J6VlpvNXdhVXFqdzJzTGdWeUpfNC16TENyZ1E?oc=5) - This matters because unexpected USPS fees directly reduce Aydins' already tight margins on Etsy. Recommended action: Review current shipping weights and dimensions in Vela CSV exports to ensure compliance and avoid new penalties.

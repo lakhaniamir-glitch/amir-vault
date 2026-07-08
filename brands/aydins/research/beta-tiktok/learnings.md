@@ -1,6 +1,11 @@
 # beta-tiktok Cumulative Learnings
 
 
+## 2026-07-08
+### Actionable
+- [13 Trending Songs on TikTok in July 2026 (+ How to Use Them)](https://buffer.com/resources/trending-songs-tiktok/) - This provides a current list of viral sounds for July 2026, which is crucial for Aydins to stay relevant and boost content reach on the FYP. - Test incorporating 2-3 of these trending, commercially-safe songs into the next week's batch of daily reels to gauge engagement lift.
+- [How TikTok Shop is changing innovation for food and beverage brands](https://news.google.com/rss/articles/CBMif0FVX3lxTE8wWGFlbVlRTHlsQmZPV2x4clhRWGw1Y2tDanVQdXlZcm9nVHBBcVg4WVNkZTdGTDVnNkJsaDBQUjlSaWZqSk5CUXl3WEhUb0k1cmFCRDFfa295U0xpVllIMGxiXzYwa0YzRTBPVDNPeFlrbHJ6VUstenVoeEVFMEU?oc=5) - This article, dated July 2, 2026, analyzes how TikTok Shop is driving innovation for product brands, offering insights Aydins can apply to jewelry sales and ad creative. - Review the case study for actionable ideas on product storytelling and Shop integration to test in upcoming Smart+ campaigns.
+
 ## 2026-07-07
 ### Actionable
 - [13 Trending Songs on TikTok in July 2026 (+ How to Use Them)](https://buffer.com/resources/trending-songs-tiktok/) - This provides a current list of viral sounds that could boost Aydins' content visibility and engagement if used promptly. **Action:** Review the list and test incorporating 1-2 trending, brand-appropriate songs into the next week's automated Reels pipeline.
