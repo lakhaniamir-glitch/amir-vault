@@ -1,6 +1,12 @@
 # beta-design Cumulative Learnings
 
 
+## 2026-07-09
+### Actionable
+- [Start building with Nano Banana 2 Lite and Gemini Omni Flash](https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/) - This is a direct update to the "nano-banana" image model family Aydins uses, potentially offering better quality/cost for product hero shots. **Action:** Test Nano Banana 2 Lite against the current reference image rule (2026-06-04) to see if it provides a quality or cost improvement for product shots.
+- [Expanding Managed Agents in Gemini API: background tasks, remote MCP and more](https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/) - New agentic capabilities (background tasks, remote MCP) could streamline or enhance Aydins' existing agentic loops on Hetzner VPS. **Action:** Evaluate if Gemini's Managed Agents with these new features can simplify the beta orchestrator setup, potentially reducing VPS management overhead.
+- [Run a vLLM Server on HF Jobs in One Command](https://huggingface.co/blog/vllm-jobs) - Simplifies deploying high-performance inference servers (like for DeepSeek v3.2) which could lower the barrier for running specialized models. **Action:** Assess if this one-command vLLM server on Hugging Face Jobs could be a cheaper/more manageable alternative to parts of the current OpenRouter + VPS setup for specific model needs.
+
 ## 2026-07-08
 ### Actionable
 - [Start building with Nano Banana 2 Lite and Gemini Omni Flash](https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/) - This is a direct update to the Gemini image generation family (including "nano-banana"), which Aydins uses for product hero shots, and could offer better quality or lower cost. **Action:** Test Nano Banana 2 Lite against the current reference image rule (2026-06-04) to see if it improves output for product shots.

@@ -1,6 +1,11 @@
 # beta-shop Cumulative Learnings
 
 
+## 2026-07-09
+### Actionable
+- [Shopify Retail Roundup (June 2026 - v11.8 & 11.9) - Shopify](https://news.google.com/rss/articles/CBMickFVX3lxTE5BNTRGaV8xWnRNME5Yd1ZIVjA3ZjRrbDJwemVsTnk0SDl2M2tON0U5Vi1TcHZ6Ym9tOEdTLXJfWGR4LTliV0JDX0lTaHJxbUVQV0VsWUZhb2hTMmVFOVhEV19zeDFzZjJPRUZ5d001aTRFUQ?oc=5) - This is the official changelog for recent platform releases (v11.8 & 11.9) and may contain critical updates to APIs, themes, or checkout that could impact the ongoing OS2.0 migration. - Review the roundup for any breaking changes or deprecations that require immediate adjustments to the v5 theme development plan.
+- [Shopify Retail Roundup (June 2026 - v11.8 & 11.9) - Shopify](https://news.google.com/rss/articles/CBMickFVX3lxTE9SVV95b1FoMk9fZjJDbExYdk5IdHp4Mk1LamlmM3BZUVYzV21wLXlYM0MwczdPZjHIbTJkci1NLUVWNm53bmF0dHA0Q2JSc2RieHJCVlBQYWlaYXpRUzVMaE84Qm9fRHp5VlRSeEdQdGttUQ?oc=5) - This duplicate entry confirms the importance of the June 2026 platform updates, which are directly relevant to the store's technology stack and migration. - Cross-reference this announcement with the first to ensure no missed details about OS2.0, Functions, or extensibility.
+
 ## 2026-07-08
 ### Actionable
 - [Shopify Retail Roundup (June 2026 - v11.8 & 11.9) - Shopify](https://news.google.com/rss/articles/CBMickFVX3lxTE5BNTRGaV8xWnRNME5Yd1ZIVjA3ZjRrbDJwemVsTnk0SDl2M2tON0U5Vi1TcHZ6Ym9tOEdTLXJfWGR4LTliV0JDX0lTaHJxbUVQV0VsWUZhb2hTMmVFOVhEV19zeDFzZjJPRUZ5d001aTRFUQ?oc=5) - This is a direct platform update (published July 7, 2026) that may contain critical changelog entries, deprecations, or new features affecting OS 2.0 themes and checkout extensibility during your migration. **Action:** Review the roundup notes immediately to identify any breaking changes or new requirements for your v5 theme and app integrations.

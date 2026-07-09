@@ -1,6 +1,11 @@
 # beta-meta Cumulative Learnings
 
 
+## 2026-07-09
+### Actionable
+- [Meta adds updated disclosure tags for AI-generated ads](https://news.google.com/rss/articles/CBMiogFBVV95cUxPa3ZlaFpWUDZOLTktTndWaklJdzRpVVQzM3F5QzRueXVreWxEWFlyTEEySUMxUFNsN3poYjRiVmpPakc0WWkzMXZGMmV2SC00ekxFUW5XUm9fRGZvdXpRY1NYWGFkVXRUcmwyQ3FQUnZHbkQwM1lfLVhFbndVVm1kY2xYdXNITlRDLWlLWG93ei1SbzNVTFpuOEdLbEZFRmxVQkE?oc=5) - This directly impacts ad creative compliance; using AI-generated visuals for Aydins' ads now requires a specific disclosure tag to avoid policy violations. **Action:** Review any AI-assisted creative (e.g., background generation, product mockups) and ensure the new "AI-generated" disclosure tag is applied in Ads Manager before publishing new campaigns.
+- [Meta brings Muse Image to Instagram and WhatsApp, opening new AI ad creative tools](https://news.google.com/rss/articles/CBMirAFBVV95cUxOS2lRNENkVm9BdjZJNUhhSFhJaEpIam1jd0Z3OHBIeFhma29VRzZxUHdyVlZZeTNWRGJCaVB6OGRPQktadzlqZzRTNS15cEppV1VZYTlDdE9NZEJzMTZWQ3E0NnVieC00cEZfT1gzSlNmVHVPZ01ER2pwcUo0SmpYYXFQalhyMlNleHBnWTR3dzRpZzdJYTkzZ1RVNFRPQW9MTzVQYWhhQUxpWHFm?oc=5) - New, integrated AI image generation tools within Meta's apps could significantly speed up and reduce the cost of producing high-quality ad creative for Aydins. **Action:** Explore the Muse Image tool within Instagram or WhatsApp to test generating context-aware product visuals or lifestyle imagery for upcoming ad tests.
+
 ## 2026-07-08
 ### Actionable
 - [Meta adds updated disclosure tags for AI-generated ads](https://news.google.com/rss/articles/CBMiogFBVV95cUxPa3ZlaFpWUDZOLTktTndWaklJdzRpVVQzM3F5QzRueXVreWxEWFlyTEEySUMxUFNsN3poYjRiVmpPakc0WWkzMXZGMmV2SC00ekxFUW5XUm9fRGZvdXpRY1NYWGFkVXRUcmwyQ3FQUnZHbkQwM1lfLVhFbndVVm1kY2xYdXNITlRDLWlLWG93ei1SbzNVTFpuOEdLbEZFRmxVQkE?oc=5) - This new ad policy, announced July 8, 2026, requires clear labeling for AI-generated content in ads, which could impact creative production and compliance. **Action:** Review any AI-assisted ad creatives (e.g., from Muse Image) and ensure they include the new "AI-generated" disclosure tag to avoid policy violations.

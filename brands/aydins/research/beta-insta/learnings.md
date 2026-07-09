@@ -1,6 +1,14 @@
 # beta-insta Cumulative Learnings
 
 
+## 2026-07-09
+### Critical
+- [Meta Now Lets Anyone Use Your Instagram Photos in AI Images—Unless You Opt Out - WIRED](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZS1QSW1CTERfWjJOLThtLV9XdXR6WFFIdFNuVFEtZXZfT054Si00SzdUZW9fbDJIN0lIRXNTQ3NaZW1ORzBzVE9Wc3ZZQkhWVW9qMDJmS1VSMGJsM1dpRjc5RDJjSVNpU1N0aElFdk85TFhwMzFCa3VLeXVZWkxpbkYxZDhKR3BUMkd3THBGNFB4MzdzVGFvM010TnZLWGkzMHhXNjhLUVNNdm8?oc=5) - This is a new privacy/data usage policy change (published July 7, 2026) that could affect Aydins' public content being used for AI training without consent. **Recommended Action:** Immediately review Instagram account settings and opt out of AI training for public posts to protect brand imagery.
+### Actionable
+- [13 Trending Sounds on Instagram in July 2026 (+ How to Use Them)](https://buffer.com/resources/trending-audio-instagram/) - Using trending audio is crucial for Reels reach, and this list is specific to July 2026 (published June 30, 2026). **Recommended Action:** Integrate 2-3 of these trending sounds into the next week's Reel pipeline to test for increased engagement.
+- [Instagram DM Automation: How I’m Growing My Following Without Sounding Like a Bot](https://buffer.com/resources/instagram-dm-automation/) - This recent guide (June 30, 2026) offers a tactical approach to community growth that could be adapted for a jewelry brand. **Recommended Action:** Test a simple, humanized DM welcome sequence for new followers over the next 2-3 weeks to gauge engagement.
+- [Instagram marketing for businesses: How brands win attention in 2026 - INQUIRER.net USA](https://news.google.com/rss/articles/CBMidEFVX3lxTE5HY2JCRTdTSFE5cE5TV29UM0tVcllaazZxcm9XenFIbFVmTl9hd19EZ1ZVVkh0Z0VsTWZwTlM1aDYxOU5LMzBUaXAyZkVCWF9hN0JIMTk1YWNIVGdhVTh1LW9aUHJfcF9vbFZkaTlldXJIMUxH?oc=5) - This article (published July 2, 2026) provides current strategies for winning attention, directly relevant to Aydins' goal of standing out. **Recommended Action:** Review the article for one new tactic (e.g., a content format or engagement strategy) to implement in the next content cycle.
+
 ## 2026-07-08
 ### Actionable
 - [Instagram Tests New Ways To Let Users Control Their Feed](https://news.google.com/rss/articles/CBMijgFBVV95cUxNN2VlbC1JNWZza0NtdmV6cVpMMjRSc0NSY0lRcXFkVXZYdHRvQ011a3FvcXMxcEJEdDlVYTB4Z3Y1VEpveDZMaEpRaDJjSWQxVE1FaWhwbFF3ajJPZnN3d3VYQ1lSU2lnX2FuRmJSbmlsSXBXQ0JVUjYzelBjdWpJN1BLTUZqemptY3ZpQWJn?oc=5) - This is a direct test of a new Instagram feed control feature, which could impact how users discover content and thus affect Aydins' reach. **Action:** Monitor official Instagram announcements for the public rollout of these controls to understand potential changes in content distribution.

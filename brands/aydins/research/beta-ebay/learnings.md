@@ -1,6 +1,11 @@
 # beta-ebay Cumulative Learnings
 
 
+## 2026-07-09
+### Actionable
+- [USPS July Rate Changes Impact Sites Like eBay Differently - EcommerceBytes](https://news.google.com/rss/articles/CBMiogFBVV95cUxNQklzUFZvQlUydXM3NlhYU3B0UVM0V3VjUDRlWVVIX2Y1M3dyanFqTEZjUHJpMlh0QTBhMXZuNVRLQ19kTTd2X2JxMkNvQnNISmt3LS1RUmNjSUg3Qmpjb205S0RvZXJTRXhIal9TaVpfb1hMRTVBaXdoRUp4VS1tWGpqSWZUcWdIYXo4bkJhX0ZVbTB6VVowRHJIam9lVlNhTHc?oc=5) - This matters because USPS rate changes directly affect shipping costs, a key component of profitability for Aydins Jewelry's tight-margin items. Recommended action: Review current shipping profiles and adjust pricing or service levels to account for the new rates within the next week.
+- [Sellers Learn Hard Lesson As USPS APV Catches Overstated Package Weights - Value Added Resource](https://news.google.com/rss/articles/CBMihwFBVV95cUxQdnFXWTNSblhsMWVURjY5Y1ZHck1oLVVsSElSNDFLbGozbDRGa093LWFkTUFFUDlzNTV1LWRzRWIzV3VDRkltSU1yVjRnOW55NzZ4VGtHWDhFUEkxREVmd1JoVEhqcE5laDgyM0UzMDI4ZnhlcGRwNkpfcTc2TEZVUFlPQUswdUU?oc=5) - This matters because inaccurate package weights can lead to unexpected fees and shipping cost overruns, eroding margins. Recommended action: Audit and verify the weight of your standard jewelry packaging this week to ensure all listings are accurate and avoid penalties.
+
 ## 2026-07-08
 ### Actionable
 - [The UK Playbook That Telegraphed The eBay Stock Surge - Trefis](https://news.google.com/rss/articles/CBMitAFBVV95cUxNLUk5OVRoQ3YtT1EwVFJhVm5XN28xNHhXbTFxSkpuY3MtWGtLZW9ZZVhDZUNBeFFJb3llcXB2UGpRclBvdU52V0xSYnVtSVcxbnp4OU9ScXFsS09NczNUSTRhVkZSOVFJeFlnYUV5Mno5dXNYX2Z5ZXNxVkJfc0RyYVZ3NU5jeDlEMjJXT0FvaW5faXVSc19ZMTF4WnprcVR1VTFRaUttd3lGTmZhUkx0TElNdHQ?oc=5) - This article analyzes the strategic playbook behind eBay's stock surge, which likely includes recent platform changes to fees, advertising, or AI tools that could impact seller costs and visibility. **Action:** Review the analysis for insights into eBay's strategic direction and adjust your Promoted Listings budget or listing strategy if new fee or algorithm changes are highlighted.

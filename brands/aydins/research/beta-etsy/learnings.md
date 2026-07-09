@@ -1,6 +1,10 @@
 # beta-etsy Cumulative Learnings
 
 
+## 2026-07-09
+### Actionable
+- [Etsy to Work on Letting Sellers Appeal Listing Policy Violations](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNYVVacHUycDEydERFdHRKRjZQSl9XYk1lQnFfU3lMMXU2YUdBeEtoN2trTGFpMGxYRDd2MWQ1cm9tUEZ2MGNadHc5SGRsSUIxaTZibmxIRGVtSEtfMU1GaWhqNVhRUF9hWGlBWWtMWnhtWGVaVF9EZHFaWXA2S3Jkd081OFNsYnpCYnIxNjFQM19OTWdwZEtLQVo0WGJIUXdYZmNmNlB3Rzc3Z1E?oc=5) - This matters because Aydins Jewelry's listing copy and personalization practices are critical to its strategy and any new appeal process could protect against erroneous de-listings. Recommended action: Monitor Etsy's Seller Handbook for the official launch of this appeal tool and prepare to use it if any listings are flagged.
+
 ## 2026-07-08
 ### Actionable
 - [New USPS Noncompliance Fee Could Take Sellers by Surprise - EcommerceBytes](https://news.google.com/rss/articles/CBMiogFBVV95cUxOR09sbnJndzZYVWc2UGZ2YVlhb3dMMWNKWUJRRm9ab2JRTFNkQVlJUFAxcVI0SzB0SFRfTjYzMk9ldkQzeWtCUkRzLUpJSzkwQXR1TllQVjRsYkg1ajRZdzZTcFJwTDRBb0dTeF9wc3ZiVnd0NXZaZmFqRTNxMWtNdjdNVDFNV3J6VlpvNXdhVXFqdzJzTGdWeUpfNC16TENyZ1E?oc=5) - This matters for Aydins because unexpected USPS fees directly erode already tight margins on Etsy orders, especially for a high-AOV product like jewelry. Recommended action: Review current shipping label practices and package weight declarations this week to ensure compliance and avoid the new fee.
