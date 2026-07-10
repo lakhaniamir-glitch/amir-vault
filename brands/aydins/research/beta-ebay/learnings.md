@@ -1,6 +1,11 @@
 # beta-ebay Cumulative Learnings
 
 
+## 2026-07-10
+### Actionable
+- [New USPS Noncompliance Fee Could Take Sellers by Surprise - EcommerceBytes](https://news.google.com/rss/articles/CBMiogFBVV95cUxOR09sbnJndzZYVWc2UGZ2YVlhb3dMMWNKWUJRRm9ab2JRTFNkQVlJUFAxcVI0SzB0SFRfTjYzMk9ldkQzeWtCUkRzLUpJSzkwQXR1TllQVjRsYkg1ajRZdzZTcFJwTDRBb0dTeF9wc3ZiVnd0NXZaZmFqRTNxMWtNdjdNVDFNV3J6VlpvNXdhVXFqdzJzTGdWeUpfNC16TENyZ1E?oc=5) — This matters because a new USPS fee for non-compliant packages directly increases shipping costs and risk for Aydins Jewelry, which must ship accurately. **Action:** Review and update shipping practices and package dimensions/weight to ensure strict USPS compliance to avoid unexpected fees.
+- [USPS July Rate Changes Impact Sites Like eBay Differently - EcommerceBytes](https://news.google.com/rss/articles/CBMiogFBVV95cUxNQklzUFZvQlUydXM3NlhYU3B0UVM0V3VjUDRlWVVIX2Y1M3dyanFqTEZjUHJpMlh0QTBhMXZuNVRLQ19kTTd2X2JxMkNvQnNISmt3LS1RUmNjSUg3Qmpjb205S0RvZXJTRXhIal9TaVpfb1hMRTVBaXdoRUp4VS1tWGpqSWZUcWdIYXo4bkJhX0ZVbTB6VVowRHJIam9lVlNhTHc?oc=5) — This matters because USPS rate changes in July 2026 can affect shipping cost calculations and final pricing for Aydins' rings, impacting margins. **Action:** Audit current eBay shipping profiles and adjust rates or product prices to account for the updated USPS costs.
+
 ## 2026-07-09
 ### Actionable
 - [USPS July Rate Changes Impact Sites Like eBay Differently - EcommerceBytes](https://news.google.com/rss/articles/CBMiogFBVV95cUxNQklzUFZvQlUydXM3NlhYU3B0UVM0V3VjUDRlWVVIX2Y1M3dyanFqTEZjUHJpMlh0QTBhMXZuNVRLQ19kTTd2X2JxMkNvQnNISmt3LS1RUmNjSUg3Qmpjb205S0RvZXJTRXhIal9TaVpfb1hMRTVBaXdoRUp4VS1tWGpqSWZUcWdIYXo4bkJhX0ZVbTB6VVowRHJIam9lVlNhTHc?oc=5) - This matters because USPS rate changes directly affect shipping costs, a key component of profitability for Aydins Jewelry's tight-margin items. Recommended action: Review current shipping profiles and adjust pricing or service levels to account for the new rates within the next week.

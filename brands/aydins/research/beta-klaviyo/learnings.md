@@ -1,6 +1,11 @@
 # beta-klaviyo Cumulative Learnings
 
 
+## 2026-07-10
+### Actionable
+- [Klaviyo (KVYO) Launches AI Marketing Agent Composer and Updates Customer Agent - Yahoo Finance](https://news.google.com/rss/articles/CBMinwFBVV95cUxQdTFlcDByMDlLNmdqNXd4ZW1ORzl6SE9FTS1HWXJyazBDcXZrV2lROS04X0oySWl4aEdNN0ppdGdoaWRON21RbmFEam9wY09LdVBLcjFOTXJyU0l3V1BPWmRrUFctVGlNNjNLQlppVzVRZE5YYXUyRXJqbGV5Nk5WN3lZWFJ0bEszY2xCNlhZVHJ2ejZKODBuaTJVY1FyTzA?oc=5) - Klaviyo's new AI agents could automate and personalize Aydins' lifecycle campaigns, potentially improving engagement and revenue. Review the new AI Agent Composer feature in the Klaviyo dashboard and plan a test for a welcome or abandoned cart flow.
+- [DMARC, SPF & DKIM Setup: Stop Spoofing in 12 Steps [2026] - tech-insider.org](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9BM3JqQ0M3SEZfeC1fdkdqRUExeVhoMThRSnlEYXd4dkpPZnhEU05uYWVkV0dkR3Q0bmpjbi1WS25sYUk2SUU0R1d6TFZIS1NiRzdTaDh0ZWJLZy1ONHVOdjVZWm0?oc=5) - A 2026 guide to authentication is directly relevant for maintaining compliance with Gmail/Yahoo sender policies and protecting deliverability. Audit Aydins' current DMARC, SPF, and DKIM records against this guide to ensure they are fully aligned with 2026 best practices.
+
 ## 2026-07-09
 ### Actionable
 - [How does a mailbox provider support and display BIMI logos?](https://www.spamresource.com/feeds/1858106414533517525/comments/default) - This directly addresses BIMI, a tracked topic for brand trust and inbox placement, which is relevant for Aydins Jewelry's email deliverability. **Action:** Review current BIMI setup and ensure DNS records (VMC) are correctly configured for Gmail/Yahoo display.

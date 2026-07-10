@@ -1,6 +1,14 @@
 # beta-insta Cumulative Learnings
 
 
+## 2026-07-10
+### Critical
+- [13 Trending Sounds on Instagram in July 2026 (+ How to Use Them)](https://buffer.com/resources/trending-audio-instagram/) - This provides an up-to-date list of trending audio for Instagram Reels in the current month, which is critical for Aydins Jewelry's automated pipeline to keep content relevant and algorithm-friendly. **Action:** Immediately review the listed sounds and integrate the most relevant, brand-safe options into the next week's scheduled Reels to boost reach.
+### Actionable
+- [Instagram DM Automation: How I’m Growing My Following Without Sounding Like a Bot](https://buffer.com/resources/instagram-dm-automation/) - This details a humanized approach to Instagram DM automation, which could help Aydins Jewelry build community and nurture leads without manual effort. **Action:** Test the outlined tools and strategy over the next month to automate follow-up with new followers and engaged commenters.
+- [9 Instagram analytics tools for better results in 2026](https://blog.hootsuite.com/instagram-analytics-tools/) - This compares the latest 2026 Instagram analytics tools, which Aydins should evaluate to ensure their Pixel+CAPI tracking is supplemented with insights on Reels performance and audience engagement. **Action:** Audit current analytics setup within the next 2-4 weeks and test one of the recommended tools to identify content optimization opportunities.
+- [New Effects in Stories from Meta AI - Instagram](https://news.google.com/rss/articles/CBMiigFBVV95cUxQSlZReHZWOUFmRWVhcEw5SFNFdmc2YmFoc3RtM291RUN3aGU3NTJmUGJHTmtTc3JQNDVuQk00cFZuV0hmdVpxeWFFRUNZME5rbzIyamtrTlNHdDc0azdVWUdsMnl5ajJUTDZTT1pLQ2p5UkJfRlUyakROMmNWckpid0NfNHJRdXY2Wmc?oc=5) - This article (from July 7) covers new AI-powered effects in Instagram Stories, a feature Aydins can use to create more engaging and trendy organic content that complements their Reels. **Action:** Experiment with these new AI effects in Instagram Stories over the next few weeks to add variety and test engagement lift.
+
 ## 2026-07-09
 ### Critical
 - [Meta Now Lets Anyone Use Your Instagram Photos in AI Images—Unless You Opt Out - WIRED](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZS1QSW1CTERfWjJOLThtLV9XdXR6WFFIdFNuVFEtZXZfT054Si00SzdUZW9fbDJIN0lIRXNTQ3NaZW1ORzBzVE9Wc3ZZQkhWVW9qMDJmS1VSMGJsM1dpRjc5RDJjSVNpU1N0aElFdk85TFhwMzFCa3VLeXVZWkxpbkYxZDhKR3BUMkd3THBGNFB4MzdzVGFvM010TnZLWGkzMHhXNjhLUVNNdm8?oc=5) - This is a new privacy/data usage policy change (published July 7, 2026) that could affect Aydins' public content being used for AI training without consent. **Recommended Action:** Immediately review Instagram account settings and opt out of AI training for public posts to protect brand imagery.

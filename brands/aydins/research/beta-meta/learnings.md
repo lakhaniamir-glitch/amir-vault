@@ -1,6 +1,11 @@
 # beta-meta Cumulative Learnings
 
 
+## 2026-07-10
+### Actionable
+- [Meta adds updated disclosure tags for AI-generated ads - Social Media Today](https://news.google.com/rss/articles/CBMiogFBVV95cUxPa3ZlaFpWUDZOLTktTndWaklJdzRpVVQzM3F5QzRueXVreWxEWFlyTEEySUMxUFNsN3poYjRiVmpPakc0WWkzMXZGMmV2SC00ekxFUW5XUm9fRGZvdXpRY1NYWGFkVXRUcmwyQ3FQUnZHbkQwM1lfLVhFbndVVm1kY2xYdXNITlRDLWlLWG93ei1SbzNVTFpuOEdLbEZFRmxVQkE?oc=5) - This new policy (July 8, 2026) requires clear labeling for AI-generated ad creative, which is crucial for compliance and maintaining ad account health. **Action:** Review any AI-assisted ad creative (e.g., from new tools like Muse Image) to ensure they include the proper "AI-generated" disclosure tags before publishing.
+- [Meta brings Muse Image to Instagram and WhatsApp, opening new AI ad creative tools - eMarketer](https://news.google.com/rss/articles/CBMirAFBVV95cUxOS2lRNENkVm9BdjZJNUhhSFhJaEpIam1jd0Z3OHBIeFhma29VRzZxUHdyVlZZeTNWRGJCaVB6OGRPQktadzlqZzRTNS15cEppV1VZYTlDdE9NZEJzMTZWQ3E0NnVieC00cEZfT1gzSlNmVHVPZ01ER2pwcUo0SmpYYXFQalhyMlNleHBnWTR3dzRpZzdJYTkzZ1RVNFRPQW9MTzVQYWhhQUxpWHFm?oc=5) - The integration of Muse Image AI (July 8, 2026) provides new, potentially low-cost ways to generate product-focused ad visuals for Facebook and Instagram. **Action:** Test using these new AI creative tools to produce fresh ad assets for Advantage+ shopping campaigns, which could help improve creative performance.
+
 ## 2026-07-09
 ### Actionable
 - [Meta adds updated disclosure tags for AI-generated ads](https://news.google.com/rss/articles/CBMiogFBVV95cUxPa3ZlaFpWUDZOLTktTndWaklJdzRpVVQzM3F5QzRueXVreWxEWFlyTEEySUMxUFNsN3poYjRiVmpPakc0WWkzMXZGMmV2SC00ekxFUW5XUm9fRGZvdXpRY1NYWGFkVXRUcmwyQ3FQUnZHbkQwM1lfLVhFbndVVm1kY2xYdXNITlRDLWlLWG93ei1SbzNVTFpuOEdLbEZFRmxVQkE?oc=5) - This directly impacts ad creative compliance; using AI-generated visuals for Aydins' ads now requires a specific disclosure tag to avoid policy violations. **Action:** Review any AI-assisted creative (e.g., background generation, product mockups) and ensure the new "AI-generated" disclosure tag is applied in Ads Manager before publishing new campaigns.

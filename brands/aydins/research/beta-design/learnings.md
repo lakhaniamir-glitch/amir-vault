@@ -1,6 +1,17 @@
 # beta-design Cumulative Learnings
 
 
+## 2026-07-10
+### Critical
+- [Start building with Nano Banana 2 Lite and Gemini Omni Flash](https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/) - This is a direct update to the "nano-banana" image generation family Aydins uses for product hero shots, potentially offering better performance or lower cost within the freshness window (published 2026-06-30). **Action:** Immediately test Nano Banana 2 Lite against the current reference image rule (2026-06-04) to see if it improves quality or reduces latency/cost for product shots.
+- [GPT-5.6: Frontier intelligence that scales with your ambition](https://openai.com/index/gpt-5-6) - A major new model release (2026-07-09) promises stronger performance per dollar, which could materially shift costs for reasoning tasks currently handled by Claude or DeepSeek via OpenRouter. **Action:** Benchmark GPT-5.6 via OpenRouter this week against DeepSeek v3.2 and Claude for synthesis tasks to evaluate potential cost/performance gains.
+- [Expanding Managed Agents in Gemini API: background tasks, remote MCP and more](https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/) - New agent capabilities (published 2026-07-07) could simplify or enhance Aydins' existing agentic loops on Hetzner VPS, especially for background tasks. **Action:** Review the new Managed Agents features to see if they can replace or simplify parts of the beta orchestrator setup within the next 7 days.
+### Actionable
+- [GPT-Live](https://openai.com/index/introducing-gpt-live) - A new generation of voice models (published 2026-07-08) could enhance customer interaction or content creation workflows, relevant to the tracked "voice AI" topic. **Action:** Test GPT-Live's voice capabilities in the next 2-4 weeks for potential use in ad creative or customer service audio.
+- [ChatCut](https://www.producthunt.com/products/chatcut-ai-video-editor) - A new AI video editor (launched 2026-07-10) could be a competitor or complement to the current CapCut workflow for creating reels and UGC-style video. **Action:** Evaluate ChatCut's features and output quality against CapCut for social media video creation in the next month.
+- [Muse Spark 1.1 by Meta AI](https://www.producthunt.com/products/muse-spark-1-1-by-meta) - A new image generation model release (launched 2026-07-10) could offer an alternative or specialized capability for marketing and ad creative. **Action:** Test Muse Spark 1.1 for generating ad creatives or social media visuals in the next 2-4 weeks to see if it outperforms current tools on specific styles.
+- [Universal-3.5 Pro](https://www.producthunt.com/products/assemblyai) - A new voice/audio AI model (launched 2026-07-10) from AssemblyAI falls under the tracked "voice AI" topic and could improve transcription or audio analysis for marketing content. **Action:** Assess Universal-3.5 Pro for accuracy and cost in transcribing product videos or customer audio feedback in the next month.
+
 ## 2026-07-09
 ### Actionable
 - [Start building with Nano Banana 2 Lite and Gemini Omni Flash](https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/) - This is a direct update to the "nano-banana" image model family Aydins uses, potentially offering better quality/cost for product hero shots. **Action:** Test Nano Banana 2 Lite against the current reference image rule (2026-06-04) to see if it provides a quality or cost improvement for product shots.
