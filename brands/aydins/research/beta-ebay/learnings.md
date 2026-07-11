@@ -1,6 +1,10 @@
 # beta-ebay Cumulative Learnings
 
 
+## 2026-07-11
+### Actionable
+- [New USPS Noncompliance Fee Could Take Sellers by Surprise - EcommerceBytes](https://news.google.com/rss/articles/CBMiogFBVV95cUxOR09sbnJndzZYVWc2UGZ2YVlhb3dMMWNKWUJRRm9ab2JRTFNkQVlJUFAxcVI0SzB0SFRfTjYzMk9ldkQzeWtCUkRzLUpJSzkwQXR1TllQVjRsYkg1ajRZdzZTcFJwTDRBb0dTeF9wc3ZiVnd0NXZaZmFqRTNxMWtNdjdNVDFNV3J6VlpvNXdhVXFqdzJzTGdWeUpfNC16TENyZ1E?oc=5) - This introduces a new USPS fee for non-compliant packages that will directly increase shipping costs for eBay sellers. **Action:** Review the new USPS rules and adjust your shipping practices and cost calculations to avoid this unexpected fee.
+
 ## 2026-07-10
 ### Actionable
 - [New USPS Noncompliance Fee Could Take Sellers by Surprise - EcommerceBytes](https://news.google.com/rss/articles/CBMiogFBVV95cUxOR09sbnJndzZYVWc2UGZ2YVlhb3dMMWNKWUJRRm9ab2JRTFNkQVlJUFAxcVI0SzB0SFRfTjYzMk9ldkQzeWtCUkRzLUpJSzkwQXR1TllQVjRsYkg1ajRZdzZTcFJwTDRBb0dTeF9wc3ZiVnd0NXZaZmFqRTNxMWtNdjdNVDFNV3J6VlpvNXdhVXFqdzJzTGdWeUpfNC16TENyZ1E?oc=5) — This matters because a new USPS fee for non-compliant packages directly increases shipping costs and risk for Aydins Jewelry, which must ship accurately. **Action:** Review and update shipping practices and package dimensions/weight to ensure strict USPS compliance to avoid unexpected fees.

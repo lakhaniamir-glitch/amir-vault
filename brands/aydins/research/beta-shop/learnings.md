@@ -1,6 +1,10 @@
 # beta-shop Cumulative Learnings
 
 
+## 2026-07-11
+### Actionable
+- [Shopify Retail Roundup (June 2026 - v11.8 & 11.9) - Shopify](https://news.google.com/rss/articles/CBMickFVX3lxTFB2eHlJdEcxNWpQYzEtdk5nU1ZyaGl0Wm51ODFtTXd4d1R5STVjZE12Y1k0XzFBcm1CV3dhMnc4VHNGbkJ3Q3dnVjhLelphMHdyUzl2RVh1UERwWUpvWXdxSTVrWXVjaDhkSDJ0SElueElYUQ?oc=5) - This is the official Shopify changelog for June 2026, detailing platform releases and updates that could impact themes, APIs, or checkout during your OS2.0 migration. - Review the changelog for any changes to theme blocks, checkout extensibility, or APIs that affect your active apps and unpublished v5 theme.
+
 ## 2026-07-10
 ### Actionable
 - [Shopify Retail Roundup (June 2026 - v11.8 & 11.9)](https://news.google.com/rss/articles/CBMickFVX3lxTE5Jdm83cDNIQ2swTUlXU2R1dzd3akFQVnQyVkhqM0VNa29OMXIwTk9BS25RT2h5ZzVQSDExMmdCRHFnTXo0VEtZQzZITkozdkhDczJDV1g3MHNaZDhtTnZ6bVhiNGdqZnJfOEVETFB6VkZYdw?oc=5) - This is a direct changelog of recent Shopify platform releases, which may contain critical updates or deprecations relevant to the OS2.0 migration and app integrations. - Review the release notes (especially any themes, functions, or checkout updates) and assess impact on the v5 migration plan and existing apps like Zepto.

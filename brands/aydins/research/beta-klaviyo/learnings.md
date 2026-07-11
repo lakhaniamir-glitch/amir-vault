@@ -1,6 +1,12 @@
 # beta-klaviyo Cumulative Learnings
 
 
+## 2026-07-11
+### Actionable
+- [How does a mailbox provider support and display BIMI logos?](https://www.spamresource.com/feeds/1858106414533517525/comments/default) - This directly addresses BIMI, a tracked sender policy topic that can improve brand trust and inbox placement. **Action:** Review current BIMI setup and ensure your verified mark certificate (VMC) and DNS records are correctly configured for major mailbox providers.
+- [DMARC, SPF & DKIM Setup: Stop Spoofing in 12 Steps [2026]](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9BM3JqQ0M3SEZfeC1fdkdqRUExeVhoMThRSnlEYXd4dkpPZnhEU05uYWVkV0dkR3Q0bmpjbi1WS25sYUk2SUU0R1d6TFZIS1NiRzdTaDh0ZWJLZy1ONHVOdjVZWm0?oc=5) - This is a fresh 2026 guide on core authentication (DMARC, SPF, DKIM), which is critical for meeting Gmail/Yahoo requirements and protecting deliverability. **Action:** Use this guide to audit and verify your current domain authentication setup is fully compliant.
+- [Klaviyo (KVYO) Launches AI Marketing Agent Composer and Updates Customer Agent](https://news.google.com/rss/articles/CBMinwFBVV95cUxQdTFlcDByMDlLNmdqNXd4ZW1ORzl6SE9FTS1HWXJyazBDcXZrV2lROS04X0oySWl4aEdNN0ppdGdoaWRON21RbmFEam9wY09LdVBLcjFOTXJyU0l3V1BPWmRrUFctVGlNNjNLQlppVzVRZE5YYXUyRXJqbGV5Nk5WN3lZWFJ0bEszY2xCNlhZVHJ2ejZKODBuaTJVY1FyTzA?oc=5) - This announces new Klaviyo AI features (a tracked topic) that could automate and personalize marketing, directly impacting campaign efficiency. **Action:** Review the new AI Agent Composer features in your Klaviyo account and plan a test for a segment of your lifecycle flows.
+
 ## 2026-07-10
 ### Actionable
 - [Klaviyo (KVYO) Launches AI Marketing Agent Composer and Updates Customer Agent - Yahoo Finance](https://news.google.com/rss/articles/CBMinwFBVV95cUxQdTFlcDByMDlLNmdqNXd4ZW1ORzl6SE9FTS1HWXJyazBDcXZrV2lROS04X0oySWl4aEdNN0ppdGdoaWRON21RbmFEam9wY09LdVBLcjFOTXJyU0l3V1BPWmRrUFctVGlNNjNLQlppVzVRZE5YYXUyRXJqbGV5Nk5WN3lZWFJ0bEszY2xCNlhZVHJ2ejZKODBuaTJVY1FyTzA?oc=5) - Klaviyo's new AI agents could automate and personalize Aydins' lifecycle campaigns, potentially improving engagement and revenue. Review the new AI Agent Composer feature in the Klaviyo dashboard and plan a test for a welcome or abandoned cart flow.
