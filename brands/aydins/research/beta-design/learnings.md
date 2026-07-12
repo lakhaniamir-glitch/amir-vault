@@ -1,6 +1,12 @@
 # beta-design Cumulative Learnings
 
 
+## 2026-07-12
+### Actionable
+- [Start building with Nano Banana 2 Lite and Gemini Omni Flash](https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/) - This is a direct update to the "nano-banana" image generation family Aydins uses for product hero shots, potentially offering better quality or lower cost. **Action:** Immediately test Nano Banana 2 Lite against the current reference image rule (2026-06-04) to see if it improves output or reduces expenses.
+- [Expanding Managed Agents in Gemini API: background tasks, remote MCP and more](https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/) - New agentic capabilities like background tasks could streamline Aydins' multi-channel orchestrator (beta-shop, beta-meta, etc.) by offloading long-running workflows. **Action:** Evaluate if these managed agents can replace or simplify parts of the current Hetzner VPS agentic loops within the next 2-4 weeks.
+- [ChatCut](https://www.producthunt.com/products/chatcut-ai-video-editor) - An AI video editor could potentially replace or augment the current CapCut workflow for creating marketing reels, speeding up video production. **Action:** Test ChatCut for a batch of product reels to compare output quality and production time against the current CapCut process.
+
 ## 2026-07-11
 ### Critical
 - [Start building with Nano Banana 2 Lite and Gemini Omni Flash](https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/) - This is a direct update to the "nano-banana" image generation family (Gemini 2.5 Flash Image) that Aydins uses for product hero shots, potentially offering better performance or lower cost. **Action:** Immediately test Nano Banana 2 Lite against the current reference image rule (locked 2026-06-04) to see if it improves quality or reduces inference costs.

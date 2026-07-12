@@ -1,6 +1,12 @@
 # beta-klaviyo Cumulative Learnings
 
 
+## 2026-07-12
+### Actionable
+- [How does a mailbox provider support and display BIMI logos?](https://www.spamresource.com/feeds/1858106414533517525/comments/default) - This provides a timely update on BIMI implementation, which is a tracked topic for sender reputation and brand visibility in email clients. **Action:** Review Aydins Jewelry's BIMI readiness (verified mark certificate, DMARC enforcement) to prepare for logo display in supported inboxes.
+- [RE: Don't Do This: Google's Guide to Keeping Gmail Happy](https://www.spamresource.com/feeds/2810272831849546898/comments/default) - This is a direct commentary on Google's 2026 sender requirements, which are critical for Aydins' deliverability to a major inbox provider. **Action:** Audit current sending practices against Google's latest guidelines to ensure compliance and maintain inbox placement.
+- [Apple changing hide my / sign in domains](https://www.spamresource.com/feeds/5394082189459339189/comments/default) - Apple's changes to privacy features can impact email tracking and open-rate signals, a core tracked topic. **Action:** Assess how this change might affect open-rate metrics and adjust reporting expectations for campaigns sent to Apple Mail users.
+
 ## 2026-07-11
 ### Actionable
 - [How does a mailbox provider support and display BIMI logos?](https://www.spamresource.com/feeds/1858106414533517525/comments/default) - This directly addresses BIMI, a tracked sender policy topic that can improve brand trust and inbox placement. **Action:** Review current BIMI setup and ensure your verified mark certificate (VMC) and DNS records are correctly configured for major mailbox providers.

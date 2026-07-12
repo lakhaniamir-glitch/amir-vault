@@ -1,6 +1,11 @@
 # beta-meta Cumulative Learnings
 
 
+## 2026-07-12
+### Actionable
+- [Meta adds updated disclosure tags for AI-generated ads - Social Media Today](https://news.google.com/rss/articles/CBMiogFBVV95cUxPa3ZlaFpWUDZOLTktTndWaklJdzRpVVQzM3F5QzRueXVreWxEWFlyTEEySUMxUFNsN3poYjRiVmpPakc0WWkzMXZGMmV2SC00ekxFUW5XUm9fRGZvdXpRY1NYWGFkVXRUcmwyQ3FQUnZHbkQwM1lfLVhFbndVVm1kY2xYdXNITlRDLWlLWG93ei1SbzNVTFpuOEdLbEZFRmxVQkE?oc=5) - This matters because Aydins Jewelry must ensure its ads comply with Meta's new AI content labeling rules to avoid potential disapproval or reduced reach. **Action:** Review any AI-generated creative assets used in ads and ensure the new disclosure tags are applied in Ads Manager starting this week.
+- [Meta Expands AI Labels for Facebook and Instagram Ads - Affiverse](https://news.google.com/rss/articles/CBMieEFVX3lxTE1qUHhhOUZ5MkltSmpucWRQblM2NmpNUFBReDA4dzRGTVBCWTVXcU9PeUJVdVh5UmtDTFM5YXpoRVpLaHg5RHJzVW5wSmpsckIzSGJ3UHBReUNwcVFZTHNaRkozNUZQTUNIVlYyYVV0S3B3Nk5VZlYtZQ?oc=5) - This matters as it reinforces the immediate need for Aydins to audit its ad creative process for AI-generated elements to maintain compliance and ad delivery. **Action:** Check the "AI-generated" disclosure settings in your ad setups and update any campaigns using AI-assisted visuals or copy.
+
 ## 2026-07-11
 ### Critical
 - [Meta adds updated disclosure tags for AI-generated ads - Social Media Today](https://news.google.com/rss/articles/CBMiogFBVV95cUxPa3ZlaFpWUDZOLTktTndWaklJdzRpVVQzM3F5QzRueXVreWxEWFlyTEEySUMxUFNsN3poYjRiVmpPakc0WWkzMXZGMmV2SC00ekxFUW5XUm9fRGZvdXpRY1NYWGFkVXRUcmwyQ3FQUnZHbkQwM1lfLVhFbndVVm1kY2xYdXNITlRDLWlLWG93ei1SbzNVTFpuOEdLbEZFRmxVQkE?oc=5) - This new enforcement of AI ad labeling (July 8, 2026) is critical as using unlabeled AI-generated creative could lead to ad disapproval or reduced delivery for Aydins. **Action:** Immediately review all active ad creatives and ensure any AI-generated images/videos are properly tagged within Meta Ads Manager to comply.

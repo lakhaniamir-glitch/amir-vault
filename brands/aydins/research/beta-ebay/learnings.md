@@ -1,6 +1,12 @@
 # beta-ebay Cumulative Learnings
 
 
+## 2026-07-12
+### Actionable
+- [The eBay Authenticity Guarantee program - eBay Inc. bets on trust at scale - ad-hoc-news.de](https://news.google.com/rss/articles/CBMiygFBVV95cUxQS0kyXzlEMWpyN1h4N2pocHN3ZkZnSE9RZndjMXBPYmRXX01Dd1dyRFBFaEpDRU53ZWNHMmh1SHFCejlKWFduRDMxd2VBODRHVWNmSXY3dmprd2FPNUdmLUUxLTlGbUZnWnR5a2xzMXI1RFN4dURxeHlmaEU4bHk3Y2g1N2RSRUFUSzJmVG9EZzdKRVo1TjRrMUtDMDNTLU9oaHl2U29TVzRsc1ZHU29ybTlNNTA0SzNVMkhDUm4yZHFfWXByTVBhX1dn?oc=5) - This article, published on July 11, 2026, discusses eBay's strategic push for its Authenticity Guarantee program, which is a key watched event for Aydins Jewelry's category. - Monitor eBay's official announcements for any expansion of the Authenticity Guarantee into men's wedding bands and prepare inventory for potential certification requirements.
+
+- [eBay (EBAY) Invests In Fleek To Chase The $200 Billion Resale Market - Sahm](https://news.google.com/rss/articles/CBMiugFBVV95cUxONkdKNnoxbk15S0NTZ3JfOFZuMURteGVKX2x6VFozaWxFTDVCR3liRXNmVU5IRy04OTVIY05qLXhzZTFpU1FtVFFYN1BEUy1vYUZVdXRwemQ2SnQwV1NTY0w4UWNHY1E0RkVvMlBJQmtYaDdFVXhNVFNzc3FNdHY5NWJVdjhkNkFYN1dCTldsSEkzQUhQSFhRYWR5dEdnaTE5RG1uVnRKb1hHQlV5MjlVRlhabTAtdlg3?oc=5) - Published July 10, 2026, this news about eBay investing in a resale platform (Fleek) signals a continued focus on the secondhand market, which could influence platform tools and competitor dynamics. - Review the Fleek platform to understand if it represents a new sales channel or competitive threat to Aydins' eBay business.
+
 ## 2026-07-11
 ### Actionable
 - [New USPS Noncompliance Fee Could Take Sellers by Surprise - EcommerceBytes](https://news.google.com/rss/articles/CBMiogFBVV95cUxOR09sbnJndzZYVWc2UGZ2YVlhb3dMMWNKWUJRRm9ab2JRTFNkQVlJUFAxcVI0SzB0SFRfTjYzMk9ldkQzeWtCUkRzLUpJSzkwQXR1TllQVjRsYkg1ajRZdzZTcFJwTDRBb0dTeF9wc3ZiVnd0NXZaZmFqRTNxMWtNdjdNVDFNV3J6VlpvNXdhVXFqdzJzTGdWeUpfNC16TENyZ1E?oc=5) - This introduces a new USPS fee for non-compliant packages that will directly increase shipping costs for eBay sellers. **Action:** Review the new USPS rules and adjust your shipping practices and cost calculations to avoid this unexpected fee.

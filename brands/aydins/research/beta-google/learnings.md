@@ -1,6 +1,12 @@
 # beta-google Cumulative Learnings
 
 
+## 2026-07-12
+### Actionable
+- [Google Clarifies Smart Bidding Update After Advertiser Concerns](https://www.searchenginejournal.com/google-clarifies-smart-bidding-update-after-advertiser-concerns/581804/) - This clarifies a Smart Bidding update affecting Target ROAS campaigns on August 17, 2026, which directly impacts Aydins' bidding strategy and ROAS goals. **Recommended Action:** Review the update details and prepare to adjust tROAS settings or budgets before August 17 to avoid unintended performance shifts.
+- [Google quietly unlocks custom labels for Demand Gen campaigns](https://news.google.com/rss/articles/CBMihgFBVV95cUxOLUttaGVkd01kbll6bTRJN1lqT1JTZ3A1Rk5iN0VpVXRiRWtOY1Iyc0l1S193X0IzakhxSVIzVmd5YzgtSkxzbURBMWo5T05ySUU0SFIzbVc1S2xfNGF5aU8wME1oc0tYN0hjWlo0UWxhV3h6QmxnTlZTSEd3Z2sxNi1rdDFOUQ?oc=5) - Custom labels for Demand Gen campaigns allow for better segmentation and reporting, which can help optimize Aydins' YouTube Shorts campaign targeting high-ROAS states. **Recommended Action:** Implement custom labels (e.g., geo, device) in the existing Demand Gen campaign to gain deeper insights and refine audience targeting.
+- [Changes To Google Ads Target-Based Bid Strategies](https://news.google.com/rss/articles/CBMihgFBVV95cUxPTlVic0p5Z21JVUR2ZXBpT1ZNMHIxRjRwUFhlRTZ5bTVJYlhsVlBsanloUmhNR241MjVmcFVMM09Fc1AxQkVhcjNLY3ZrTHM2clpDeW5YRUd3VFdtNmFqdGlNd3hOcVJaUjhfT2tMRHBPUnhGaGI0aUk3NTNUTk45dU51RHFSQQ?oc=5) - Changes to target-based bid strategies (like tROAS) could affect how Aydins' PMax and Search campaigns optimize for conversions, requiring proactive adjustment. **Recommended Action:** Audit current tROAS settings across all campaigns and plan for any migration or reconfiguration advised by the update.
+
 ## 2026-07-11
 ### Critical
 - [Google Clarifies Smart Bidding Update After Advertiser Concerns](https://www.searchenginejournal.com/google-clarifies-smart-bidding-update-after-advertiser-concerns/581804/) - This directly addresses changes to Target ROAS and Target CPA bidding that take effect August 17, 2026, which is a critical deadline for Aydins' primary bidding strategy. **Action:** Review the clarification immediately and prepare to adjust tROAS targets or campaign structures before the August 17th enforcement date to avoid performance disruption.
