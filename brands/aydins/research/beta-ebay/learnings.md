@@ -1,6 +1,10 @@
 # beta-ebay Cumulative Learnings
 
 
+## 2026-07-13
+### Actionable
+- [eBay (EBAY) Invests In Fleek To Chase The $200 Billion Resale Market - Sahm](https://news.google.com/rss/articles/CBMiuAFBVV95cUxONkdKNnoxbk15S0NTZ3JfOFZuMURteGVKX2x6VFozaWxFTDVCR3liRXNmVU5IRy04OTVIY05qLXhzZTFpU1FtVFFYN1BEUy1vYUZVdXRwemQ2SnQwV1NTY0w4UWNHY1E0RkVvMlBJQmtYaDdFVXhNVFNzc3FNdHY5NWJVdjhkNkFYN1dCTldsSEkzQUhQSFhRYWR5dEdnaTE5RG1uVnRKb1hHQlV5MjlVRlhabTAtdlg3?oc=5) - This matters because eBay's strategic investment in AI-powered listing tools (like Fleek) could soon introduce new, must-use features that impact listing efficiency and visibility for sellers. - Monitor eBay's announcements for new AI listing tools and prepare to test them to maintain competitive listing quality.
+
 ## 2026-07-12
 ### Actionable
 - [The eBay Authenticity Guarantee program - eBay Inc. bets on trust at scale - ad-hoc-news.de](https://news.google.com/rss/articles/CBMiygFBVV95cUxQS0kyXzlEMWpyN1h4N2pocHN3ZkZnSE9RZndjMXBPYmRXX01Dd1dyRFBFaEpDRU53ZWNHMmh1SHFCejlKWFduRDMxd2VBODRHVWNmSXY3dmprd2FPNUdmLUUxLTlGbUZnWnR5a2xzMXI1RFN4dURxeHlmaEU4bHk3Y2g1N2RSRUFUSzJmVG9EZzdKRVo1TjRrMUtDMDNTLU9oaHl2U29TVzRsc1ZHU29ybTlNNTA0SzNVMkhDUm4yZHFfWXByTVBhX1dn?oc=5) - This article, published on July 11, 2026, discusses eBay's strategic push for its Authenticity Guarantee program, which is a key watched event for Aydins Jewelry's category. - Monitor eBay's official announcements for any expansion of the Authenticity Guarantee into men's wedding bands and prepare inventory for potential certification requirements.
