@@ -1,6 +1,12 @@
 # beta-shop Cumulative Learnings
 
 
+## 2026-07-14
+### Actionable
+- [The next generation of Shopify fulfillment is coming. (2026) - Shopify](https://news.google.com/rss/articles/CBMiakFVX3lxTE0tZzJ3NTRwTWQ3MGFxcUxvZFNYZlRyWUdlUldaMVljWUVwWXJBRWtfUFo1engzczJ2S05rUXhJMzVtT0VzV0FGUmlfS0FDYzR2c3Nfa3FPanJkeXJuN2hkUFhKSDR1RmJmM3c?oc=5) - This matters as it's a major platform release that could impact shipping strategy and costs for Aydins Jewelry. **Action:** Review the announcement details to assess if it affects your current fulfillment setup or presents new opportunities.
+- [AI Orchestration for Shopify Plus Merchants (2026 Guide) - Shopify](https://news.google.com/rss/articles/CBMia0FVX3lxTE9fX19QaG50OU1nbXY0UXd2QkJEZjQyZXpmNktKYzl1SkFCNGdRakpGc3Z4SURaNzd0dWZndDA1MURZRzFuMHZZdzh5Z3V3aGYtTFhXbWRCeVpfLUluTkFjcGZ0Y3ZQWExMWVo4?oc=5) - This matters as it details new, native AI features that could enhance store operations and customer experience. **Action:** Evaluate if the AI orchestration tools are relevant to your Plus plan and consider a test integration.
+- [Magento to Shopify Migration: The Complete Guide (2026) - Shopify](https://news.google.com/rss/articles/CBMie0FVX3lxTE1XYnFQRE1vUG9kSHBmeUpUajUyS3FBbW1RcmYxTTlWQXN6UHR0aWlDSDlqWXgzbjNwd1VIa3dKTEx3b2xYOVJjZ0lEY0VjN2FwNDVGY3ktVHUydWtoX2ZFclE3X01jb2ZCdHVzNWlPZVVWbGZJM01Wd2ZzTQ?oc=5) - This matters as it's a fresh, comprehensive guide that may contain updated best practices relevant to your ongoing OS2.0 migration. **Action:** Skim the guide for any new insights on theme structure or app compatibility that could inform your v5 migration process.
+
 ## 2026-07-13
 ### Actionable
 - [Shopify Retail Roundup (June 2026 - v11.8 & 11.9)](https://news.google.com/rss/articles/CBMickFVX3lxTFB2eHlJdEcxNWpQYzEtdk5nU1ZyaGl0Wm51ODFtTXd4d1R5STVjZE12Y1k0XzFBcm1CV3dhMnc4VHNGbkJ3Q3dnVjhLelphMHdyUzl2RVh1UERwWUpvWXdxSTVrWXVjaDhkSDJ0SElueElYUQ?oc=5) - This is a direct platform update (July 7, 2026) that may include changes to the Admin, POS, or theme system relevant to your OS2.0 migration. - Review the release notes for any new features, deprecations, or changes that could impact your v5 theme development or third-party app integrations.

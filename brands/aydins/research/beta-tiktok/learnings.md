@@ -1,6 +1,10 @@
 # beta-tiktok Cumulative Learnings
 
 
+## 2026-07-14
+### Actionable
+- [TikTok Adds Three New AI Video Generation Tools to Its Symphony Ad Toolkit](https://news.google.com/rss/articles/CBMiogFBVV95cUxOLV9oVzM5a3RwSUFlbFhrUXpNaUJuX3ItbmQ2LXQyaE5aT1pfTVg2M0xUbGFzRjFVaF9GV3VrNkhMa09JR0JyeGx3cktfaEdsdnY4T3JkdC1QSjVEU29TTlhLOUtUSTQ2M0RzVEU3S2E3WHZNMzdLOWF1SW1MSkY0ZTJBN051SXlMNHo4X25UbTBfbUg0VVB3bktiMVlOMTBtQVE?oc=5) - This directly impacts Aydins' ad creation for Smart+ campaigns, offering new AI tools to produce video ads more efficiently. Recommended action: Test these new Symphony AI tools within the next two weeks to see if they can improve ad production speed or performance for jewelry content.
+
 ## 2026-07-13
 ### Critical
 - [TikTok Shop sellers face shipment seizure risk under new CPSC filing rule - PPC Land](https://news.google.com/rss/articles/CBMilgFBVV95cUxPc1AzQzNWeTljUWlfOVR5ekVIMEVMbXN6aW54d2lvRjhPcDhXLWhEaFhsSm5Ba1AzZGhGbW5hblExMDh4dTliYUVHeVFMTS1CN29FTmFBT3FraGxDVm9kQno1QU9sNUNZLTNuQVdNV3JNc0hSS3BnYmZUcVU5Y2V3M3MtaW05djB5eTVnR2pvNFV1ZXlMNHc?oc=5) - This is a new, immediate compliance risk for Aydins' TikTok Shop operations that could lead to seized inventory and disrupted sales. **Action:** Review the new CPSC filing requirements immediately to ensure all product shipments are compliant and avoid penalties.

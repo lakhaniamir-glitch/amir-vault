@@ -1,6 +1,10 @@
 # beta-etsy Cumulative Learnings
 
 
+## 2026-07-14
+### Actionable
+- [USPS July Rate Changes Impact Sites Like eBay Differently - EcommerceBytes](https://news.google.com/rss/articles/CBMiogFBVV95cUxNQklzUFZvQlUydXM3NlhYU3B0UVM0V3VjUDRlWVVIX2Y1M3dyanFqTEZjUHJpMlh0QTBhMXZuNVRLQ19kTTd2X2JxMkNvQnNISmt3LS1RUmNjSUg3Qmpjb205S0RvZXJTRXhIal9TaVpfb1hMRTVBaXdoRUp4VS1tWGpqSWZUcWdIYXo4bkJhX0ZVbTB6VVowRHJIam9lVlNhTHc?oc=5) - This matters because USPS rate changes directly affect shipping costs, which impacts the profitability of Aydins' free shipping guarantee and overall margin. Recommended action: Review the new USPS rates and adjust your shipping profiles and pricing strategy within the next two weeks to maintain margins.
+
 ## 2026-07-10
 ### Actionable
 - [New USPS Noncompliance Fee Could Take Sellers by Surprise - EcommerceBytes](https://news.google.com/rss/articles/CBMiogFBVV95cUxOR09sbnJndzZYVWc2UGZ2YVlhb3dMMWNKWUJRRm9ab2JRTFNkQVlJUFAxcVI0SzB0SFRfTjYzMk9ldkQzeWtCUkRzLUpJSzkwQXR1TllQVjRsYkg1ajRZdzZTcFJwTDRBb0dTeF9wc3ZiVnd0NXZaZmFqRTNxMWtNdjdNVDFNV3J6VlpvNXdhVXFqdzJzTGdWeUpfNC16TENyZ1E?oc=5) - This new USPS fee for non-compliant packages directly impacts shipping costs and margins for Aydins, who ships physical jewelry products. Review current packaging and labeling processes immediately to ensure compliance and avoid unexpected fee deductions from Etsy payouts.

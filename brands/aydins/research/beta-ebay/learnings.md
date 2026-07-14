@@ -1,6 +1,10 @@
 # beta-ebay Cumulative Learnings
 
 
+## 2026-07-14
+### Actionable
+- [eBay (EBAY) Invests In Fleek To Chase The $200 Billion Resale Market - Sahm](https://news.google.com/rss/articles/CBMiuAFBVV95cUxONkdKNnoxbk15S0NTZ3JfOFZuMURteGVKX2x6VFozaWxFTDVCR3liRXNmVU5IRy04OTVIY05qLXhzZTFpU1FtVFFYN1BEUy1vYUZVdXRwemQ2SnQwV1NTY0w4UWNHY1E0RkVvMlBJQmtYaDdFVXhNVFNzc3FNdHY5NWJVdjhkNkFYN1dCTldsSEkzQUhQSFhRYWR5dEdnaTE5RG1uVnRKb1hHQlV5MjlVRlhabTAtdlg3?oc=5) - This article covers eBay's strategic investment in Fleek, a resale platform, which signals a competitive push in the jewelry-adjacent resale market and could impact long-term strategy and fee pressures. - Monitor this investment for potential new competitive threats or partnership opportunities in the jewelry category.
+
 ## 2026-07-13
 ### Actionable
 - [eBay (EBAY) Invests In Fleek To Chase The $200 Billion Resale Market - Sahm](https://news.google.com/rss/articles/CBMiuAFBVV95cUxONkdKNnoxbk15S0NTZ3JfOFZuMURteGVKX2x6VFozaWxFTDVCR3liRXNmVU5IRy04OTVIY05qLXhzZTFpU1FtVFFYN1BEUy1vYUZVdXRwemQ2SnQwV1NTY0w4UWNHY1E0RkVvMlBJQmtYaDdFVXhNVFNzc3FNdHY5NWJVdjhkNkFYN1dCTldsSEkzQUhQSFhRYWR5dEdnaTE5RG1uVnRKb1hHQlV5MjlVRlhabTAtdlg3?oc=5) - This matters because eBay's strategic investment in AI-powered listing tools (like Fleek) could soon introduce new, must-use features that impact listing efficiency and visibility for sellers. - Monitor eBay's announcements for new AI listing tools and prepare to test them to maintain competitive listing quality.

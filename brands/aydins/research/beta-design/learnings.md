@@ -1,6 +1,15 @@
 # beta-design Cumulative Learnings
 
 
+## 2026-07-14
+### Actionable
+- [Start building with Nano Banana 2 Lite and Gemini Omni Flash](https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/) - This is a direct update to the Gemini image model family (Nano Banana) that Aydins uses for product hero shots, potentially offering better performance or cost savings. **Action:** Immediately test Nano Banana 2 Lite against the current reference image rule (locked 2026-06-04) to see if it improves quality or reduces costs for product generation.
+- [Expanding Managed Agents in Gemini API: background tasks, remote MCP and more](https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/) - Enhanced managed agents could simplify or improve the agentic loops Aydins runs on Hetzner VPS for channel management. **Action:** Evaluate if the new Managed Agents capabilities (background tasks, remote MCP) can replace or streamline parts of the current beta orchestrator setup within the next 2-4 weeks.
+- [Goose Ads Remixer](https://www.producthunt.com/products/gooseworks) - This tool appears to be a new AI-powered ad remixer, directly relevant to compressing the marketing/ad creative workflow currently handled by agents. **Action:** Test Goose Ads Remixer against current ad variant generation processes (beta-meta, beta-google) to assess speed and quality improvements.
+- [Branda](https://www.producthunt.com/products/branda-open-source-on-brand-ad-maker) - An open-source, on-brand ad maker could materially shift cost and control for Aydins's ad creative production. **Action:** Investigate this open-source tool as a potential cost-effective alternative or supplement to current AI ad creative tools.
+- [AI Media Buyer By Creatify](https://www.producthunt.com/products/creatify) - A tool that automates media buying with AI could compress or replace parts of the agentic workflow for ad platforms. **Action:** Assess if this tool can be integrated into or replace aspects of the beta-meta/beta-google specialist agents.
+- [Simba Voice Agents](https://www.producthunt.com/products/speechify) - New voice AI agents could be relevant for customer service automation or creating audio/video ad content, areas adjacent to Aydins's stack. **Action:** Explore Simba Voice Agents for potential use cases in customer interaction or audio ad generation.
+
 ## 2026-07-13
 ### Critical
 - [Start building with Nano Banana 2 Lite and Gemini Omni Flash](https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/) - This is a direct update to the "nano-banana" image generation family Aydins uses for product hero shots, potentially offering better performance or cost. **Action:** Immediately test Nano Banana 2 Lite against the current reference image rule (locked 2026-06-04) to see if it improves quality or reduces costs for product shots.

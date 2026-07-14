@@ -1,6 +1,12 @@
 # beta-klaviyo Cumulative Learnings
 
 
+## 2026-07-14
+### Actionable
+- [How does a mailbox provider support and display BIMI logos?](https://www.spamresource.com/feeds/1858106414533517525/comments/default) - This directly addresses BIMI, a key sender authentication and branding topic for 2026, which can improve trust and visibility in subscriber inboxes. **Action:** Review current BIMI setup and assess feasibility of implementing a verified logo for key sending domains.
+- [DMARC, SPF & DKIM Setup: Stop Spoofing in 12 Steps [2026]](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9BM3JqQ0M3SEZfeC1fdkdqRUExeVhoMThRSnlEYXd4dkpPZnhEU05uYWVkV0dkR3Q0bmpjbi1WS25sYUk2SUU0R1d6TFZIS1NiRzdTaDh0ZWJLZy1ONHVOdjVZWm0?oc=5) - A 2026-specific guide to core email authentication (DMARC/SPF/DKIM) is critical for meeting Gmail/Yahoo requirements and protecting deliverability. **Action:** Audit current domain authentication settings against this latest guide to ensure full compliance.
+- [Your Holiday Emails Start Now: A Summer Deliverability Prep Guide](https://www.litmus.com/blog/your-holiday-emails-start-now-a-summer-deliverability-prep-guide) - Published July 9, 2026, this is a timely, proactive guide to ensure high-volume holiday campaigns land in the inbox, directly impacting Aydins' Q4 revenue target. **Action:** Schedule a deliverability health check (list hygiene, sender reputation, authentication) within the next two weeks as the first step in this prep.
+
 ## 2026-07-13
 ### Actionable
 - [How does a mailbox provider support and display BIMI logos?](https://www.spamresource.com/feeds/1858106414533517525/comments/default) - This is directly about BIMI, a tracked sender policy topic relevant for brand trust and inbox placement. Review current BIMI setup (DNS, verified mark certificate) to ensure proper logo display in supported inboxes like Gmail.

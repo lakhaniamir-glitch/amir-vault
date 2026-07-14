@@ -1,6 +1,11 @@
 # beta-meta Cumulative Learnings
 
 
+## 2026-07-14
+### Actionable
+- [Meta Adds Clearer AI Labels to Facebook and Instagram Ads - ALM Corp](https://news.google.com/rss/articles/CBMihgFBVV95cUxNUHN5WGNlLXNERl92NlQydkxiZGpxV1RreHlDU2txSl9RVW1ockZsWnZncWM0NTJNNVN6MWZBWDNPc2QyQmtrMnlRTldDUmc5QzdtRi1hcG9pVGJvMTdadmxxZHR0WGtla1RxYVBsZVlPaDF5Y1lJcWdHeHpoMjlHMW81eGV3Zw?oc=5) - Meta is now requiring clearer disclosure for AI-generated ad content, which directly impacts creative compliance and user trust. **Action:** Audit all active and upcoming ad creatives to ensure any AI-generated imagery or video is properly labeled to avoid rejection or penalties.
+- [Meta adds updated disclosure tags for AI-generated ads - Social Media Today](https://news.google.com/rss/articles/CBMiogFBVV95cUxPa3ZlaFpWUDZOLTktTndWaklJdzRpVVQzM3F5QzRueXVreWxEWFlyTEEySUMxUFNsN3poYjRiVmpPakc0WWkzMXZGMmV2SC00ekxFUW5XUm9fRGZvdXpRY1NYWGFkVXRUcmwyQ3FQUnZHbkQwM1lfLVhFbndVVm1kY2xYdXNITlRDLWlLWG93ei1SbzNVTFpuOEdLbEZFRmxVQkE?oc=5) - This is a platform-wide update to AI ad labeling rules, affecting all advertisers and requiring immediate attention to creative workflow. **Action:** Review Meta's updated policy documentation and implement a process to tag AI-generated assets within your ad creation tool (e.g., Meta Ads Manager, third-party tools).
+
 ## 2026-07-13
 ### Actionable
 - [Meta adds updated disclosure tags for AI-generated ads - Social Media Today](https://news.google.com/rss/articles/CBMiogFBVV95cUxPa3ZlaFpWUDZOLTktTndWaklJdzRpVVQzM3F5QzRueXVreWxEWFlyTEEySUMxUFNsN3poYjRiVmpPakc0WWkzMXZGMmV2SC00ekxFUW5XUm9fRGZvdXpRY1NYWGFkVXRUcmwyQ3FQUnZHbkQwM1lfLVhFbndVVm1kY2xYdXNITlRDLWlLWG93ei1SbzNVTFpuOEdLbEZFRmxVQkE?oc=5) - This directly impacts ad creative compliance, as Meta now requires clear labeling for AI-generated content in ads, which could affect ad approval and user trust. **Action:** Review all ad creatives (especially Advantage+ Shopping assets) and ensure any AI-generated images/videos are properly tagged to avoid potential disapproval or penalties.
