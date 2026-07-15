@@ -1,6 +1,12 @@
 # beta-klaviyo Cumulative Learnings
 
 
+## 2026-07-15
+### Actionable
+- [How does a mailbox provider support and display BIMI logos?](https://www.spamresource.com/feeds/1858106414533517525/comments/default) - This provides a timely update on BIMI implementation, which is a key part of Gmail/Yahoo 2026 sender requirements for brand trust and deliverability. **Action:** Review your BIMI setup (VMC, logo, DNS) to ensure it's correctly configured and displaying in supported inboxes.
+- [RE: Don't Do This: Google's Guide to Keeping Gmail Happy](https://www.spamresource.com/feeds/2810272831849546898/comments/default) - This is a direct commentary on Google's latest Gmail sender guidance, critical for maintaining inbox placement under 2026 requirements. **Action:** Audit your sending practices (list hygiene, authentication, engagement) against this guide to avoid spam filtering.
+- [Apple changing hide my / sign in domains](https://www.spamresource.com/feeds/5394082189459339189/comments/default) - Changes to Apple's privacy features can impact open-rate tracking and link attribution, directly affecting campaign measurement. **Action:** Monitor how this change affects your iOS open rates and consider adjusting your engagement metrics accordingly.
+
 ## 2026-07-14
 ### Actionable
 - [How does a mailbox provider support and display BIMI logos?](https://www.spamresource.com/feeds/1858106414533517525/comments/default) - This directly addresses BIMI, a key sender authentication and branding topic for 2026, which can improve trust and visibility in subscriber inboxes. **Action:** Review current BIMI setup and assess feasibility of implementing a verified logo for key sending domains.

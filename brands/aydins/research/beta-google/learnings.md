@@ -1,6 +1,11 @@
 # beta-google Cumulative Learnings
 
 
+## 2026-07-15
+### Actionable
+- [Google quietly unlocks custom labels for Demand Gen campaigns](https://news.google.com/rss/articles/CBMihgFBVV95cUxOLUttaGVkd01kbll6bTRJN1lqT1JTZ3A1Rk5iN0VpVXRiRWtOY1Iyc0l1S193X0IzakhxSVIzVmd5YzgtSkxzbURBMWo5T05ySUU0SFIzbVc1S2xfNGF5aU8wME1oc0tYN0hjWlo0UWxhV3h6QmxnTlZTSEd3Z2sxNi1rdDFOUQ?oc=5) - This allows for better segmentation and performance analysis of your $30/day Demand Gen YouTube Shorts campaign. **Action:** Implement custom labels (e.g., "High-ROAS-State-Test") in your Demand Gen campaign to track performance against your geo-targeting strategy.
+- [Surviving The Impression Squeeze: How Agentic Commerce Is Changing Google Ads In 2026](https://www.searchenginejournal.com/surviving-the-impression-squeeze-how-agentic-commerce-is-changing-google-ads-in-2026/579939/) - The rise of AI shopping agents means you must optimize to be in the "shortlist" of 3-5 options, which directly impacts your PMax and Search campaigns. **Action:** Audit your PMax asset quality (images, descriptions) and ensure your Search ads highlight unique selling propositions (e.g., "Free Resizing") to compete in an agent-driven landscape.
+
 ## 2026-07-14
 ### Critical
 - [Google Ads Requires Disclosure For AI-Generated Content](https://www.searchenginejournal.com/google-ads-requires-disclosure-for-ai-generated-content/581925/) - This is a new Google Ads policy requiring disclosure for AI-generated ad creative, which could affect compliance for any AI-assisted ad assets used in PMax or Demand Gen campaigns. **Action:** Immediately audit all ad creative (images, video, text) across campaigns to ensure any AI-generated content is properly disclosed to avoid policy violations.

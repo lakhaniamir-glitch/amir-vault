@@ -1,6 +1,14 @@
 # beta-design Cumulative Learnings
 
 
+## 2026-07-15
+### Actionable
+- [Expanding Managed Agents in Gemini API:  background tasks, remote MCP and more](https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/) - This update to Google's Managed Agents could significantly enhance Aydins' existing agentic loops on Hetzner VPS by enabling more complex, backgrounded workflows and remote tool integration. Test the new capabilities against the current beta orchestrator setup to see if they improve reliability or reduce development overhead.
+- [GPT-5.6: Frontier intelligence that scales with your ambition](https://openai.com/index/gpt-5-6) - GPT-5.6 promises stronger performance per dollar, which could materially shift the cost/benefit analysis for Aydins' high-end reasoning tasks currently handled by Claude. Run a cost/performance benchmark against Claude Sonnet/Opus on a sample of high-end reasoning tasks to evaluate a potential switch.
+- [Introducing GPT-Live](https://openai.com/index/introducing-gpt-live) - A new generation of voice models for natural interaction could enhance customer service automation or create new audio marketing channels for Aydins. Explore the API for potential integration into voice-based customer interactions or ad creative.
+- [Goose Ads Remixer](https://www.producthunt.com/products/gooseworks) - This AI tool for remixing ads could directly speed up and improve the performance of Aydins' marketing and ad creative workflows, potentially replacing or augmenting current manual processes. Sign up for a trial to test its ability to generate variant ad creatives for Meta/Google/TikTok.
+- [Branda](https://www.producthunt.com/products/branda-open-source-on-brand-ad-maker) - An open-source, on-brand ad maker could reduce dependency on external design tools and lower costs for generating consistent marketing assets. Review the GitHub repository to assess if it can be self-hosted and integrated into the current ad creative pipeline.
+
 ## 2026-07-14
 ### Actionable
 - [Start building with Nano Banana 2 Lite and Gemini Omni Flash](https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/) - This is a direct update to the Gemini image model family (Nano Banana) that Aydins uses for product hero shots, potentially offering better performance or cost savings. **Action:** Immediately test Nano Banana 2 Lite against the current reference image rule (locked 2026-06-04) to see if it improves quality or reduces costs for product generation.

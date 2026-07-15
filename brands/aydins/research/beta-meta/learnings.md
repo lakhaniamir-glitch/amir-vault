@@ -1,6 +1,11 @@
 # beta-meta Cumulative Learnings
 
 
+## 2026-07-15
+### Actionable
+- [Meta Expands AI Labels for Facebook and Instagram Ads - Affiverse](https://news.google.com/rss/articles/CBMieEFVX3lxTE1qUHhhOUZ5MkltSmpucWRQblM2NmpNUFBReDA4dzRGTVBCWTVXcU9PeUJVdVh5UmtDTFM5YXpoRVpLaHg5RHJzVW5wSmpsckIzSGJ3UHBReUNwcVFZTHNaRkozNUZQTUNIVlYyYVV0S3B3Nk5VZlYtZQ?oc=5) - This update (July 10, 2026) requires clearer disclosure for AI-generated ad creatives, which could affect ad approval and user trust if not followed. **Action:** Review all ad creatives (especially Advantage+ Shopping assets) to ensure any AI-generated content is properly labeled to avoid delivery issues.
+- [Sociable: Meta adds updated disclosure tags for AI-generated ads - Marketing Dive](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdnlCUXliV1hmelNBZ2pQNFBWZDRIbW92d09ET2l2M1AwR0cyOFRZcnUzV0h0TVVTeU9LME1GMlR0UG03SmpJd2FaYzNCY2Y5Q3ZYV0JycTYwU2JoRjVucUUxNE1VcmJzTVUzSDU0NzB5b1N2S2N6NFZqV3luWlhUSXNXVGlva3phc2VQYjhsMmhpZUV3N2xuWC1zZjN5UnVZdzB5RUJLYVdudw?oc=5) - Another source confirming the new AI labeling mandate for ads (July 9, 2026), directly impacting creative strategy and compliance. **Action:** Audit your creative production pipeline and update any briefing documents to include the requirement for AI content disclosure tags.
+
 ## 2026-07-14
 ### Actionable
 - [Meta Adds Clearer AI Labels to Facebook and Instagram Ads - ALM Corp](https://news.google.com/rss/articles/CBMihgFBVV95cUxNUHN5WGNlLXNERl92NlQydkxiZGpxV1RreHlDU2txSl9RVW1ockZsWnZncWM0NTJNNVN6MWZBWDNPc2QyQmtrMnlRTldDUmc5QzdtRi1hcG9pVGJvMTdadmxxZHR0WGtla1RxYVBsZVlPaDF5Y1lJcWdHeHpoMjlHMW81eGV3Zw?oc=5) - Meta is now requiring clearer disclosure for AI-generated ad content, which directly impacts creative compliance and user trust. **Action:** Audit all active and upcoming ad creatives to ensure any AI-generated imagery or video is properly labeled to avoid rejection or penalties.
