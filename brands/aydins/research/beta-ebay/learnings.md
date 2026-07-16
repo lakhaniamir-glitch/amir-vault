@@ -1,6 +1,12 @@
 # beta-ebay Cumulative Learnings
 
 
+## 2026-07-16
+### Critical
+- [eBay Publicly Exposes Second Chance Offers - EcommerceBytes](https://news.google.com/rss/articles/CBMifEFVX3lxTE1nNEhQWXdyOElmMFBCX0xBZUw3M0ROT2oxUzdXM1VZN0FzWmhKdDd0ZHFJV2ZwUWprWUYydGY2NDBsYW4xYk1KUGtOT3gxUk9CVHFhMng5YXFPSWxpNkY0X3hBWVFLaDY3N2pjdXlFWVlNV3NSNG5yRFpVa1g?oc=5) — This is a recent (July 16, 2026) and significant change to a core eBay feature that could impact how Aydins manages unsold items and customer interactions. The action is to immediately review your Second Chance Offer settings and strategy to ensure you are comfortable with the new public visibility.
+### Actionable
+- [eBay Sellers Confused By New USPS Rates As Ground Advantage OZ-Based Tiers Vary By Zip Code - Value Added Resource](https://news.google.com/rss/articles/CBMigwFBVV95cUxONU9tSmxTMXVGNDVvUEtKN0ZKOGN6SktudmJ0SWVFMloxSldBcTZmdTNIaFNtRjZlbVBaM2FieFRjc3c0eFJzWm9EWm5HanlSWjkwYXVudmpfR1lQeDE4akczRExyWHppRXBabnJiQ2FqQ1RGcU1aaWxFcDFWYlNLeFlYZw?oc=5) — New, complex USPS shipping rates (published July 13, 2026) directly affect your cost calculations and listing prices for men's wedding bands. The action is to audit your current shipping profiles within the next two weeks and adjust them to account for the new zone- and weight-based pricing to protect margins.
+
 ## 2026-07-15
 ### Actionable
 - [The eBay Authenticity Guarantee program - eBay Inc. bets on trust at scale](https://news.google.com/rss/articles/CBMiygFBVV95cUxQS0kyXzlEMWpyN1h4N2pocHN3ZkZnSE9RZndjMXBPYmRXX01Dd1dyRFBFaEpDRU53ZWNHMmh1SHFCejlKWFduRDMxd2VBODRHVWNmSXY3dmprd2FPNUdmLUUxLTlGbUZnWnR5a2xzMXI1RFN4dURxeHlmaEU4bHk3Y2g1N2RSRUFUSzJmVG9EZzdKRVo1TjRrMUtDMDNTLU9oaHl2U29TVzRsc1ZHU29ybTlNNTA0SzNVMkhDUm4yZHFfWXByTVBhX1dn?oc=5) - This article, published July 11, 2026, discusses eBay's strategic push on the Authenticity Guarantee program, which is a watched event for Aydins Jewelry as it could expand into their category. **Why it matters:** An expansion of Authenticity Guarantee into jewelry would directly impact listing requirements, fees, and buyer trust for Aydins' wedding bands. **Recommended action:** Monitor eBay's seller announcements for any official expansion of the Authenticity Guarantee program into fine jewelry and prepare to evaluate its cost/benefit.

@@ -1,6 +1,10 @@
 # beta-etsy Cumulative Learnings
 
 
+## 2026-07-16
+### Critical
+- [Everything You Knew About Etsy Is Changing (Here's How To Adapt) Chesterfield Vs Notts County (fPyRimyvDD) - Mshale](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBBLWs2YmNoRDRTM1RTSnctZHo3cVhXbDhVbUdOUW9kbFdNTXZQNk53UXUzbnhZM19SRkNwc3hvYWpVdEVOdkVGSnFpNmFzdTVhamNqb0Q4TnhyVVdwSlVNRQ?oc=5) - This article, published July 16, 2026, directly addresses major Etsy changes that could impact seller fees, search algorithms, or policies, which are critical for Aydins' P&L and competitive strategy. Immediately review the article to understand the specific changes and assess their impact on fee structure, listing strategy, and ad spend.
+
 ## 2026-07-14
 ### Actionable
 - [USPS July Rate Changes Impact Sites Like eBay Differently - EcommerceBytes](https://news.google.com/rss/articles/CBMiogFBVV95cUxNQklzUFZvQlUydXM3NlhYU3B0UVM0V3VjUDRlWVVIX2Y1M3dyanFqTEZjUHJpMlh0QTBhMXZuNVRLQ19kTTd2X2JxMkNvQnNISmt3LS1RUmNjSUg3Qmpjb205S0RvZXJTRXhIal9TaVpfb1hMRTVBaXdoRUp4VS1tWGpqSWZUcWdIYXo4bkJhX0ZVbTB6VVowRHJIam9lVlNhTHc?oc=5) - This matters because USPS rate changes directly affect shipping costs, which impacts the profitability of Aydins' free shipping guarantee and overall margin. Recommended action: Review the new USPS rates and adjust your shipping profiles and pricing strategy within the next two weeks to maintain margins.

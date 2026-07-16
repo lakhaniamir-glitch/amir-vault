@@ -1,6 +1,12 @@
 # beta-design Cumulative Learnings
 
 
+## 2026-07-16
+### Actionable
+- [GPT-5.6: Frontier intelligence that scales with your ambition](https://openai.com/index/gpt-5-6) - This is a new, more capable/cost-effective frontier model release that could improve reasoning for high-end tasks or potentially lower costs for similar performance. **Recommended Action:** Evaluate GPT-5.6 via OpenRouter for cost/performance against Claude Sonnet/Opus for high-end reasoning tasks within the next two weeks.
+- [Expanding Managed Agents in Gemini API: background tasks, remote MCP and more](https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/) - New Gemini API agent capabilities could simplify or replace parts of Aydins' current Hetzner VPS agentic setup, especially for background tasks. **Recommended Action:** Test the new Managed Agents features against the current beta orchestrator to see if they reduce complexity or cost.
+- [Native-speed vLLM transformers modeling backend](https://huggingface.co/blog/native-speed-vllm-transformers-backend) - A significant performance upgrade for running open-source models on Replicate/Hugging Face could lead to faster inference and lower costs for specialized tasks. **Recommended Action:** Benchmark the new vLLM backend for any open-source models used on Replicate to see if it speeds up workflows or reduces compute costs.
+
 ## 2026-07-15
 ### Actionable
 - [Expanding Managed Agents in Gemini API:  background tasks, remote MCP and more](https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/) - This update to Google's Managed Agents could significantly enhance Aydins' existing agentic loops on Hetzner VPS by enabling more complex, backgrounded workflows and remote tool integration. Test the new capabilities against the current beta orchestrator setup to see if they improve reliability or reduce development overhead.

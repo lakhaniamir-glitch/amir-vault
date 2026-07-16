@@ -1,6 +1,13 @@
 # beta-klaviyo Cumulative Learnings
 
 
+## 2026-07-16
+### Actionable
+- [How does a mailbox provider support and display BIMI logos?](https://www.spamresource.com/feeds/1858106414533517525/comments/default) - This provides timely, detailed insight into BIMI implementation which is relevant for Gmail/Yahoo brand authentication and improving sender reputation. Review current BIMI setup and assess if a verified logo can be implemented to boost inbox placement and trust.
+- [Email-to-SMS no more?](https://www.spamresource.com/feeds/3338307170850566103/comments/default) - This discusses potential changes to Email-to-SMS gateways, which could directly impact SMS deliverability and compliance strategies. Investigate if any SMS flows rely on email-to-SMS and prepare contingency plans for pure SMS delivery.
+- [RE: Don't Do This: Google's Guide to Keeping Gmail Happy](https://www.spamresource.com/feeds/2810272831849546898/comments/default) - This is a direct commentary on current Gmail sender requirements, crucial for maintaining deliverability for a key inbox provider. Audit current email practices against Google's latest guidance to avoid spam filtering.
+- [Your Holiday Emails Start Now: A Summer Deliverability Prep Guide](https://www.litmus.com/blog/your-holiday-emails-start-now-a-summer-deliverability-prep-guide) - Proactive deliverability prep is critical for Q4 revenue, and this guide from July 2026 is timely for Aydins' holiday planning. Schedule a deliverability audit for August to ensure list health, authentication, and sender reputation are optimized before the holiday surge.
+
 ## 2026-07-15
 ### Actionable
 - [How does a mailbox provider support and display BIMI logos?](https://www.spamresource.com/feeds/1858106414533517525/comments/default) - This provides a timely update on BIMI implementation, which is a key part of Gmail/Yahoo 2026 sender requirements for brand trust and deliverability. **Action:** Review your BIMI setup (VMC, logo, DNS) to ensure it's correctly configured and displaying in supported inboxes.

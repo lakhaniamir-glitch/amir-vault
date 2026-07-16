@@ -1,6 +1,10 @@
 # beta-meta Cumulative Learnings
 
 
+## 2026-07-16
+### Actionable
+- [Meta Adds Clearer AI Labels to Facebook and Instagram Ads - ALM Corp](https://news.google.com/rss/articles/CBMihgFBVV95cUxNUHN5WGNlLXNERl92NlQydkxiZGpxV1RreHlDU2txSl9RVW1ockZsWnZncWM0NTJNNVN6MWZBWDNPc2QyQmtrMnlRTldDUmc5QzdtRi1hcG9pVGJvMTdadmxxZHR0WGtla1RxYVBsZVlPaDF5Y1lJcWdHeHpoMjlHMW81eGV3Zw?oc=5) - This new ad transparency requirement means Aydins must ensure all ad creatives comply with Meta's AI disclosure rules to avoid disapproval. **Action:** Review all active and upcoming ad creatives for any AI-generated elements and apply the required "Made with AI" label before July 27, 2026.
+
 ## 2026-07-15
 ### Actionable
 - [Meta Expands AI Labels for Facebook and Instagram Ads - Affiverse](https://news.google.com/rss/articles/CBMieEFVX3lxTE1qUHhhOUZ5MkltSmpucWRQblM2NmpNUFBReDA4dzRGTVBCWTVXcU9PeUJVdVh5UmtDTFM5YXpoRVpLaHg5RHJzVW5wSmpsckIzSGJ3UHBReUNwcVFZTHNaRkozNUZQTUNIVlYyYVV0S3B3Nk5VZlYtZQ?oc=5) - This update (July 10, 2026) requires clearer disclosure for AI-generated ad creatives, which could affect ad approval and user trust if not followed. **Action:** Review all ad creatives (especially Advantage+ Shopping assets) to ensure any AI-generated content is properly labeled to avoid delivery issues.
