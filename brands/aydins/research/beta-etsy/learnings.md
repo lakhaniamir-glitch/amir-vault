@@ -1,6 +1,12 @@
 # beta-etsy Cumulative Learnings
 
 
+## 2026-07-17
+### Critical
+- [Etsy JUST Changed Personalization — Here's What Every Seller Needs To Know](https://news.google.com/rss/articles/CBMiW0FVX3lxTE90cGVDTGpmZzFHV1RfVmdHOGxxTUVoZE5IajR6WkNUdkZ1Nnp6dUZIczY1cUF5WHNXakRYZ3A0UUpnUjlITEdVbjdMS0ViMHNkTVlzMW9TeDZrVjA?oc=5) - This directly impacts Aydins' listing copy and policy compliance for presenting white-labeled rings as handcrafted, requiring immediate review to avoid listing violations. **Action:** Audit all jewelry listings this week to ensure personalization descriptions and item details align with the new rules to prevent deactivation or penalties.
+### Actionable
+- [Everything You Knew About Etsy Is Changing (Here's How To Adapt)](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBBLWs2YmNoRDRTM1RTSnctZHo3cVhXbDhVbUdOUW9kbFdNTXZQNk53UXUzbnhZM19SRkNwc3hvYWpVdEVOdkVGSnFpNmFzdTVhamNqb0Q4TnhyVVdwSlVNRQ?oc=5) - This article, published July 16, 2026, likely covers broad platform changes (like algorithm or fee shifts) that could affect Aydins' visibility and profitability in a saturated category. **Action:** Read the analysis within the next two weeks to identify specific tactical adjustments needed for Etsy Ads, listings, or pricing to maintain competitive edge.
+
 ## 2026-07-16
 ### Critical
 - [Everything You Knew About Etsy Is Changing (Here's How To Adapt) Chesterfield Vs Notts County (fPyRimyvDD) - Mshale](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBBLWs2YmNoRDRTM1RTSnctZHo3cVhXbDhVbUdOUW9kbFdNTXZQNk53UXUzbnhZM19SRkNwc3hvYWpVdEVOdkVGSnFpNmFzdTVhamNqb0Q4TnhyVVdwSlVNRQ?oc=5) - This article, published July 16, 2026, directly addresses major Etsy changes that could impact seller fees, search algorithms, or policies, which are critical for Aydins' P&L and competitive strategy. Immediately review the article to understand the specific changes and assess their impact on fee structure, listing strategy, and ad spend.

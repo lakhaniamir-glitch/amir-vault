@@ -1,6 +1,12 @@
 # beta-meta Cumulative Learnings
 
 
+## 2026-07-17
+### Actionable
+- [Facebook ad sizes and specs cheat sheet for 2026](https://blog.hootsuite.com/facebook-ad-sizes/) - This ensures Aydins' ad creatives are built to the latest platform specifications, preventing delivery issues and optimizing visual impact. **Action:** Review and update all active and upcoming ad creative templates against the 2026 specs.
+- [Meta Expands AI Labels for Facebook and Instagram Ads](https://news.google.com/rss/articles/CBMieEFVX3lxTE1qUHhhOUZ5MkltSmpucWRQblM2NmpNUFBReDA4dzRGTVBCWTVXcU9PeUJVdVh5UmtDTFM5YXpoRVpLaHg5RHJzVW5wSmpsckIzSGJ3UHBReUNwcVFZTHNaRkozNUZQTUNIVlYyYVV0S3B3Nk5VZlYtZQ) - New AI labeling requirements could affect ad perception and trust; Aydins must ensure compliance to avoid potential disapproval flags. **Action:** Audit recent ad copy and creatives for any AI-generated elements and prepare to apply the new labels as required.
+- [Meta Adds Clearer AI Labels to Facebook and Instagram Ads](https://news.google.com/rss/articles/CBMihgFBVV95cUxNUHN5WGNlLXNERl92NlQydkxiZGpxV1RreHlDU2txSl9RVW1ockZsWnZncWM0NTJNNVN6MWZBWDNPc2QyQmtrMnlRTldDUmc5QzdtRi1hcG9pVGJvMTdadmxxZHR0WGtla1RxYVBsZVlPaDF5Y1lJcWdHeHpoMjlHMW81eGV3Zw) - This is a direct platform policy update (July 13, 2026) requiring advertisers to clearly disclose AI-generated content in ads. **Action:** Immediately review Meta's Business Help Center for the official guidelines and update the ad creation process to include mandatory AI disclosures where applicable.
+
 ## 2026-07-16
 ### Actionable
 - [Meta Adds Clearer AI Labels to Facebook and Instagram Ads - ALM Corp](https://news.google.com/rss/articles/CBMihgFBVV95cUxNUHN5WGNlLXNERl92NlQydkxiZGpxV1RreHlDU2txSl9RVW1ockZsWnZncWM0NTJNNVN6MWZBWDNPc2QyQmtrMnlRTldDUmc5QzdtRi1hcG9pVGJvMTdadmxxZHR0WGtla1RxYVBsZVlPaDF5Y1lJcWdHeHpoMjlHMW81eGV3Zw?oc=5) - This new ad transparency requirement means Aydins must ensure all ad creatives comply with Meta's AI disclosure rules to avoid disapproval. **Action:** Review all active and upcoming ad creatives for any AI-generated elements and apply the required "Made with AI" label before July 27, 2026.

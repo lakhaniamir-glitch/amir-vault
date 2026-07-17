@@ -1,6 +1,12 @@
 # beta-klaviyo Cumulative Learnings
 
 
+## 2026-07-17
+### Actionable
+- [Email-to-SMS no more?](https://www.spamresource.com/feeds/3338307170850566103/comments/default) - This discusses potential changes to email-to-SMS gateways, which could directly impact Aydins' SMS delivery and compliance strategy if carriers are restricting this method. Review your current SMS signup and delivery methods to ensure you're not reliant on potentially deprecated email-to-SMS gateways.
+- [Apple changing hide my / sign in domains](https://www.spamresource.com/feeds/5394082189459339189/comments/default) - Apple's changes to privacy domains could affect email open tracking and link click attribution for users on iOS/Mac. Test your Klaviyo open-rate reporting and UTM tracking for segments using Apple Mail to understand the potential impact on your performance data.
+- [How does a mailbox provider support and display BIMI logos?](https://www.spamresource.com/feeds/1858106414533517525/comments/default) - BIMI increases brand trust and inbox placement, which is critical for Aydins' holiday email performance. Investigate implementing BIMI for your sending domains to improve deliverability and brand recognition ahead of the peak season.
+
 ## 2026-07-16
 ### Actionable
 - [How does a mailbox provider support and display BIMI logos?](https://www.spamresource.com/feeds/1858106414533517525/comments/default) - This provides timely, detailed insight into BIMI implementation which is relevant for Gmail/Yahoo brand authentication and improving sender reputation. Review current BIMI setup and assess if a verified logo can be implemented to boost inbox placement and trust.
