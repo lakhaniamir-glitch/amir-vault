@@ -1,6 +1,11 @@
 # beta-meta Cumulative Learnings
 
 
+## 2026-07-22
+### Actionable
+- [Facebook ad sizes and specs cheat sheet for 2026](https://blog.hootsuite.com/facebook-ad-sizes/) - This provides the latest technical specifications for ad creatives, which is critical for ensuring ads are not rejected and render correctly across placements. **Action:** Review the cheat sheet and audit all active and planned ad creatives for compliance with 2026 specs to avoid delivery issues.
+- [Exploring Hierarchical Interest Representation For Meta Ads Deep Funnel Optimization - Engineering at Meta](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNa04wMWh2T0JYQUZTbk5mS3VTYnRzWG9Sc3ZGQ041RlFGbGhjMThsOW9sTndhOW5OenRyNEZ3SzhfY1BEM3NlYmVMaEpXZXFWSzRDLWgwYkFaekt6d2lvcTdKMTI1bE5MalZUR2l4SkhOU3EwRmlySVBrY3BfYlczWDNQWHB1R1JaaHZPOVBDZnhhLWRoaEppM2xzWmJCaXZqOUxKUGNNWVNPNTA0Nmg1RFBJb2xRNFdxQkV0VldaVlF4U1pHbVk0NEFJS1NfUERO?oc=5) - This signals ongoing, fundamental changes to how Meta's ad system understands and targets user interests, which could impact campaign performance and optimization strategies. **Action:** Monitor for official announcements or beta tests related to this new interest modeling and be prepared to adjust targeting strategies if broad changes are rolled out.
+
 ## 2026-07-17
 ### Actionable
 - [Facebook ad sizes and specs cheat sheet for 2026](https://blog.hootsuite.com/facebook-ad-sizes/) - This ensures Aydins' ad creatives are built to the latest platform specifications, preventing delivery issues and optimizing visual impact. **Action:** Review and update all active and upcoming ad creative templates against the 2026 specs.

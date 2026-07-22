@@ -1,6 +1,12 @@
 # beta-etsy Cumulative Learnings
 
 
+## 2026-07-22
+### Critical
+- [Etsy JUST Changed Personalization — Here's What Every Seller Needs To Know](https://news.google.com/rss/articles/CBMiW0FVX3lxTE90cGVDTGpmZzFHV1RfVmdHOGxxTUVoZE5IajR6WkNUdkZ1Nnp6dUZIczY1cUF5WHNXakRYZ3A0UUpnUjlITEdVbjdMS0ViMHNkTVlzMW9TeDZrVjA?oc=5) - This directly impacts Aydins' listing copy and policy compliance, as their white-labeled rings are presented as handcrafted, making personalization rule changes a critical risk. **Action:** Review the new personalization rules immediately and audit all active listings for compliance to avoid potential listing removals or account issues.
+### Actionable
+- [Everything You Knew About Etsy Is Changing (Here's How To Adapt)](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBBLWs2YmNoRDRTM1RTSnctZHo3cVhXbDhVbUdOUW9kbFdNTXZQNk53UXUzbnhZM19SRkNwc3hvYWpVdEVOdkVGSnFpNmFzdTVhamNqb0Q4TnhyVVdwSlVNRQ?oc=5) - This article, published on July 16, 2026, likely covers broad platform changes that could affect search, fees, or seller tools, requiring Aydins to adapt their strategy. **Action:** Read the article within the next two weeks to identify specific changes to Etsy's ecosystem and update your operational playbook accordingly.
+
 ## 2026-07-17
 ### Critical
 - [Etsy JUST Changed Personalization — Here's What Every Seller Needs To Know](https://news.google.com/rss/articles/CBMiW0FVX3lxTE90cGVDTGpmZzFHV1RfVmdHOGxxTUVoZE5IajR6WkNUdkZ1Nnp6dUZIczY1cUF5WHNXakRYZ3A0UUpnUjlITEdVbjdMS0ViMHNkTVlzMW9TeDZrVjA?oc=5) - This directly impacts Aydins' listing copy and policy compliance for presenting white-labeled rings as handcrafted, requiring immediate review to avoid listing violations. **Action:** Audit all jewelry listings this week to ensure personalization descriptions and item details align with the new rules to prevent deactivation or penalties.

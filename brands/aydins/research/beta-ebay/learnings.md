@@ -1,6 +1,13 @@
 # beta-ebay Cumulative Learnings
 
 
+## 2026-07-22
+### Critical
+- [New eBay Live Fee Rates Undercut Regular Selling Costs, Rival Whatnot - Value Added Resource](https://news.google.com/rss/articles/CBMia0FVX3lxTE5MU0VfZFVCLUtGZVVnUENqQm1XQ2NFcTM0djU1RWNnNV9heF9IcVpZUmRaQkNwLUtyd0tDb05McjNMNmdyQkZNZmlnamFGaU5Ub191emFaNmwwQ0tWY2RYMWJFTThRSVZyV21N?oc=5) - This directly impacts the fee structure for a key sales channel (eBay Live) and could affect Aydins' profitability on auctions for jewelry. **Action:** Review the new fee structure for eBay Live and calculate if it's now viable for promoting men's wedding bands via live streams.
+- [eBay UK Renames Yodel Shipping Options As InPost Transition Continues - Value Added Resource](https://news.google.com/rss/articles/CBMidkFVX3lxTFB3MzJSckREajVSRjU4ZEtIQUN2R3I0VEF2R2J6MzJnTC1kWWNId1lfOWtzQ2xDZmxvYmZmelNTV19pbGVZaHRYbHZPTVVJZ1RuQ3RDa29iUGJudFFxMEg2dHVJQUpXTnRZZHoxWHE3MkZjVG5GOFE?oc=5) - Changes to shipping carrier options and labels in a major market (UK) could disrupt international sales and fulfillment logistics. **Action:** Check eBay seller hub for updates on UK shipping settings and adjust listings if InPost is now the default or preferred carrier.
+### Actionable
+- [Making all sellers top performers using AI agents -... - Technology Record](https://news.google.com/rss/articles/CBMilAFBVV95cUxNejZBMWUyaEdnaXo3aHRWd1Btcjkwc0JWTmR1S2ZsVEpQTUx6RHFIeGVTcEZfdElVbWt3ZDJXTER5cWo0WlIwYnA5UkY1M3JvWmlDcHI4SzVfdFRhRXJmT2hiYnJUSWNBVklEQlBlNFFmSlhnNXMwZTJXUWYyMzZIUUdyaUtqa01TanliMzFOTVhuTURj?oc=5) - This discusses AI tools to improve seller performance, which is crucial for maintaining Top Rated status and visibility in Best Match. **Action:** Investigate the specific AI agent tools mentioned to automate and optimize listing quality and customer service metrics.
+
 ## 2026-07-16
 ### Critical
 - [eBay Publicly Exposes Second Chance Offers - EcommerceBytes](https://news.google.com/rss/articles/CBMifEFVX3lxTE1nNEhQWXdyOElmMFBCX0xBZUw3M0ROT2oxUzdXM1VZN0FzWmhKdDd0ZHFJV2ZwUWprWUYydGY2NDBsYW4xYk1KUGtOT3gxUk9CVHFhMng5YXFPSWxpNkY0X3hBWVFLaDY3N2pjdXlFWVlNV3NSNG5yRFpVa1g?oc=5) — This is a recent (July 16, 2026) and significant change to a core eBay feature that could impact how Aydins manages unsold items and customer interactions. The action is to immediately review your Second Chance Offer settings and strategy to ensure you are comfortable with the new public visibility.

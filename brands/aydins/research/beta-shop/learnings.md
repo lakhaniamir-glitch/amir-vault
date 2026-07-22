@@ -1,6 +1,10 @@
 # beta-shop Cumulative Learnings
 
 
+## 2026-07-22
+### Critical
+- [Introducing a brand new Collections experience (2026) - Shopify](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8tSFhpa29XdUZVRzlkYjlCT19hQ0NJWlFlNXd1ZHdsWG9leGtjV2J5X3NTYlpZMHAtZ2RmNGJERW9fVDJfUkR5UzZoaTJLRVJIVUw4WDRUSmJuVEwzR0s1cGxpNFI2b1E?oc=5) — This is a core platform change to the collection UI/API that could impact theme sections and your migration from Kalles v4 to OS2.0 v5. **Action:** Review the changelog details in your Shopify Admin to assess impact on your unpublished v5 theme and planned collection blocks.
+
 ## 2026-07-17
 ### Actionable
 - [Introducing a brand new Collections experience (2026) - Shopify](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8tSFhpa29XdUZVRzlkYjlCT19hQ0NJWlFlNXd1ZHdsWG9leGtjV2J5X3NTYlpZMHAtZ2RmNGJERW9fVDJfUkR5UzZoaTJLRVJIVUw4WDRUSmJuVEwzR0s1cGxpNFI2b1E?oc=5) - This is a core platform UI/UX change that could affect collection management and theme display during the OS2.0 migration. **Action:** Review the new interface in the Shopify admin to understand any changes to collection rules or display settings that might impact the v5 theme.

@@ -1,6 +1,12 @@
 # beta-klaviyo Cumulative Learnings
 
 
+## 2026-07-22
+### Actionable
+- [Your Holiday Emails Start Now: A Summer Deliverability Prep Guide](https://www.litmus.com/blog/your-holiday-emails-start-now-a-summer-deliverability-prep-guide) - This is a timely reminder to audit sender reputation and list hygiene before the high-volume holiday season, which is critical for Aydins Jewelry's revenue target. **Action:** Review recent campaign deliverability metrics and clean inactive subscribers before planning Q4 sends.
+- [APRF: A New Standard for Deliverability Feedback](https://www.spamresource.com/feeds/6565996904472730355/comments/default) - A new feedback standard could improve inbox placement diagnostics, directly impacting the deliverability of Aydins' high-value lifecycle flows. **Action:** Monitor Klaviyo's support channels or blog for any announced APRF integration or recommended configuration updates.
+- [Email-to-SMS no more?](https://www.spamresource.com/feeds/3338307170850566103/comments/default) - Potential changes to email-to-SMS gateways could disrupt a common SMS marketing tactic, affecting Aydins' SMS flows. **Action:** Review if any SMS campaigns rely on email-triggered sends and prepare to use native SMS APIs if needed.
+
 ## 2026-07-17
 ### Actionable
 - [Email-to-SMS no more?](https://www.spamresource.com/feeds/3338307170850566103/comments/default) - This discusses potential changes to email-to-SMS gateways, which could directly impact Aydins' SMS delivery and compliance strategy if carriers are restricting this method. Review your current SMS signup and delivery methods to ensure you're not reliant on potentially deprecated email-to-SMS gateways.

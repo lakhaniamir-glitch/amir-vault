@@ -1,6 +1,14 @@
 # beta-tiktok Cumulative Learnings
 
 
+## 2026-07-22
+### Critical
+- [TikTok Shop Is Piloting a Managed Service for Sellers](https://news.google.com/rss/articles/CBMic0FVX3lxTE9uMUxCVnlWQWZRUGJkVDAzSUpuaE9IaG1GYmpGQk0walhJS3R0d21MY2lGZGQtUC0teEZ1VHFQOUVqN2xMei1fZHZvbmdlbmpCTWhuVGsyUWVpQ0pMN2l2aEhPeG5mbk1SWkF1elB4Nk95NlU?oc=5) - This new managed service could significantly change how Aydins operates and optimizes its TikTok Shop, requiring immediate evaluation. **Action:** Review the pilot program details and assess if Aydins qualifies to join, as it may offer better support and tools for sellers.
+### Actionable
+- [The Best Time to Post on TikTok in 2026: New Data from 7M Posts](https://buffer.com/resources/best-time-to-post-on-tiktok/) - Fresh, data-driven posting schedule recommendations can directly improve Aydins's organic reach and FYP performance. **Action:** Test the suggested peak times in the upcoming publishing schedule and measure engagement lift.
+- [TikTok Shop creators are facing an AI reckoning](https://news.google.com/rss/articles/CBMingFBVV95cUxPWGZiZ0lCQ0ptclFBVHJHNm1vb0o0ZzBidE1TS2tzWjNzc0xfd0V6czFKS3c3b2tabkg1cnNrYmxTcmlfYzlyLURQcm5PRUxPcmdGYnZzSmo1OVAxcnJKZTNSOUpIN2ZNOC1pTFcxTUl1aHp3VlhHM2dQU3B3RElPSGNrMTNVSTlxUER1dF9Xcy1XaklIOE1KS1huTDkzdw?oc=5) - As Aydins uses automated content pipelines, understanding new AI content policies and detection is crucial to avoid penalties. **Action:** Audit current automated content for potential "AI slop" flags and adjust generation parameters to ensure authenticity.
+- [TikTok Shop expands into alcohol sales despite age concerns](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQY3dac2thNVdaZ3FRc0dtUUozeDFzNDQzVmZ4cXFycUNPM1VkOHgyaFZzS1N2ZmdNM0I6U0RlVDMwZ1VSdHRtQVlQZkZ1ak9hSmdJaEo1SXNZRENQR2l4OUd1RTV5dEJ4czdwU3g0Wjh4UzJWUG0ta1NtV05mQUpram0zNUFBR1dVV3BTd3JkU0Y2RzFadl80TnBKMTNGeTBmS2V4ZExqT29FdVBjei1JOHJYMmhfMWcwNW5idmM1SEhENmVJeXNIZg?oc=5) - This indicates TikTok Shop is rapidly expanding its catalog, which could signal new category opportunities or increased platform competition. **Action:** Monitor the jewelry/luxury category performance as new categories draw user attention and spending.
+
 ## 2026-07-17
 ### Critical
 - [TikTok Shop Bans AI Voices From Live Commerce Streams: Violations Now Dent Account Health Score - Tech Times](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQRFlsaXMybEZuMWlzMlUwRkJHejZiV0xTakZRekdDc0txWnlqRThLeHZ5OHN1ZmwwX1NIZFVDM3BSMmg3NGpmVjI0OTUxb29LS29raTBLbzM4bkRrXzNQLWtoMS1GVGJ3U1VYNlh6VV81d3ZSTHZMdHpsLWJ3V29PTS03eFVsZUtKVkVfa1dQVHZKYm9yZklMU3RFbi1pRjBDTXZyZ2lCN3NDcUFwN2FTM0hQT3RmNDFfSmd3NlJiU3FwMFdSN0JVR3lzOUhuTm9NbkFMa3VlN3p0WnFL?oc=5) - This directly impacts Aydins' automated content pipeline if they use AI voices in TikTok Shop live streams, as violations now harm account health. **Action:** Immediately audit any live commerce content for AI voice usage and switch to human voices to protect account standing.
