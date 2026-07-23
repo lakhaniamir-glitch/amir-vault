@@ -1,6 +1,13 @@
 # beta-google Cumulative Learnings
 
 
+## 2026-07-23
+### Actionable
+- [Google Ads adds missed growth estimates to the Recommendations tab](https://searchengineland.com/google-ads-adds-missed-growth-estimates-to-the-recommendations-tab-482917) - This new feature can identify potential ROAS lift in your campaigns, which is crucial for improving your current 1.7x blended return. - Review the Recommendations tab weekly for new "missed growth" estimates and test implementing the suggested changes on a single campaign.
+- [Google Ads simplifies GA4 setup with bulk account linking](https://searchengineland.com/google-ads-simplifies-ga4-setup-with-bulk-account-linking-482896) - Proper GA4-Google Ads linking is foundational for accurate conversion tracking and Smart Bidding, which you've just cleaned up. - Use the new bulk linking feature to ensure your GA4 property is correctly connected to all your Google Ads campaigns for reliable data.
+- [Google Ads rolls out video campaign groups globally](https://searchengineland.com/google-ads-rolls-out-video-campaign-groups-globally-483180) - This allows for coordinated reach/frequency management across video campaigns, directly impacting your $30/day Demand Gen YouTube Shorts campaign. - Test grouping your Demand Gen YouTube campaign with any other video assets to better control audience frequency and potentially improve efficiency.
+- [Google Is Bringing Local Services Ads Into Google Ads](https://searchengineland.com/google-is-bringing-local-services-ads-into-google-ads/582816) - While not for e-commerce, this signals a platform shift where Google is consolidating ad types into core Google Ads, which could foreshadow changes to other campaign type management. - Monitor Google Ads announcements for any similar consolidation of e-commerce campaign types (like PMax) that could affect your campaign structure.
+
 ## 2026-07-22
 ### Actionable
 - [Google Ads adds missed growth estimates to the Recommendations tab](https://searchengineland.com/google-ads-adds-missed-growth-estimates-to-the-recommendations-tab-482917) - This new feature directly in Google Ads can identify potential revenue you're missing, which is crucial for a brand trying to improve its ROAS from 1.7x to 2-3x. - **Action:** Review the Recommendations tab weekly to evaluate and potentially apply suggestions for budget reallocation or bid adjustments, especially for your high-ROAS geo-targeted campaigns.

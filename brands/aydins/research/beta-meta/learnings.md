@@ -1,6 +1,11 @@
 # beta-meta Cumulative Learnings
 
 
+## 2026-07-23
+### Actionable
+- [Facebook ad sizes and specs cheat sheet for 2026](https://blog.hootsuite.com/facebook-ad-sizes/) - This provides the latest technical specifications for ad creatives, which is essential for ensuring ads are delivered correctly and look professional. **Action:** Review and update all active and planned ad creative templates against these 2026 specs to avoid delivery issues.
+- [Snowflake Connects Data to Meta Ads](https://news.google.com/rss/articles/CBMijgFBVV95cUxNVk9zVHp5V3ExZlBUX05Kd2d5YzQzSDBZZURpTDNtNjhpbWN1Nlh3bzNoMmxCSEZoOFgxM2VEVTdpaG1PeFhydnQ1OVl6N0V4SklUV1VCaTNmWlF5eGpfTzI3MWlnUVY2SzZhVGh2bjV0MGVHMUZXMW9OX2g1MVZyNGZpR1dqcEd0cmcwSzNn?oc=5) - A new data integration could enable more sophisticated audience segmentation and offline event tracking, potentially improving CAPI match rates. **Action:** Investigate if this Snowflake-Meta integration could be leveraged to enhance customer data onboarding and improve the Pixel's low event source match rate.
+
 ## 2026-07-22
 ### Actionable
 - [Facebook ad sizes and specs cheat sheet for 2026](https://blog.hootsuite.com/facebook-ad-sizes/) - This provides the latest technical specifications for ad creatives, which is critical for ensuring ads are not rejected and render correctly across placements. **Action:** Review the cheat sheet and audit all active and planned ad creatives for compliance with 2026 specs to avoid delivery issues.

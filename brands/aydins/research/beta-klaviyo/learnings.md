@@ -1,6 +1,11 @@
 # beta-klaviyo Cumulative Learnings
 
 
+## 2026-07-23
+### Actionable
+- [Webinar Alert: From DKIM to DKIM2: What Senders Need to Know Now and What Mailbox Providers Expect](https://www.spamresource.com/feeds/5732569576147311468/comments/default) - This directly addresses evolving Gmail/Yahoo sender authentication requirements (a tracked topic) which are critical for Aydins' deliverability and revenue. **Action:** Register for this webinar (July 22, 2026) to understand the timeline and technical steps for DKIM2 adoption.
+- [APRF: A New Standard for Deliverability Feedback](https://www.spamresource.com/feeds/6565996904472730355/comments/default) - A new feedback standard could change how mailbox providers report spam complaints and engagement, directly impacting inbox placement for Aydins' campaigns. **Action:** Monitor Klaviyo's blog/release notes for when they adopt APRF and understand how it might affect list hygiene and segmentation practices.
+
 ## 2026-07-22
 ### Actionable
 - [Your Holiday Emails Start Now: A Summer Deliverability Prep Guide](https://www.litmus.com/blog/your-holiday-emails-start-now-a-summer-deliverability-prep-guide) - This is a timely reminder to audit sender reputation and list hygiene before the high-volume holiday season, which is critical for Aydins Jewelry's revenue target. **Action:** Review recent campaign deliverability metrics and clean inactive subscribers before planning Q4 sends.

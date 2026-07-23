@@ -1,6 +1,14 @@
 # beta-tiktok Cumulative Learnings
 
 
+## 2026-07-23
+### Critical
+- [TikTok Adds Three New AI Video Generation Tools to Its Symphony Ad Toolkit](https://news.google.com/rss/articles/CBMiogFBVV95cUxOLV9oVzM5a3RwSUFlbFhrUXpNaUJuX3ItbmQ2LXQyaE5aT1pfTVg2M0xUbGFzRjFVaF9GV3VrNkhMa09JR0JyeGx3cktfaEdsdnY4T3JkdC1QSjVEU29TTlhLOUtUSTQ2M0RzVEU3S2E3WHZNMzdLOWF1SW1MSkY0ZTJBN051SXlMNHo4X25UbTBfbUg0VVB3bktiMVlOMTBtQVE) - This directly impacts Aydins' ad creative pipeline, as new AI tools in Symphony could streamline video ad production for Smart+ campaigns. **Action:** Review the new AI tools in TikTok's Symphony Ad Toolkit this week to assess if they can improve or automate video ad creation for jewelry promotions.
+### Actionable
+- [The Best Time to Post on TikTok in 2026: New Data from 7M Posts](https://buffer.com/resources/best-time-to-post-on-tiktok/) - Fresh, large-scale data on optimal posting times can help Aydins refine its automated posting schedule for better organic reach. **Action:** Analyze this new 2026 dataset and adjust the automated posting pipeline's timing schedule within the next month.
+- [TikTok Shop Is Piloting a Managed Service for Sellers](https://news.google.com/rss/articles/CBMic0FVX3lxTE9uMUxCVnlWQWZRUGJkVDAzSUpuaE9IaG1GYmpGQk0walhJS3R0d21MY2lGZGQtUC0teEZ1VHFQOUVqN2xMei1fZHZvbmdlbmpCTWhuVGsyUWVpQ0pMN2l2aEhPeG5mbk1SWkF1elB4Nk95NlU) - A managed service for TikTok Shop could simplify operations and potentially improve performance for sellers like Aydins. **Action:** Investigate the pilot program's details and eligibility to see if enrolling could streamline Shop management.
+- [TikTok Shop expands into alcohol sales despite age concerns](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQY3dac2thNVdaZ3FRc0dtUUozeDFzNDQzVmZ4cXFycUNPM1VkOHgyaFZzS1N2ZmdNM0I6U0RlVDMwZ1VSdHRtQVlQZkZ1ak9hSmdJaEo1SXNZRENQR2l4OUd1RTV5dEJ4czdwU3g0Wjh4UzJWUG0ta1NtV05mQUpram0zNUFBR1dVV3BTd3JkU0Y2RzFadl80TnBKMTNGeTBmS2V4ZExqT29FdVBjei1JOHJYMmhfMWcwNW5idmM1SEhENmVJeXNIZg) - This indicates TikTok Shop is aggressively expanding its categories, which could shift platform focus and audience behavior. **Action:** Monitor this expansion for any changes in Shop traffic or competitor strategies that might affect jewelry sales.
+
 ## 2026-07-22
 ### Critical
 - [TikTok Shop Is Piloting a Managed Service for Sellers](https://news.google.com/rss/articles/CBMic0FVX3lxTE9uMUxCVnlWQWZRUGJkVDAzSUpuaE9IaG1GYmpGQk0walhJS3R0d21MY2lGZGQtUC0teEZ1VHFQOUVqN2xMei1fZHZvbmdlbmpCTWhuVGsyUWVpQ0pMN2l2aEhPeG5mbk1SWkF1elB4Nk95NlU?oc=5) - This new managed service could significantly change how Aydins operates and optimizes its TikTok Shop, requiring immediate evaluation. **Action:** Review the pilot program details and assess if Aydins qualifies to join, as it may offer better support and tools for sellers.
