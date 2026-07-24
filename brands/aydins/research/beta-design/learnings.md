@@ -1,6 +1,11 @@
 # beta-design Cumulative Learnings
 
 
+## 2026-07-24
+### Actionable
+- [Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber](https://deepmind.google/blog/introducing-gemini-36-flash-35-flash-lite-and-35-flash-cyber/) - This includes a new, potentially faster/cheaper image generation model (Gemini 3.6 Flash) that could replace or improve upon the current "nano-banana" (Gemini 2.5 Flash Image) reference for product hero shots. - Test Gemini 3.6 Flash's image quality and cost via OpenRouter against the current locked reference to see if it offers a capability or price advantage.
+- [Bringing Nunchaku 4-bit Diffusion Inference to Diffusers](https://huggingface.co/blog/nunchaku-diffusers) - A new, efficient 4-bit inference method for diffusion models could materially reduce the cost of running image generation models on Replicate or self-hosted setups. - Benchmark the Nunchaku method on Replicate for image generation tasks to evaluate potential cost savings for product photo generation or editing.
+
 ## 2026-07-23
 ### Critical
 - [Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber](https://deepmind.google/blog/introducing-gemini-36-flash-35-flash-lite-and-35-flash-cyber/) - This is a new, potentially cheaper/faster model release (Gemini 3.6 Flash) that could replace or augment Aydins's current Gemini 2.5 Flash Image setup for product hero shots if it offers better price-performance. **Action:** Immediately benchmark Gemini 3.6 Flash against the current nano-banana reference model for image generation cost and quality.

@@ -1,6 +1,10 @@
 # beta-meta Cumulative Learnings
 
 
+## 2026-07-24
+### Actionable
+- [Facebook ad sizes and specs cheat sheet for 2026](https://blog.hootsuite.com/facebook-ad-sizes/) - This provides the latest technical specs for Meta ad formats, crucial for ensuring Aydins' creatives are built correctly to avoid delivery issues. **Action:** Review the 2026 specs and audit all active ad creatives for compliance, especially for Reels and Stories placements.
+
 ## 2026-07-23
 ### Actionable
 - [Facebook ad sizes and specs cheat sheet for 2026](https://blog.hootsuite.com/facebook-ad-sizes/) - This provides the latest technical specifications for ad creatives, which is essential for ensuring ads are delivered correctly and look professional. **Action:** Review and update all active and planned ad creative templates against these 2026 specs to avoid delivery issues.

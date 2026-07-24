@@ -1,6 +1,12 @@
 # beta-etsy Cumulative Learnings
 
 
+## 2026-07-24
+### Critical
+- [Etsy JUST Changed Personalization — Here's What Every Seller Needs To Know](https://news.google.com/rss/articles/CBMiW0FVX3lxTE90cGVDTGpmZzFHV1RfVmdHOGxxTUVoZE5IajR6WkNUdkZ1Nnp6dUZIczY1cUF5WHNXakRYZ3A0UUpnUjlITEdVbjdMS0ViMHNkTVlzMW9TeDZrVjA?oc=5) - This directly impacts Aydins' listing copy and compliance, as they present white-labeled rings as handcrafted and rely on personalization fields. **Action:** Immediately review the updated Etsy personalization policy and audit all active listings for compliance to avoid deactivation or penalties.
+### Actionable
+- [Etsy becomes first online marketplace to offer Royal Mail’s new EU delivery services](https://news.google.com/rss/articles/CBMivwFBVV95cUxOclItZW1JdnFZSjFFX0NZdEgtMXY5eGVScEE3SThzajNxOTBKQXFuMVpQN0s5M1BMTmpLMmlsY3dlalRXdVlZeVRMMkg3b2lZdjE4d3ZXUktZc21VQU5lTEpYUFBCb1dOVmtYbnNrVlloeEQxa2toZnFrbXItbk1rdDZpSlVGeTZvSEx0UndrbUtPbEczQlVoUnNtVk40eWM3eFVGWGpiS3Z6MWxmTGNRZDBVaHgxXzhVRUN0aHZMbw?oc=5) - This new shipping option could simplify EU sales, reduce customs friction for customers, and potentially improve conversion rates for Aydins' international orders. **Action:** Evaluate the new Royal Mail service's costs and reliability within the next 2-4 weeks to see if it should replace current EU shipping methods.
+
 ## 2026-07-23
 ### Critical
 - [Etsy JUST Changed Personalization — Here's What Every Seller Needs To Know](https://news.google.com/rss/articles/CBMiW0FVX3lxTE90cGVDTGpmZzFHV1RfVmdHOGxxTUVoZE5IajR6WkNUdkZ1Nnp6dUZIczY1cUF5WHNXakRYZ3A0UUpnUjlITEdVbjdMS0ViMHNkTVlzMW9TeDZrVjA?oc=5) - This directly impacts Aydins' listing copy and personalization rules for their white-labeled rings, which is a core part of their business model and compliance risk. **Action:** Immediately review the updated Etsy personalization policy and audit all active listings to ensure they comply with the new rules to avoid deactivation.

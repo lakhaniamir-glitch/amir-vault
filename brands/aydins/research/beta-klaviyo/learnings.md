@@ -1,6 +1,11 @@
 # beta-klaviyo Cumulative Learnings
 
 
+## 2026-07-24
+### Actionable
+- [Webinar Alert: From DKIM to DKIM2: What Senders Need to Know Now and What Mailbox Providers Expect](https://www.spamresource.com/feeds/5732569576147311468/comments/default) - This webinar covers DKIM2, a critical evolution in email authentication that Gmail/Yahoo may require, directly impacting Aydins' deliverability. **Action:** Register for the webinar (July 22) to understand upcoming technical requirements for inbox placement.
+- [Open Rates Are Losing Their Value; Here’s What Smart Marketers Measure Instead.](https://news.google.com/rss/articles/CBMirwFBVV95cUxQX2hUWnFLSnBDWjB1c1VseUZKTzJTOG5pbjBmNkwwUTdiYjVUNzB4QWNGWEtEX0lEdnlIQW4yaFFNMVlrNVFUb1EtQS1pcjdhcW1vX1dwMG9JSkVEeXJ3STZjTkM2U3liSl9ZbTE5cUl6VWlJVGJnVUtpQlF2NlNrMzNIWU1yOTU3VnFZV3dSMElFbXpWYTVBbXZuOHUwcHhkRmE1cFduQ29IczZJZXQ0?oc=5) - This directly addresses the impact of iOS Mail Privacy on open rates, a key signal Aydins uses for campaign optimization. **Action:** Review the article to identify alternative performance metrics (e.g., clicks, conversions, revenue) and adjust reporting dashboards accordingly.
+
 ## 2026-07-23
 ### Actionable
 - [Webinar Alert: From DKIM to DKIM2: What Senders Need to Know Now and What Mailbox Providers Expect](https://www.spamresource.com/feeds/5732569576147311468/comments/default) - This directly addresses evolving Gmail/Yahoo sender authentication requirements (a tracked topic) which are critical for Aydins' deliverability and revenue. **Action:** Register for this webinar (July 22, 2026) to understand the timeline and technical steps for DKIM2 adoption.
