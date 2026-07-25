@@ -1,6 +1,12 @@
 # beta-design Cumulative Learnings
 
 
+## 2026-07-25
+### Actionable
+- [Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber](https://deepmind.google/blog/introducing-gemini-36-flash-35-flash-lite-and-35-flash-cyber/) - This July 21, 2026 release includes new, potentially cheaper/faster Gemini variants that could lower costs or improve performance for Aydins's agentic synthesis tasks on OpenRouter. **Action:** Check OpenRouter for immediate availability and pricing of Gemini 3.6 Flash/3.5 Flash-Lite to potentially replace DeepSeek v3.2 for cost savings.
+- [Bringing Nunchaku 4-bit Diffusion Inference to Diffusers](https://huggingface.co/blog/nunchaku-diffusers) - Published July 23, 2026, this introduces a highly efficient 4-bit inference method for diffusion models which could significantly reduce the cost of running image generation models on Replicate. **Action:** Test if Nunchaku quantization is available for your preferred image models on Replicate to cut image generation costs.
+- [Introducing OpenAI Presence](https://openai.com/index/introducing-openai-presence) - Launched July 22, 2026, this is a new enterprise AI agent platform that could offer a more robust or cost-effective alternative to Aydins's current beta orchestrator setup for voice/chat agents. **Action:** Evaluate OpenAI Presence's capabilities and pricing against the current Hetzner VPS + specialist agent setup for customer service or internal workflows.
+
 ## 2026-07-24
 ### Actionable
 - [Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber](https://deepmind.google/blog/introducing-gemini-36-flash-35-flash-lite-and-35-flash-cyber/) - This includes a new, potentially faster/cheaper image generation model (Gemini 3.6 Flash) that could replace or improve upon the current "nano-banana" (Gemini 2.5 Flash Image) reference for product hero shots. - Test Gemini 3.6 Flash's image quality and cost via OpenRouter against the current locked reference to see if it offers a capability or price advantage.

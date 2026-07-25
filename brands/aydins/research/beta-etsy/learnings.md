@@ -1,6 +1,12 @@
 # beta-etsy Cumulative Learnings
 
 
+## 2026-07-25
+### Actionable
+- [Etsy adds Royal Mail’s new EU delivery service](https://news.google.com/rss/articles/CBMijgFBVV95cUxNWDkwdC00ZkREYUo0X1VSYjRTRi1vbG9GYWE4TVBFamFwX1RJTjZoempRSWU2MXRHbmtWVE9CclNqUDVROXZoeVg4eWxsbERHa3BQUW1VN05PbFlHejljN2NEcDlPcVNEQkcxNU05eVZtS2NnaTZqRDdRUjN6c3hBRGdlUXU4RTZuTGhGZW1R?oc=5) - This matters because it's a new shipping option that could affect EU shipping costs, delivery times, and holiday cutoff planning for Aydins' international sales. Recommended action: Review the new service's rates and transit times in the EU shipping settings to see if it offers a cost or speed advantage for your men's wedding band shipments.
+
+- [Etsy becomes first online marketplace to offer Royal Mail’s new EU delivery services](https://news.google.com/rss/articles/CBMivwFBVV95cUxOclItZW1JdnFZSjFFX0NZdEgtMXY5eGVScEE3SThzajNxOTBKQXFuMVpQN0s5M1BMTmpLMmlsY3dlalRXdVlZeVRMMkg3b2lZdjE4d3ZXUktZc21VQU5lTEpYUFBCb1dOVmtYbnNrVlloeEQxa2toZnFrbXItbk1rdDZpSlVGeTZvSEx0UndrbUtPbEczQlVoUnNtVk40eWM3eFVGWGpiS3Z6MWxmTGNRZDBVaHgxXzhVRUN0aHZMbw?oc=5) - This matters as it confirms a platform-wide shipping update that could impact competitive positioning and customer expectations for EU deliveries. Recommended action: Update your shop's shipping profiles to include or highlight this new service if it's beneficial, ensuring your listings remain competitive for EU buyers.
+
 ## 2026-07-24
 ### Critical
 - [Etsy JUST Changed Personalization — Here's What Every Seller Needs To Know](https://news.google.com/rss/articles/CBMiW0FVX3lxTE90cGVDTGpmZzFHV1RfVmdHOGxxTUVoZE5IajR6WkNUdkZ1Nnp6dUZIczY1cUF5WHNXakRYZ3A0UUpnUjlITEdVbjdMS0ViMHNkTVlzMW9TeDZrVjA?oc=5) - This directly impacts Aydins' listing copy and compliance, as they present white-labeled rings as handcrafted and rely on personalization fields. **Action:** Immediately review the updated Etsy personalization policy and audit all active listings for compliance to avoid deactivation or penalties.

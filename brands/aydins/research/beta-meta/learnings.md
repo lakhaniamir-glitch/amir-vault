@@ -1,6 +1,11 @@
 # beta-meta Cumulative Learnings
 
 
+## 2026-07-25
+### Actionable
+- [Meta drops Facebook Feed to second tab in full-screen video test - PPC Land](https://news.google.com/rss/articles/CBMiigFBVV95cUxNOThMU1B1enotM1RZeExwWUhiaGlqY2hMM2FjQVBGYmZueDhPWGtKUUZsY05pX25HTjc5ME5BY1JxOXp4c0R1R0xNY2JsNFY2VjdFZ1RzVDRrQ1BhczRWZllHeEFJN0U3N01BdXBWc0F2cXpVOGF5S29CSTFsOHB5Yk9hMGNTTlprR1E?oc=5) - This UI change prioritizes video content (Reels) over the traditional News Feed, which could significantly impact ad visibility and performance for feed-based ads. **Action:** Review current ad placements and creative formats; prepare to test and allocate more budget to Reels/Video ads if feed performance drops.
+- [Facebook ad sizes and specs cheat sheet for 2026](https://blog.hootsuite.com/facebook-ad-sizes/) - Updated ad specs are essential for ensuring creatives are optimized for delivery and performance, especially with platform UI changes. **Action:** Audit all active and planned ad creatives against the 2026 specs and update any that are non-compliant or suboptimal.
+
 ## 2026-07-24
 ### Actionable
 - [Facebook ad sizes and specs cheat sheet for 2026](https://blog.hootsuite.com/facebook-ad-sizes/) - This provides the latest technical specs for Meta ad formats, crucial for ensuring Aydins' creatives are built correctly to avoid delivery issues. **Action:** Review the 2026 specs and audit all active ad creatives for compliance, especially for Reels and Stories placements.

@@ -1,6 +1,12 @@
 # beta-klaviyo Cumulative Learnings
 
 
+## 2026-07-25
+### Actionable
+- [Troubleshooting 554 5.7.5 DMARC-related SMTP rejections](https://www.spamresource.com/feeds/5763336552103921826/comments/default) - This directly addresses a critical deliverability failure (DMARC rejections) that could block Aydins' campaigns to Gmail/Yahoo if their sender setup is misconfigured. **Action:** Review the company's DMARC, SPF, and DKIM records immediately to ensure compliance with 2026 sender requirements and prevent inbox blocking.
+- [Webinar Alert: From DKIM to DKIM2: What Senders Need to Know Now and What Mailbox Providers Expect](https://www.spamresource.com/feeds/5732569576147311468/comments/default) - This webinar covers upcoming authentication changes (DKIM2) that major inbox providers like Gmail and Yahoo will require for good deliverability. **Action:** Register for this webinar to understand the timeline and technical steps needed to update Aydins' email authentication setup.
+- [Open Rates Are Losing Their Value; Here’s What Smart Marketers Measure Instead.](https://news.google.com/rss/articles/CBMirwFBVV95cUxQX2hUWnFLSnBDWjB1c1VseUZKTzJTOG5pbjBmNkwwUTdiYjVUNzB4QWNGWEtEX0lEdnlIQW4yaFFNMVlrNVFUb1EtQS1pcjdhcW1vX1dwMG9JSkVEeXJ3STZjTkM2U3liSl9ZbTE5cUl6VWlJVGJnVUtpQlF2NlNrMzNIWU1yOTU3VnFZV3dSMElFbXpWYTVBbXZuOHUwcHhkRmE1cFduQ29IczZJZXQ0?oc=5) - With iOS Mail Privacy inflating open rates, Aydins' current performance metrics (like open-based segments) are likely inaccurate. **Action:** Audit all automated flows and segments that rely on open rates and shift focus to click-through, conversion, and revenue metrics within the next 2-4 weeks.
+
 ## 2026-07-24
 ### Actionable
 - [Webinar Alert: From DKIM to DKIM2: What Senders Need to Know Now and What Mailbox Providers Expect](https://www.spamresource.com/feeds/5732569576147311468/comments/default) - This webinar covers DKIM2, a critical evolution in email authentication that Gmail/Yahoo may require, directly impacting Aydins' deliverability. **Action:** Register for the webinar (July 22) to understand upcoming technical requirements for inbox placement.

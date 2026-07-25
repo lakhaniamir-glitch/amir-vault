@@ -1,6 +1,10 @@
 # beta-shop Cumulative Learnings
 
 
+## 2026-07-25
+### Actionable
+- [Meet the 2026 Shopify Build Award winners - Shopify](https://news.google.com/rss/articles/CBMib0FVX3lxTE10a0ZiWnJzV1F2U2lpSlA3Z20xNXlIc3RSaHpabDdJZUt0V3JERDk2Ri1BT3VvOVhUam5Jb1FyaF83d2ZvMnltOTB4X0ZjRld5LUNaYXFjQlRMNjBMWExQd1hONkdxcGZBWTZiNkphbw?oc=5) - This highlights current best practices and innovative apps/techniques being recognized by Shopify in 2026, which could inform the OS2.0 v5 migration strategy. - Review the winning projects for inspiration on theme features, app integrations, or development approaches to consider during the ongoing migration.
+
 ## 2026-07-22
 ### Critical
 - [Introducing a brand new Collections experience (2026) - Shopify](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8tSFhpa29XdUZVRzlkYjlCT19hQ0NJWlFlNXd1ZHdsWG9leGtjV2J5X3NTYlpZMHAtZ2RmNGJERW9fVDJfUkR5UzZoaTJLRVJIVUw4WDRUSmJuVEwzR0s1cGxpNFI2b1E?oc=5) — This is a core platform change to the collection UI/API that could impact theme sections and your migration from Kalles v4 to OS2.0 v5. **Action:** Review the changelog details in your Shopify Admin to assess impact on your unpublished v5 theme and planned collection blocks.
