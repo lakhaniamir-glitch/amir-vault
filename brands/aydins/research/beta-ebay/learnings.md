@@ -1,6 +1,12 @@
 # beta-ebay Cumulative Learnings
 
 
+## 2026-07-26
+### Critical
+- [Major eBay change from next month will affect millions of UK sellers - Hillingdon Times](https://news.google.com/rss/articles/CBMivwFBVV95cUxNOVF0aWYteGpwbDN6b3M5dmhWTk9HRFdLd0JvdDhCYlJpWVpGa1p6QzFPcXhEcEZnYjh5aDBRVG1qaUJlZ2dkSmJvRExZTDNNQ1E0ZUljSXpJbjZra0V2YUdjNm1RZXJMR01VeDE4cVdLVk9fdFZnY3JnYURZdlhMSmdwN0pVaXB6clVPUjBpVnRXNG40MXhaTVdvaENQQy1xdUpZWGdoODV6c3RhSHBIalh4bjZVSVJwd3ZLYzVObw?oc=5) - A major fee change in a key market (UK) starting next month could directly impact Aydins' margin on men's wedding bands sold there; requires immediate review of the new fee structure and potential pricing adjustments. **Action:** Analyze the announced UK fee changes (effective next month) and recalculate listing profitability, adjusting prices or promotion budgets if necessary.
+### Actionable
+- [Meta Launches Seller App: Photo-to-Listing AI Hits Facebook Marketplace - Tech Times](https://news.google.com/rss/articles/CBMivwFBVV95cUxQeFdVc2JrdEdmZ3NlRWJLenhzSkJZazNpQTIzRVBHMzl2cDladjB0ajY5ZHZBak9DVkktYkl1dDUxaC1HM2stc1VtS2hLVFNpSzl0bG80UkRNSEU5VWIxb0p6QmgzeEdkNnM1eWNNSDFoXzY3dG84SmdheGtQSUgtOUc2TnZmMmhxU21wLU9oNTJudGtvbXpfaUtNRjNLa3dWeUxaRzlhSk5JbEdtbWNpcXM3Nm9HMmx5VjJDcjlVdw?oc=5) - Meta's new AI-powered listing tool for Facebook Marketplace represents a competitive threat that could lure sellers and buyers away from eBay, potentially affecting Aydins' visibility and sales volume. **Action:** Test the Meta Seller App's photo-to-listing AI to assess if it offers a more efficient listing workflow compared to eBay's tools, and evaluate the potential for cross-platform listing.
+
 ## 2026-07-25
 ### Critical
 - [Major eBay change from next month will affect millions of UK sellers - Milford Mercury](https://news.google.com/rss/articles/CBMivgFBVV95cUxQbWxOSXl4WlRPVEZRQVVyMW9rRHdNeFIyUGZjX3pXTV9sMnJtYm44TktZSXlfbTBHVjRrTnBrcVZyN1JCVjVuTDlvWXZDY1FlX2RtWmRXWFd2MVZNVHNQaXVaZjVBU3JDSFhGeXRWR25ELXlPMkNQb255WlF1SnVpMWFfQUJkRnI2dlFlbUdYM1dLNW5xdzltRDBVWXRBanJaNllqQUJYRzJQLWs2VDdJSi1IeHlpRDVMc3ZmUDl3?oc=5) - This article, published July 24, 2026, directly addresses a major eBay fee change for UK sellers starting next month, which could immediately impact Aydins Jewelry's cost structure and margins on their UK sales. **Action:** Review the official eBay announcement for UK fee changes and calculate the impact on your jewelry listings' profitability.

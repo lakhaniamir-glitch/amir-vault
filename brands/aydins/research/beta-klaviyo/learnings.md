@@ -1,6 +1,12 @@
 # beta-klaviyo Cumulative Learnings
 
 
+## 2026-07-26
+### Actionable
+- [Troubleshooting 554 5.7.5 DMARC-related SMTP rejections](https://www.spamresource.com/feeds/5763336552103921826/comments/default) - This directly addresses a critical email deliverability failure (DMARC rejections) that could block Aydins' campaigns if their domain authentication is misconfigured. **Action:** Review your sending domain's DMARC, SPF, and DKIM records immediately to ensure compliance with Gmail/Yahoo 2026 policies and prevent inbox blocking.
+- [Webinar Alert: From DKIM to DKIM2: What Senders Need to Know Now and What Mailbox Providers Expect](https://www.spamresource.com/feeds/5732569576147311468/comments/default) - DKIM2 is an emerging authentication standard that mailbox providers may soon require, impacting future email deliverability. **Action:** Register for this webinar to understand the timeline and technical requirements for DKIM2 to stay ahead of sender policy changes.
+- [Open Rates Are Losing Their Value; Here’s What Smart Marketers Measure Instead.](https://news.google.com/rss/articles/CBMirwFBVV95cUxQX2hUWnFLSnBDWjB1c1VseUZKTzJTOG5pbjBmNkwwUTdiYjVUNzB4QWNGWEtEX0lEdnlIQW4yaFFNMVlrNVFUb1EtQS1pcjdhcW1vX1dwMG9JSkVEeXJ3STZjTkM2U3liSl9ZbTE5cUl6VWlJVGJnVUtpQlF2NlNrMzNIWU1yOTU3VnFZV3dSMElFbXpWYTVBbXZuOHUwcHhkRmE1cFduQ29IczZJZXQ0?oc=5) - With iOS Mail Privacy Protection skewing open rates, this article provides alternative metrics crucial for accurately measuring Aydins' campaign performance. **Action:** Audit your Klaviyo dashboard and shift focus to click-through rates, conversion rates, and revenue attribution within the next month.
+
 ## 2026-07-25
 ### Actionable
 - [Troubleshooting 554 5.7.5 DMARC-related SMTP rejections](https://www.spamresource.com/feeds/5763336552103921826/comments/default) - This directly addresses a critical deliverability failure (DMARC rejections) that could block Aydins' campaigns to Gmail/Yahoo if their sender setup is misconfigured. **Action:** Review the company's DMARC, SPF, and DKIM records immediately to ensure compliance with 2026 sender requirements and prevent inbox blocking.

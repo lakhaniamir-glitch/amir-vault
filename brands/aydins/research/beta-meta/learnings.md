@@ -1,6 +1,11 @@
 # beta-meta Cumulative Learnings
 
 
+## 2026-07-26
+### Actionable
+- [Marketplace sellers gain a separate Meta app as listings hit 430M a month - PPC Land](https://news.google.com/rss/articles/CBMilgFBVV95cUxOVkwyYlhiVkkzY1I1WE9WZ1NIdGdEMDJCRi1ELWR6RE9XMWphMVYwRFh5SjZUWUVwdm5WaWNfQ0RMM09HZXlobkdvYXNoWWxYNENtOUhiemZiT0FCQlZfN1JFcVNEZnBURTZxRzZvaEc2ZVZFdE5wQ2tHUTRkc0JTTG1MeE1DOW94Vi16UEtQdnZNOVV6Y2c?oc=5) - This covers the launch of a dedicated app for Marketplace sellers, which is a core focus area for Meta Ads and could impact how you manage product listings and ads. Review the new "Seller" app (also covered in the Meta news item below) to see if it offers better catalog management tools to fix your low event source match rate.
+- [Introducing Seller, an App for Facebook Marketplace Sellers](https://about.fb.com/news/2026/07/introducing-seller-app-facebook-marketplace/) - This new, dedicated app for Marketplace sellers may offer improved catalog and ad management features relevant to your business. Download and explore the "Seller" app to see if its tools can help streamline your catalog feed and improve Pixel event matching.
+
 ## 2026-07-25
 ### Actionable
 - [Meta drops Facebook Feed to second tab in full-screen video test - PPC Land](https://news.google.com/rss/articles/CBMiigFBVV95cUxNOThMU1B1enotM1RZeExwWUhiaGlqY2hMM2FjQVBGYmZueDhPWGtKUUZsY05pX25HTjc5ME5BY1JxOXp4c0R1R0xNY2JsNFY2VjdFZ1RzVDRrQ1BhczRWZllHeEFJN0U3N01BdXBWc0F2cXpVOGF5S29CSTFsOHB5Yk9hMGNTTlprR1E?oc=5) - This UI change prioritizes video content (Reels) over the traditional News Feed, which could significantly impact ad visibility and performance for feed-based ads. **Action:** Review current ad placements and creative formats; prepare to test and allocate more budget to Reels/Video ads if feed performance drops.

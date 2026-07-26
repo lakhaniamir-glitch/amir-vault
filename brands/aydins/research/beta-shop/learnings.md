@@ -1,6 +1,10 @@
 # beta-shop Cumulative Learnings
 
 
+## 2026-07-26
+### Actionable
+- [POS UI Extensions: Build a Custom Point-of-Sale (2026) - Shopify](https://news.google.com/rss/articles/CBMiaEFVX3lxTE9WZFkzNXNFak9aLXVpbVFGZ0JQTmpnZUZEUEFOUGduY1VkekY0UVdOdkttZXJrSlBtMjlYTDNsTE5Qb0pQbW5sSHY3QVpZWTdacEo5Rl9Zb01hZVpqd0Fqa0x5T1hEWDRG?oc=5) - This details a 2026 update for Shopify POS UI Extensions, a core platform feature that could impact future in-person sales systems or app integrations. Review the new documentation to assess if any planned POS enhancements or third-party app dependencies need updating.
+
 ## 2026-07-25
 ### Actionable
 - [Meet the 2026 Shopify Build Award winners - Shopify](https://news.google.com/rss/articles/CBMib0FVX3lxTE10a0ZiWnJzV1F2U2lpSlA3Z20xNXlIc3RSaHpabDdJZUt0V3JERDk2Ri1BT3VvOVhUam5Jb1FyaF83d2ZvMnltOTB4X0ZjRld5LUNaYXFjQlRMNjBMWExQd1hONkdxcGZBWTZiNkphbw?oc=5) - This highlights current best practices and innovative apps/techniques being recognized by Shopify in 2026, which could inform the OS2.0 v5 migration strategy. - Review the winning projects for inspiration on theme features, app integrations, or development approaches to consider during the ongoing migration.
