@@ -1,6 +1,13 @@
 # beta-google Cumulative Learnings
 
 
+## 2026-07-27
+### Actionable
+- [Household income exclusions spotted in Performance Max campaigns](https://searchengineland.com/household-income-exclusions-spotted-in-performance-max-campaigns-483494) - This new targeting control could allow Aydins to refine PMax audience targeting, potentially improving ROAS by excluding lower-income households less likely to purchase wedding bands. **Action:** Review the new PMax settings and test adding household income exclusions to your campaigns, especially the broad national campaign.
+- [Google tests new PMax controls](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5BdmNiT2J0Z2NQaXVHV094aGRISnJGTFRhN3Jrd0xfbk4tQXJ2emJMazdpNkVCT0JGN1M5elZEdGhvNGQ1TGFzYTdrZHFBYW41NGlJRHFoLXNVU2FsdFE) - New controls for Performance Max could provide more levers to optimize for Aydins' specific ROAS goals. **Action:** Monitor your PMax campaign interfaces closely for new test features and be prepared to adapt your bidding or asset strategy.
+- [Google Is Expanding AI Max to Shopping Campaigns](https://news.google.com/rss/articles/CBMicEFVX3lxTFAtYVdaUzlJOTc5V3dvNkNYWF9aeVF2Nlk0TnRpQ3lmUldRTHVpVHVBeGpQNjFRdFA5dTA4MjE2Q19yLUMwUGZVU0JabDJTV09mbnNxMm5sU1lTZFRLeDJ5TzBvM2ZuYVJWM0cybTZiUnE) - AI Max integration into Shopping campaigns could significantly change auction dynamics and performance for your non-brand Search campaigns. **Action:** Prepare to audit the performance of your non-brand Search campaign as this rolls out and be ready to adjust budgets or strategies.
+- [How to revive overlooked ecommerce SKUs with Performance Max](https://searchengineland.com/revive-ecommerce-skus-performance-max-483337) - This recent guide provides actionable tactics for using PMax to promote specific products, which could help Aydins highlight specific wedding band styles or collections. **Action:** Apply the recommended SKU-specific PMax strategies to test promoting lower-performing or high-margin inventory within your existing campaign structure.
+
 ## 2026-07-26
 ### Critical
 - [Household income exclusions spotted in Performance Max campaigns](https://searchengineland.com/household-income-exclusions-spotted-in-performance-max-campaigns-483494) - This new PMax control could help Aydins better target their high-AOV audience and exclude lower-income segments, directly impacting ROAS. **Action:** Immediately review PMax campaign settings for this new exclusion option and test applying it to focus budget on higher-intent demographics.

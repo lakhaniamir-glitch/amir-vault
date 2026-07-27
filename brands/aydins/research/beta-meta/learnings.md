@@ -1,6 +1,11 @@
 # beta-meta Cumulative Learnings
 
 
+## 2026-07-27
+### Actionable
+- [Facebook ad sizes and specs cheat sheet for 2026](https://blog.hootsuite.com/facebook-ad-sizes/) - This is the most recent and directly relevant guide for ensuring Aydins' ad creatives meet the latest technical requirements, which is crucial for ad delivery and performance. **Action:** Review the 2026 specs and audit all active ad creatives to ensure compliance and optimal formatting.
+- [Marketplace sellers gain a separate Meta app as listings hit 430M a month - PPC Land](https://news.google.com/rss/articles/CBMilgFBVV95cUxOVkwyYlhiVkkzY1I1WE9WZ1NIdGdEMDJCRi1ELWR6RE9XMWphMVYwRFh5SjZUWUVwdm5WaWNfQ0RMM09HZXlobkdvYXNoWWxYNENtOUhiemZiT0FCQlZfN1JFcVNEZnBURTZxRzZvaEc2ZVZFdE5wQ2tHUTRkc0JTTG1MeE1DOW94Vi16UEtQdnZNOVV6Y2c?oc=5) - This signals a major shift in Meta's commerce strategy, potentially changing how product discovery and shopping ads function. **Action:** Monitor this new "Seller" app's launch and assess if listing products there could complement the existing Shopify-Meta channel for broader reach.
+
 ## 2026-07-26
 ### Actionable
 - [Marketplace sellers gain a separate Meta app as listings hit 430M a month - PPC Land](https://news.google.com/rss/articles/CBMilgFBVV95cUxOVkwyYlhiVkkzY1I1WE9WZ1NIdGdEMDJCRi1ELWR6RE9XMWphMVYwRFh5SjZUWUVwdm5WaWNfQ0RMM09HZXlobkdvYXNoWWxYNENtOUhiemZiT0FCQlZfN1JFcVNEZnBURTZxRzZvaEc2ZVZFdE5wQ2tHUTRkc0JTTG1MeE1DOW94Vi16UEtQdnZNOVV6Y2c?oc=5) - This covers the launch of a dedicated app for Marketplace sellers, which is a core focus area for Meta Ads and could impact how you manage product listings and ads. Review the new "Seller" app (also covered in the Meta news item below) to see if it offers better catalog management tools to fix your low event source match rate.

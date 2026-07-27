@@ -1,6 +1,11 @@
 # beta-shop Cumulative Learnings
 
 
+## 2026-07-27
+### Actionable
+- [DoorDash and Shopify Launch First-of-its-Kind Direct Integration for Local Retailers - FF News](https://news.google.com/rss/articles/CBMirAFBVV95cUxPaER4TERRMElfSTJhUUtVcDdCWFUyZWNGRmZoV3FJd1d5ZWhYcWVWaWxSbGhWR1JWQVRYaGhvblpFbzhYT1RoVVExWHFlOTN2TFk0MDYyRXNmMTlzSmFWeEZlb1NNbVNHTXlYYmw3ajBVbEpwRXNhTzFPanVmcWVGVW1ycXU0WWI1NUdjM1paQ0Y4d3daUVF5VnpmSF80S1hhWU1pM0xzRjhuNy11?oc=5) - This new direct integration could expand Aydins' local delivery options and potentially increase sales by reaching customers who prefer on-demand delivery. - Evaluate if this integration is available for your store and consider testing it for local jewelry deliveries, especially for high-value or last-minute orders.
+- [Meet the 2026 Shopify Build Award winners - Shopify](https://news.google.com/rss/articles/CBMic0FVX3lxTE5UWXdIUFh5ZlgxeFVua1RNeFVTUElleUdzWVNnemtOVzdPLW1PaWh2N3M2R0FpOUVLN2JjTFNsaktJM0FucWZONERCMU1nQXFjdjRBa2NpSGVQNE5oQkpzSlBIMnY4OUZYOFVPZkZBSXRtTm8?oc=5) - Showcasing the latest innovative apps and solutions from the 2026 Build Awards can reveal new tools to enhance Aydins' store functionality or customer experience during the OS2.0 migration. - Review the winning apps and solutions to identify any that could improve your store's personalization (e.g., engraving), checkout, or marketing.
+
 ## 2026-07-26
 ### Actionable
 - [POS UI Extensions: Build a Custom Point-of-Sale (2026) - Shopify](https://news.google.com/rss/articles/CBMiaEFVX3lxTE9WZFkzNXNFak9aLXVpbVFGZ0JQTmpnZUZEUEFOUGduY1VkekY0UVdOdkttZXJrSlBtMjlYTDNsTE5Qb0pQbW5sSHY3QVpZWTdacEo5Rl9Zb01hZVpqd0Fqa0x5T1hEWDRG?oc=5) - This details a 2026 update for Shopify POS UI Extensions, a core platform feature that could impact future in-person sales systems or app integrations. Review the new documentation to assess if any planned POS enhancements or third-party app dependencies need updating.

@@ -1,6 +1,12 @@
 # beta-klaviyo Cumulative Learnings
 
 
+## 2026-07-27
+### Actionable
+- [Webinar Alert: From DKIM to DKIM2: What Senders Need to Know Now and What Mailbox Providers Expect](https://www.spamresource.com/feeds/5732569576147311468/comments/default) - This directly addresses evolving Gmail/Yahoo sender authentication requirements (DKIM2), which are critical for Aydins Jewelry's deliverability. **Action:** Attend the webinar or review its key takeaways to ensure your domain's DKIM setup is future-proof.
+- [The Context Box: Do It, But Right](https://www.spamresource.com/feeds/9154890389763529634/comments/default) - This discusses the "context box" for one-click unsubscribe, a key part of Gmail/Yahoo 2026 requirements that Aydins must implement correctly to avoid spam folder placement. **Action:** Audit your email footers to ensure the one-click unsubscribe link is properly formatted and visible as per RFC 8058.
+- [Troubleshooting 554 5.7.5 DMARC-related SMTP rejections](https://www.spamresource.com/feeds/5763336552103921826/comments/default) - DMARC failures can block Aydins' campaigns outright, directly impacting the 15% revenue target from email/SMS. **Action:** Use this guide to proactively check your DMARC, SPF, and DKIM records for any misconfigurations that could cause hard bounces.
+
 ## 2026-07-26
 ### Actionable
 - [Troubleshooting 554 5.7.5 DMARC-related SMTP rejections](https://www.spamresource.com/feeds/5763336552103921826/comments/default) - This directly addresses a critical email deliverability failure (DMARC rejections) that could block Aydins' campaigns if their domain authentication is misconfigured. **Action:** Review your sending domain's DMARC, SPF, and DKIM records immediately to ensure compliance with Gmail/Yahoo 2026 policies and prevent inbox blocking.

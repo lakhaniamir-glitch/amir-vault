@@ -1,6 +1,10 @@
 # beta-etsy Cumulative Learnings
 
 
+## 2026-07-27
+### Actionable
+- [Etsy adds Royal Mail’s new EU delivery service - Printweek](https://news.google.com/rss/articles/CBMijgFBVV95cUxNWDkwdC00ZkREYUo0X1VSYjRTRi1vbG9GYWE4TVBFamFwX1RJTjZoempRSWU2MXRHbmtWVE9CclNqUDVROXZoeVg4eWxsbERHa3BQUW1VN05PbFlHejljN2NEcDlPcVNEQkcxNU05eVZtS2NnaTZqRDdRUjN6c3hBRGdlUXU4RTZuTGhGZW1R?oc=5) - This matters for Aydins as it's a new, potentially cheaper EU shipping option that could affect competitiveness and holiday shipping cutoffs for European customers. Recommended action: Review the new Royal Mail service details in your Etsy shipping settings and assess if it offers better rates or reliability for your EU orders before the holiday rush.
+
 ## 2026-07-26
 ### Critical
 - [Everything You Knew About Etsy Is Changing (Here's How To Adapt) Chesterfield Vs Notts County (fPyRimyvDD) - Mshale](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBBLWs2YmNoRDRTM1RTSnctZHo3cVhXbDhVbUdOUW9kbFdNTXZQNk53UXUzbnhZM19SRkNwc3hvYWpVdEVOdkVGSnFpNmFzdTVhamNqb0Q4TnhyVVdwSlVNRQ?oc=5) - This article, published 2026-07-23, directly addresses major Etsy changes relevant to sellers, impacting listing policy and potentially Aydins' positioning. **Why it matters:** A direct guide to recent Etsy platform changes could directly affect listing copy, personalization rules, and competitive strategy. **Recommended action:** Read immediately to identify any specific 2026 policy shifts around "handcrafted" definitions or listing requirements that may impact Aydins' white-label approach.

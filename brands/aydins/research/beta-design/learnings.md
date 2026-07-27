@@ -1,6 +1,14 @@
 # beta-design Cumulative Learnings
 
 
+## 2026-07-27
+### Actionable
+- [Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber](https://deepmind.google/blog/introducing-gemini-36-flash-35-flash-lite-and-35-flash-cyber/) - This is a new model release (July 21, 2026) that could offer faster/cheaper alternatives to Aydins's current Gemini 2.5 Flash Image and DeepSeek v3.2 backends for synthesis and image generation. **Action:** Test Gemini 3.6 Flash on OpenRouter for potential cost/performance gains in agentic loops and image tasks.
+- [Introducing Gemini 3.5 Flash Cyber](https://deepmind.google/blog/introducing-gemini-3-5-flash-cyber/) - A specialized, lightweight cybersecurity model released July 17, 2026, which could enhance the security of Aydins's agentic VPS infrastructure at a low cost. **Action:** Evaluate for potential integration into the beta orchestrator's security monitoring to protect automated workflows.
+- [Bringing Nunchaku 4-bit Diffusion Inference to Diffusers](https://huggingface.co/blog/nunchaku-diffusers) - A new, efficient diffusion model inference method (July 23, 2026) that could drastically reduce the cost and speed of running image generation models on Replicate or self-hosted setups. **Action:** Benchmark Nunchaku against current Replicate costs for product photo generation to see if it enables cheaper high-quality image edits.
+- [Claude Opus 5](https://www.producthunt.com/products/claude) - A major new model release (appeared July 27, 2026) that likely represents a significant capability jump for high-end reasoning, potentially surpassing the current Claude setup for complex tasks. **Action:** Immediately test Claude Opus 5 for high-stakes creative briefs and strategy synthesis to see if it justifies an upgrade.
+- [Grok 4.5](https://www.producthunt.com/products/grok) - A new model version (appeared July 27, 2026) that could be a cost-effective alternative for certain reasoning or synthesis tasks currently handled by Claude or DeepSeek. **Action:** Check OpenRouter for Grok 4.5 pricing and run a quick benchmark against DeepSeek v3.2 for content synthesis.
+
 ## 2026-07-26
 ### Actionable
 - [Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber](https://deepmind.google/blog/introducing-gemini-36-flash-35-flash-lite-and-35-flash-cyber/) - This is a new, potentially faster/cheaper model family from Google (published 2026-07-21) that could replace the current Gemini 2.5 Flash Image setup for generating product hero shots if it offers better price-performance. **Recommended action:** Test Gemini 3.6 Flash for image generation against the current "nano-banana" reference to see if it improves quality or reduces cost.
