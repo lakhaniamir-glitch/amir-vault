@@ -1,6 +1,13 @@
 # beta-design Cumulative Learnings
 
 
+## 2026-07-28
+### Actionable
+- [Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber](https://deepmind.google/blog/introducing-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber/) — This includes a new, potentially faster/cheaper image generation model (Gemini 3.6 Flash) that could challenge the current "nano-banana" reference standard for Aydins' product shots. **Action:** Test Gemini 3.6 Flash's image quality and cost against the current Gemini 2.5 Flash Image setup within the next week.
+- [Introducing Gemini 3.5 Flash Cyber](https://deepmind.google/blog/introducing-gemini-3-5-flash-cyber/) — A new lightweight, specialized cybersecurity model could enhance the security of Aydins' agentic loops on the Hetzner VPS at a lower cost than general models. **Action:** Evaluate Gemini 3.5 Flash Cyber via OpenRouter for potential integration into the security monitoring layer of the agentic orchestrator.
+- [Create, edit and star in videos with two Google Vids updates](https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars/) — Gemini Omni and personal avatars in Google Vids represent a direct competitor/alternative to CapCut and Arcads for creating UGC-style marketing videos. **Action:** Pilot Google Vids for a quick social media reel to compare output quality and speed against the current CapCut/Arcads workflow.
+- [Bringing Nunchaku 4-bit Diffusion Inference to Diffusers](https://huggingface.co/blog/nunchaku-diffusers) — This technical update enables much faster and cheaper image generation inference, which could significantly reduce costs for any image gen tasks run on Replicate or self-hosted. **Action:** Monitor Replicate for Nunchaku-optimized models and benchmark generation speed/cost for supplementary image tasks.
+
 ## 2026-07-27
 ### Actionable
 - [Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber](https://deepmind.google/blog/introducing-gemini-36-flash-35-flash-lite-and-35-flash-cyber/) - This is a new model release (July 21, 2026) that could offer faster/cheaper alternatives to Aydins's current Gemini 2.5 Flash Image and DeepSeek v3.2 backends for synthesis and image generation. **Action:** Test Gemini 3.6 Flash on OpenRouter for potential cost/performance gains in agentic loops and image tasks.

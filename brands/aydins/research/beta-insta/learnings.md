@@ -1,6 +1,12 @@
 # beta-insta Cumulative Learnings
 
 
+## 2026-07-28
+### Actionable
+- [Instagram now lets users swap the music on published posts and carousels](https://news.google.com/rss/articles/CBMisgFBVV95cUxNalE4Q3NQZEhXLW92MXVrYzltV3J4eUVRNzg3SG92Sl9VLVJSdGVSczU3cjVMeXZiV0dfZXhVYWoxOXlSa1hmUzY0UUNUcTBXZEhiZGg4OXFBTV9yNjNPakZnVS1kQmlTbnpuc3Y2Ukh1VUR1aDN3TF9iLU1EUkViamdaN3Ryd2RCZGxQUzlrYVhqMnpkc3hzclV0SlAtV3ZiRTFxSC00Ri1KX01GTEhLMjFn?oc=5) - This new feature allows you to update the audio on existing high-performing Reels without losing engagement, which is crucial for Aydins to refresh older content featuring trending sounds. **Action:** Audit your top-performing Reels from the last 90 days and test swapping in newer, trending audio to potentially boost their reach again.
+- [Instagram Adds Scheduling for Personal Accounts](https://news.google.com/rss/articles/CBMipgFBVV95cUxNaVY3dUJiTXRUVjVLbm01M1NzeVBhRWhFQU9HYThiYU1ZZzVBdzQzcERHSkFORk83aDN4T0l2SFRzTlZZWlN1UHVFeDM0SEo1cHdzbHUwVjJEYkdRMDVnTnI0c2c2NkNfOVBiU0x5TjE5dURxN2dFT2R2X1hodkVfY2djbjJEZTlsM2RqV0dOLVoyV3Q2MTd3N2ppV1JpZE5tX1hHZEVn?oc=5) - Native scheduling for personal accounts (which many businesses use) could streamline Aydins' posting workflow and reduce dependency on third-party tools. **Action:** Investigate if this feature is available on your account and consider testing it against your current automated pipeline for simplicity and potential algorithm favorability.
+- [How to increase Facebook engagement in 2026: 18 tips](https://blog.hootsuite.com/facebook-engagement/) - While focused on Facebook, many engagement principles (like optimal posting times, content types) directly apply to Instagram Reels and can improve Aydins' content performance. **Action:** Review the 18 tips and implement at least 3 that are not currently part of your strategy, such as optimizing posting times or engagement hooks.
+
 ## 2026-07-27
 ### Actionable
 - [How The 2026 Instagram Recommendation System Actually Works! - MobileAppDaily](https://news.google.com/rss/articles/CBMiggFBVV95cUxQSnlZUk1uakc3MUFHdm5kR2JWaEprd3AzM1BQRFB4ZnVKLUJ6dFpteWcyR0w5UnUyQ0hRZ21OUDN5TDhORW04YWszOXp5dlFFTWlqejZxSEM5WTE0OHFtejlvMUgzMVRhTjdsamtkQ3V1bjlsNlNtdG1HeDNjRWI2ZVZB?oc=5) - This is a direct, recent analysis of the 2026 Instagram algorithm, which is critical for understanding how to optimize Reels for Aydins' jewelry content. **Action:** Review the article's insights and audit your Reel strategy (hook, retention, engagement signals) to align with the 2026 recommendation logic.

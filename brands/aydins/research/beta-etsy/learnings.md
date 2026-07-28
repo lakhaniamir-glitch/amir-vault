@@ -1,6 +1,14 @@
 # beta-etsy Cumulative Learnings
 
 
+## 2026-07-28
+### Actionable
+- [Etsy adds Royal Mail’s new EU delivery service](https://news.google.com/rss/articles/CBMijgFBVV95cUxNWDkwdC00ZkREYUo0X1VSYjRTRi1vbG9GYWE4TVBFamFwX1RJTjZoempRSWU2MXRHbmtWVE9CclNqUDVROXZoeVg4eWxsbERHa3BQUW1VN05PbFlHejljN2NEcDlPcVNEQkcxNU05eVZtS2NnaTZqRDdRUjN6c3hBRGdlUXU4RTZuTGhGZW1R?oc=5) - This directly impacts shipping costs and compliance for EU sales, a key market for jewelry, and was announced on July 24, 2026.  
+  **Action:** Review the new Royal Mail service rates and integration in your Vela CSV to see if it offers a cost or simplicity advantage for your EU shipments.
+
+- [Etsy introduces upfront delivery duty payments to simplify shipping between UK and EU](https://news.google.com/rss/articles/CBMi9gFBVV95cUxNdU1tcThaS1JEWXV4bnE2YTZlOWxBc0NINEhLWFFvUXpRQkZEM3BMcWNzX1otYS1ucFdndU5ETU9hWEZjRXBKZXR6SFpWcUFoTmdacW1Uc3RKbGxicXJvM2xzOTN5cjBVUzZENUc3YlJaS3NxSlpHbkxTR3ZYcXJNdXl6bHdwazBfMG5WZG5hOGE5bUtfeUdoSzZFWGVnd3ZJQkk4RGhFV2VSdGJjNUs5N3VwamZXeGxpUU1TVTJCdXNKUmdKY3Qyalp6cmhqX2NubnF1MVBscXFaMWozR0JGSV9wcW5vVWRCa2Vob1YtOC1QdzFaZlE?oc=5) - This changes the tax/duty collection process for UK-EU shipments, affecting customer pricing and checkout experience, announced July 24, 2026.  
+  **Action:** Assess how this new duty payment method integrates with your listings and pricing strategy to ensure transparency and avoid checkout surprises for international customers.
+
 ## 2026-07-27
 ### Actionable
 - [Etsy adds Royal Mail’s new EU delivery service - Printweek](https://news.google.com/rss/articles/CBMijgFBVV95cUxNWDkwdC00ZkREYUo0X1VSYjRTRi1vbG9GYWE4TVBFamFwX1RJTjZoempRSWU2MXRHbmtWVE9CclNqUDVROXZoeVg4eWxsbERHa3BQUW1VN05PbFlHejljN2NEcDlPcVNEQkcxNU05eVZtS2NnaTZqRDdRUjN6c3hBRGdlUXU4RTZuTGhGZW1R?oc=5) - This matters for Aydins as it's a new, potentially cheaper EU shipping option that could affect competitiveness and holiday shipping cutoffs for European customers. Recommended action: Review the new Royal Mail service details in your Etsy shipping settings and assess if it offers better rates or reliability for your EU orders before the holiday rush.

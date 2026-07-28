@@ -1,6 +1,11 @@
 # beta-meta Cumulative Learnings
 
 
+## 2026-07-28
+### Actionable
+- [Facebook ad sizes and specs cheat sheet for 2026](https://blog.hootsuite.com/facebook-ad-sizes/) - This is a direct, updated reference for creative specifications, ensuring ads are built correctly to avoid delivery issues. **Action:** Bookmark this guide and review all active and upcoming ad creatives against the 2026 specs to ensure compliance and optimal display.
+- [Marketplace sellers gain a separate Meta app as listings hit 430M a month](https://news.google.com/rss/articles/CBMilgFBVV95cUxOVkwyYlhiVkkzY1I1WE9WZ1NIdGdEMDJCRi1ELWR6RE9XMWphMVYwRFh5SjZUWUVwdm5WaWNfQ0RMM09HZXlobkdvYXNoWWxYNENtOUhiemZiT0FCQlZfN1JFcVNEZnBURTZxRzZvaEc2ZVZFdE5wQ2tHUTRkc0JTTG1MeE1DOW94Vi16UEtQdnZNOVV6Y2c?oc=5) - This indicates Meta is heavily investing in and expanding its commerce ecosystem, which could influence ad formats and audience behavior. **Action:** Monitor the new "Seller" app for any potential integration with Instagram/Facebook Shops or new ad placement opportunities relevant to e-commerce.
+
 ## 2026-07-27
 ### Actionable
 - [Facebook ad sizes and specs cheat sheet for 2026](https://blog.hootsuite.com/facebook-ad-sizes/) - This is the most recent and directly relevant guide for ensuring Aydins' ad creatives meet the latest technical requirements, which is crucial for ad delivery and performance. **Action:** Review the 2026 specs and audit all active ad creatives to ensure compliance and optimal formatting.

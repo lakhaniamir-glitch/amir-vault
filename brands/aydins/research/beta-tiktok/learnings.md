@@ -1,6 +1,12 @@
 # beta-tiktok Cumulative Learnings
 
 
+## 2026-07-28
+### Actionable
+- [The Best Time to Post on TikTok in 2026: New Data from 7M Posts](https://buffer.com/resources/best-time-to-post-on-tiktok/) - This fresh analysis of 7.1 million posts provides actionable, data-driven posting times for 2026 to maximize Aydins' organic reach. **Action:** Review the findings and adjust the automated posting schedule for TikTok to align with the new peak engagement windows.
+- [TikTok Shop tests subscriptions and its next move looks a lot like Amazon Prime](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNWMxOU1lSUpjMWRscjVBMS1Ua0Y1NGxYcDVrek5vWklreGs1U3BGYnptS3Itblg3MHZQUEduaExUVl9GNFNTdXQ0cHVzc0ZMT3JUWlFqaU1IZ1VWakowYUlfYWc0SHZUMm9UYzNWNUI0RlJSTzVzQmtCc09OT1VPakZMYW9fd2xiTlZxME9wMWIyek5BUTlSaERHeVIwdjVaVG0yNDd6eTFRSjQ?oc=5) - TikTok Shop is testing a subscription model, which could be a new way to build customer loyalty and recurring revenue for Aydins. **Action:** Monitor official announcements and be prepared to evaluate a potential "Shop Prime" program for repeat jewelry buyers.
+- [TikTok Adds Three New AI Video Generation Tools to Its Symphony Ad Toolkit](https://news.google.com/rss/articles/CBMiogFBVV95cUxOLV9oVzM5a3RwSUFlbFhrUXpNaUJuX3ItbmQ2LXQyaE5aT1pfTVg2M0xUbGFsRjFVaF9GV3VrNkhMa09JR0JyeGx3cktfaEdsdnY4T3JkdC1QSjVEU29TTlhLOUtUSTQ2M0RzVEU3S2E3WHZNMzdLOWF1SW1MSkY0ZTJBN051SXlMNHo4X25UbTBfbUg0VVB3bktiMVlOMTBtQVE?oc=5) - New AI video tools within the ad platform could streamline creative production for Smart+ campaigns, saving time and resources. **Action:** Explore these new Symphony AI tools to test generating ad variations or enhancing product-focused video content.
+
 ## 2026-07-27
 ### Critical
 - [TikTok’s Security Chief Heads to Congress: ByteDance Kept Algorithm After Split - Tech Times](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOd2N4aXdTN0laOXlBU05xNVNFTl9FZVJkdlQ4V2E1bnN4S1RlbnNERVpsOGF5OEpHRk5na0FnNmU4MUhfaExKcFFHTURNTHR3cnpFVWlwZzFudVFiTEhMUlZ0ckZacmVBenBGSEtmcl8zNG5XU2toT0kzLUhPcENnMDljcVdtOTdSNXc4bWtYcjh2MnRoWmNrVjhYV01CN2tIWjNLeC1acXBwNC05ZFh6RTlsMHh6WWVicG5fTXFuNEpocW5XalJpQw?oc=5) - This indicates ongoing US regulatory scrutiny and potential algorithm control issues that could directly impact Aydins' platform stability and ad strategy. **Action:** Monitor this congressional testimony (July 23) for any immediate implications on operations or data handling.

@@ -1,6 +1,12 @@
 # beta-ebay Cumulative Learnings
 
 
+## 2026-07-28
+### Critical
+- [Major eBay change from next month will affect millions of UK sellers - The York Press](https://news.google.com/rss/articles/CBMinwFBVV95cUxOU1NSVVY4RTVKRTNRYjVfOXRBVHNUTkNTUTFOaGdLQm05YzJSZmN3T3lqNGw5WlRwUmRmSTFQQWFfbGhQZjhsN0NYQXVIQV80eHQ0U09QeHJCQThYeWdJVXBYZ3hXM3Jua2tscXZqTUx6b296ZF9HQUVQMmhld0xROTExM0hvaVhOVWxWZEdaMlFFci1ScWZwOVBoR3VwZ1k?oc=5) - This article, dated July 25, 2026, indicates a major fee change for UK sellers starting next month, which could directly impact Aydins Jewelry's margins on its UK sales. **Action:** Review the eBay UK seller announcement center immediately to understand the specific fee changes and calculate the impact on your UK listings.
+### Actionable
+- [Meta Launches Seller App: Photo-to-Listing AI Hits Facebook Marketplace - Tech Times](https://news.google.com/rss/articles/CBMivwFBVV95cUxQeFdVc2JrdEdmZ3NlRWJLenhzSkJZazNpQTIzRVBHMzl2cDladjB0ajY5ZHZBak9DVkktYkl1dDUxaC1HM2stc1VtS2hLVFNpSzl0bG80UkRNSEU5VWIxb0p6QmgzeEdkNnM1eWNNSDFoXzY3dG84SmdheGtQSUgtOUc2TnZmMmhxU21wLU9oNTJudGtvbXpfaUtNRjNLa3dWeUxaRzlhSk5JbEdtbWNpcXM3Nm9HMmx5VjJDcjlVdw?oc=5) - Meta's new AI-powered seller app for Facebook Marketplace, launched July 24, 2026, represents a new competitive threat and a potential tool for cross-listing efficiency. **Action:** Test the Meta Seller App's photo-to-listing AI feature to assess its utility for creating listings that could be cross-posted to eBay, potentially saving time.
+
 ## 2026-07-27
 ### Critical
 - [Major eBay change from next month will affect millions of UK sellers - Hillingdon Times](https://news.google.com/rss/articles/CBMivwFBVV95cUxNOVF0aWYteGpwbDN6b3M5dmhWTk9HRFdLd0JvdDhCYlJpWVpGa1p6QzFPcXhEcEZnYjh5aDBRVG1qaUJlZ2dkSmJvRExZTDNNQ1E0ZUljSXpJbjZra0V2YUdjNm1RZXJMR01VeDE4cVdLVk9fdFZnY3JnYURZdlhMSmdwN0pVaXB6clVPUjBpVnRXNG40MXhaTVdvaENQQy1xdUpZWGdoODV6c3RhSHBIalh4bjZVSVJwd3ZLYzVObw?oc=5) - This imminent UK fee change directly impacts Aydins' cost structure and margins on jewelry sales from the UK market, requiring immediate review. **Action:** Calculate the financial impact on UK listings and decide whether to adjust prices or absorb the cost by next month.
