@@ -1,6 +1,12 @@
 # beta-etsy Cumulative Learnings
 
 
+## 2026-07-29
+### Critical
+- [Etsy JUST Changed Personalization — Here's What Every Seller Needs To Know](https://news.google.com/rss/articles/CBMiW0FVX3lxTE90cGVDTGpmZzFHV1RfVmdHOGxxTUVoZE5IajR6WkNUdkZ1Nnp6dUZIczY1cUF5WHNXakRYZ3A0UUpnUjlITEdVbjdMS0ViMHNkTVlzMW9TeDZrVjA?oc=5) - This directly impacts Aydins' listing copy and compliance, as they present white-labeled rings as handcrafted and rely on personalization rules. - Immediately review the new policy and audit all active listings for compliance to avoid potential deactivation or penalties.
+### Actionable
+- [Etsy adds Royal Mail’s new EU delivery service](https://news.google.com/rss/articles/CBMijgFBVV95cUxNWDkwdC00ZkREYUo0X1VSYjRTRi1vbG9GYWE4TVBFamFwX1RJTjZoempRSWU2MXRHbmtWVE9CclNqUDVROXZoeVg4eWxsbERHa3BQUW1VN05PbFlHejljN2NEcDlPcVNEQkcxNU05eVZtS2NnaTZqRDdRUjN6c3hBRGdlUXU4RTZuTGhGZW1R?oc=5) - This offers a new, potentially cost-effective shipping option for EU customers, which could improve competitiveness and margins. - Evaluate this new service within the next month to see if it can replace current EU shipping methods and update Vela CSV profiles accordingly.
+
 ## 2026-07-28
 ### Actionable
 - [Etsy adds Royal Mail’s new EU delivery service](https://news.google.com/rss/articles/CBMijgFBVV95cUxNWDkwdC00ZkREYUo0X1VSYjRTRi1vbG9GYWE4TVBFamFwX1RJTjZoempRSWU2MXRHbmtWVE9CclNqUDVROXZoeVg4eWxsbERHa3BQUW1VN05PbFlHejljN2NEcDlPcVNEQkcxNU05eVZtS2NnaTZqRDdRUjN6c3hBRGdlUXU4RTZuTGhGZW1R?oc=5) - This directly impacts shipping costs and compliance for EU sales, a key market for jewelry, and was announced on July 24, 2026.  

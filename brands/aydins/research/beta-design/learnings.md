@@ -1,6 +1,11 @@
 # beta-design Cumulative Learnings
 
 
+## 2026-07-29
+### Actionable
+- [Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber](https://deepmind.google/blog/introducing-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber/) — This is a new, potentially cheaper/faster model release (Gemini 3.6 Flash) that could impact Aydins' cost and performance for synthesis tasks currently handled by DeepSeek via OpenRouter. **Action:** Test Gemini 3.6 Flash on OpenRouter for cost/performance against DeepSeek v3.2 for synthesis workloads within the next week.
+- [Bringing Nunchaku 4-bit Diffusion Inference to Diffusers](https://huggingface.co/blog/nunchaku-diffusers) — This is a new, efficient image generation model release (July 23, 2026) that could offer faster/cheaper inference for product image generation compared to current setups. **Action:** Benchmark Nunchaku 4-bit on Replicate for product photo generation against the current Gemini 2.5 Flash Image (nano-banana) reference.
+
 ## 2026-07-28
 ### Actionable
 - [Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber](https://deepmind.google/blog/introducing-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber/) — This includes a new, potentially faster/cheaper image generation model (Gemini 3.6 Flash) that could challenge the current "nano-banana" reference standard for Aydins' product shots. **Action:** Test Gemini 3.6 Flash's image quality and cost against the current Gemini 2.5 Flash Image setup within the next week.

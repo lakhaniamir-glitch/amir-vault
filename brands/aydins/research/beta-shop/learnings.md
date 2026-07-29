@@ -1,6 +1,10 @@
 # beta-shop Cumulative Learnings
 
 
+## 2026-07-29
+### Actionable
+- [The next era of commerce, built by partners - Shopify](https://news.google.com/rss/articles/CBMiZkFVX3lxTE52a3NnbC1DWmtLYmxIbGdQZEtiRzNYTl9MYzBKVDBVS3NzM09PWU1aT3VaUzN4bG9tUGczUm9hbjhlUVhrckRzb3c5TEdXVk1kUDZpTnk0Vm5DWFdsb2ZVc3R5SVFyUQ?oc=5) - This is likely the 2026 Shopify Editions announcement, outlining new platform features and partner-driven commerce shifts that could impact your OS 2.0 migration and app ecosystem. - Review the official Shopify Editions 2026 announcement for any new APIs, deprecations, or features that affect themes, checkout, or your current app stack.
+
 ## 2026-07-27
 ### Actionable
 - [DoorDash and Shopify Launch First-of-its-Kind Direct Integration for Local Retailers - FF News](https://news.google.com/rss/articles/CBMirAFBVV95cUxPaER4TERRMElfSTJhUUtVcDdCWFUyZWNGRmZoV3FJd1d5ZWhYcWVWaWxSbGhWR1JWQVRYaGhvblpFbzhYT1RoVVExWHFlOTN2TFk0MDYyRXNmMTlzSmFWeEZlb1NNbVNHTXlYYmw3ajBVbEpwRXNhTzFPanVmcWVGVW1ycXU0WWI1NUdjM1paQ0Y4d3daUVF5VnpmSF80S1hhWU1pM0xzRjhuNy11?oc=5) - This new direct integration could expand Aydins' local delivery options and potentially increase sales by reaching customers who prefer on-demand delivery. - Evaluate if this integration is available for your store and consider testing it for local jewelry deliveries, especially for high-value or last-minute orders.

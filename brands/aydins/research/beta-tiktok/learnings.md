@@ -1,6 +1,12 @@
 # beta-tiktok Cumulative Learnings
 
 
+## 2026-07-29
+### Actionable
+- [TikTok Shop Plus shipping benefits test in the US](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcHY0NUdfaTlzZDVlMUNnMHZ2MjZiS1BVQ2hzV1BCQkNqcjlRQ0FfZmpDZDItUHNMLTU2b2ppT2dBc1RzZGMzdlFRQUR4YV91Q0xzSURaX09DeGJRTWNCTVJRVEw3MEgwbWlISTdBZHhNTGtfM3FiSkFPc2haRGdHc0NPc280c0xj?oc=5) - This article (July 28, 2026) reports on a new test for TikTok Shop Plus shipping benefits in the US, which could lower costs and improve conversion for Aydins if they sell via TikTok Shop. **Action:** Monitor the TikTok Seller Center for an invitation to this test program and evaluate if the benefits apply to your product category and shipping profile.
+- [TikTok lets advertisers block up to 40% of regions in TopView buys](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWVJpMWVWcDdzTEpfTkRLdlJWVlQ1NUZycUJmcG50X1IzWUNPcjczRzZIV3BhTXA0UlpzMmFic2NMSTVoWGtXSjBQNnJKQjJUSERoYWhReWhUZkYySi14dGNVTWtNQkdsOGJQaE5vcTlPOHliM2hSd1NfWjY2U3ozU0FHT1RtQlZLalE0?oc=5) - This update (July 28, 2026) gives advertisers using premium TopView ads more granular geographic control, which is crucial for Aydins to avoid ad spend waste in non-relevant markets. **Action:** Review your current and planned TopView/Smart+ campaign targeting settings to implement regional blocks if this feature becomes available in your ad account.
+- [TikTok Adds Three New AI Video Generation Tools to Its Symphony Ad Toolkit](https://news.google.com/rss/articles/CBMiogFBVV95cUxOLV9oVzM5a3RwSUFlbFhrUXpNaUJuX3ItbmQ2LXQyaE5aT1pfTVg2M0xUbGFzRjFVaF9GV3VrNkhMa09JR0JyeGx3cktfaEdsdnY4T3JkdC1QSjVEU29TTlhLOUtUSTQ2M0RzVEU3S2E3WHZNMzdLOWF1SW1MSkY0ZTJBN051SXlMNHo4X25UbTBfbUg0VVB3bktiMVlOMTBtQVE?oc=5) - This news (July 25, 2026) details new AI video tools within TikTok's ad platform that could help Aydins quickly produce more varied ad creative for testing. **Action:** Explore the TikTok Symphony suite in Ads Manager to test these new AI tools for generating or augmenting video ad assets, potentially reducing production time.
+
 ## 2026-07-28
 ### Actionable
 - [The Best Time to Post on TikTok in 2026: New Data from 7M Posts](https://buffer.com/resources/best-time-to-post-on-tiktok/) - This fresh analysis of 7.1 million posts provides actionable, data-driven posting times for 2026 to maximize Aydins' organic reach. **Action:** Review the findings and adjust the automated posting schedule for TikTok to align with the new peak engagement windows.

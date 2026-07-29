@@ -1,6 +1,11 @@
 # beta-meta Cumulative Learnings
 
 
+## 2026-07-29
+### Actionable
+- [Facebook ad sizes and specs cheat sheet for 2026](https://blog.hootsuite.com/facebook-ad-sizes/) - This provides the latest technical specifications for ad creatives, which is essential for ensuring Aydins' ads are formatted correctly to avoid delivery issues and maximize performance. **Action:** Review the 2026 specs and audit all active and planned ad creatives for compliance, especially for Reels and Stories formats.
+- [Meta Digital Ad Tax Billing Could Confuse Small Businesses 03/17/2026 - MediaPost](https://news.google.com/rss/articles/CBMirgFBVV95cUxPa2ptOGNrUEVIcXBycWNfZGxUdzZBcmRHWEJnbDJ3bU1UNllQNEtoaElCMGxYS2FlVHM4Q24ta2JUUTNJLTNSMHI4REZVTTJ4VnNvbHhhTFQ0VjNtM0xNX25GRmFJV3h4VVJTMEN1YldQazQ2NTl4TWlwbVlZbHhPRktEVVhUcTRKTTd4aVZoRGUxN0Z2bGxSS205UFhfMThWVTlPaGgtNWhyN2R3X1E?oc=5) - This article highlights a potential new administrative hurdle (a digital ad tax) that could affect billing and budgeting for Aydins' small ad spend. **Action:** Monitor Meta Ads Manager for any new tax line items or billing notifications and adjust the monthly ad budget forecast accordingly.
+
 ## 2026-07-28
 ### Actionable
 - [Facebook ad sizes and specs cheat sheet for 2026](https://blog.hootsuite.com/facebook-ad-sizes/) - This is a direct, updated reference for creative specifications, ensuring ads are built correctly to avoid delivery issues. **Action:** Bookmark this guide and review all active and upcoming ad creatives against the 2026 specs to ensure compliance and optimal display.

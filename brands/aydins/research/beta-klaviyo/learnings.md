@@ -1,6 +1,11 @@
 # beta-klaviyo Cumulative Learnings
 
 
+## 2026-07-29
+### Actionable
+- [Webinar Alert: From DKIM to DKIM2: What Senders Need to Know Now and What Mailbox Providers Expect](https://www.spamresource.com/feeds/5732569576147311468/comments/default) - This discusses DKIM2, a critical evolution in email authentication that could impact deliverability with Gmail and Yahoo. **Action:** Register for this webinar (July 22, 2026) to understand upcoming technical requirements and prepare your sending domain.
+- [Open Rates Are Losing Their Value; Here’s What Smart Marketers Measure Instead.](https://news.google.com/rss/articles/CBMirwFBVV95cUxQX2hUWnFLSnBDWjB1c1VseUZKTzJTOG5pbjBmNkwwUTdiYjVUNzB4QWNGWEtEX0lEdnlIQW4yaFFNMVlrNVFUb1EtQS1pcjdhcW1vX1dwMG9JSkVEeXJ3STZjTkM2U3liSl9ZbTE5cUl6VWlJVGJnVUtpQlF2NlNrMzNIWU1yOTU3VnFZV3dSMElFbXpWYTVBbXZuOHUwcHhkRmE1cFduQ29IczZJZXQ0?oc=5) - This directly addresses the impact of iOS Mail Privacy on a key metric Aydins likely tracks, suggesting new KPIs. **Action:** Review this article (July 22, 2026) to audit your campaign success metrics and shift focus to clicks, conversions, and revenue attribution.
+
 ## 2026-07-28
 ### Actionable
 - [The Context Box: Do It, But Right](https://www.spamresource.com/feeds/9154890389763529634/comments/default) - This article from 2026-07-26 discusses the proper implementation of the "context box" (likely related to one-click unsubscribe or list-unsubscribe headers), which is critical for compliance with Gmail/Yahoo's 2026 sender requirements. **Why it matters for Aydins:** Ensuring proper one-click unsubscribe implementation is mandatory to avoid deliverability issues with major inbox providers. **Recommended action:** Review your Klaviyo account's unsubscribe footer and list-unsubscribe header settings to ensure they align with RFC 8058 and provider requirements.
