@@ -1,6 +1,11 @@
 # beta-design Cumulative Learnings
 
 
+## 2026-07-30
+### Actionable
+- [Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber](https://deepmind.google/blog/introducing-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber/) - This is a new, potentially cheaper/faster model family from Google that could replace or augment the current DeepSeek v3.2 backend on OpenRouter for synthesis tasks. **Recommended action:** Benchmark Gemini 3.6 Flash against DeepSeek v3.2 on OpenRouter for cost and performance on Aydins' agentic tasks within the next week.
+- [Gemini API Managed Agents: 3.6 Flash, hooks, and more](https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/) - Google's Managed Agents platform with the new 3.6 Flash model could simplify and potentially reduce the cost of running agentic loops compared to the current Hetzner VPS + beta orchestrator setup. **Recommended action:** Evaluate if migrating specific agentic workflows (e.g., channel specialists) to Gemini Managed Agents is more cost-effective or reliable within 2-3 weeks.
+
 ## 2026-07-29
 ### Actionable
 - [Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber](https://deepmind.google/blog/introducing-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber/) — This is a new, potentially cheaper/faster model release (Gemini 3.6 Flash) that could impact Aydins' cost and performance for synthesis tasks currently handled by DeepSeek via OpenRouter. **Action:** Test Gemini 3.6 Flash on OpenRouter for cost/performance against DeepSeek v3.2 for synthesis workloads within the next week.

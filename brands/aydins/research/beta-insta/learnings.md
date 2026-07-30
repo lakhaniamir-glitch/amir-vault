@@ -1,6 +1,12 @@
 # beta-insta Cumulative Learnings
 
 
+## 2026-07-30
+### Actionable
+- [Instagram Adds Scheduling for Personal Accounts - Floor Covering Weekly](https://news.google.com/rss/articles/CBMipgFBVV95cUxNaVY3dUJiTXRUVjVLbm01M1NzeVBhRWhFQU9HYThiYU1ZZzVBdzQzcERHSkFORk83aDN4T0l2SFRzTlZZWlN1UHVFeDM0SEo1cHdzbHUwVjJEYkdRMDVnTnI0c2c2NkNfOVBiU0x5TjE5dURxN2dFT2R2X1hodkVfY2djbjJEZTlsM2RqV0dOLVoyV3Q2MTd3N2ppV1JpZE5tX1hHZEVn?oc=5) - This update, reported on July 23, 2026, allows personal accounts to schedule posts, which could simplify Aydins' automated pipeline if they manage a personal brand account. Test this feature in Meta Business Suite to see if it offers new flexibility for your posting schedule.
+- [Instagram Finally Lets You Change The Music On Old Posts - ALM Corp](https://news.google.com/rss/articles/CBMifEFVX3lxTE1DbXVudnVnU0FnTDZyYy1faGZfcDFvRVhBSVdKNUFjTHV0SFVzenFlUGJqQkFWQk9yX1dEYk4tQl9MY2ltcjdxNnNvdzhHUmtwY2xTbE5GT2FQSk9IMFhEY0hITEhid3lVMHdfLTZxalZFTktYQWZQV0t3WXk?oc=5) - Reported on July 27, 2026, this feature allows editing music on published Reels, which is crucial for Aydins to fix or optimize audio on underperforming posts. Experiment with updating music on a few older Reels to test engagement impact.
+- [You Can Finally Change The Song On Your Instagram Posts After Posting Them - says.com](https://news.google.com/rss/articles/CBMioAFBVV95cUxOU3czdkZaSDVSM29lYmR3d3dNdE41d2Y5YzN2cWdHb2h1V2JzZWs0T0FkYjdQWnduT3B6dEhRU0V1YmVTTXd2ZHdiTVFNc2pGMy1pUDhFMlhqNFFRVndQb00wZm41VE14M0YycHNXOGR5dk9VblRlVU9uWk9EODhIN25TcVRsTjBuS0tZX0pYSDZ4cUtfX0FYSmw0M2pvYWVU?oc=5) - This July 30, 2026, article confirms a new Instagram feature to edit music after posting, directly impacting Reels strategy and content optimization. Immediately review your recent Reels to identify any where a music change could boost performance and implement the update.
+
 ## 2026-07-29
 ### Actionable
 - [Why Your Instagram Reels Aren’t Getting Views (And How to Fix It) - Impakter](https://news.google.com/rss/articles/CBMidEFVX3lxTE54UXNEZXlWU084QmNfSDF1R0ExMTczeldYZi1mQmZ3WlhSSjE0VDZHVVI4RHJQSDZjQlYwMWtYbmh4ZmUzdE9mMWJaeGNjQ0hfenpMY3Nod2Jadm5sTUs0ajN2UFRiSGFMLTY3OV9WVV9WanF5?oc=5) - This directly addresses a core performance issue for Aydins' automated Reel pipeline and could provide immediate fixes to improve reach. **Action:** Review the article's diagnostic steps and test the suggested fixes on a subset of upcoming Reels to see if view counts improve.

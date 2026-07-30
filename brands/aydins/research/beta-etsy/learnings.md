@@ -1,6 +1,10 @@
 # beta-etsy Cumulative Learnings
 
 
+## 2026-07-30
+### Actionable
+- [AI Printables on Etsy: The $0.20 Mistake Everyone Makes](https://news.google.com/rss/articles/CBMifkFVX3lxTFBLdU9UX0ttUHhaOWdtQTV6R2FYeVE0WlBKRlNYd3BjVU5Ga2p2eVREQ29zSGtXMW40Y0VaUkg3THlvUnY1d0dxZzBWQzVlUXdFOU5zZWh6Z1czX0xIMVpmdFZLYllPQ1Vpc1N5RHpBNXVlZkQwTXJlSTdjQ2ZnUQ?oc=5) - This article, published on 2026-07-29, directly addresses a common and costly listing mistake for digital products that could impact search ranking and ad performance. Aydins should audit their own listing descriptions and tags for similar low-value keywords or practices that might be penalized by the algorithm.
+
 ## 2026-07-29
 ### Critical
 - [Etsy JUST Changed Personalization — Here's What Every Seller Needs To Know](https://news.google.com/rss/articles/CBMiW0FVX3lxTE90cGVDTGpmZzFHV1RfVmdHOGxxTUVoZE5IajR6WkNUdkZ1Nnp6dUZIczY1cUF5WHNXakRYZ3A0UUpnUjlITEdVbjdMS0ViMHNkTVlzMW9TeDZrVjA?oc=5) - This directly impacts Aydins' listing copy and compliance, as they present white-labeled rings as handcrafted and rely on personalization rules. - Immediately review the new policy and audit all active listings for compliance to avoid potential deactivation or penalties.

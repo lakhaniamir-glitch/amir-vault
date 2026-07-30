@@ -1,6 +1,13 @@
 # beta-klaviyo Cumulative Learnings
 
 
+## 2026-07-30
+### Actionable
+- [BIMI: What does self-asserted mean?](https://www.spamresource.com/feeds/3696965358770625697/comments/default) - This clarifies a key nuance in BIMI implementation (self-asserted vs. verified logos) that impacts brand trust and inbox placement. **Action:** Review your BIMI setup in Klaviyo to ensure you are using a verified, trademarked logo and not a self-asserted one to maintain deliverability.
+- [Troubleshooting 554 5.7.5 DMARC-related SMTP rejections](https://www.spamresource.com/feeds/5763336552103921826/comments/default) - This provides a direct guide to fixing DMARC failures, which are critical for Gmail/Yahoo compliance and can block campaigns. **Action:** Use this guide to audit your domain's DMARC, SPF, and DKIM records immediately to prevent email bounces.
+- [Webinar Alert: From DKIM to DKIM2: What Senders Need to Know Now and What Mailbox Providers Expect](https://www.spamresource.com/feeds/5732569576147311468/comments/default) - This webinar (July 22, 2026) covers the upcoming DKIM2 standard, a foundational change for future email authentication. **Action:** Register for this webinar to understand the timeline and technical requirements for adopting DKIM2 to stay ahead of sender policy changes.
+- [Email Spam Rates Hit 45%: What Senders Are Getting Wrong](https://news.google.com/rss/articles/CBMiswFBVV95cUxPYXlrOER5MXUzOC1FNlc3WmxCejRmUTlsRUR6cFgybFpjaDVXbE9wQ0FaekxHRUxQcm83TFlzU1NSd1RBM0pxMjY4QjZNNXUxRkR5XzIyQngwbnl5cGFWZm9PLVhWTi03eDNHX1ZjYX) - This report highlights a major industry-wide spike in spam rates, directly threatening inbox placement and revenue. **Action:** Conduct an urgent audit of your list hygiene, engagement segmentation, and content to ensure you are not contributing to this trend and risking deliverability.
+
 ## 2026-07-29
 ### Actionable
 - [Webinar Alert: From DKIM to DKIM2: What Senders Need to Know Now and What Mailbox Providers Expect](https://www.spamresource.com/feeds/5732569576147311468/comments/default) - This discusses DKIM2, a critical evolution in email authentication that could impact deliverability with Gmail and Yahoo. **Action:** Register for this webinar (July 22, 2026) to understand upcoming technical requirements and prepare your sending domain.

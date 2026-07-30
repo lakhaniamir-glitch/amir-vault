@@ -1,6 +1,10 @@
 # beta-shop Cumulative Learnings
 
 
+## 2026-07-30
+### Actionable
+- [The next era of commerce, built by partners - Shopify](https://news.google.com/rss/articles/CBMiZkFVX3lxTE52a3NnbC1DWmtLYmxIbGdQZEtiRzNYTl9MYzBKVDBVS3NzM09PWU1aT3VaUzN4bG9tUGczUm9hbjhlUVhrckRzb3c5TEdXVk1kUDZpTnk0Vm5DWFdsb2ZVc3R5SVFyUQ?oc=5) - This is likely the announcement for Shopify Editions Summer 2026, which typically includes major platform updates and deprecations that could impact your OS2.0 migration and app stack. **Action:** Review the full announcement for any critical updates to checkout extensibility, theme blocks, or app extension deadlines that may affect your v5 migration timeline.
+
 ## 2026-07-29
 ### Actionable
 - [The next era of commerce, built by partners - Shopify](https://news.google.com/rss/articles/CBMiZkFVX3lxTE52a3NnbC1DWmtLYmxIbGdQZEtiRzNYTl9MYzBKVDBVS3NzM09PWU1aT3VaUzN4bG9tUGczUm9hbjhlUVhrckRzb3c5TEdXVk1kUDZpTnk0Vm5DWFdsb2ZVc3R5SVFyUQ?oc=5) - This is likely the 2026 Shopify Editions announcement, outlining new platform features and partner-driven commerce shifts that could impact your OS 2.0 migration and app ecosystem. - Review the official Shopify Editions 2026 announcement for any new APIs, deprecations, or features that affect themes, checkout, or your current app stack.

@@ -1,6 +1,10 @@
 # beta-meta Cumulative Learnings
 
 
+## 2026-07-30
+### Actionable
+- [Meta Digital Ad Tax Billing Could Confuse Small Businesses 03/17/2026 - MediaPost](https://news.google.com/rss/articles/CBMirgFBVV95cUxPa2ptOGNrUEVIcXBycWNfZGxUdzZBcmRHWEJnbDJ3bU1UNllQNEtoaElCMGxYS2FlVHM4Q24ta2JUUTNJLTNSMHI4REZVTTJ4VnNvbHhhTFQ0VjNtM0xNX25GRmFJV3h4VVJTMEN1YldQazQ2NTl4TWlwbVlZbHhPRktEVVhUcTRKTTd4aVZoRGUxN0Z2bGxSS205UFhfMThWVTlPaGgtNWhyN2R3X1E?oc=5) - This article warns of potential billing confusion from a new Meta ad tax, which could directly impact Aydins Jewelry's ad spend and budget management. **Action:** Review recent Meta Ads billing statements for any new tax line items and clarify with Meta support if needed.
+
 ## 2026-07-29
 ### Actionable
 - [Facebook ad sizes and specs cheat sheet for 2026](https://blog.hootsuite.com/facebook-ad-sizes/) - This provides the latest technical specifications for ad creatives, which is essential for ensuring Aydins' ads are formatted correctly to avoid delivery issues and maximize performance. **Action:** Review the 2026 specs and audit all active and planned ad creatives for compliance, especially for Reels and Stories formats.
