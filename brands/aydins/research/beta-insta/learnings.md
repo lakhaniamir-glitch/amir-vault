@@ -1,6 +1,12 @@
 # beta-insta Cumulative Learnings
 
 
+## 2026-07-31
+### Actionable
+- [Instagram Finally Lets You Change The Music On Old Posts](https://news.google.com/rss/articles/CBMifEFVX3lxTE1DbXVudnVnU0FnTDZyYy1faGZfcDFvRVhBSVdKNUFjTHV0SFVzenFlUGJqQkFWQk9yX1dEYk4tQl9MY2ltcjdxNnNvdzhHUmtwY2xTbE5GT2FQSk9IMFhEY0hITEhid3lVMHdfLTZxalZFTktYQWZQV0t3WXk?oc=5) - This new feature (reported July 27, 2026) allows you to refresh the audio on existing Reels, which can revive engagement on older content featuring your jewelry. **Action:** Audit your top-performing Reels from the last 90 days and test updating their music to trending or more relevant audio to give them a new life in the algorithm.
+
+- [You Can Finally Change The Song On Your Instagram Posts After Posting Them](https://news.google.com/rss/articles/CBMioAFBVV95cUxOU3czdkZaSDVSM29lYmR3d3dNdE41d2Y5YzN2cWdHb2h1V2JzZWs0T0FkYjdQWnduT3B6dEhRU0V1YmVTTXd2ZHdiTVFNc2pGMy1pUDhFMlhqNFFRVndQb00wZm41VE14M0YycHNXOGR5dk9VblRlVU9uWk9EODhIN25TcVRsTjBuS0tZX0pYSDZ4cUtfX0FYSmw0M2pvYWVU?oc=5) - This is a duplicate report (July 30, 2026) of a critical new Instagram feature that directly impacts your Reels pipeline and content refresh strategy. **Action:** Integrate this capability into your content review cycle; plan to update music on underperforming or seasonal posts to improve their reach and relevance.
+
 ## 2026-07-30
 ### Actionable
 - [Instagram Adds Scheduling for Personal Accounts - Floor Covering Weekly](https://news.google.com/rss/articles/CBMipgFBVV95cUxNaVY3dUJiTXRUVjVLbm01M1NzeVBhRWhFQU9HYThiYU1ZZzVBdzQzcERHSkFORk83aDN4T0l2SFRzTlZZWlN1UHVFeDM0SEo1cHdzbHUwVjJEYkdRMDVnTnI0c2c2NkNfOVBiU0x5TjE5dURxN2dFT2R2X1hodkVfY2djbjJEZTlsM2RqV0dOLVoyV3Q2MTd3N2ppV1JpZE5tX1hHZEVn?oc=5) - This update, reported on July 23, 2026, allows personal accounts to schedule posts, which could simplify Aydins' automated pipeline if they manage a personal brand account. Test this feature in Meta Business Suite to see if it offers new flexibility for your posting schedule.

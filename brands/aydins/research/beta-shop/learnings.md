@@ -1,6 +1,10 @@
 # beta-shop Cumulative Learnings
 
 
+## 2026-07-31
+### Actionable
+- [Arbitrum: Shopify Payments supports USDC checkout - 30 Jul 2026 - TradingView](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSldBN3p5eTdvTE5sWlhpT0tjUTkzREFyQzJYV3RxdEpuMnVRZWo3RGpDTHZ5RkRuTnFUMzJqVGY0WnQ1Vl82N0RCblo2M2xHZHN0WFVWZjUtZmVfYldBYkF1Vk0ybFBkdmNqMEF3dFJUMDdPV29Cd21KM00wdWZLZEg5cmczZDdEY2lYTzYtUWx5dmc0SWhSY3dzS2hkOFBxMHBGclFISWw3VFYxWVdvVWdUNDk2Q2ZiUUY1ZzhnUERnUQ?oc=5) — This matters for Aydins because enabling USDC checkout could attract crypto-native customers and is a new payment integration to consider. Recommended action: Review the Shopify Payments announcement and assess if enabling USDC aligns with your customer base and payment strategy.
+
 ## 2026-07-30
 ### Actionable
 - [The next era of commerce, built by partners - Shopify](https://news.google.com/rss/articles/CBMiZkFVX3lxTE52a3NnbC1DWmtLYmxIbGdQZEtiRzNYTl9MYzBKVDBVS3NzM09PWU1aT3VaUzN4bG9tUGczUm9hbjhlUVhrckRzb3c5TEdXVk1kUDZpTnk0Vm5DWFdsb2ZVc3R5SVFyUQ?oc=5) - This is likely the announcement for Shopify Editions Summer 2026, which typically includes major platform updates and deprecations that could impact your OS2.0 migration and app stack. **Action:** Review the full announcement for any critical updates to checkout extensibility, theme blocks, or app extension deadlines that may affect your v5 migration timeline.

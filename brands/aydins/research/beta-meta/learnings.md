@@ -1,6 +1,13 @@
 # beta-meta Cumulative Learnings
 
 
+## 2026-07-31
+### Critical
+- [Meta blocks 47 commerce endpoints as Graph API v26.0 lands today - PPC Land](https://news.google.com/rss/articles/CBMiigFBVV95cUxPN1M5enluN0E2M1lmdVFJdEVOSnc0cVhMU0hxTklnVkV1SFN4U1Q1ZWc1aUd5dzFmT2tDRHI5WmFzWjZoejNDWVFPd2pobUhEbWF0TjF4clRZUThkakM3ZXZzQ3dOanRrdE1pLW1TaXRPSWpQc3FyUGdZYUZiYTB5MGhya3llbGJCRWc?oc=5) - This immediate API change could break existing commerce integrations, including Shopify's connection to Meta Ads, potentially halting ad delivery or reporting. **Action:** Verify your Shopify-Meta integration is updated to use the latest Graph API version immediately to avoid campaign disruption.
+### Actionable
+- [Meta Digital Ad Tax Billing Could Confuse Small Businesses 03/17/2026 - MediaPost](https://news.google.com/rss/articles/CBMirgFBVV95cUxPa2ptOGNrUEVIcXBycWNfZGxUdzZBcmRHWEJnbDJ3bU1UNllQNEtoaElCMGxYS2FlVHM4Q24ta2JUUTNJLTNSMHI4REZVTTJ4VnNvbHhhTFQ0VjNtM0xNX25GRmFJV3h4VVJTMEN1YldQazQ2NTl4TWlwbVlZbHhPRktEVVhUcTRKTTd4aVZoRGUxN0Z2bGxSS205UFhfMThWVTlPaGgtNWhyN2R3X1E?oc=5) - New tax billing on Meta ad spend adds complexity to your ~$50/day budget and could affect cash flow if not anticipated. **Action:** Review your recent Meta Ads invoices and adjust your daily budget planning to account for any new tax line items.
+- [MarketRank Names Ryze AI the Best AI Tool for Managing Google and Meta Ads in 2026 - FinancialContent](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPc0M4SzBkenl2MTlzNVhSR2tlXzVtY0JKemN0X0FxcDhpVkNYTFZXUGNYQ0hlMmlub3QyVlJqTk05MjBLNUtFOHU2UmRnREcyTjYzdy1aNnpYOVRpLVRrMUhaWGlKbTEwb1NMTV9OOVFyVVJUQmhxdnplX20wNnZsTE5sSkw0UERsVWxNZnJFM3JUbTd2NUEzbHBFRnF0ZjN1bHB6dkV2R29JTmQ3S0MxV0VHd2h0ekhyaVNvN0ZtdzBSRVZ5aFBiS2VGU3U2RDdDX3lRU0JVSjhWd3JhZ3ZST3VoT3U3SmNH?oc=5) - With your cross-channel attribution gap, an AI-powered tool could help optimize limited spend ($50/day) across Meta and Google more efficiently. **Action:** Research Ryze AI or similar tools for a 2-week trial to see if it improves budget allocation and bridges the attribution gap.
+
 ## 2026-07-30
 ### Actionable
 - [Meta Digital Ad Tax Billing Could Confuse Small Businesses 03/17/2026 - MediaPost](https://news.google.com/rss/articles/CBMirgFBVV95cUxPa2ptOGNrUEVIcXBycWNfZGxUdzZBcmRHWEJnbDJ3bU1UNllQNEtoaElCMGxYS2FlVHM4Q24ta2JUUTNJLTNSMHI4REZVTTJ4VnNvbHhhTFQ0VjNtM0xNX25GRmFJV3h4VVJTMEN1YldQazQ2NTl4TWlwbVlZbHhPRktEVVhUcTRKTTd4aVZoRGUxN0Z2bGxSS205UFhfMThWVTlPaGgtNWhyN2R3X1E?oc=5) - This article warns of potential billing confusion from a new Meta ad tax, which could directly impact Aydins Jewelry's ad spend and budget management. **Action:** Review recent Meta Ads billing statements for any new tax line items and clarify with Meta support if needed.

@@ -1,6 +1,12 @@
 # beta-tiktok Cumulative Learnings
 
 
+## 2026-07-31
+### Actionable
+- [The Best Time to Post on TikTok in 2026: New Data from 7M Posts](https://buffer.com/resources/best-time-to-post-on-tiktok/) - This provides fresh, data-driven insights into optimal posting times for TikTok in 2026, directly impacting Aydins's daily automated reel schedule for maximum reach. **Action:** Review the findings and adjust the automated posting schedule for TikTok to align with the new peak engagement windows.
+- [TikTok Shop Plus shipping benefits test in the US](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcHY0NUdfaTlzZDVlMUNnMHZ2MjZiS1BVQ2hzV1BCQkNqcjlRQ0FfZmpDZDItUHNMLTU2b2ppT2dBc1RzZGMzdlFRQUR4YV91Q0xzSURaX09DeGJRTWNCTVJRVEw3MEgwbWlISTdBZHhNTGtfM3FiSkFPc2haRGdHc0NPc280c0xj?oc=5) - This reports a new test of shipping benefits for TikTok Shop in the US, which could lower costs and improve conversion for Aydins's Shop tests. **Action:** Monitor the TikTok Seller Center for eligibility and consider enrolling in the test program if available to potentially reduce shipping friction.
+- [TikTok Shop Is Booming. Most Brands Still Aren’t Making Money](https://news.google.com/rss/articles/CBMipwFBVV95cUxPS1h5ZGEtcUhvNXJxZEhlNkUtVXNmd081d1FlQ20ySjdXTmw1T0dkZ2xITlR2aUNLb3NDUmw4ZllpdFV4UW1lSFM0RzZMUFg1ZlBMaHpBSUJkRkRsUVlyeHF2RkVIWlJKNlllMEhzajJJbVZyUHdvWHJaUjBSV1pucHZBTV8xT0p0SkdOLTJYejY1SGFkM1QweXVWUGRKbGh2YXFGQW9kUQ?oc=5) - This highlights the profitability challenges on TikTok Shop, a critical reality check for Aydins's investment and strategy. **Action:** Conduct a detailed audit of Aydins's TikTok Shop performance (ROAS, fees, fulfillment costs) against this industry benchmark to validate its financial viability.
+
 ## 2026-07-30
 ### Critical
 - [TikTok Shop Plus shipping benefits test in the US](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcHY0NUdfaTlzZDVlMUNnMHZ2MjZiS1BVQ2hzV1BCQkNqcjlRQ0FfZmpDZDItUHNMLTU2b2ppT2dBc1RzZGMzdlFRQUR4YV91Q0xzSURaX09DeGJRTWNCTVJRVEw3MEgwbWlISTdBZHhNTGtfM3FiSkFPc2haRGdHc0NPc280c0xj?oc=5) - This is a new, active test of shipping benefits for TikTok Shop in the US (reported July 28, 2026), which could directly impact Aydins' cost structure and competitiveness if they use TikTok Shop. - Monitor the test's official announcement and evaluate if enrolling could reduce shipping costs or improve conversion rates for your products.

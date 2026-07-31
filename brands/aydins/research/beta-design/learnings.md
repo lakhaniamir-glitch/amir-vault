@@ -1,6 +1,13 @@
 # beta-design Cumulative Learnings
 
 
+## 2026-07-31
+### Actionable
+- [Advancing the price-performance frontier with GPT-5.6](https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6) - This announces lower pricing for GPT‑5.6, which could materially reduce costs for Aydins's agentic loops and synthesis tasks if it's cheaper than their current DeepSeek backend. - Evaluate GPT-5.6 pricing on OpenRouter immediately to see if it offers a better cost-performance ratio for synthesis and agentic tasks.
+- [Gemini API Managed Agents: 3.6 Flash, hooks, and more](https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/) - This introduces new Gemini 3.6 Flash capabilities for managed agents, which could offer a more powerful or cost-effective alternative for Aydins's agentic orchestrator. - Test Gemini 3.6 Flash Managed Agents against the current beta orchestrator setup for performance and cost within the next two weeks.
+- [Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber](https://deepmind.google/blog/introducing-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber/) - The release of Gemini 3.6 Flash is a new, potentially faster and cheaper model that could replace or augment the current Gemini 2.5 Flash Image reference for product shots or other tasks. - Benchmark Gemini 3.6 Flash for image generation and general tasks to see if it offers a capability jump or cost saving over the current nano-banana reference.
+- [Bringing Nunchaku 4-bit Diffusion Inference to Diffusers](https://huggingface.co/blog/nunchaku-diffusers) - This enables efficient 4-bit inference for diffusion models, which could significantly speed up and reduce the cost of running image generation models on Aydins's own infrastructure. - Experiment with Nunchaku 4-bit quantization on Replicate or a local setup to test potential speed/cost improvements for product photo generation.
+
 ## 2026-07-30
 ### Actionable
 - [Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber](https://deepmind.google/blog/introducing-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber/) - This is a new, potentially cheaper/faster model family from Google that could replace or augment the current DeepSeek v3.2 backend on OpenRouter for synthesis tasks. **Recommended action:** Benchmark Gemini 3.6 Flash against DeepSeek v3.2 on OpenRouter for cost and performance on Aydins' agentic tasks within the next week.

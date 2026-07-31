@@ -1,6 +1,12 @@
 # beta-klaviyo Cumulative Learnings
 
 
+## 2026-07-31
+### Actionable
+- [BIMI: What does self-asserted mean?](https://www.spamresource.com/feeds/3696965358770625697/comments/default) - This clarifies a key nuance in BIMI implementation that could affect brand logo display in inboxes, directly impacting email trust and engagement. Review your BIMI setup to ensure you are using a Verified Mark Certificate (VMC) and not relying on self-asserted records to maintain deliverability and brand presence.
+- [Troubleshooting 554 5.7.5 DMARC-related SMTP rejections](https://www.spamresource.com/feeds/5763336552103921826/comments/default) - This provides a direct guide to fixing DMARC failures that are causing emails to be rejected, which is critical for maintaining deliverability to Gmail and Yahoo. Immediately audit your DMARC, SPF, and DKIM records to ensure they are correctly configured and not causing hard bounces.
+- [Webinar Alert: From DKIM to DKIM2: What Senders Need to Know Now and What Mailbox Providers Expect](https://www.spamresource.com/feeds/5732569576147311468/comments/default) - This webinar covers an upcoming authentication standard (DKIM2) that mailbox providers are beginning to expect, which is crucial for future-proofing your email infrastructure. Register for the webinar to understand the timeline and requirements for adopting DKIM2 to avoid future deliverability issues.
+
 ## 2026-07-30
 ### Actionable
 - [BIMI: What does self-asserted mean?](https://www.spamresource.com/feeds/3696965358770625697/comments/default) - This clarifies a key nuance in BIMI implementation (self-asserted vs. verified logos) that impacts brand trust and inbox placement. **Action:** Review your BIMI setup in Klaviyo to ensure you are using a verified, trademarked logo and not a self-asserted one to maintain deliverability.
