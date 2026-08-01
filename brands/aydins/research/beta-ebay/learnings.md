@@ -1,6 +1,13 @@
 # beta-ebay Cumulative Learnings
 
 
+## 2026-08-01
+### Critical
+- [eBay Moves MyFitment In-Platform, Cuts Off Amazon And Third-Party Tools - Value Added Resource](https://news.google.com/rss/articles/CBMieEFVX3lxTFBTdERfYndWWk5LVTJaM2FQLXNxbzVxSWYzRmZJZldHZGlhZ2w1RTlKc1BOd3BmWVRUNzRFaGIyb19zUm1qRDdUMEowUzBsakVaSEpFdGFfRm5pRUJzOGY5WWM5WThiYnVlUjBOTFNYc1hQMkVqWHpmdg?oc=5) - This directly impacts Aydins' ability to use external tools for listing optimization, potentially forcing a shift to eBay's native tools and affecting listing efficiency. **Action:** Immediately review current listing workflow and prepare to adapt to eBay's in-platform MyFitment tool to avoid disruption.
+### Actionable
+- [eBay Fashion Sellers Brace for August Size Standardization Disruption - Value Added Resource](https://news.google.com/rss/articles/CBMieEFVX3lxTFBkSDZISUtaY0pfaGQydUNOWThqeGMyTHlSVHJYRXkyLW04S3ZkdHpHaFJSRl9EOHJmUEtxYUlNT3FHMktSNlVLOWhSYUwwX1FkYXhFUF9GLXl0SkpJT1I0bDliYmZKVDBxeUFkaHlIX09sN29DV0tLYw?oc=5) - Aydins sells men's wedding bands, which may be affected by new size standardization rules, potentially requiring listing updates to maintain visibility. **Action:** Audit all jewelry listings within the next 2-4 weeks to ensure size attributes comply with eBay's new standardization to avoid search ranking penalties.
+- [Meta Launches Standalone "Seller" App for Facebook Marketplace Power Users, Tapping AI to Automate Listings - finance.biggo.com](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTEFncXNVMmtPckpqTUVNOC1lNEJEN0w1amc0ZGwzRDh5T0hSLUlNYk1haTFuODhBTGlodFNSenl6S3JSTzlZPC1fTlU2RWlOUWRCc2RNQU9haDJDV0Q2aWtleEpqbnB4MUZzdy1TQnFUSF9WR29EYlozS0FaZUFJV2I1NU4yWFZ1bTVR?oc=5) - This represents a new competitive threat and a potential alternative sales channel that could siphon traffic from eBay. **Action:** Test the new Meta Seller app within the next month to evaluate its AI listing tools and cross-promotion potential for Aydins' inventory.
+
 ## 2026-07-31
 ### Critical
 - [eBay Gives Sellers One Day Notice Of Another USPS Ground Advantage Rate Increase - Value Added Resource](https://news.google.com/rss/articles/CBMiekFVX3lxTE5ObHdQUW1WTE9qUUlTbHVDQnlWcTN0blNVMHZzWkgwbjBBaVRyano0QjhOWUZ2VF9VM3g3ZUN3Q0NqTmlIVmFud1VjRWYtWklENVdIQzcyOTV4LUVNcnhzSXdzcjBVUy11ZUFJbmxvSDVQeTZBMnJGcU5B?oc=5) - This directly impacts shipping costs and margins for Aydins Jewelry's tight-margin rings, requiring an immediate pricing or shipping strategy review. **Action:** Review current shipping profiles and pricing by end of week to absorb or pass on the new USPS rate.

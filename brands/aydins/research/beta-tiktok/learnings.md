@@ -1,6 +1,11 @@
 # beta-tiktok Cumulative Learnings
 
 
+## 2026-08-01
+### Actionable
+- [The Best Time to Post on TikTok in 2026: New Data from 7M Posts](https://buffer.com/resources/best-time-to-post-on-tiktok/) - This fresh data analysis from July 20, 2026, provides actionable insights for scheduling Aydins' automated daily reels to maximize FYP visibility and engagement. **Action:** Review the findings and adjust the automated posting schedule in the pipeline to align with the new peak times.
+- [TikTok Shop Plus shipping benefits test in the US](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcHY0NUdfaTlzZDVlMUNnMHZ2MjZiS1BVQ2hzV1BCQkNqcjlRQ0FfZmpDZDItUHNMLTU2b2ppT2dBc1RzZGMzdlFRQUR4YV91Q0xzSURaX09DeGJRTWNCTVJRVEw3MEgwbWlISTdBZHhNTGtfM3FiSkFPc2haRGdHc0NPc280c0xj?oc=5) - This test, reported on July 28, 2026, could offer new shipping incentives or fee structures for TikTok Shop sellers in the US, directly impacting Aydins' cost and logistics. **Action:** Monitor the TikTok Shop seller portal for an invitation to this test program and evaluate if joining could reduce operational costs.
+
 ## 2026-07-31
 ### Actionable
 - [The Best Time to Post on TikTok in 2026: New Data from 7M Posts](https://buffer.com/resources/best-time-to-post-on-tiktok/) - This provides fresh, data-driven insights into optimal posting times for TikTok in 2026, directly impacting Aydins's daily automated reel schedule for maximum reach. **Action:** Review the findings and adjust the automated posting schedule for TikTok to align with the new peak engagement windows.

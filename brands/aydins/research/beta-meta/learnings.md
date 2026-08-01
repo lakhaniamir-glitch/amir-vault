@@ -1,6 +1,12 @@
 # beta-meta Cumulative Learnings
 
 
+## 2026-08-01
+### Critical
+- [Meta blocks 47 commerce endpoints as Graph API v26.0 lands today - PPC Land](https://news.google.com/rss/articles/CBMiigFBVV95cUxPN1M5enluN0E2M1lmdVFJdEVOSnc0cVhMU0hxTklnVkV1SFN4U1Q1ZWc1aUd5dzFmT2tDRHI5WmFzWjZoejNDWVFPd2pobUhEbWF0TjF4clRZUThkakM3ZXZzQ3dOanRrdE1pLW1TaXRPSWpQc3FyUGdZYUZiYTB5MGhya3llbGJCRWc?oc=5) - This is a breaking API change that could disrupt catalog syncing and ad management tools, directly impacting Aydins' Shopify integration and Pixel event matching. **Action:** Immediately verify that your Shopify channel and any third-party tools are compatible with Graph API v26.0 to prevent data flow interruptions.
+### Actionable
+- [Meta Digital Ad Tax Billing Could Confuse Small Businesses 03/17/2026 - MediaPost](https://news.google.com/rss/articles/CBMirgFBVV95cUxPa2ptOGNrUEVIcXBycWNfZGxUdzZBcmRHWEJnbDJ3bU1UNllQNEtoaElCMGxYS2FlVHM4Q24ta2JUUTNJLTNSMHI4REZVTTJ4VnNvbHhhTFQ0VjNtM0xNX25GRmFJV3h4VVJTMEN1YldQazQ2NTl4TWlwbVlZbHhPRktEVVhUcTRKTTd4aVZoRGUxN0Z2bGxSS205UFhfMThWVTlPaGgtNWhyN2R3X1E?oc=5) - New tax billing changes could affect ad spend calculations and invoicing for small businesses like Aydins. **Action:** Review Meta Ads billing settings and recent invoices within the next 2-4 weeks to ensure no unexpected charges or compliance issues arise.
+
 ## 2026-07-31
 ### Critical
 - [Meta blocks 47 commerce endpoints as Graph API v26.0 lands today - PPC Land](https://news.google.com/rss/articles/CBMiigFBVV95cUxPN1M5enluN0E2M1lmdVFJdEVOSnc0cVhMU0hxTklnVkV1SFN4U1Q1ZWc1aUd5dzFmT2tDRHI5WmFzWjZoejNDWVFPd2pobUhEbWF0TjF4clRZUThkakM3ZXZzQ3dOanRrdE1pLW1TaXRPSWpQc3FyUGdZYUZiYTB5MGhya3llbGJCRWc?oc=5) - This immediate API change could break existing commerce integrations, including Shopify's connection to Meta Ads, potentially halting ad delivery or reporting. **Action:** Verify your Shopify-Meta integration is updated to use the latest Graph API version immediately to avoid campaign disruption.

@@ -1,6 +1,12 @@
 # beta-insta Cumulative Learnings
 
 
+## 2026-08-01
+### Actionable
+- [Meta blocks 47 commerce endpoints as Graph API v26.0 lands today](https://news.google.com/rss/articles/CBMiigFBVV95cUxPN1M5enluN0E2M1lmdVFJdEVOSnc0cVhMU0hxTklnVkV1SFN4U1Q1ZWc1aUd5dzFmT2tDRHI5WmFzWjZoejNDWVFPd2pobUhEbWF0TjF4clRZUThkakM3ZXZzQ3dOanRrdE1pLW1TaXRPSWpQc3FyUGdZYUZiYTB5MGhya3llbGJCRWc?oc=5) - This API change could disrupt automated posting and shopping tag functionality if Aydins' pipeline relies on deprecated endpoints. **Action:** Immediately check your social media management tool or custom integration for compatibility with Graph API v26.0 and update if necessary.
+- [Instagram Finally Lets You Change The Music On Old Posts](https://news.google.com/rss/articles/CBMifEFVX3lxTE1DbXVudnVnU0FnTDZyYy1faGZfcDFvRVhBSVdKNUFjTHV0SFVzenFlUGJqQkFWQk9yX1dEYk4tQl9MY2ltcjdxNnNvdzhHUmtwY2xTbE5GT2FQSk9IMFhEY0hITEhid3lVMHdfLTZxalZFTktYQWZQV0t3WXk?oc=5) - This new feature allows Aydins to refresh the audio on underperforming Reels to potentially boost their reach and engagement. **Action:** Audit recent Reels for ones with poor-performing or muted audio and test updating the music to more trending or relevant tracks.
+- [Meta Is Using AI on Instagram to Keep You Scrolling Longer](https://news.google.com/rss/articles/CBMingFBVV95cUxNajN0bDRFUVNjOWJVOThiMmE4TkxlRGMxU3VwVTVvaTlraW1Hbm8xT2w0dEFFMVNwdnNOX0dEMU5uc0pGeTVsSGNNeUQ4Sm1jeHVZSjFDOURXTmhkRGtCaE1CRUhPZDlGaW5TVlRqRElUbTdWNDZ2aWVXbzdhZEpDZ1BLSmtGLUdjazM0SmVwVl9fTzZsbmlXdlowLWluUQ?oc=5) - This confirms the algorithm's intensifying focus on maximizing watch time, making hook-driven, high-retention Reels even more critical. **Action:** Review your automated Reel pipeline to ensure the first 3 seconds are highly captivating and test adding more "pattern interrupts" to retain viewers.
+
 ## 2026-07-31
 ### Actionable
 - [Instagram Finally Lets You Change The Music On Old Posts](https://news.google.com/rss/articles/CBMifEFVX3lxTE1DbXVudnVnU0FnTDZyYy1faGZfcDFvRVhBSVdKNUFjTHV0SFVzenFlUGJqQkFWQk9yX1dEYk4tQl9MY2ltcjdxNnNvdzhHUmtwY2xTbE5GT2FQSk9IMFhEY0hITEhid3lVMHdfLTZxalZFTktYQWZQV0t3WXk?oc=5) - This new feature (reported July 27, 2026) allows you to refresh the audio on existing Reels, which can revive engagement on older content featuring your jewelry. **Action:** Audit your top-performing Reels from the last 90 days and test updating their music to trending or more relevant audio to give them a new life in the algorithm.

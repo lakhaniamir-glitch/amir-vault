@@ -1,6 +1,13 @@
 # beta-klaviyo Cumulative Learnings
 
 
+## 2026-08-01
+### Actionable
+- [BIMI: What does self-asserted mean?](https://www.spamresource.com/feeds/3696965358770625697/comments/default) - This clarifies a key nuance in BIMI implementation that could impact brand trust and inbox placement with major providers like Gmail. **Action:** Review your BIMI setup to ensure your VMC is properly issued and not just "self-asserted" to maintain its benefits.
+- [Troubleshooting 554 5.7.5 DMARC-related SMTP rejections](https://www.spamresource.com/feeds/5763336552103921826/comments/default) - DMARC failures are causing immediate, hard bounces that directly block revenue from email campaigns. **Action:** Immediately audit your domain's DMARC, SPF, and DKIM records to ensure they are correctly configured and not causing rejections.
+- [Webinar Alert: From DKIM to DKIM2: What Senders Need to Know Now and What Mailbox Providers Expect](https://www.spamresource.com/feeds/5732569576147311468/comments/default) - DKIM2 is an emerging standard that major inbox providers may soon require for optimal deliverability. **Action:** Register for this webinar to understand the timeline and technical requirements for DKIM2 adoption.
+- [Email marketing's new technical and AI requirements in 2026](https://news.google.com/rss/articles/CBMiggJBVV95cUxPeS03QjVPZURGS1hUZlZyLW9iYy1USmlmZzFjZ09DTnpnOGNmaU04V29QZnk4LWh0cWx3a1oxNVpDNENKczFHaE9wYjNNb2EwVWZkYWNWY2ZkelNvX0diZVg2c050NGg2V09IYXdJdG1fVVQ3cW5kTWhld00zdk43d1dEQk9RZ24zd1ZoLUdodEhSamJkcFR6YUJwVE01MFlzUlFFR21xN0lVQ3BUT1pCVndnQnNPZG5VcUpPZzNJTVBCc0FvMThERVo3akhSbkdtQ3k5Nm1nRkw4blhUZXZ1aVRoOEFjYzdjN3pERkVabzkyam1TckxIT0xzdzJReEFyTFE) - This article consolidates the latest 2026 sender requirements from Gmail, Yahoo, and Apple, which are critical for maintaining inbox access. **Action:** Use this as a checklist to verify your one-click unsubscribe, authentication (SPF/DKIM/DMARC), and engagement practices are fully compliant.
+
 ## 2026-07-31
 ### Actionable
 - [BIMI: What does self-asserted mean?](https://www.spamresource.com/feeds/3696965358770625697/comments/default) - This clarifies a key nuance in BIMI implementation that could affect brand logo display in inboxes, directly impacting email trust and engagement. Review your BIMI setup to ensure you are using a Verified Mark Certificate (VMC) and not relying on self-asserted records to maintain deliverability and brand presence.
