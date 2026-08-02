@@ -1,6 +1,13 @@
 # beta-tiktok Cumulative Learnings
 
 
+## 2026-08-02
+### Critical
+- [TikTok Shop Plus shipping benefits test in the US - channelx.world](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcHY0NUdfaTlzZDVlMUNnMHZ2MjZiS1BVQ2hzV1BCQkNqcjlRQ0FfZmpDZDItUHNMLTU2b2ppT2dBc1RzZGMzdlFRQUR4YV91Q0xzSURaX09DeGJRTWNCTVJRVEw3MEgwbWlISTdBZHhNTGtfM3FiSkFPc2haRGdHc0NPc280c0xj?oc=5) — This matters because Aydins uses TikTok Shop and new shipping benefits could reduce costs or improve conversion. Recommended action: Monitor the test rollout and assess eligibility to join if it becomes widely available.
+### Actionable
+- [The Best Time to Post on TikTok in 2026: New Data from 7M Posts](https://buffer.com/resources/best-time-to-post-on-tiktok/) — This provides fresh, data-driven posting times that could improve organic reach for Aydins' daily reels. Recommended action: Analyze the suggested time windows and adjust the automated posting schedule for a 2-week test period.
+- [Best AI Ad Generator for Shopify Skincare Sellers Testing TikTok UGC Variations - NetNewsLedger](https://news.google.com/rss/articles/CBMivgFBVV95cUxQZ2FaYkdDeWljSWJ6cEd2clNIYVZNYldkMmhqT3lhZE1xNmN4YmRKaGlRTUtna3lDMy0zUzNrM3ZZREZ1SDlPYUFUYnZjRkN3S3lCME9iZ2xIYXhtdXo2cTV4RzA1SVVvMl8yLXVaTEIzekxxX2pGdkVPR0R2VWJZRW1EbjFQSmQyaEpJMUNCVFVjTk4zQUItNDZaS21heXAtZnM2bUsyVUJZb1VRZVZYMkl3aTMyRGwydXVNdnZn?oc=5) — This matters as it highlights AI tools for generating UGC-style ad variations, which Aydins could use to optimize its Smart+ campaigns. Recommended action: Evaluate the featured AI ad generator for creating and testing new ad creative variations within the next month.
+
 ## 2026-08-01
 ### Actionable
 - [The Best Time to Post on TikTok in 2026: New Data from 7M Posts](https://buffer.com/resources/best-time-to-post-on-tiktok/) - This fresh data analysis from July 20, 2026, provides actionable insights for scheduling Aydins' automated daily reels to maximize FYP visibility and engagement. **Action:** Review the findings and adjust the automated posting schedule in the pipeline to align with the new peak times.

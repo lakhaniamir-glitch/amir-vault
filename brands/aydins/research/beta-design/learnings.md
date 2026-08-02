@@ -1,6 +1,15 @@
 # beta-design Cumulative Learnings
 
 
+## 2026-08-02
+### Critical
+- [Advancing the price-performance frontier with GPT-5.6](https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6) - This announces lower pricing for GPT-5.6 Luna and Terra models, which could materially reduce costs for Aydins' agentic workflows that use OpenRouter/DeepSeek for cheap synthesis. **Recommended action:** Immediately benchmark GPT-5.6 pricing against current DeepSeek v3.2 costs on OpenRouter to evaluate a potential switch within the week.
+### Actionable
+- [Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber](https://deepmind.google/blog/introducing-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber/) - New Gemini Flash models may offer better price/performance for text tasks, potentially beating the current DeepSeek backend for synthesis and agentic loops. **Recommended action:** Test Gemini 3.6 Flash via API in the next 2-4 weeks against DeepSeek v3.2 for cost and speed on synthesis tasks.
+- [Gemini API Managed Agents: 3.6 Flash, hooks, and more](https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/) - Managed Agents with new hooks could simplify building and maintaining Aydins' agentic specialists (e.g., beta-shop, beta-meta), reducing orchestration complexity. **Recommended action:** Evaluate if Managed Agents can replace or augment parts of the current beta orchestrator setup within the next month.
+- [DeepSeek-V4-Flash-0731](https://www.producthunt.com/products/deepseek) - A new, potentially faster/cheaper Flash model from DeepSeek could directly impact the cost of the primary LLM backend used for synthesis. **Recommended action:** Check OpenRouter for availability and pricing of DeepSeek-V4-Flash-0731 and run a comparative test against v3.2 within 2-4 weeks.
+- [Bringing Nunchaku 4-bit Diffusion Inference to Diffusers](https://huggingface.co/blog/nunchaku-diffusers) - This optimization for diffusion models could lower the cost and speed of running image generation models on Replicate, relevant for occasional product photo tasks. **Recommended action:** If using Replicate for any image gen, test a Nunchaku-optimized model for potential speed/cost gains in the next month.
+
 ## 2026-08-01
 ### Actionable
 - [Advancing the price-performance frontier with GPT-5.6](https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6) - This announces lower pricing for GPT‑5.6, which could materially reduce costs for Aydins' synthesis and reasoning tasks if it's cheaper than their current OpenRouter/DeepSeek setup. - Evaluate the new GPT-5.6 Luna/Terra pricing on OpenRouter against DeepSeek v3.2 for cost per token on synthesis workloads.

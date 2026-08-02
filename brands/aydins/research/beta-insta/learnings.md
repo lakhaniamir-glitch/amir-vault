@@ -1,6 +1,11 @@
 # beta-insta Cumulative Learnings
 
 
+## 2026-08-02
+### Actionable
+- [Instagram Finally Lets You Change The Music On Old Posts - ALM Corp](https://news.google.com/rss/articles/CBMifEFVX3lxTE1DbXVudnVnU0FnTDZyYy1faGZfcDFvRVhBSVdKNUFjTHV0SFVzenFlUGJqQkFWQk9yX1dEYk4tQl9MY2ltcjdxNnNvdzhHUmtwY2xTbE5GT2FQSk9IMFhEY0hITEhid3lVMHdfLTZxalZFTktYQWZQV0t3WXk?oc=5) - This new feature allows editing music on published Reels, which is crucial for Aydins to refresh older content and improve performance without re-uploading. **Action:** Test updating music on a few older Reels this week to see if it boosts engagement or reach.
+- [Meta blocks 47 commerce endpoints as Graph API v26.0 lands today - PPC Land](https://news.google.com/rss/articles/CBMiigFBVV95cUxPN1M5enluN0E2M1lmdVFJdEVOSnc0cVhMU0hxTklnVkV1SFN4U1Q1ZWc1aUd5dzFmT2tDRHI5WmFzWjZoejNDWVFPd2pobUhEbWF0TjF4clRZUThkakM3ZXZzQ3dOanRrdE1pLW1TaXRPSWpQc3FyUGdZYUZiYTB5MGhya3llbGJCRWc?oc=5) - A major API update blocking commerce endpoints could disrupt automated posting or shopping tag workflows for Instagram. **Action:** Verify that your automated reel pipeline and any shopping tag integrations are compatible with Graph API v26.0 immediately.
+
 ## 2026-08-01
 ### Actionable
 - [Meta blocks 47 commerce endpoints as Graph API v26.0 lands today](https://news.google.com/rss/articles/CBMiigFBVV95cUxPN1M5enluN0E2M1lmdVFJdEVOSnc0cVhMU0hxTklnVkV1SFN4U1Q1ZWc1aUd5dzFmT2tDRHI5WmFzWjZoejNDWVFPd2pobUhEbWF0TjF4clRZUThkakM3ZXZzQ3dOanRrdE1pLW1TaXRPSWpQc3FyUGdZYUZiYTB5MGhya3llbGJCRWc?oc=5) - This API change could disrupt automated posting and shopping tag functionality if Aydins' pipeline relies on deprecated endpoints. **Action:** Immediately check your social media management tool or custom integration for compatibility with Graph API v26.0 and update if necessary.

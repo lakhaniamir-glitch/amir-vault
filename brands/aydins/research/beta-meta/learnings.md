@@ -1,6 +1,14 @@
 # beta-meta Cumulative Learnings
 
 
+## 2026-08-02
+### Critical
+- [Meta blocks 47 commerce endpoints as Graph API v26.0 lands today - PPC Land](https://news.google.com/rss/articles/CBMiigFBVV95cUxPN1M5enluN0E2M1lmdVFJdEVOSnc0cVhMU0hxTklnVkV1SFN4U1Q1ZWc1aUd5dzFmT2tDRHI5WmFzWjZoejNDWVFPd2pobUhEbWF0TjF4clRZUThkakM3ZXZzQ3dOanRrdE1pLW1TaXRPSWpQc3FyUGdZYUZiYTB5MGhya3llbGJCRWc?oc=5) - This directly impacts Aydins' Shopify integration and could break their catalog feed or Pixel event matching if they rely on deprecated API endpoints. **Action:** Immediately verify that your Shopify-Meta channel is using the latest API version and check for any error notifications in Events Manager.
+### Actionable
+- [How to Get More Followers on Instagram in 2026 (13 Tried & Tested Tactics)](https://buffer.com/resources/grow-on-instagram/) - Organic growth on Instagram can improve ad relevance and lower CPMs for Aydins' campaigns. **Action:** Review the 2026-specific tactics and implement 2-3 that align with showcasing jewelry (e.g., Reels formats, engagement prompts).
+- [The 9 Best AI Image Generators of 2026 (+ Examples)](https://buffer.com/resources/ai-image-generator/) - High-quality, varied creative assets are crucial for ad fatigue and testing new formats for Advantage+ campaigns. **Action:** Test one of the recommended AI image tools to create fresh background visuals or product stylizations for ad creatives.
+- [The 11 Best AI Video Editors in 2026: I Tested the Tools That Edit When You Can't](https://buffer.com/resources/ai-video-tools/) - Video is a top-performing creative format; these tools can help Aydins produce more video content efficiently for ads. **Action:** Evaluate one AI video editor to quickly repurpose existing photo content into short-form videos for Instagram Reels ads.
+
 ## 2026-08-01
 ### Critical
 - [Meta blocks 47 commerce endpoints as Graph API v26.0 lands today - PPC Land](https://news.google.com/rss/articles/CBMiigFBVV95cUxPN1M5enluN0E2M1lmdVFJdEVOSnc0cVhMU0hxTklnVkV1SFN4U1Q1ZWc1aUd5dzFmT2tDRHI5WmFzWjZoejNDWVFPd2pobUhEbWF0TjF4clRZUThkakM3ZXZzQ3dOanRrdE1pLW1TaXRPSWpQc3FyUGdZYUZiYTB5MGhya3llbGJCRWc?oc=5) - This is a breaking API change that could disrupt catalog syncing and ad management tools, directly impacting Aydins' Shopify integration and Pixel event matching. **Action:** Immediately verify that your Shopify channel and any third-party tools are compatible with Graph API v26.0 to prevent data flow interruptions.
