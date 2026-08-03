@@ -1,6 +1,16 @@
 # beta-klaviyo Cumulative Learnings
 
 
+## 2026-08-03
+### Actionable
+- [Klaviyo’s Composer: A Major shift for Autonomous Marketing Execution? - The Futurum Group](https://news.google.com/rss/articles/CBMiowFBVV95cUxOVUtNWDRYZ3UxTmZiZk9vNi1tTnJ3WnV3aWtTNXU2RENuT0JOMkJUNF8yemtYQWFmempwSk5WUDRMem94bnpXZG40eURoVFVpTjFxSXZqdXNlZ0JTMld2dk4tTXdLeHlOUDZ0aXpKUzhpRmpiZWMwTzV5cU9yRExmQmlyM2d0azAzRDdMcmJSajBpY1VCalRNQnhrdVdrTUdBQWRn?oc=5) - This discusses a potential new Klaviyo product feature that could impact how Aydins designs and executes automated marketing flows. Review the details of "Composer" to assess if it offers new automation capabilities that could improve campaign efficiency or personalization.
+
+- [Webinar Alert: From DKIM to DKIM2: What Senders Need to Know Now and What Mailbox Providers Expect](https://www.spamresource.com/feeds/5732569576147311468/comments/default) - This webinar (published 2026-07-22) covers DKIM2, a critical update to email authentication that will affect deliverability to Gmail/Yahoo. Aydins must stay current on sender requirements to maintain inbox placement. Register for the webinar to understand the timeline and technical steps for DKIM2 implementation.
+
+- [BIMI: What does self-asserted mean?](https://www.spamresource.com/feeds/3696965358770625697/comments/default) - This article (published 2026-07-29) clarifies a key aspect of BIMI implementation, which can boost brand trust and deliverability. Understanding "self-asserted" BIMI helps Aydins evaluate if pursuing BIMI is a viable strategy for their brand. Read the article to decide if pursuing BIMI with a self-asserted certificate is a worthwhile investment.
+
+- [Troubleshooting 554 5.7.5 DMARC-related SMTP rejections](https://www.spamresource.com/feeds/5763336552103921826/comments/default) - This guide (published 2026-07-24) provides immediate steps to diagnose email bounces due to DMARC failures, a direct threat to campaign deliverability. Use this as a reference to quickly diagnose and resolve any sudden increase in hard bounces for Aydins' campaigns.
+
 ## 2026-08-02
 ### Actionable
 - [BIMI: What does self-asserted mean?](https://www.spamresource.com/feeds/3696965358770625697/comments/default) - This clarifies a key implementation detail for BIMI, a tracked topic that can impact brand visibility and trust in email inboxes. **Action:** Review your BIMI setup to ensure your VMC and logo are correctly configured for "self-asserted" vs. "verified" status.

@@ -1,6 +1,13 @@
 # beta-tiktok Cumulative Learnings
 
 
+## 2026-08-03
+### Critical
+- [TikTok Shop Plus shipping benefits test in the US - channelx.world](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcHY0NUdfaTlzZDVlMUNnMHZ2MjZiS1BVQ2hzV1BCQkNqcjlRQ0FfZmpDZDItUHNMLTU2b2ppT2dBc1RzZGMzdlFRQUR4YV91Q0xzSURaX09DeGJRTWNCTVJRVEw3MEgwbWlISTdBZHhNTGtfM3FiSkFPc2haRGdHc0NPc280c0xj?oc=5) - This is a new, active test of shipping benefits for TikTok Shop in the US that could directly impact Aydins' fulfillment costs and customer experience. **Action:** Monitor the test's rollout and evaluate if opting in could improve conversion rates or margins for your TikTok Shop.
+### Actionable
+- [Best Time to Post on TikTok in 2026 [+ Free Calculator] - Influencer Marketing Hub](https://news.google.com/rss/articles/CBMickFVX3lxTE9DRW9Wa1o4SnVKWEhSRE41a3BTVGxvOTlHQ3NsVU5KZ19mczNjallxQ3lnMEQ3NEFZUE9MclZQeVAwTFhLRFhYUUhZNlZ5TWo2bmVkVlVMbldNTWw1dFd0TWNycHpSLXNUUE1tNi1oR0ZJUQ?oc=5) - This provides a data-backed update on optimal posting times, which is crucial for maximizing organic reach on the FYP. **Action:** Use the provided calculator to audit and potentially adjust your automated posting schedule for TikTok.
+- [Best AI Ad Generator for Shopify Skincare Sellers Testing TikTok UGC Variations - NetNewsLedger](https://news.google.com/rss/articles/CBMivgFBVV95cUxQZ2FaYkdDeWljSWJ6cEd2clNIYVZNYldkMmhqT3lhZE1xNmN4YmRKaGlRTUtna3lDMy0zUzNrM3ZZREZ1SDlPYUFUYnZjRkN3S3lCME9iZ2xIYXhtdXo2cTV4RzA1SVVvMl8yLXVaTEIzekxxX2pGdkVPR0R2VWJZRW1EbjFQSmQyaEpJMUNCVFVjTk4zQUItNDZaS21heXAtZnM2bUsyVUJZb1VRZVZYMkl3aTMyRGwydXVNdnZn?oc=5) - This highlights a new AI tool specifically for generating TikTok-style UGC ad variations, directly relevant for Aydins' Smart+ and Shopping Ads. **Action:** Research this specific AI ad generator to test creating more authentic, high-performing ad creatives for your jewelry campaigns.
+
 ## 2026-08-02
 ### Critical
 - [TikTok Shop Plus shipping benefits test in the US - channelx.world](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcHY0NUdfaTlzZDVlMUNnMHZ2MjZiS1BVQ2hzV1BCQkNqcjlRQ0FfZmpDZDItUHNMLTU2b2ppT2dBc1RzZGMzdlFRQUR4YV91Q0xzSURaX09DeGJRTWNCTVJRVEw3MEgwbWlISTdBZHhNTGtfM3FiSkFPc2haRGdHc0NPc280c0xj?oc=5) — This matters because Aydins uses TikTok Shop and new shipping benefits could reduce costs or improve conversion. Recommended action: Monitor the test rollout and assess eligibility to join if it becomes widely available.

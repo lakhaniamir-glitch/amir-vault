@@ -1,6 +1,14 @@
 # beta-insta Cumulative Learnings
 
 
+## 2026-08-03
+### Critical
+- [Instagram is working on bringing back the chronological timeline - Mashable](https://news.google.com/rss/articles/CBMid0FVX3lxTE91cjZPbU55RW5pTWY0c2hXVG94VlZZY1R6b1czZVNodnZQcldqR0ZyUlVBVUNVNThJaldJWjQ3QUphMlk3aHkyQkFDOFJhejdCT3cxbVF0UlJJcmJMbmx3Wkh5N1Rvd1BtZVV4SmpMQldwcUtlcHpR?oc=5) - This is a major potential algorithm change that could significantly impact how Aydins' Reels are discovered, moving from engagement-based to time-based sorting. **Action:** Monitor official Meta announcements closely this week and prepare to adjust posting strategy if this feature launches.
+### Actionable
+- [Instagram Finally Lets You Change The Music On Old Posts - ALM Corp](https://news.google.com/rss/articles/CBMifEFVX3lxTE1DbXVudnVnU0FnTDZyYy1faGZfcDFvRVhBSVdKNUFjTHV0SFVzenFlUGJqQkFWQk9yX1dEYk4tQl9MY2ltcjdxNnNvdzhHUmtwY2xTbE5GT2FQSk9IMFhEY0hITEhid3lVMHdfLTZxalZFTktYQWZQV0t3WXk?oc=5) - This new feature allows Aydins to refresh the audio on underperforming Reels, potentially giving them a second life in the algorithm. **Action:** Test updating music on 2-3 older Reels in the next 2 weeks to see if it boosts their reach and engagement.
+- [Meta blocks 47 commerce endpoints as Graph API v26.0 lands today - PPC Land](https://news.google.com/rss/articles/CBMiigFBVV95cUxPN1M5enluN0E2M1lmdVFJdEVOSnc0cVhMU0hxTklnVkV1SFN4U1Q1ZWc1aUd5dzFmT2tDRHI5WmFzWjZoejNDWVFPd2pobUhEbWF0TjF4clRZUThkakM3ZXZzQ3dOanRrdE1pLW1TaXRPSWpQc3FyUGdZYUZiYTB5MGhya3llbGJCRWc?oc=5) - This API update could affect automated posting tools or conversion tracking if the pipeline relies on deprecated endpoints. **Action:** In the next 2-4 weeks, verify with your tech team that your automated Reel publishing and Pixel/CAPI setup is compatible with Graph API v26.0.
+- [How to Get More Followers on Instagram in 2026 (13 Tried & Tested Tactics)](https://buffer.com/resources/grow-on-instagram/) - This recent guide provides updated, actionable tactics for follower growth, directly relevant to Aydins' goal of expanding its Instagram presence. **Action:** Review the 13 tactics and implement 2-3 that are not currently part of your strategy (e.g., specific engagement or collaboration tactics) in the next month.
+
 ## 2026-08-02
 ### Actionable
 - [Instagram Finally Lets You Change The Music On Old Posts - ALM Corp](https://news.google.com/rss/articles/CBMifEFVX3lxTE1DbXVudnVnU0FnTDZyYy1faGZfcDFvRVhBSVdKNUFjTHV0SFVzenFlUGJqQkFWQk9yX1dEYk4tQl9MY2ltcjdxNnNvdzhHUmtwY2xTbE5GT2FQSk9IMFhEY0hITEhid3lVMHdfLTZxalZFTktYQWZQV0t3WXk?oc=5) - This new feature allows editing music on published Reels, which is crucial for Aydins to refresh older content and improve performance without re-uploading. **Action:** Test updating music on a few older Reels this week to see if it boosts engagement or reach.

@@ -1,6 +1,15 @@
 # beta-google Cumulative Learnings
 
 
+## 2026-08-03
+### Critical
+- [Google lets some PMax advertisers switch off search partners and display](https://news.google.com/rss/articles/CBMilAFBVV95cUxOTWtFY3RSaHNuQWN5YndwclJiSUVkWWVITWJ4RUdqbzZ3QU5kS1JnUlZqTi1Ud3YtWTlmaTgyOTUwUi1UamtidHBEeGtmSVFRc0FkdW14RzlEZlB2bDJsUHZId3huZVRlb3Q3TlJ4Vkl2U1A2T2ZmREVtRWNXM3JTdlI5MkthaUx2TTA5U0hzbVdNU3ZP?oc=5) - This new control for PMax campaigns could directly impact your ~$600/day spend by allowing you to exclude lower-performing networks and potentially improve ROAS. **Action:** Immediately check your PMax campaign settings for the new network exclusion option and test turning off Search Partners/Display if available.
+- [MCP forces ad tech to rebuild agent servers as sessions disappear](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQQkxnaks4eWVOcU9VQ2ZoUkhmaklVNFoyUFdiTXJsVXhIYWdpenJFc2U5aGloTFAySUZsZVllQ2lEQWFySHNIZmJwbzlDSXJOcVNpTWV4aVE0eTJNdjZwUHVwNXJZRU1veW5aem1fR3BORkJsdVMtWTNncXNQMFZTTXcxeWhrakIyZmo0?oc=5) - This indicates a major, recent technical shift (MCP protocol) that could affect conversion tracking and attribution data integrity if your tech stack isn't updated. **Action:** Confirm with your analytics/tech provider that your conversion tracking and API integrations are compatible with the new MCP standard to avoid data loss.
+### Actionable
+- [Prepare for the holiday season with July’s Demand Gen Drop.](https://blog.google/products/ads-commerce/demand-gen-drop-july-2026/) - This July 2026 update includes upgraded tROAS bidding for Demand Gen, which is directly relevant to your $30/day YouTube Shorts campaign and holiday planning. **Action:** Review the new tROAS features in your Demand Gen campaign settings and plan to implement them for Q4 holiday testing.
+- [Google Ads Bidding Strategies: Where To Spend Your Time In 2026](https://www.searchenginejournal.com/google-ads-bidding-strategies-where-to-spend-your-time-in-2026/581479/) - This recent guide (July 29, 2026) outlines specific bidding changes for ecommerce this summer, directly addressing your ROAS goals. **Action:** Audit your PMax and Search campaigns against the recommended bidding strategy shifts mentioned in the article.
+- [Why separating brand and non-brand campaigns improves ROAS](https://searchengineland.com/separating-brand-non-brand-campaigns-roas-484080) - This fresh analysis (July 31, 2026) provides a data-backed case for your current brand/non-brand separation strategy and could offer new optimization angles. **Action:** Use the insights to refine your $10 Brand and $40 Non-Brand Search campaign structures and bidding.
+
 ## 2026-08-02
 ### Critical
 - [Prepare for the holiday season with July’s Demand Gen Drop.](https://blog.google/products/ads-commerce/demand-gen-drop-july-2026/) - This is a direct Google update from July 29, 2026, announcing upgraded tROAS bidding for Demand Gen, which is critical as Aydins runs a Demand Gen campaign and needs to optimize for holiday ROAS. **Action:** Review the Demand Gen campaign settings immediately to implement the new tROAS bidding options before the holiday ramp-up.

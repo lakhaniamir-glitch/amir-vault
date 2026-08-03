@@ -1,6 +1,11 @@
 # beta-ebay Cumulative Learnings
 
 
+## 2026-08-03
+### Actionable
+- [eBay Fashion Sellers Brace for August Size Standardization Disruption - Value Added Resource](https://news.google.com/rss/articles/CBMieEFVX3lxTFBkSDZISUtaY0pfaGQydUNOWThqeGMyTHlSVHJYRXkyLW04S3ZkdHpHaFJSRl9EOHJmUEtxYUlNT3FHMktSNlVLOWhSYUwwX1FkYXhFUF9GLXl0SkpJT1I0bDliYmZKVDBxeUFkaHlIX09sN29DV0tLYw?oc=5) — This matters because a size standardization change could affect listing visibility and defect rates for jewelry if sizing attributes are mismatched. Recommended action: Review and update all men's wedding band listings for accurate size attributes before the August disruption to avoid ranking penalties.
+- [eBay Moves MyFitment In-Platform, Cuts Off Amazon And Third-Party Tools - Value Added Resource](https://news.google.com/rss/articles/CBMieEFVX3lxTFBTdERfYndWWk5LVTJaM2FQLXNxbzVxSWYzRmZJZldHZGlhZ2w1RTlKc1BOd3BmWVRUNzRFaGIyb19zUm1qRDdUMEowUzBsakVaSEpFdGFfRm5pRUJzOGY5WWM5WThiYnVlUjBOTFNYc1hQMkVqWHpmdg?oc=5) — This matters because eBay's internal tool consolidation may change how listing attributes are managed, potentially affecting Best Match for standardized items like rings. Recommended action: Test the new in-platform MyFitment tool for jewelry listings within the next two weeks to ensure compatibility and maintain search ranking.
+
 ## 2026-08-02
 ### Critical
 - [Major eBay change from next month will affect millions of UK sellers - The Worcester News](https://news.google.com/rss/articles/CBMipAFBVV95cUxOX283bzBndHBTcnRwOXJ3d0xubE1uRU1VM1VkZVpYcENVaTJHZ1I5OG40Z255WWFpbDhDYTZNLUs1YXgzRFBxWl9peDZJYk1Ybkh4Q2pTWXByYTNkRjhNaWRiU1VteHlENGNqYm5nVmk1Q1dycG5XejFSYjRhOU9ZdjI0UjFLRGc4R2ZuRWNNMVQ5M3Y1LUlKZzFHRVpZQnNvTkpsdw?oc=5) - This article, published on 2026-07-26, indicates a major policy change for UK sellers starting next month (August 2026), which could directly impact Aydins Jewelry's fee structure or operational requirements if they sell in the UK market. **Action:** Review the announcement on eBay's UK site to understand the specific change and assess its impact on your UK listings and margins.
