@@ -1,6 +1,13 @@
 # beta-design Cumulative Learnings
 
 
+## 2026-08-04
+### Actionable
+- [Advancing the price-performance frontier with GPT-5.6](https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6) - This announces lower pricing for GPT-5.6, which could materially reduce costs for Aydins's agentic loops and synthesis tasks if it's available via OpenRouter. - Check OpenRouter for GPT-5.6 Luna/Terra availability and pricing to compare against current DeepSeek v3.2 costs.
+- [Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber](https://deepmind.google/blog/introducing-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber/) - New, potentially faster/cheaper Gemini Flash models could offer a cost or speed advantage for text-based agent tasks over the current setup. - Test Gemini 3.6 Flash via API for synthesis and agent reasoning to benchmark against DeepSeek v3.2.
+- [Gemini API Managed Agents: 3.6 Flash, hooks, and more](https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/) - This update to Google's managed agent framework could simplify or enhance Aydins's agentic orchestration for ecommerce channels. - Evaluate if Gemini Managed Agents can replace or augment parts of the current beta orchestrator for specific, repetitive channel tasks.
+- [Bringing Nunchaku 4-bit Diffusion Inference to Diffusers](https://huggingface.co/blog/nunchaku-diffusers) - A new efficient inference method for diffusion models could lower the cost and speed of running image generation models, relevant for product photo generation. - Test the Nunchaku 4-bit method on Replicate with a relevant image model to see if it offers better price-performance for product shots.
+
 ## 2026-08-03
 ### Critical
 - [Advancing the price-performance frontier with GPT-5.6](https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6) - This announces lower pricing for GPT-5.6, which could materially reduce costs for Aydins's agentic loops and synthesis tasks if it's available via OpenRouter. - Check OpenRouter for GPT-5.6 Luna/Terra availability and pricing benchmarks against DeepSeek v3.2 within the week.

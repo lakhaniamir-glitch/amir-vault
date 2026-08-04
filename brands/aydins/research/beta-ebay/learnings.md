@@ -1,6 +1,11 @@
 # beta-ebay Cumulative Learnings
 
 
+## 2026-08-04
+### Actionable
+- [eBay Moves MyFitment In-Platform, Cuts Off Amazon And Third-Party Tools](https://news.google.com/rss/articles/CBMieEFVX3lxTFBTdERfYndWWk5LVTJaM2FQLXNxbzVxSWYzRmZJZldHZGlhZ2w1RTlKc1BOd3BmWVRUNzRFaGIyb19zUm1qRDdUMEowUzBsakVaSEpFdGFfRm5pRUJzOGY5WWM5WThiYnVlUjBOTFNYc1hQMkVqWHpmdg) — This directly impacts listing tools for categories like jewelry that may require fitment details, potentially forcing a change in workflow. Evaluate if your current listing process uses third-party fitment tools and prepare to adapt to eBay's native tool.
+- [Doba Expands Doba Pilot Into Order Fulfillment and eBay Listing](https://news.google.com/rss/articles/CBMiiAJBVV95cUxQQjhEbW5seTV5VkFJVDRtSlRjSTQwcGdHaE9GeDdVMEVtZnl2dEdxZHZwcEJtbkpCS0pDVmpIcGR6bDBEa0ppUHhSYkFhR3RUeE1RT1lrd1hXRDNSZlJPaVVqb2pRQlpBRkdaZm9UcG52YWRqTkRsSjR3Y0hnWXlFR0d4NGw0ZGV1LWNSYUU2b0xCWFBOczBhdXQwOGVWMDIxdDlVMHlCSDAxYVpNX296bmNVNWNJV2VUd1dzT1V4TDhpdVFiWl9yaVlKWFZRejR4Wnp0V1YtTjdyUnBwQmw1b0UtWUEwaU11NXdoTTlGbE5GVTZZNkZPOFp3ZnNDdjZReXVUM0lTbTc) — This represents a new, integrated listing and fulfillment tool that could streamline operations for a multi-channel seller like Aydins. Test the Doba pilot program to assess if it can reduce listing overhead and improve inventory sync across eBay, Etsy, and Shopify.
+
 ## 2026-08-03
 ### Actionable
 - [eBay Fashion Sellers Brace for August Size Standardization Disruption - Value Added Resource](https://news.google.com/rss/articles/CBMieEFVX3lxTFBkSDZISUtaY0pfaGQydUNOWThqeGMyTHlSVHJYRXkyLW04S3ZkdHpHaFJSRl9EOHJmUEtxYUlNT3FHMktSNlVLOWhSYUwwX1FkYXhFUF9GLXl0SkpJT1I0bDliYmZKVDBxeUFkaHlIX09sN29DV0tLYw?oc=5) — This matters because a size standardization change could affect listing visibility and defect rates for jewelry if sizing attributes are mismatched. Recommended action: Review and update all men's wedding band listings for accurate size attributes before the August disruption to avoid ranking penalties.

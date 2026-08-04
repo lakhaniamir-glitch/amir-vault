@@ -1,6 +1,13 @@
 # beta-tiktok Cumulative Learnings
 
 
+## 2026-08-04
+### Critical
+- [TikTok Shop Plus shipping benefits test in the US - channelx.world](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcHY0NUdfaTlzZDVlMUNnMHZ2MjZiS1BVQ2hzV1BCQkNqcjlRQ0FfZmpDZDItUHNMLTU2b2ppT2dBc1RzZGMzdlFRQUR4YV91Q0xzSURaX09DeGJRTWNCTVJRVEw3MEgwbWlISTdBZHhNTGtfM3FiSkFPc2haRGdHc0NPc280c0xj?oc=5) - This new test of shipping benefits could directly impact Aydins Jewelry's costs and conversion rates on TikTok Shop, requiring immediate review of their fulfillment strategy. **Action:** Review the TikTok Shop seller portal this week to see if you are eligible for the test and assess potential shipping cost savings or changes.
+### Actionable
+- [TikTok Adds Three New AI Video Generation Tools to Its Symphony Ad Toolkit - TechJuice](https://news.google.com/rss/articles/CBMiogFBVV95cUxOLV9oVzM5a3RwSUFlbFhrUXpNaUJuX3ItbmQ2LXQyaE5aT1pfTVg2M0xUbGFzRjFVaF9GV3VrNkhMa09JR0JyeGx3cktfaEdsdnY4T3JkdC1QSjFEU29TTlhLOUtUSTQ2M0RzVEU3S2E3WHZNMzdLOWF1SW1MSkY0ZTJBN051SXlMNHo4X25UbTBfbUg0VVB3bktiMVlOMTBtQVE?oc=5) - New AI video tools within TikTok's ad platform could help Aydins Jewelry create more varied and engaging ad creative for their Smart+ campaigns more efficiently. **Action:** In the next 2-4 weeks, explore the new Symphony AI tools in TikTok Ads Manager to test generating supplemental video assets for your jewelry ads.
+- [Best Time to Post on TikTok in 2026 [+ Free Calculator] - Influencer Marketing Hub](https://news.google.com/rss/articles/CBMickFVX3lxTE9DRW9Wa1o4SnVKWEhSRE41a3BTVGxvOTlHQ3NsVU5KZ19mczNjallxQ3lnMEQ3NEFZUE9MclZQeVAwTFhLRFhYUUhZNlZ5TWo2bmVkVlVMbldNTWw1dFd0TWNycHpSLXNUUE1tNi1oR0ZJUQ?oc=5) - Updated posting time data can help optimize the automated publishing schedule for Aydins' daily reels to maximize organic reach on the FYP. **Action:** Use the calculator and findings to review and potentially adjust your automated posting schedule within the next month.
+
 ## 2026-08-03
 ### Critical
 - [TikTok Shop Plus shipping benefits test in the US - channelx.world](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcHY0NUdfaTlzZDVlMUNnMHZ2MjZiS1BVQ2hzV1BCQkNqcjlRQ0FfZmpDZDItUHNMLTU2b2ppT2dBc1RzZGMzdlFRQUR4YV91Q0xzSURaX09DeGJRTWNCTVJRVEw3MEgwbWlISTdBZHhNTGtfM3FiSkFPc2haRGdHc0NPc280c0xj?oc=5) - This is a new, active test of shipping benefits for TikTok Shop in the US that could directly impact Aydins' fulfillment costs and customer experience. **Action:** Monitor the test's rollout and evaluate if opting in could improve conversion rates or margins for your TikTok Shop.

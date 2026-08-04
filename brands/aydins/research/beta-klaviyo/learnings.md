@@ -1,6 +1,12 @@
 # beta-klaviyo Cumulative Learnings
 
 
+## 2026-08-04
+### Actionable
+- [BIMI: What does self-asserted mean?](https://www.spamresource.com/feeds/3696965358770625697/comments/default) - This clarifies a key technical detail for BIMI implementation, which is a tracked sender authentication topic for Gmail/Yahoo deliverability. Review your current BIMI setup (if any) against this new guidance to ensure your logo display is correctly configured.
+- [Troubleshooting 554 5.7.5 DMARC-related SMTP rejections](https://www.spamresource.com/feeds/5763336552103921826/comments/default) - DMARC failures can block all email delivery, directly threatening Aydins' 15% revenue target from email. Immediately audit your domain's DMARC, SPF, and DKIM records to prevent campaign failures.
+- [Webinar Alert: From DKIM to DKIM2: What Senders Need to Know Now and What Mailbox Providers Expect](https://www.spamresource.com/feeds/5732569576147311468/comments/default) - Upcoming authentication standards (DKIM2) are critical for long-term inbox placement with major providers like Gmail. Register for the webinar to understand the timeline and prepare your technical roadmap.
+
 ## 2026-08-03
 ### Actionable
 - [Klaviyo’s Composer: A Major shift for Autonomous Marketing Execution? - The Futurum Group](https://news.google.com/rss/articles/CBMiowFBVV95cUxOVUtNWDRYZ3UxTmZiZk9vNi1tTnJ3WnV3aWtTNXU2RENuT0JOMkJUNF8yemtYQWFmempwSk5WUDRMem94bnpXZG40eURoVFVpTjFxSXZqdXNlZ0JTMld2dk4tTXdLeHlOUDZ0aXpKUzhpRmpiZWMwTzV5cU9yRExmQmlyM2d0azAzRDdMcmJSajBpY1VCalRNQnhrdVdrTUdBQWRn?oc=5) - This discusses a potential new Klaviyo product feature that could impact how Aydins designs and executes automated marketing flows. Review the details of "Composer" to assess if it offers new automation capabilities that could improve campaign efficiency or personalization.

@@ -1,6 +1,10 @@
 # beta-meta Cumulative Learnings
 
 
+## 2026-08-04
+### Actionable
+- [Meta apps lose 5% of downloads as Reels takes half of Instagram ad slots - PPC Land](https://news.google.com/rss/articles/CBMikwFBVV95cUxQa0g4WDhoQjVuYUhGeERKZWg5OVJhSnFjaTFuRk02U1AxUm4tY0Q2d2J1ei1LMWFRMnlwMnFTLWtsc2ZUc3JUOUkzZ3NHV084MTBLd19va0R2NWJrc2xWNkRJYXJEMEpReVJEbnhiUGF3UHl3NF9DcjN5T24tYm1NZ01oRGRXLTUyYVNGVkVpRmNFWGc?oc=5) - This indicates a major shift in Instagram's ad inventory towards Reels, which could impact ad placement and performance for Aydins Jewelry's campaigns. **Action:** Review current Instagram ad placements and consider allocating more budget or creative focus to Reels formats to align with platform trends.
+
 ## 2026-08-03
 ### Critical
 - [Meta blocks 47 commerce endpoints as Graph API v26.0 lands today - PPC Land](https://news.google.com/rss/articles/CBMiigFBVV95cUxPN1M5enluN0E2M1lmdVFJdEVOSnc0cVhMU0hxTklnVkV1SFN4U1Q1ZWc1aUd5dzFmT2tDRHI5WmFzWjZoejNDWVFPd2pobUhEbWF0TjF4clRZUThkakM3ZXZzQ3dOanRrdE1pLW1TaXRPSWpQc3FyUGdZYUZiYTB5MGhya3llbGJCRWc?oc=5) — This is a direct, breaking change to the API that could disrupt catalog syncing and ad delivery for e-commerce businesses like Aydins Jewelry. **Action:** Immediately verify that your Shopify-Meta integration is using a supported API version and check for any catalog feed errors in Meta Business Suite.
