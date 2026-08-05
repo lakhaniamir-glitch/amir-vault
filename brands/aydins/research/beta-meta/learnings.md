@@ -1,6 +1,10 @@
 # beta-meta Cumulative Learnings
 
 
+## 2026-08-05
+### Actionable
+- [Meta apps lose 5% of downloads as Reels takes half of Instagram ad slots - PPC Land](https://news.google.com/rss/articles/CBMikwFBVV95cUxQa0g4WDhoQjVuYUhGeERKZWg5OVJhSnFjaTFuRk02U1AxUm4tY0Q2d2J1ei1LMWFRMnlwMnFTLWtsc2ZUc3JUOUkzZ3NHV084MTBLd19va0R2NWJrc2xWNkRJYXJEMEpReVJEbnhiUGF3UHl3NF9DcjN5T24tYm1NZ01oRGRXLTUyYVNGVkVpRmNFWGc?oc=5) - This indicates a major shift in ad inventory towards Reels, which could impact your ad delivery and creative strategy on Instagram. **Action:** Audit your current creative mix and allocate a portion of your budget to test Reels-specific ad formats to ensure visibility.
+
 ## 2026-08-04
 ### Actionable
 - [Meta apps lose 5% of downloads as Reels takes half of Instagram ad slots - PPC Land](https://news.google.com/rss/articles/CBMikwFBVV95cUxQa0g4WDhoQjVuYUhGeERKZWg5OVJhSnFjaTFuRk02U1AxUm4tY0Q2d2J1ei1LMWFRMnlwMnFTLWtsc2ZUc3JUOUkzZ3NHV084MTBLd19va0R2NWJrc2xWNkRJYXJEMEpReVJEbnhiUGF3UHl3NF9DcjN5T24tYm1NZ01oRGRXLTUyYVNGVkVpRmNFWGc?oc=5) - This indicates a major shift in Instagram's ad inventory towards Reels, which could impact ad placement and performance for Aydins Jewelry's campaigns. **Action:** Review current Instagram ad placements and consider allocating more budget or creative focus to Reels formats to align with platform trends.

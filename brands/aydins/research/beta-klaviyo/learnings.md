@@ -1,6 +1,10 @@
 # beta-klaviyo Cumulative Learnings
 
 
+## 2026-08-05
+### Actionable
+- [Email Spam Rates Hit 45%: What Senders Are Getting Wrong](https://news.google.com/rss/articles/CBMilAFBVV95cUxNazNIYUZlMl9IaERuSEhTODNzSXozQjB2cVZReWZlX0U1RTEwcWRHblo2eFVCYURSZU11ZlJCakUzajgweE9wOG1wbTA1MFVwSFU0UHlFNFZyQmhYQ1k3dXNPVFg4Z3J3aVFaRG85b0ltOTRteGVHR2NnZkZuVW16T1lPbzY1aUNwVFo4SWlwbHhSbDlk?oc=5) - This article, published 2026-07-30, addresses high spam rates and likely covers current Gmail/Yahoo sender requirements, which are critical for Aydins' deliverability and revenue. Review the article to audit your sender authentication (SPF, DKIM, DMARC) and list hygiene practices immediately to avoid inbox placement issues.
+
 ## 2026-08-04
 ### Actionable
 - [BIMI: What does self-asserted mean?](https://www.spamresource.com/feeds/3696965358770625697/comments/default) - This clarifies a key technical detail for BIMI implementation, which is a tracked sender authentication topic for Gmail/Yahoo deliverability. Review your current BIMI setup (if any) against this new guidance to ensure your logo display is correctly configured.

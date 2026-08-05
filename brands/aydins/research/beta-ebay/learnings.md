@@ -1,6 +1,11 @@
 # beta-ebay Cumulative Learnings
 
 
+## 2026-08-05
+### Actionable
+- [eBay Moves MyFitment In-Platform, Cuts Off Amazon And Third-Party Tools](https://news.google.com/rss/articles/CBMieEFVX3lxTFBTdERfYndWWk5LVTJaM2FQLXNxbzVxSWYzRmZJZldHZGlhZ2w1RTlKc1BOd3BmWVRUNzRFaGIyb19zUm1qRDdUMEowUzBsakVaSEpFdGFfRm5pRUJzOGY5WWM5WThiYnVlUjBOTFNYc1hQMkVqWHpmdg) — This directly impacts listing tools for vehicle parts, which is off-topic for jewelry, but signals eBay aggressively integrating features and cutting off third-party tools, a trend that could affect future AI listing tools Aydins might use. **Action:** Monitor eBay's Seller Hub for any new integrated listing tools that could replace external software.
+- [Doba Expands Doba Pilot Into Order Fulfillment and eBay Listing](https://news.google.com/rss/articles/CBMiiAJBVV95cUxQQjhEbW5seTV5VkFJVDRtSlRjSTQwcGdHaE9GeDdVMEVtZnl2dEdxZHZwcEJtbkpCS0pDVmpIcGR6bDBEa0ppUHhSYkFhR3RUeE1RT1lrd1hXRDNSZlJPaVVqb2pRQlpBRkdaZm9UcG52YWRqTkRsSjR3Y0hnWXlFR0d4NGw0ZGV1LWNSYUU2b0xCWFBOczBhdXQwOGVWMDIxdDlVMHlCSDAxYVpNX296bmNVNWNJV2VUd1dzT1V4TDhpdVFiWl9yaVlKWFZRejR4Wnp0V1YtTjdyUnBwQmw1b0UtWUEwaU11NXdoTTlGbE5GVTZZNkZPOFp3ZnNDdjZReXVUM0lTbTc) — This news (Aug 3) about a dropshipping service expanding into eBay listing tools is a new development in the third-party tool ecosystem that Aydins could evaluate. **Action:** Assess if Doba's new listing tools could streamline Aydins' cross-platform listing process outside of their Vela/Shopify flow.
+
 ## 2026-08-04
 ### Actionable
 - [eBay Moves MyFitment In-Platform, Cuts Off Amazon And Third-Party Tools](https://news.google.com/rss/articles/CBMieEFVX3lxTFBTdERfYndWWk5LVTJaM2FQLXNxbzVxSWYzRmZJZldHZGlhZ2w1RTlKc1BOd3BmWVRUNzRFaGIyb19zUm1qRDdUMEowUzBsakVaSEpFdGFfRm5pRUJzOGY5WWM5WThiYnVlUjBOTFNYc1hQMkVqWHpmdg) — This directly impacts listing tools for categories like jewelry that may require fitment details, potentially forcing a change in workflow. Evaluate if your current listing process uses third-party fitment tools and prepare to adapt to eBay's native tool.

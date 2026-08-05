@@ -1,6 +1,13 @@
 # beta-design Cumulative Learnings
 
 
+## 2026-08-05
+### Actionable
+- [Gemini API Managed Agents: 3.6 Flash, hooks, and more](https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/) - This is a new, more capable agent framework from Google that could potentially replace or augment Aydins' current beta orchestrator for multi-channel ecommerce tasks. Recommended action: Test the new Managed Agents capabilities against the current Hetzner VPS setup for a specific channel (e.g., beta-shop) to evaluate performance and cost.
+- [Deploy local agents everywhere with LFM2.5-2.6B](https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b) - This is a new, efficient small language model (2.6B parameters) optimized for local agent deployment, which could reduce cloud inference costs for simpler agentic tasks. Recommended action: Benchmark LFM2.5-2.6B against DeepSeek v3.2 on OpenRouter for a specific, lightweight synthesis task to see if it offers a better price-performance ratio.
+- [AdAnt AI](https://www.producthunt.com/products/adant-ai) - This is a new AI tool specifically for marketing and ad creative, which directly targets a core Aydins workflow (beta-meta, beta-google) and could compress the creative process. Recommended action: Run a 7-day trial to compare AdAnt AI's output and workflow speed against the current image gen + CapCut process for creating a batch of social ad creatives.
+- [Crodo AI](https://www.producthunt.com/products/crodo-ai) - This appears to be a new AI tool for ecommerce (likely product imagery or editing), which could directly impact the product photo generation and editing pipeline. Recommended action: Investigate Crodo AI's features; if it's for product photo editing/generation, test it against the current Gemini 2.5 Flash Image (nano-banana) workflow for a subset of products.
+
 ## 2026-08-04
 ### Actionable
 - [Advancing the price-performance frontier with GPT-5.6](https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6) - This announces lower pricing for GPT-5.6, which could materially reduce costs for Aydins's agentic loops and synthesis tasks if it's available via OpenRouter. - Check OpenRouter for GPT-5.6 Luna/Terra availability and pricing to compare against current DeepSeek v3.2 costs.
