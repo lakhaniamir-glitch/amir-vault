@@ -1,6 +1,11 @@
 # beta-tiktok Cumulative Learnings
 
 
+## 2026-08-06
+### Actionable
+- [TikTok rolls out Dreamina Seedance 2.5 - Social Media Today](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOYmlqeklqQ2pNYVo1UWM0NnZpRjZEWUdmOHhTU2QybHNtTW9idmt4VDBTQ3dYMTNWY2FyYkJiV3V6RGxUbmM5N0U5UHZrZWlCazF3LWxENzN3NXNKWEdlT0lFZjNTVU9SVWt5SXBORlVhak0xdmNyRXUzM0xqYkVfQ2hxcjFNOVIwSnU4?oc=5) - This appears to be a new AI-powered creative tool or ad format (Dreamina Seedance 2.5) that could enhance video creation for ads and organic posts. **Action:** Investigate this new feature within the TikTok Ads Manager or Creative Center to see if it can improve the quality or efficiency of Aydins's video production.
+- [Gov. JB Pritzker signs law aimed at protecting kids from social media algorithms - Chicago Tribune](https://news.google.com/rss/articles/CBMie0FVX3lxTE1taFh0RHZZRzBjc2VkSlZiYnJWX1NDd2tCclRhWGxmZTZYRURTelkwZVl5eXZFNExlTUJxRVBQbnVxWkZJWDdEc0JILUFCSFNCZGNDZWJ6bHBIZjYyMVpEVTJTQzlPR2V1b0tySWlxb0t1OEFqSnBELWZhUQ?oc=5) - This new Illinois law (signed July 31, 2026) targeting algorithm transparency for minors could signal a regulatory trend that may impact TikTok's FYP operations and ad targeting in the US. **Action:** Monitor TikTok's official communications for any platform policy changes in response to this law and review Aydins's audience targeting to ensure compliance.
+
 ## 2026-08-05
 ### Critical
 - [TikTok Updates AI Ad Tools, Offers Smart Campaign Creation 10/09/2025 - MediaPost](https://news.google.com/rss/articles/CBMiwAJBVV95cUxNT3JzTVdPLXgyTzF6aFdlcFRQa1VyMXRhcHJTSVpJT0xYQ3lkdWhlYmtSWE01S1VvZmY0VVRwcDNfaERUYnV0Vmp3TUpZNTlrYTJoSXB0ZVVNTzd4dGowTl9qLWItVjdlX3QtelBhM2NtcjZjX2xYVmxyWUpqb3dEbk5PdDl2bDk2aGtTaDRsaUFraFFnZEk1M05XeVhjTlBWam5YRGZldW9vSFhFclYwTnlHaXpUSVJUOEFXbm80SmJUdi1HT3VVSTN4eEVEMVlpS3p5eG9YOVVnVm1MT2dWWHJ1ZWY5dFlHOFJIeXJpWVhFYmE5azRKQWUxb3NHRGFndmtValZBNG5ELVY1eWJBbjBrNUdqQ3ZRc013TFFrQ2t6T2hmczNVVVVJRGZuVGhoRHVkcWtsMjVGOUJvZDluVw?oc=5) - This article is from July 31, 2026, and discusses updates to TikTok's AI ad tools and Smart campaign creation, which directly impacts Aydins' Smart+ ad strategy and requires immediate review. **Action:** Review the updated Smart+ AI tools in the TikTok Ads Manager this week to optimize campaign creation and potentially reduce manual effort.

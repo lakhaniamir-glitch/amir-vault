@@ -1,6 +1,10 @@
 # beta-insta Cumulative Learnings
 
 
+## 2026-08-06
+### Actionable
+- [Instagram is finally letting you rearrange your profile grid. Here’s how to do it](https://news.google.com/rss/articles/CBMitwFBVV95cUxNX2FZcjgwSGhiVXFPVzg0eWhLUWNOelZGQ3l4ZmwxRlZ1ZFBtUHZlNEliVU9kQm13N2tXaEN5azlmbW9zOTc3S3hwZWM1Y1o2SzNrYU5RUFdkY1J3bkF5Y294b1N1QzVSOFJvMUF5TEFDVWdoWG5hME5pTm90TjI0bFFLUjdMbHFmWjFUTGVQa0U4VW1WZmpBaGU1RGh6Vkg5ME16RTVfYlNsRzJrMTJCMGNDN01PYm8?oc=5) - This new feature allows for strategic curation of your Instagram profile to highlight best-performing Reels and products, directly impacting first impressions and conversion. **Action:** Audit your current grid and plan a new layout that prioritizes top-selling jewelry collections and high-engagement Reels at the top.
+
 ## 2026-08-05
 ### Actionable
 - [Your tweets worked! Instagram is pausing its changes](https://news.google.com/rss/articles/CBMieEFVX3lxTE1janRiTkwzMmZNM3RuSTYtdld5X0h1S2M1azl4V1Yxbi1fbi11Mml2SUtPaElHYnRBMUxKczRRN3EyeXVqTHBnMTc0RlFmVWdKU09IUjV2ZFdNWXdmT2pSQVRMQW04enhrMWV0RGpVSzBVRktQcHdWOQ?oc=5) - This indicates Instagram is actively responding to user feedback and pausing a recent change, which could affect Aydins' automated posting pipeline and engagement. **Action:** Monitor official Instagram channels this week for clarification on what changes are paused and adjust your posting strategy if they relate to Reels, Shopping, or the algorithm.

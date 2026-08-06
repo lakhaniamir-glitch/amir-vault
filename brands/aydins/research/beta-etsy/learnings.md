@@ -1,6 +1,12 @@
 # beta-etsy Cumulative Learnings
 
 
+## 2026-08-06
+### Critical
+- [Etsy lays off 12% of workforce as part of restructuring plan - Reuters](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOYWh3SWlrVGlSZDBVdnBWajVZS3N1ejdBVVN6SlY2V3JIdVRQOVc2VGFtX1Y1MHNsblFON3pWVkhZbHU4WmtoQWZWNlZJQUZLMDlkMTEyNDBycEd1Y3BMMXRHUDNnSHZMNHdFY3FycS12R080bTZ5TEVfQmFzOE1ONzJ5WlpMS0trVFV6T3lpRFo2WVRiSUpOWW5hZDlZczgtdnhYeEVZRnBrQQ?oc=5) - This major corporate restructuring (Aug 5, 2026) could signal imminent changes to seller fees, ad systems, or support that directly impact Aydins' P&L and operational stability. **Action:** Monitor Etsy's Seller Handbook and official announcements closely this week for any fee or policy changes linked to this restructuring.
+### Actionable
+- [Not AI-driven: Etsy to lay off 12% of its workforce - hcamag.com](https://news.google.com/rss/articles/CBMitgFBVV95cUxOemljZnd0TUFYdlB1czZDc01UUXdmaFU4SW8wRkNOQlQ0NkMxQkhobS00b2xZWHBEbWs3OHVxa1JXNVBscjBBNldlZ25fbmlrbWRucXlkVjJic0pKV0tyeGh0RHp6cjUtX0QxdnZGOGZ2Qk9RVzl0RzVuZFlKLURjamJVX21McVBiYUpxYTFtVWFjWjhteVg3RGxVMTVGcnRVV3ZSTkZvSHNSbUstVkpTQW80T1JMdw?oc=5) - This follow-up article (Aug 6, 2026) clarifies the layoffs are not AI-driven, suggesting Etsy's core search and ad algorithms may remain stable for now, but support delays could affect Star Seller metrics. **Action:** Prepare for potential slower customer service response times and double-check all Star Seller criteria are automated or flawless to avoid rating drops.
+
 ## 2026-08-04
 ### Actionable
 - [AI Printables on Etsy: The $0.20 Mistake Everyone Makes - Ilmilog](https://news.google.com/rss/articles/CBMifkFVX3lxTFBLdU9UX0ttUHhaOWdtQTV6R2FYeVE0WlBKRlNYd3BjVU5Ga2p2eVREQ29zSGtXMW40Y0VaUkg3THlvUnY1d0dxZzBWQzVlUXdFOU5zZWh6Z1czX0xIMVpmdFZLYllPQ1Vpc1N5RHpBNXVlZkQwTXJlSTdjQ2ZnUQ?oc=5) — This article, published 2026-07-29, discusses a common pricing mistake in a high-volume category, which could signal algorithm changes or competitive pressures in Etsy search for low-cost items. Review your own listing pricing strategy for men's wedding bands to ensure you are not inadvertently being filtered out or losing visibility due to similar pricing pitfalls.

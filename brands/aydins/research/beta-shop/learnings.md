@@ -1,6 +1,10 @@
 # beta-shop Cumulative Learnings
 
 
+## 2026-08-06
+### Actionable
+- [Shopify Retail Roundup (July 2026 - v11.10 & 11.11)](https://news.google.com/rss/articles/CBMickFVX3lxTE9fTzZHb0drYk43Y1BRdElyQWlCdkEwSVVSQ0otLVhMLUFCeW9GNklIb2hrQnROd05BbXJDTF9DZ0ExVWg5RWVnWFllUHNJT3ZYWV9uRThDdG9FaHFfT25wTUdzdFNuU05sYnM5LUZKRkczZw?oc=5) - This is the official Shopify changelog for recent platform releases (v11.10 & 11.11), which may contain critical updates to the OS 2.0 theme system, APIs, or app extensions relevant to your v5 migration. - Review the release notes immediately to identify any breaking changes or new features that could impact your theme development or app integrations before finalizing your migration.
+
 ## 2026-08-05
 ### Actionable
 - [Arbitrum: Shopify Payments supports USDC checkout - 30 Jul 2026 - TradingView](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSldBN3p5eTdvTE5sWlhpT0tjUTkzREFyQzJYV3RxdEpuMnVRZWo3RGpDTHZ5RkRuTnFUMzJqVGY0WnQ1Vl82N0RCblo2M2xHZHN0WFVWZjUtZmVfYldBYkF1Vk0ybFBkdmNqMEF3dFJUMDdPV29Cd21KM00wdWZLZEg5cmczZDdEY2lYTzYtUWx5dmc0SWhSY3dzS2hkOFBxMHBGclFISWw3VFYxWVdvVWdUNDk2Q2ZiUUY1ZzhnUERnUQ?oc=5) - This indicates Shopify Payments now supports a new cryptocurrency payment method, which could affect checkout conversion and payment processing strategy. **Action:** Review the announcement details to assess if enabling USDC checkout aligns with your customer base and payment strategy.

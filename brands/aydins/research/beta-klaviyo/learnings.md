@@ -1,6 +1,11 @@
 # beta-klaviyo Cumulative Learnings
 
 
+## 2026-08-06
+### Actionable
+- [How to Protect Your Email Program During a Rebrand: A Practitioner’s Guide](https://www.litmus.com/blog/how-to-protect-your-email-program-during-a-rebrand-a-practitioners-guide) - This matters because a domain change could break your sender reputation and deliverability for critical flows like welcome and abandoned cart. Recommended action: Review your sending domain's SPF/DKIM/DMARC setup and plan a phased transition if a rebrand is ever considered.
+- [Klaviyo's new Social Marketing product connects social engagement directly to CRM profiles](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNRndFMmdOeHBTSVJCNUFJeVZWWW1rSzl3OFIxNHlXYUw1ZGFDVW5EenBhZ2o3TXZFZklTNExORkpRaGlFd2F0QTFKR2Jwenh4ZENxLUpHS2NZMHhxZUNyRlVTZkRDYXdKZjl5X2VXaHBpTmtIcGY1WU1rTFE4RHhDaEFHOVpUNlpHSl9uOFVGSWUwM2pvSDVxVkxhY0lnS0N5cXJ3VHE1d1NaT1FIanFKVmNBallqZlhkVVVNZHkzM3Q3ekdwOXlDX2x5c3ROR2tBeHkyUENiV2c0T2M?oc=5) - This matters because integrating social data could enrich customer profiles and create new segmentation opportunities for Aydins Jewelry's lifecycle campaigns. Recommended action: Explore the beta in your Klaviyo account to assess if social engagement data can improve audience targeting.
+
 ## 2026-08-05
 ### Actionable
 - [Email Spam Rates Hit 45%: What Senders Are Getting Wrong](https://news.google.com/rss/articles/CBMilAFBVV95cUxNazNIYUZlMl9IaERuSEhTODNzSXozQjB2cVZReWZlX0U1RTEwcWRHblo2eFVCYURSZU11ZlJCakUzajgweE9wOG1wbTA1MFVwSFU0UHlFNFZyQmhYQ1k3dXNPVFg4Z3J3aVFaRG85b0ltOTRteGVHR2NnZkZuVW16T1lPbzY1aUNwVFo4SWlwbHhSbDlk?oc=5) - This article, published 2026-07-30, addresses high spam rates and likely covers current Gmail/Yahoo sender requirements, which are critical for Aydins' deliverability and revenue. Review the article to audit your sender authentication (SPF, DKIM, DMARC) and list hygiene practices immediately to avoid inbox placement issues.

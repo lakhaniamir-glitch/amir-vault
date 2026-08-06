@@ -1,6 +1,11 @@
 # beta-meta Cumulative Learnings
 
 
+## 2026-08-06
+### Actionable
+- [Meta shares holiday 2026 tips for small businesses](https://news.google.com/rss/articles/CBMinAFBVV95cUxNdS0yTjV2S2hhMUdGbnB5ODhsLTI2T2pDcFUyOHJWR2pTVUVQNnh2MmZ0R3JGYjYzMnpRel9GMGQtcFRVTkw1bTFwSVNEbGFkSmRscVRmQXdmTHFZNHcxclU1RlFLNnVXVVgtSjhEazZHQTlaVmRNME9nWlpQSTlIeDVPa0p5dHFSYmZKa2Z3OHl5V0tBRFFUSm93WWs?oc=5) - This article provides timely, actionable advice for planning holiday ad campaigns, which is crucial for a jewelry business's peak season. Review the tips and begin planning your Q4 Meta ad strategy and creative assets for the holidays.
+- [Meta puts AI ahead of support tickets for developers by mid-September](https://news.google.com/rss/articles/CBMikAFBVV95cUxQZ2x4Y1hvM1pZeWxoUmJHMnNFTXktMUZFekNid1VHcFN2ajhPUlRna0R6blk2anFUYnlCaElIdGNhSFVhbHJvUm9LODJ1U3F6RzVjMVYzdGRhUWtIczQ5NVQ2RTlkZTlDWkw1emdoWW44dTBTRGk2VUpFMDFZemhrcHlpdW15THFpN21QNUNfOVA?oc=5) - This indicates a shift in Meta's support structure that could impact troubleshooting for Pixel or CAPI issues, which Aydins has recently flagged. Proactively document any current technical issues and prepare to rely more on AI support tools or community forums.
+
 ## 2026-08-05
 ### Actionable
 - [Meta apps lose 5% of downloads as Reels takes half of Instagram ad slots - PPC Land](https://news.google.com/rss/articles/CBMikwFBVV95cUxQa0g4WDhoQjVuYUhGeERKZWg5OVJhSnFjaTFuRk02U1AxUm4tY0Q2d2J1ei1LMWFRMnlwMnFTLWtsc2ZUc3JUOUkzZ3NHV084MTBLd19va0R2NWJrc2xWNkRJYXJEMEpReVJEbnhiUGF3UHl3NF9DcjN5T24tYm1NZ01oRGRXLTUyYVNGVkVpRmNFWGc?oc=5) - This indicates a major shift in ad inventory towards Reels, which could impact your ad delivery and creative strategy on Instagram. **Action:** Audit your current creative mix and allocate a portion of your budget to test Reels-specific ad formats to ensure visibility.

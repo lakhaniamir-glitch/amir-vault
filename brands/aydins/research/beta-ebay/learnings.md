@@ -1,6 +1,12 @@
 # beta-ebay Cumulative Learnings
 
 
+## 2026-08-06
+### Actionable
+- [EBay Rides Luxury, Collectibles and AI to 15% Growth in Q2](https://news.google.com/rss/articles/CBMimgFBVV95cUxNLXd6QTcyVVVkRDlEdWdnVDcxN0o2X25aV3hkY0tKX2VhSThjUXhERzhoVDFkZnB2STF5dWI4ZzV5NHYwWmNtZVlrZmNnM3FPVHh2WkpGTXR2bEsyazRWcGtoc0tNVENpRF9KSEFGN3Q4cmpERm90S2NFT1JhY3FLa1RLSjdka0gwdWJQd3dtSDlOT0NxMUlkZWpB?oc=5) - This article highlights eBay's strategic push into AI tools and luxury categories, directly impacting listing visibility and potential fee structures for sellers like Aydins Jewelry. Test eBay's latest AI listing tools to improve listing quality and potentially reduce time spent on manual optimizations.
+
+- [eBay Moves MyFitment In-Platform, Cuts Off Amazon And Third-Party Tools](https://news.google.com/rss/articles/CBMieEFVX3lxTFBTdERfYndWWk5LVTJaM2FQLXNxbzVxSWYzRmZJZldHZGlhZ2w1RTlKc1BOd3BmWVRUNzRFaGIyb19zUm1qRDdUMEowUzBsakVaSEpFdGFfRm5pRUJzOGY5WWM5WThiYnVlUjBOTFNYc1hQMkVqWHpmdg?oc=5) - eBay is consolidating key listing tools like MyFitment into its own platform, which may affect how Aydins manages listings and could signal a broader shift away from third-party integrations. Review your current listing workflow and prepare to adopt eBay's native tools to avoid potential disruptions.
+
 ## 2026-08-05
 ### Actionable
 - [eBay Moves MyFitment In-Platform, Cuts Off Amazon And Third-Party Tools](https://news.google.com/rss/articles/CBMieEFVX3lxTFBTdERfYndWWk5LVTJaM2FQLXNxbzVxSWYzRmZJZldHZGlhZ2w1RTlKc1BOd3BmWVRUNzRFaGIyb19zUm1qRDdUMEowUzBsakVaSEpFdGFfRm5pRUJzOGY5WWM5WThiYnVlUjBOTFNYc1hQMkVqWHpmdg) — This directly impacts listing tools for vehicle parts, which is off-topic for jewelry, but signals eBay aggressively integrating features and cutting off third-party tools, a trend that could affect future AI listing tools Aydins might use. **Action:** Monitor eBay's Seller Hub for any new integrated listing tools that could replace external software.
