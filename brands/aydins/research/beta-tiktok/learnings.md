@@ -1,6 +1,11 @@
 # beta-tiktok Cumulative Learnings
 
 
+## 2026-08-07
+### Actionable
+- [13 Trending Songs on TikTok in August 2026 (+ How to Use Them)](https://buffer.com/resources/trending-songs-tiktok/) - This list of current viral sounds is crucial for Aydins to ensure their automated content uses music that is commercially licensed and algorithm-friendly to avoid penalties and maximize reach. **Action:** Review the list and integrate trending, safe-for-commerce songs into the content pipeline's music selection for the next two weeks of reels.
+- [Top 10 Independent Creator Sales On TikTok Shop In July 2026](https://news.google.com/rss/articles/CBMilgFBVV95cUxOX2FvdVppeHNMSTEyQ2doU1pORng3cTdyVWxYU1NIQ0NVb1FYN3RSSXRmTVlEc3MxeTlCLUtXUllfRzJpaENKVUZBRERxQkxiY01QaElQR1dfT1VJZ25NWlEyY0psYm5mcEp4TFdESzJHc2xrazZ3cGphbHB3UHJHZmtOSzVYdVExazlnZ0k4aEhTaXREWFE?oc=5) - Analyzing top-performing TikTok Shop creators provides direct insight into successful product presentation and sales tactics that Aydins can emulate. **Action:** Study the featured creators' content and shop strategies to identify actionable optimizations for Aydins' own TikTok Shop listings and promotional videos.
+
 ## 2026-08-06
 ### Actionable
 - [TikTok rolls out Dreamina Seedance 2.5 - Social Media Today](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOYmlqeklqQ2pNYVo1UWM0NnZpRjZEWUdmOHhTU2QybHNtTW9idmt4VDBTQ3dYMTNWY2FyYkJiV3V6RGxUbmM5N0U5UHZrZWlCazF3LWxENzN3NXNKWEdlT0lFZjNTVU9SVWt5SXBORlVhak0xdmNyRXUzM0xqYkVfQ2hxcjFNOVIwSnU4?oc=5) - This appears to be a new AI-powered creative tool or ad format (Dreamina Seedance 2.5) that could enhance video creation for ads and organic posts. **Action:** Investigate this new feature within the TikTok Ads Manager or Creative Center to see if it can improve the quality or efficiency of Aydins's video production.

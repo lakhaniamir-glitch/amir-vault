@@ -1,6 +1,14 @@
 # beta-meta Cumulative Learnings
 
 
+## 2026-08-07
+### Critical
+- [Meta puts AI ahead of support tickets for developers by mid-September - PPC Land](https://news.google.com/rss/articles/CBMikAFBVV95cUxQZ2x4Y1hvM1pZeWxoUmJHMnNFTXktMUZFekNid1VHcFN2ajhPUlRna0R6blk2anFUYnlCaElIdGNhSFVhbHJvUm9LODJ1U3F6RzVjMVYzdGRhUWtIczQ5NVQ2RTlkZTlDWkw1emdoWW44dTBTRGk2VUpFMDFZemhrcHlpdW15THFpN21QNUNfOTA?oc=5) - This indicates a major shift in Meta's support structure that could delay troubleshooting for Pixel or CAPI issues, directly impacting Aydins' ability to resolve their low event match rate. **Action:** Immediately document any current technical issues and prepare a detailed escalation path before the mid-September change.
+### Actionable
+- [Meta shares holiday 2026 tips for small businesses - Social Media Today](https://news.google.com/rss/articles/CBMinAFBVV95cUxNdS0yTjV2S2hhMUdGbnB5ODhsLTI2T2pDcFUyOHJWR2pTVUVQNnh2MmZ0R3JGYjYzMnpRel9GMGQtcFRVTkw1bTFwSVNEbGFkSmRscVRmQXdmTHFZNHcxclU1RlFLNnVXVVgtSjhEazZHQTlaVmRNME9nWlpQSTlIeDVPa0p5dHFSYmZKa2Z3OHl5V0tBRFFUSm93WWs?oc=5) - This provides timely, tactical advice for optimizing Meta ad campaigns for the upcoming holiday season, which is crucial for a jewelry retailer. **Action:** Review these tips and plan to incorporate relevant creative and targeting strategies into Q4 campaign planning within the next 2-4 weeks.
+- [Social media image sizes for all networks [August 2026]](https://blog.hootsuite.com/social-media-image-sizes-guide/) - Using outdated ad creative dimensions can hurt delivery and performance on Meta's platforms. **Action:** Audit current ad creatives and templates against this updated guide to ensure all new assets are optimized for 2026 specs.
+- [17 Best AI Tools for Social Media Content Creation (Tested for 2026)](https://buffer.com/resources/ai-social-media-content-creation/) - Creating fresh, high-performing ad creative is a constant challenge; these tools can help Aydins produce more variety efficiently. **Action:** Test one or two of the recommended AI image or copy tools to augment creative production for Meta ads.
+
 ## 2026-08-06
 ### Actionable
 - [Meta shares holiday 2026 tips for small businesses](https://news.google.com/rss/articles/CBMinAFBVV95cUxNdS0yTjV2S2hhMUdGbnB5ODhsLTI2T2pDcFUyOHJWR2pTVUVQNnh2MmZ0R3JGYjYzMnpRel9GMGQtcFRVTkw1bTFwSVNEbGFkSmRscVRmQXdmTHFZNHcxclU1RlFLNnVXVVgtSjhEazZHQTlaVmRNME9nWlpQSTlIeDVPa0p5dHFSYmZKa2Z3OHl5V0tBRFFUSm93WWs?oc=5) - This article provides timely, actionable advice for planning holiday ad campaigns, which is crucial for a jewelry business's peak season. Review the tips and begin planning your Q4 Meta ad strategy and creative assets for the holidays.

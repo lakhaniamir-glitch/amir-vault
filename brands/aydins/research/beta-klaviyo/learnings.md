@@ -1,6 +1,12 @@
 # beta-klaviyo Cumulative Learnings
 
 
+## 2026-08-07
+### Actionable
+- [How to Protect Your Email Program During a Rebrand: A Practitioner’s Guide](https://www.litmus.com/blog/how-to-protect-your-email-program-during-a-rebrand-a-practitioners-guide) - This matters because Aydins Jewelry's email deliverability and sender reputation depend on proper domain authentication (DMARC/SPF/DKIM) during any brand changes. Recommended action: Review and document your current sending domain setup and create a rebrand email transition checklist.
+- [BIMI: What does self-asserted mean?](https://www.spamresource.com/feeds/3696965358770625697/comments/default) - This matters because BIMI can improve brand trust and inbox placement, and understanding self-asserted certificates is key for implementation. Recommended action: Evaluate the feasibility and cost of obtaining a Verified Mark Certificate (VMC) for your logo to enable BIMI.
+- [Troubleshooting 554 5.7.5 DMARC-related SMTP rejections](https://www.spamresource.com/feeds/5763336552103921826/comments/default) - This matters because DMARC rejections directly block revenue-generating emails from reaching Gmail/Yahoo inboxes. Recommended action: Use a DMARC monitoring tool to check your domain's alignment and fix any SPF/DKIM misconfigurations.
+
 ## 2026-08-06
 ### Actionable
 - [How to Protect Your Email Program During a Rebrand: A Practitioner’s Guide](https://www.litmus.com/blog/how-to-protect-your-email-program-during-a-rebrand-a-practitioners-guide) - This matters because a domain change could break your sender reputation and deliverability for critical flows like welcome and abandoned cart. Recommended action: Review your sending domain's SPF/DKIM/DMARC setup and plan a phased transition if a rebrand is ever considered.

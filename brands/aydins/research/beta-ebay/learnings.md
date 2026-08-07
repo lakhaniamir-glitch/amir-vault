@@ -1,6 +1,11 @@
 # beta-ebay Cumulative Learnings
 
 
+## 2026-08-07
+### Actionable
+- [eBay CEO Jamie Iannone’s new playbook embraces AI tools while blocking AI buyers - Fortune](https://news.google.com/rss/articles/CBMinwFBVV95cUxPdHhGS1ljNS16RmNHVjVubjZfOWpJREc0bVdldjVIWGtzQ1UwR0J4TXk3UF9vU3pfbVYtSlpJM2RCcll0OTFDTEt4ZWYzbDBCbHZmNzBUSW40THBIMXdScnhkQlpjUUk0MHJqNDJ3SDNObFc1QXk2blpDYW5BeFZEbHNxMGRHdS13QWh3WmU3S3pLdm9wanBrMDkyWVFIeUU?oc=5) - This article directly addresses eBay's strategic shift towards AI listing tools, which could impact listing efficiency and visibility for Aydins Jewelry. **Recommended action:** Review the new AI tool features in the Seller Hub this week to assess if they can streamline listing creation for your wedding bands.
+- [eBay Moves MyFitment In-Platform, Cuts Off Amazon And Third-Party Tools - Value Added Resource](https://news.google.com/rss/articles/CBMieEFVX3lxTFBTdERfYndWWk5LVTJaM2FQLXNxbzVxSWYzRmZJZldHZGlhZ2w1RTlKc1BOd3BmWVRUNzRFaGIyb19zUm1qRDdUMEowUzBsakVaSEpFdGFfRm5pRUJzOGY5WWM5WThiYnVlUjBOTFNYc1hQMkVqWHpmdg?oc=5) - This signals a platform lock-in for vehicle part listings, but indicates eBay is actively consolidating tools on-platform, which could foreshadow changes for other categories like jewelry. **Recommended action:** Monitor eBay announcements over the next 2-4 weeks for any new integrated listing tools that could replace your current external processes.
+
 ## 2026-08-06
 ### Actionable
 - [EBay Rides Luxury, Collectibles and AI to 15% Growth in Q2](https://news.google.com/rss/articles/CBMimgFBVV95cUxNLXd6QTcyVVVkRDlEdWdnVDcxN0o2X25aV3hkY0tKX2VhSThjUXhERzhoVDFkZnB2STF5dWI4ZzV5NHYwWmNtZVlrZmNnM3FPVHh2WkpGTXR2bEsyazRWcGtoc0tNVENpRF9KSEFGN3Q4cmpERm90S2NFT1JhY3FLa1RLSjdka0gwdWJQd3dtSDlOT0NxMUlkZWpB?oc=5) - This article highlights eBay's strategic push into AI tools and luxury categories, directly impacting listing visibility and potential fee structures for sellers like Aydins Jewelry. Test eBay's latest AI listing tools to improve listing quality and potentially reduce time spent on manual optimizations.

@@ -1,6 +1,10 @@
 # beta-shop Cumulative Learnings
 
 
+## 2026-08-07
+### Actionable
+- [How Enterprise Teams are Using Sidekick to Drive Real Value Right Now](https://news.google.com/rss/articles/CBMic0FVX3lxTFBsY1RhZHFqc01MSnBOVmppZVJxYWtTYjNvY0RsZGducV9vRU0xSUZ5X1NOY180bHZ5dmFrUWpQNkN2SmtnbjdRbnBzQTBDVlhEcWVfS1dzLTZ0V2lGZzV2dVNDVENia1RLQ2FSRzlYYkJwVk0) - This details practical, current applications of Shopify's Sidekick AI, which is directly relevant to the store's interest in Shopify native AI features. **Action:** Review the use cases to evaluate if Sidekick can be implemented to improve store operations or customer support during the theme migration.
+
 ## 2026-08-06
 ### Actionable
 - [Shopify Retail Roundup (July 2026 - v11.10 & 11.11)](https://news.google.com/rss/articles/CBMickFVX3lxTE9fTzZHb0drYk43Y1BRdElyQWlCdkEwSVVSQ0otLVhMLUFCeW9GNklIb2hrQnROd05BbXJDTF9DZ0ExVWg5RWVnWFllUHNJT3ZYWV9uRThDdG9FaHFfT25wTUdzdFNuU05sYnM5LUZKRkczZw?oc=5) - This is the official Shopify changelog for recent platform releases (v11.10 & 11.11), which may contain critical updates to the OS 2.0 theme system, APIs, or app extensions relevant to your v5 migration. - Review the release notes immediately to identify any breaking changes or new features that could impact your theme development or app integrations before finalizing your migration.

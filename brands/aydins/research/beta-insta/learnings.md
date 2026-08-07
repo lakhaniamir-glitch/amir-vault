@@ -1,6 +1,10 @@
 # beta-insta Cumulative Learnings
 
 
+## 2026-08-07
+### Actionable
+- [Instagram is finally letting you rearrange your profile grid. Here’s how to do it](https://news.google.com/rss/articles/CBMitwFBVV95cUxNX2FZcjgwSGhiVXFPVzg0eWhLUWNOelZGQ3l4ZmwxRlZ1ZFBtUHZlNEliVU9kQm13N2tXaEN5azlmbW9zOTc3S3hwZWM1Y1o2SzNrYU5RUFdkY1J3bkF5Y294b1N1QzVSOFJvMUF5TEFDVWdoWG5hME5pTm90TjI0bFFLUjdMbHFmWjFUTGVQa0U4VW1WZmpBaGU1RGh6Vkg5ME16RTVfYlNsRzJrMTJCMGNDN01PYm8?oc=5) - This new feature allows for better curation of your Instagram profile to highlight best-selling or seasonal jewelry collections, directly impacting first impressions and click-through rates. **Action:** This week, reorganize your profile grid to feature top-performing Reels and product highlights at the top, ensuring a cohesive visual story for wedding band shoppers.
+
 ## 2026-08-06
 ### Actionable
 - [Instagram is finally letting you rearrange your profile grid. Here’s how to do it](https://news.google.com/rss/articles/CBMitwFBVV95cUxNX2FZcjgwSGhiVXFPVzg0eWhLUWNOelZGQ3l4ZmwxRlZ1ZFBtUHZlNEliVU9kQm13N2tXaEN5azlmbW9zOTc3S3hwZWM1Y1o2SzNrYU5RUFdkY1J3bkF5Y294b1N1QzVSOFJvMUF5TEFDVWdoWG5hME5pTm90TjI0bFFLUjdMbHFmWjFUTGVQa0U4VW1WZmpBaGU1RGh6Vkg5ME16RTVfYlNsRzJrMTJCMGNDN01PYm8?oc=5) - This new feature allows for strategic curation of your Instagram profile to highlight best-performing Reels and products, directly impacting first impressions and conversion. **Action:** Audit your current grid and plan a new layout that prioritizes top-selling jewelry collections and high-engagement Reels at the top.
