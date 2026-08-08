@@ -1,6 +1,13 @@
 # beta-tiktok Cumulative Learnings
 
 
+## 2026-08-08
+### Critical
+- [TikTok Lays Off 250 Employees in Office That Includes Content Moderation - The New York Times](https://news.google.com/rss/articles/CBMigAFBVV95cUxPRVhBemtrRGppVG5qcWg4aWlIcjV3dm0zT1k2cjNWcWJZWFE0ck9tYWtZOFZxNGxnNVB1TTZac04yRDJpU0xld0J5RXlEVnZ1VlQ0M2xFMldIVFRVbE10akp5cWJxeHF4Z2MyUDRPS051OG5xcGdLUmlKM01CbUVEcw?oc=5) - This could signal a shift in platform priorities or moderation capacity, potentially impacting content visibility and enforcement speed for all creators. Monitor for any changes in community guideline enforcement or support response times that could affect your automated posting pipeline.
+### Actionable
+- [13 Trending Songs on TikTok in August 2026 (+ How to Use Them)](https://buffer.com/resources/trending-songs-tiktok/) - Using trending, commercially licensed music is crucial for maximizing organic reach and avoiding takedowns on TikTok. Integrate these specific August 2026 trending sounds into your daily reel creation pipeline this month to boost FYP potential.
+- [TikTok Rolls Out Its New Seedance AI Video Model - ALM Corp](https://news.google.com/rss/articles/CBMigwFBVV95cUxQVThWOVlFOEtJYUhaQ0ZuZnY4QmN2R0V3Uy1rRGVUQnVZZXpJdDdaZ20zWFVKN000TkplWFhwVnZGMmVja1kwWlh2cl9aT1dDZk5oX0dXQUdZMmlCdGNpRUxtR054dVQxaV82MHppOVkwLWQ1cU8xV0xjeDQzdGJuSFFGUQ?oc=5) - This new AI video model could represent a shift in TikTok's native content creation tools, which may influence what the algorithm prioritizes for visibility. Experiment with creating a few pieces of content using this new tool to test if it receives a boost in distribution compared to your standard reels.
+
 ## 2026-08-07
 ### Actionable
 - [13 Trending Songs on TikTok in August 2026 (+ How to Use Them)](https://buffer.com/resources/trending-songs-tiktok/) - This list of current viral sounds is crucial for Aydins to ensure their automated content uses music that is commercially licensed and algorithm-friendly to avoid penalties and maximize reach. **Action:** Review the list and integrate trending, safe-for-commerce songs into the content pipeline's music selection for the next two weeks of reels.

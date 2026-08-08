@@ -1,6 +1,10 @@
 # beta-etsy Cumulative Learnings
 
 
+## 2026-08-08
+### Actionable
+- [Asendia SendNow shipping platform for Etsy sellers in eight markets - channelx.world](https://news.google.com/rss/articles/CBMioAFBVV95cUxNdUlsVy1kSThWV0x0dkpjWU5UYmJGWmZuSTZHRmp3MU5ub0ZoTXA5WlMwX19kUW5tRXJLN01rOHp3ZTJnazVzd290Wlh4OUppZmk0ZDktc2hsUzNDY3cwVVU5NFl6LUM1Qi1ILTBqWVc3Z0kyc1ZDVS1vd2ZLMElhSzFZMERhODZIVzZuWkpJcTdOaXBOZHNUc1M4S1pJZGlq?oc=5) - This matters for Aydins as a new shipping integration could lower costs or improve reliability for international orders, directly impacting the free shipping guarantee and margins. - Recommended action: Evaluate the SendNow platform's rates and integration with Vela CSV to see if it can replace current shipping methods for key markets.
+
 ## 2026-08-07
 ### Actionable
 - [Asendia SendNow shipping platform for Etsy sellers in eight markets - channelx.world](https://news.google.com/rss/articles/CBMioAFBVV95cUxNdUlsVy1kSThWV0x0dkpjWU5UYmJGWmZuSTZHRmp3MU5ub0ZoTXA5WlMwX19kUW5tRXJLN01rOHp3ZTJnazVzd290Wlh4OUppZmk0ZDktc2hsUzNDY3cwVVU5NFl6LUM1Qi1ILTBqWVc3Z0kyc1ZDVS1vd2ZLMElhSzFZMERhODZIVzZuWkpJcTdOaXBOZHNUc1M4S1pJZGlq?oc=5) - This matters for Aydins as a new, potentially cheaper or more efficient shipping integration could reduce costs and improve fulfillment reliability, directly impacting margins and Star Seller shipping metrics. Recommended action: Evaluate the SendNow platform's rates and integration with Vela CSV/current workflow within the next two weeks to see if a switch could lower shipping expenses.

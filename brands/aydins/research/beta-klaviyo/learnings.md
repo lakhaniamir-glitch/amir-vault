@@ -1,6 +1,12 @@
 # beta-klaviyo Cumulative Learnings
 
 
+## 2026-08-08
+### Actionable
+- [How to Protect Your Email Program During a Rebrand: A Practitioner’s Guide](https://www.litmus.com/blog/how-to-protect-your-email-program-during-a-rebrand-a-practitioners-guide) - This matters because Aydins Jewelry's sending domain health is critical for deliverability to Gmail/Yahoo and maintaining the 15% revenue target. Recommended action: Review and document your current sending domain's SPF, DKIM, and DMARC records to ensure they are robust and ready for any future branding changes.
+
+- [BIMI: What does self-asserted mean?](https://www.spamresource.com/feeds/3696965358770625697/comments/default) - This matters because implementing BIMI can improve brand trust and inbox placement with Gmail/Yahoo, directly impacting open rates and revenue. Recommended action: Investigate the requirements for a "self-asserted" BIMI record to understand if it's a viable, immediate step for your brand's logo display in inboxes.
+
 ## 2026-08-07
 ### Actionable
 - [How to Protect Your Email Program During a Rebrand: A Practitioner’s Guide](https://www.litmus.com/blog/how-to-protect-your-email-program-during-a-rebrand-a-practitioners-guide) - This matters because Aydins Jewelry's email deliverability and sender reputation depend on proper domain authentication (DMARC/SPF/DKIM) during any brand changes. Recommended action: Review and document your current sending domain setup and create a rebrand email transition checklist.

@@ -1,6 +1,10 @@
 # beta-shop Cumulative Learnings
 
 
+## 2026-08-08
+### Actionable
+- [How Enterprise Teams are Using Sidekick to Drive Real Value Right Now](https://news.google.com/rss/articles/CBMic0FVX3lxTFBsY1RhZHFqc01MSnBOVmppZVJxYWtTYjNvY0RsZGducV9vRU0xSUZ5X1NOY180bHZ5dmFrUWpQNkN2SmtnbjdRbnBzQTBDVlhEcWVfS1dzLTZ0V2lGZzV2dVNDVENia1RLQ2FSRzlYYkJwVk0?oc=5) - This details practical, current applications of Shopify's Sidekick AI, which could directly impact operational efficiency and customer service for Aydins Jewelry. - Review the article for specific use cases and assess if Sidekick can be integrated into your current workflow to support the v5 migration or daily operations.
+
 ## 2026-08-07
 ### Actionable
 - [How Enterprise Teams are Using Sidekick to Drive Real Value Right Now](https://news.google.com/rss/articles/CBMic0FVX3lxTFBsY1RhZHFqc01MSnBOVmppZVJxYWtTYjNvY0RsZGducV9vRU0xSUZ5X1NOY180bHZ5dmFrUWpQNkN2SmtnbjdRbnBzQTBDVlhEcWVfS1dzLTZ0V2lGZzV2dVNDVENia1RLQ2FSRzlYYkJwVk0) - This details practical, current applications of Shopify's Sidekick AI, which is directly relevant to the store's interest in Shopify native AI features. **Action:** Review the use cases to evaluate if Sidekick can be implemented to improve store operations or customer support during the theme migration.
